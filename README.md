@@ -24,6 +24,9 @@ To get started with this script, follow these steps:
    ```bash
    git clone https://github.com/amirh0ss3in/divar.git
    ```
+   
+## Usage
+
 2. Here is an example of how to use the script:
 
   ```python
