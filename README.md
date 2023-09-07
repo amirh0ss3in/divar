@@ -16,7 +16,7 @@ To get started with this script, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/divar-scraper.git
+   git clone https://github.com/amirh0ss3in/divar.git
    ```
 2. Here is an example of how to use the script:
 
