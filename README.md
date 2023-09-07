@@ -5,9 +5,15 @@ This Python script allows you to scrape data from the Divar website, specificall
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
+
+## Important Note
+The whole point of this scraping is to get to the tokens. When obtaining the tokens, we can access the webpage of that specific ad and then extract whatever we want. any link in divar can be accessed by its token like this:
+
+      https://divar.ir/v/-/TOKEN
+      
+Example:
+
+      https://divar.ir/v/-/AZ4LldV9
 
 ## Getting Started
 
