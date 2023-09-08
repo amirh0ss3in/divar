@@ -4,6 +4,29 @@ from requests.exceptions import RequestException
 from urllib3.exceptions import MaxRetryError
 from time import sleep
 import datetime
+import json
+import os
+  
+
+def fetch_json_data(token):
+    url = f'https://api.divar.ir/v8/posts/{token}'
+
+    response = requests.get(url)
+
+    if response.status_code == 200:
+        j = response.json()
+        return j
+    else:
+        print(f"Failed to fetch data. Status code: {response.status_code}")
+        return None
+    
+def save_json(j, category, city_code, token):
+    json_path = f"Results/ category_{category}__city_{city_code}"
+    if not os.path.exists(json_path):    
+        os.makedirs(json_path)
+    with open(f'{json_path}/{token}.json', 'w', encoding='utf-8') as f:
+        json.dump(j, f, ensure_ascii=False, indent=4)
+        print(f"saved: {token}", end="\r")
 
 def retrieve_page(url, json_payload, headers, MAX_RETRY_ATTEMPTS):
     for _ in range(MAX_RETRY_ATTEMPTS):
@@ -29,7 +52,6 @@ def scrape(city_code, category, date_time_str, MAX_PAGES, MAX_RETRY_ATTEMPTS):
     }
     url = f"https://api.divar.ir/v8/search/{city_code}/{category}"
 
-    scraped_data = []
     page_count = 1
 
     try:
@@ -53,20 +75,10 @@ def scrape(city_code, category, date_time_str, MAX_PAGES, MAX_RETRY_ATTEMPTS):
             post_list = data["web_widgets"]["post_list"]
 
             for post in post_list:
-                if "data" in post and "action" in post["data"] and "payload" in post["data"]["action"]:
-                    if "token" in post["data"]["action"]["payload"] and "title" in post["data"] and "top_description_text" in post["data"] and "middle_description_text" in post["data"] and "bottom_description_text" in post["data"] and "web_info" in post["data"]["action"]["payload"]:
-        
-                        token = post["data"]["action"]["payload"]["token"]
-                        title = post["data"]["title"]
-                        middle_description = post["data"]["middle_description_text"]
-                        bottom_description = post["data"]["bottom_description_text"]
-                        top_description = post['data']['top_description_text']
-
-                        district = post["data"]["action"]["payload"]["web_info"]["district_persian"]
-                        city = post["data"]["action"]["payload"]["web_info"]["city_persian"]
-                        category_slug = post["data"]["action"]["payload"]["web_info"]["category_slug_persian"]
-
-                        scraped_data.append([token, title, top_description, middle_description, bottom_description, district, city, category_slug, last_post_date])
+                if "token" in post["data"]["action"]["payload"]:
+                    token = post["data"]["action"]["payload"]["token"]
+                    j = fetch_json_data(token)
+                    save_json(j, category, city_code, token)
 
             last_post_date = data["last_post_date"]
             print(page_count, end="\r")
@@ -79,20 +91,15 @@ def scrape(city_code, category, date_time_str, MAX_PAGES, MAX_RETRY_ATTEMPTS):
     except Exception as e:
         print(f"An unexpected error occurred: {str(e)}")
 
-    excel_filename = f"category_{category}__city_{city_code}.xlsx"
-    df = pd.DataFrame(scraped_data, columns=["Token", "Title", "Top Description", "Middle Description", "Bottom Description", "District", "City", "Category Slug", "Last Post Date"])
-    df.to_excel("Results/"+excel_filename, index=False)
-    print(f"Data has been saved to {excel_filename}")
 
+# categories = {"real-estate":{"buy": ["apartment-sell", "house-villa-sell", "plot-old"],
+#                             "rent": ["apartment-rent", "house-villa-rent"]}
+#                 }
 
-
-categories = {"real-estate":{"buy": ["apartment-sell", "house-villa-sell", "plot-old"],
-                            "rent": ["apartment-rent", "house-villa-rent"]}
-                }
-
-scrape( city_code = 1,
-        category = "apartment-rent",
-        date_time_str = "2023-09-06 21:00:00",
+scrape( city_code = 5,
+        category = "plot-old",
+        date_time_str = "2023-09-08 00:00:00",
         MAX_PAGES = 2000,
         MAX_RETRY_ATTEMPTS = 5
     )
+
