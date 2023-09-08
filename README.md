@@ -43,4 +43,4 @@ To get started with this script, follow these steps:
 - MAX_PAGES: The maximum number of pages to scrape.
 - MAX_RETRY_ATTEMPTS: The maximum number of retry attempts if an error occurs during scraping.
 
-The scraped data will be saved in an Excel file in the "Results" folder with a filename that includes the category and city code.
+The scraped data will be saved in json files in the "Results" folder.
