@@ -92,7 +92,7 @@ def scrape(city_code, category, date_time_str, MAX_PAGES, MAX_RETRY_ATTEMPTS):
 
             post_list = data["web_widgets"]["post_list"]
             
-            # Use ThreadPoolExecutor for parallel scraping at the post level
+            # TODO Use ThreadPoolExecutor for parallel scraping at the post level
             with concurrent.futures.ThreadPoolExecutor() as executor:
                 futures = []
 
@@ -103,7 +103,7 @@ def scrape(city_code, category, date_time_str, MAX_PAGES, MAX_RETRY_ATTEMPTS):
                             futures.append(executor.submit(fetch_and_save_post, token, category, city_code))
 
                 for future in concurrent.futures.as_completed(futures):
-                    pass  # You can add any post-level processing here if needed
+                    pass  # TODO I can add any post-level processing here if needed
 
             last_post_date = data["last_post_date"]
             logging.info(f"Page {page_count} scraped")
