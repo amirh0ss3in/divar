@@ -6,6 +6,7 @@ import datetime
 import json
 import os
 import logging
+import concurrent.futures
 
 BASE_URL = "https://api.divar.ir/v8"
 RESULTS_DIR = "Results"
@@ -25,6 +26,11 @@ def fetch_json_data(token):
         logging.error(f"Failed to decode JSON for token {token}: {str(e)}")
     return None
 
+def fetch_and_save_post(token, category, city_code):
+    j = fetch_json_data(token)
+    if j:
+        save_json(j, category, city_code, token)
+        
 def save_json(j, category, city_code, token):
     json_path = f"{RESULTS_DIR}/category_{category}__city_{city_code}"
     if not os.path.exists(json_path):
@@ -37,13 +43,19 @@ def save_json(j, category, city_code, token):
 def retrieve_page(url, json_payload, headers, MAX_RETRY_ATTEMPTS):
     for _ in range(MAX_RETRY_ATTEMPTS):
         try:
+            start_time = datetime.datetime.now()
             res = requests.post(url, json=json_payload, headers=headers)
             res.raise_for_status()
-            sleep(0.6)
+            response_time = (datetime.datetime.now() - start_time).total_seconds()
+            
+            # Adjust sleep time dynamically based on response time
+            sleep_time = max(0.6, 2 - response_time)
+            sleep(sleep_time)
+            
             return res.json()
         except (RequestException, MaxRetryError, ConnectionError, HTTPError) as e:
             logging.error(f"An error occurred: {str(e)}")
-            sleep(30)
+            sleep(2)
     return None
 
 def date_to_unix(DTS): 
@@ -61,7 +73,7 @@ def scrape(city_code, category, date_time_str, MAX_PAGES, MAX_RETRY_ATTEMPTS):
     page_count = 1
 
     try:
-        while True:
+        while page_count <= MAX_PAGES:
             json_payload = {
                 "json_schema": {
                     "category": {"value": category}
@@ -79,19 +91,22 @@ def scrape(city_code, category, date_time_str, MAX_PAGES, MAX_RETRY_ATTEMPTS):
                 break
 
             post_list = data["web_widgets"]["post_list"]
+            
+            # Use ThreadPoolExecutor for parallel scraping at the post level
+            with concurrent.futures.ThreadPoolExecutor() as executor:
+                futures = []
 
-            for post in post_list:
-                if "action" in post["data"]:
-                    if "token" in post["data"]["action"]["payload"]:
-                        token = post["data"]["action"]["payload"]["token"]
-                        j = fetch_json_data(token)
-                        if j:
-                            save_json(j, category, city_code, token)
+                for post in post_list:
+                    if "action" in post["data"]:
+                        if "token" in post["data"]["action"]["payload"]:
+                            token = post["data"]["action"]["payload"]["token"]
+                            futures.append(executor.submit(fetch_and_save_post, token, category, city_code))
+
+                for future in concurrent.futures.as_completed(futures):
+                    pass  # You can add any post-level processing here if needed
 
             last_post_date = data["last_post_date"]
             logging.info(f"Page {page_count} scraped")
-            if page_count == MAX_PAGES:
-                break
             page_count += 1
 
     except KeyboardInterrupt:
