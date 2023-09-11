@@ -1,42 +1,48 @@
 import requests
-import pandas as pd
-from requests.exceptions import RequestException
+from requests.exceptions import RequestException, ConnectionError, HTTPError
 from urllib3.exceptions import MaxRetryError
 from time import sleep
 import datetime
 import json
 import os
-  
+import logging
+
+BASE_URL = "https://api.divar.ir/v8"
+RESULTS_DIR = "Results"
+
+# Configure logging
+logging.basicConfig(filename="scrape_log.log", level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 def fetch_json_data(token):
-    url = f'https://api.divar.ir/v8/posts/{token}'
+    url = f'{BASE_URL}/posts/{token}'
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+        return response.json()
+    except RequestException as e:
+        logging.error(f"Failed to fetch data for token {token}: {str(e)}")
+    except json.JSONDecodeError as e:
+        logging.error(f"Failed to decode JSON for token {token}: {str(e)}")
+    return None
 
-    response = requests.get(url)
-
-    if response.status_code == 200:
-        j = response.json()
-        return j
-    else:
-        print(f"Failed to fetch data. Status code: {response.status_code}")
-        return None
-    
 def save_json(j, category, city_code, token):
-    json_path = f"Results/ category_{category}__city_{city_code}"
-    if not os.path.exists(json_path):    
+    json_path = f"{RESULTS_DIR}/category_{category}__city_{city_code}"
+    if not os.path.exists(json_path):
         os.makedirs(json_path)
     with open(f'{json_path}/{token}.json', 'w', encoding='utf-8') as f:
         json.dump(j, f, ensure_ascii=False, indent=4)
-        print(f"saved: {token}", end="\r")
+        logging.info(f"Saved: {token}")
+        print(f"saved {token}", end="\r")
 
 def retrieve_page(url, json_payload, headers, MAX_RETRY_ATTEMPTS):
     for _ in range(MAX_RETRY_ATTEMPTS):
         try:
             res = requests.post(url, json=json_payload, headers=headers)
-            sleep(0.6)
             res.raise_for_status()
+            sleep(0.6)
             return res.json()
-        except (RequestException, MaxRetryError) as e:
-            print(f"An error occurred: {str(e)}")
+        except (RequestException, MaxRetryError, ConnectionError, HTTPError) as e:
+            logging.error(f"An error occurred: {str(e)}")
             sleep(30)
     return None
 
@@ -50,7 +56,7 @@ def scrape(city_code, category, date_time_str, MAX_PAGES, MAX_RETRY_ATTEMPTS):
     headers = {
         "Content-Type": "application/json"
     }
-    url = f"https://api.divar.ir/v8/search/{city_code}/{category}"
+    url = f"{BASE_URL}/search/{city_code}/{category}"
 
     page_count = 1
 
@@ -75,31 +81,23 @@ def scrape(city_code, category, date_time_str, MAX_PAGES, MAX_RETRY_ATTEMPTS):
             post_list = data["web_widgets"]["post_list"]
 
             for post in post_list:
-                if "token" in post["data"]["action"]["payload"]:
-                    token = post["data"]["action"]["payload"]["token"]
-                    j = fetch_json_data(token)
-                    save_json(j, category, city_code, token)
+                if "action" in post["data"]:
+                    if "token" in post["data"]["action"]["payload"]:
+                        token = post["data"]["action"]["payload"]["token"]
+                        j = fetch_json_data(token)
+                        if j:
+                            save_json(j, category, city_code, token)
 
             last_post_date = data["last_post_date"]
-            print(page_count, end="\r")
+            logging.info(f"Page {page_count} scraped")
             if page_count == MAX_PAGES:
                 break
             page_count += 1
 
     except KeyboardInterrupt:
-        print("Scraping interrupted by user.")
+        logging.info("Scraping interrupted by user.")
     except Exception as e:
-        print(f"An unexpected error occurred: {str(e)}")
+        logging.error(f"An unexpected error occurred: {str(e)}")
 
-
-# categories = {"real-estate":{"buy": ["apartment-sell", "house-villa-sell", "plot-old"],
-#                             "rent": ["apartment-rent", "house-villa-rent"]}
-#                 }
-
-scrape( city_code = 5,
-        category = "plot-old",
-        date_time_str = "2023-09-08 00:00:00",
-        MAX_PAGES = 2000,
-        MAX_RETRY_ATTEMPTS = 5
-    )
-
+if __name__ == "__main__":
+    scrape(city_code=1, category="apartment-rent", date_time_str="2023-09-10 10:30:00", MAX_PAGES=2000, MAX_RETRY_ATTEMPTS=5)
