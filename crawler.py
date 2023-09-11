@@ -1,18 +1,14 @@
-import requests
-from requests.exceptions import RequestException, ConnectionError, HTTPError
-from urllib3.exceptions import MaxRetryError
-from time import sleep
+import concurrent.futures
 import datetime
 import json
-import os
 import logging
-import concurrent.futures
+import os
+from time import sleep
 
-BASE_URL = "https://api.divar.ir/v8"
-RESULTS_DIR = "Results"
+import requests
+from requests.exceptions import ConnectionError, HTTPError, RequestException
+from urllib3.exceptions import MaxRetryError
 
-# Configure logging
-logging.basicConfig(filename="scrape_log.log", level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 def fetch_json_data(token):
     url = f'{BASE_URL}/posts/{token}'
@@ -24,7 +20,6 @@ def fetch_json_data(token):
         logging.error(f"Failed to fetch data for token {token}: {str(e)}")
     except json.JSONDecodeError as e:
         logging.error(f"Failed to decode JSON for token {token}: {str(e)}")
-    return None
 
 def fetch_and_save_post(token, category, city_code):
     j = fetch_json_data(token)
@@ -33,8 +28,6 @@ def fetch_and_save_post(token, category, city_code):
         
 def save_json(j, category, city_code, token):
     json_path = f"{RESULTS_DIR}/category_{category}__city_{city_code}"
-    if not os.path.exists(json_path):
-        os.makedirs(json_path)
     with open(f'{json_path}/{token}.json', 'w', encoding='utf-8') as f:
         json.dump(j, f, ensure_ascii=False, indent=4)
         logging.info(f"Saved: {token}")
@@ -51,12 +44,10 @@ def retrieve_page(url, json_payload, headers, MAX_RETRY_ATTEMPTS):
             # Adjust sleep time dynamically based on response time
             sleep_time = max(0.6, 2 - response_time)
             sleep(sleep_time)
-            
             return res.json()
         except (RequestException, MaxRetryError, ConnectionError, HTTPError) as e:
             logging.error(f"An error occurred: {str(e)}")
             sleep(2)
-    return None
 
 def date_to_unix(DTS): 
     return int(datetime.datetime.strptime(DTS, "%Y-%m-%d %H:%M:%S").timestamp()) * 1_000_000
@@ -92,7 +83,6 @@ def scrape(city_code, category, date_time_str, MAX_PAGES, MAX_RETRY_ATTEMPTS):
 
             post_list = data["web_widgets"]["post_list"]
             
-            # TODO Use ThreadPoolExecutor for parallel scraping at the post level
             with concurrent.futures.ThreadPoolExecutor() as executor:
                 futures = []
 
@@ -106,7 +96,7 @@ def scrape(city_code, category, date_time_str, MAX_PAGES, MAX_RETRY_ATTEMPTS):
                     pass  # TODO I can add any post-level processing here if needed
 
             last_post_date = data["last_post_date"]
-            logging.info(f"Page {page_count} scraped")
+            logging.info(f"Page {page_count} scraped. Last post date = {last_post_date}")
             page_count += 1
 
     except KeyboardInterrupt:
@@ -114,5 +104,19 @@ def scrape(city_code, category, date_time_str, MAX_PAGES, MAX_RETRY_ATTEMPTS):
     except Exception as e:
         logging.error(f"An unexpected error occurred: {str(e)}")
 
+
+
 if __name__ == "__main__":
-    scrape(city_code=1, category="apartment-rent", date_time_str="2023-09-10 10:30:00", MAX_PAGES=2000, MAX_RETRY_ATTEMPTS=5)
+
+    BASE_URL = "https://api.divar.ir/v8"
+    RESULTS_DIR = "Results"
+    category="apartment-rent"
+    city_code=2
+    
+    # Configure logging
+    json_path = f"{RESULTS_DIR}/category_{category}__city_{city_code}/"
+    if not os.path.exists(json_path):
+        os.makedirs(json_path)
+    logging.basicConfig(filename=json_path+"scrape_log.log", level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+    
+    scrape(city_code=city_code, category=category, date_time_str="2023-09-11 10:30:00", MAX_PAGES=4, MAX_RETRY_ATTEMPTS=5)
