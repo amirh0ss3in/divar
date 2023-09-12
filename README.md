@@ -50,3 +50,9 @@ Here is an example of how to use the module:
 
 ```bash
 python divar.py --category apartment-rent --city-code 2 --result-directory Results --last-post-date "2023-09-12 14:30:00" --max-pages 10 --max-retries 3
+```
+
+And to show the city codes with the city names:
+```bash
+python divar.py --show-codes
+```
