@@ -1,0 +1,1048 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "اپارتمان ۱۰۰متر در باغمیشه|اجارهٔ آپارتمان|تبریز|دیوار",
+            "description": "اپارتمان ۱۰۰متر در باغمیشه|اجارهٔ آپارتمان|تبریز|خرید و فروش تخفیف پای معامله| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B0%DB%B0%D9%85%D8%AA%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%BA%D9%85%DB%8C%D8%B4%D9%87_اجارهٔ-آپارتمان_تبریز__دیوار/AZiPhmhb",
+            "home_url": "https://divar.ir/tabriz/تبریز/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/اپارتمان ۱۰۰متر در باغمیشه/AZiPhmhb/",
+            "ios_app_url": "ios-app://863029557/http/v/اپارتمان ۱۰۰متر در باغمیشه/AZiPhmhb/",
+            "thumbnail": "https://s100.divarcdn.com/static/thumbnails/1692561140/AZiPhmhb.jpg"
+        },
+        "share": {
+            "title": "اپارتمان ۱۰۰متر در باغمیشه",
+            "description": "تخفیف پای معامله",
+            "android_url": "https://divar.ir/v/AZiPhmhb?ref=android",
+            "ios_url": "https://divar.ir/v/AZiPhmhb?ref=ios",
+            "web_url": "https://divar.ir/v/AZiPhmhb"
+        },
+        "url": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B0%DB%B0%D9%85%D8%AA%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%BA%D9%85%DB%8C%D8%B4%D9%87_اجارهٔ-آپارتمان_تبریز__دیوار/AZiPhmhb",
+        "category": {
+            "slug": "apartment-rent",
+            "title": "اجارهٔ آپارتمان",
+            "second_slug": "اجارهٔ آپارتمان"
+        },
+        "description": "تخفیف پای معامله",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تبریز",
+        "webengage": {
+            "category": "apartment-rent",
+            "token": "AZiPhmhb",
+            "city": "tabriz",
+            "brand_model": null,
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": null,
+            "rent": 0,
+            "credit": 350000000
+        },
+        "district": "",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "۳ هفته پیش",
+            "subtitle": "۳ هفته پیش در تبریز | اجاره آپارتمان",
+            "title": "اپارتمان ۱۰۰متر در باغمیشه",
+            "thumbnail": "https://s100.divarcdn.com/static/thumbnails/1692561140/AZiPhmhb.jpg",
+            "place": "تبریز",
+            "business_logo": null
+        },
+        "description": "تخفیف پای معامله",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۱۰۰"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۹۰"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۲"
+                    }
+                ]
+            },
+            {
+                "title": "ودیعه",
+                "format": "string",
+                "value": "۳۵۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "اجارهٔ ماهانه",
+                "format": "string",
+                "value": "مجانی"
+            },
+            {
+                "title": "ودیعه و اجاره",
+                "format": "string",
+                "value": "غیر قابل تبدیل"
+            },
+            {
+                "title": "مناسب برای",
+                "format": "string",
+                "value": "خانواده"
+            },
+            {
+                "title": "آگهی‌دهنده",
+                "format": "string",
+                "value": "شخصی"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۳"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور ندارد",
+                        "available": false,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_hint/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_hint/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_HINT"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true
+            }
+        ],
+        "location": {
+            "latitude": "38.004819966413",
+            "longitude": "46.239395141602",
+            "map_url": "https://cdn.raah.ir/divar-images-2/AZiPhmhb.png"
+        },
+        "images": [
+            "https://s100.divarcdn.com/static/pictures/1692561140/AZiPhmhb.webp",
+            "https://s100.divarcdn.com/static/pictures/1692561140/AZiPhmhb.1.webp",
+            "https://s100.divarcdn.com/static/pictures/1692561140/AZiPhmhb.2.webp",
+            "https://s100.divarcdn.com/static/pictures/1692561140/AZiPhmhb.3.webp",
+            "https://s100.divarcdn.com/static/pictures/1692561140/AZiPhmhb.4.webp",
+            "https://s100.divarcdn.com/static/pictures/1692561140/AZiPhmhb.5.webp",
+            "https://s100.divarcdn.com/static/pictures/1692561140/AZiPhmhb.6.webp"
+        ],
+        "web_images": [
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1692561140/AZiPhmhb.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1692561140/AZiPhmhb.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1692561140/AZiPhmhb.1.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1692561140/AZiPhmhb.1.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1692561140/AZiPhmhb.2.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1692561140/AZiPhmhb.2.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1692561140/AZiPhmhb.3.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1692561140/AZiPhmhb.3.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1692561140/AZiPhmhb.4.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1692561140/AZiPhmhb.4.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1692561140/AZiPhmhb.5.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1692561140/AZiPhmhb.5.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1692561140/AZiPhmhb.6.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1692561140/AZiPhmhb.6.jpg",
+                    "type": "image/jpeg"
+                }
+            ]
+        ],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 214,
+                    "parent_slug": "residential-rent",
+                    "slug": "apartment-rent",
+                    "title": "اجارهٔ آپارتمان",
+                    "second_slug": "اجارهٔ آپارتمان",
+                    "relative_url": "tabriz/rent-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 213,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-rent",
+                    "title": "اجارهٔ مسکونی",
+                    "second_slug": "اجارهٔ مسکونی",
+                    "relative_url": "tabriz/rent-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tabriz/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tabriz"
+                }
+            ],
+            "main_url": "اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/",
+            "base_url": "https://divar.ir/tabriz/تبریز/browse"
+        },
+        "contact": {
+            "phone": "0914218xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "اجارهٔ آپارتمان",
+                "url": "https://divar.ir/tabriz/تبریز/browse/?query=0,اجارهٔ-آپارتمان",
+                "relative_url": "tabriz/rent-apartment"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": true,
+            "title": "آگهی‌های مشابه در این محله",
+            "posts": [
+                {
+                    "middle_text": "ودیعه: ۳۲۰,۰۰۰,۰۰۰ تومان",
+                    "bottom_text": "اجاره: مجانی",
+                    "title": "۸۵ متر، ",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "AZ2_J97B"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-09-07T23:40:19.481641"
+                    },
+                    "token": "AZ2_J97B",
+                    "web_info": {
+                        "title": "باغمیشه میدان ونک  اپارتمان 85متری دو خوابه",
+                        "city_persian": "تبریز",
+                        "category_slug_persian": "آپارتمان",
+                        "district_persian": ""
+                    },
+                    "image": ""
+                },
+                {
+                    "middle_text": "ودیعه: ۴۰۰,۰۰۰,۰۰۰ تومان",
+                    "bottom_text": "اجاره: ۱۰۰,۰۰۰ تومان",
+                    "title": "۸۷ متر، ",
+                    "image": "https://s100.divarcdn.com/static/thumbnails/1693995487/AZ3Hzi9N.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "AZ3Hzi9N"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-09-07T23:40:19.481641"
+                    },
+                    "token": "AZ3Hzi9N",
+                    "web_info": {
+                        "title": "آپارتمان ۸۷متر چهارراه عباسی",
+                        "city_persian": "تبریز",
+                        "category_slug_persian": "آپارتمان",
+                        "district_persian": ""
+                    }
+                },
+                {
+                    "middle_text": "ودیعه: ۳۰۰,۰۰۰,۰۰۰ تومان",
+                    "bottom_text": "اجاره: ۱۰۰,۰۰۰ تومان",
+                    "title": "۷۵ متر، ",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "AZ3XtLLS"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-09-07T23:40:19.481641"
+                    },
+                    "token": "AZ3XtLLS",
+                    "web_info": {
+                        "title": "آپارتمان ۷۵ متر در طالار",
+                        "city_persian": "تبریز",
+                        "category_slug_persian": "آپارتمان",
+                        "district_persian": ""
+                    },
+                    "image": ""
+                },
+                {
+                    "middle_text": "ودیعه: ۴۰۰,۰۰۰,۰۰۰ تومان",
+                    "bottom_text": "اجاره: ۱,۵۰۰,۰۰۰ تومان",
+                    "title": "۹۰ متر، ",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "AZ4Td-2r"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-09-07T23:40:19.481641"
+                    },
+                    "token": "AZ4Td-2r",
+                    "web_info": {
+                        "title": "آپارتمان ولیعصر مجتمع مسکونی شهید شفیع زاده",
+                        "city_persian": "تبریز",
+                        "category_slug_persian": "آپارتمان",
+                        "district_persian": ""
+                    },
+                    "image": ""
+                },
+                {
+                    "middle_text": "ودیعه: ۴۰۰,۰۰۰,۰۰۰ تومان",
+                    "bottom_text": "اجاره: مجانی",
+                    "title": "۷۰ متر، ",
+                    "image": "https://s100.divarcdn.com/static/thumbnails/1694049746/AZ4TfjNv.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "AZ4TfjNv"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-09-07T23:40:19.481641"
+                    },
+                    "token": "AZ4TfjNv",
+                    "web_info": {
+                        "title": "آپارتمان 70متری رسالت کوی اتحاد مجتمع شهریار",
+                        "city_persian": "تبریز",
+                        "category_slug_persian": "آپارتمان",
+                        "district_persian": ""
+                    }
+                },
+                {
+                    "middle_text": "ودیعه: ۴۰۰,۰۰۰,۰۰۰ تومان",
+                    "bottom_text": "اجاره: ۱۰۰,۰۰۰ تومان",
+                    "title": "۹۵ متر، ",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "AZ4vrD7B"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-09-07T23:40:19.481641"
+                    },
+                    "token": "AZ4vrD7B",
+                    "web_info": {
+                        "title": "آپارتمان مرزداران خیابان نیاوران کوچه نیاوران اول",
+                        "city_persian": "تبریز",
+                        "category_slug_persian": "آپارتمان",
+                        "district_persian": ""
+                    },
+                    "image": ""
+                },
+                {
+                    "middle_text": "ودیعه: ۲۵۰,۰۰۰,۰۰۰ تومان",
+                    "bottom_text": "اجاره: ۲,۵۰۰,۰۰۰ تومان",
+                    "title": "۸۸ متر، ",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "AZ5fv0O9"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-09-07T23:40:19.481641"
+                    },
+                    "token": "AZ5fv0O9",
+                    "web_info": {
+                        "title": "آپارتمان 88 متری در مارالان کوی لاهیجانی",
+                        "city_persian": "تبریز",
+                        "category_slug_persian": "آپارتمان",
+                        "district_persian": ""
+                    },
+                    "image": ""
+                },
+                {
+                    "middle_text": "ودیعه: ۴۰۰,۰۰۰,۰۰۰ تومان",
+                    "bottom_text": "اجاره: ۱۰۰,۰۰۰ تومان",
+                    "title": "۷۸ متر، ",
+                    "image": "https://s100.divarcdn.com/static/thumbnails/1694114566/AZ5HftNt.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "AZ5HftNt"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-09-07T23:40:19.481641"
+                    },
+                    "token": "AZ5HftNt",
+                    "web_info": {
+                        "title": "آپارتمان ۷۸ متری",
+                        "city_persian": "تبریز",
+                        "category_slug_persian": "آپارتمان",
+                        "district_persian": ""
+                    }
+                }
+            ],
+            "widget_list": [
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌های مشابه در این محله",
+                        "items": [
+                            {
+                                "title": "۸۵ متر، ",
+                                "first_description": "ودیعه: ۳۲۰,۰۰۰,۰۰۰ تومان",
+                                "second_description": "اجاره: مجانی",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "AZ2_J97B",
+                                        "current_token": "AZiPhmhb",
+                                        "suggested_tokens": [
+                                            "AZ2_J97B",
+                                            "AZ3Hzi9N",
+                                            "AZ3XtLLS",
+                                            "AZ4Td-2r",
+                                            "AZ4TfjNv",
+                                            "AZ4vrD7B",
+                                            "AZ5fv0O9",
+                                            "AZ5HftNt"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-09-07T23:40:19.481641"
+                                        },
+                                        "web_info": {
+                                            "title": "باغمیشه میدان ونک  اپارتمان 85متری دو خوابه",
+                                            "city_persian": "تبریز",
+                                            "category_slug_persian": "آپارتمان",
+                                            "district_persian": ""
+                                        },
+                                        "selected_index": 0,
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "AZ2_J97B",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "AZiPhmhb",
+                                                "metadata": {
+                                                    "last_modified": "2023-09-07T23:40:19.481641"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/thumbnails/1693995487/AZ3Hzi9N.jpg",
+                                "title": "۸۷ متر، ",
+                                "first_description": "ودیعه: ۴۰۰,۰۰۰,۰۰۰ تومان",
+                                "second_description": "اجاره: ۱۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "AZ3Hzi9N",
+                                        "current_token": "AZiPhmhb",
+                                        "suggested_tokens": [
+                                            "AZ2_J97B",
+                                            "AZ3Hzi9N",
+                                            "AZ3XtLLS",
+                                            "AZ4Td-2r",
+                                            "AZ4TfjNv",
+                                            "AZ4vrD7B",
+                                            "AZ5fv0O9",
+                                            "AZ5HftNt"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-09-07T23:40:19.481641"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۸۷متر چهارراه عباسی",
+                                            "city_persian": "تبریز",
+                                            "category_slug_persian": "آپارتمان",
+                                            "district_persian": ""
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "AZ3Hzi9N",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "AZiPhmhb",
+                                                "metadata": {
+                                                    "last_modified": "2023-09-07T23:40:19.481641"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            {
+                                "title": "۷۵ متر، ",
+                                "first_description": "ودیعه: ۳۰۰,۰۰۰,۰۰۰ تومان",
+                                "second_description": "اجاره: ۱۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "AZ3XtLLS",
+                                        "current_token": "AZiPhmhb",
+                                        "suggested_tokens": [
+                                            "AZ2_J97B",
+                                            "AZ3Hzi9N",
+                                            "AZ3XtLLS",
+                                            "AZ4Td-2r",
+                                            "AZ4TfjNv",
+                                            "AZ4vrD7B",
+                                            "AZ5fv0O9",
+                                            "AZ5HftNt"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-09-07T23:40:19.481641"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۷۵ متر در طالار",
+                                            "city_persian": "تبریز",
+                                            "category_slug_persian": "آپارتمان",
+                                            "district_persian": ""
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "AZ3XtLLS",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "AZiPhmhb",
+                                                "metadata": {
+                                                    "last_modified": "2023-09-07T23:40:19.481641"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": ""
+                            },
+                            {
+                                "title": "۹۰ متر، ",
+                                "first_description": "ودیعه: ۴۰۰,۰۰۰,۰۰۰ تومان",
+                                "second_description": "اجاره: ۱,۵۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "AZ4Td-2r",
+                                        "current_token": "AZiPhmhb",
+                                        "suggested_tokens": [
+                                            "AZ2_J97B",
+                                            "AZ3Hzi9N",
+                                            "AZ3XtLLS",
+                                            "AZ4Td-2r",
+                                            "AZ4TfjNv",
+                                            "AZ4vrD7B",
+                                            "AZ5fv0O9",
+                                            "AZ5HftNt"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-09-07T23:40:19.481641"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ولیعصر مجتمع مسکونی شهید شفیع زاده",
+                                            "city_persian": "تبریز",
+                                            "category_slug_persian": "آپارتمان",
+                                            "district_persian": ""
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "AZ4Td-2r",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "AZiPhmhb",
+                                                "metadata": {
+                                                    "last_modified": "2023-09-07T23:40:19.481641"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/thumbnails/1694049746/AZ4TfjNv.jpg",
+                                "title": "۷۰ متر، ",
+                                "first_description": "ودیعه: ۴۰۰,۰۰۰,۰۰۰ تومان",
+                                "second_description": "اجاره: مجانی",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "AZ4TfjNv",
+                                        "current_token": "AZiPhmhb",
+                                        "suggested_tokens": [
+                                            "AZ2_J97B",
+                                            "AZ3Hzi9N",
+                                            "AZ3XtLLS",
+                                            "AZ4Td-2r",
+                                            "AZ4TfjNv",
+                                            "AZ4vrD7B",
+                                            "AZ5fv0O9",
+                                            "AZ5HftNt"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-09-07T23:40:19.481641"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان 70متری رسالت کوی اتحاد مجتمع شهریار",
+                                            "city_persian": "تبریز",
+                                            "category_slug_persian": "آپارتمان",
+                                            "district_persian": ""
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "AZ4TfjNv",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "AZiPhmhb",
+                                                "metadata": {
+                                                    "last_modified": "2023-09-07T23:40:19.481641"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            {
+                                "title": "۹۵ متر، ",
+                                "first_description": "ودیعه: ۴۰۰,۰۰۰,۰۰۰ تومان",
+                                "second_description": "اجاره: ۱۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "AZ4vrD7B",
+                                        "current_token": "AZiPhmhb",
+                                        "suggested_tokens": [
+                                            "AZ2_J97B",
+                                            "AZ3Hzi9N",
+                                            "AZ3XtLLS",
+                                            "AZ4Td-2r",
+                                            "AZ4TfjNv",
+                                            "AZ4vrD7B",
+                                            "AZ5fv0O9",
+                                            "AZ5HftNt"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-09-07T23:40:19.481641"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان مرزداران خیابان نیاوران کوچه نیاوران اول",
+                                            "city_persian": "تبریز",
+                                            "category_slug_persian": "آپارتمان",
+                                            "district_persian": ""
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "AZ4vrD7B",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "AZiPhmhb",
+                                                "metadata": {
+                                                    "last_modified": "2023-09-07T23:40:19.481641"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": ""
+                            },
+                            {
+                                "title": "۸۸ متر، ",
+                                "first_description": "ودیعه: ۲۵۰,۰۰۰,۰۰۰ تومان",
+                                "second_description": "اجاره: ۲,۵۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "AZ5fv0O9",
+                                        "current_token": "AZiPhmhb",
+                                        "suggested_tokens": [
+                                            "AZ2_J97B",
+                                            "AZ3Hzi9N",
+                                            "AZ3XtLLS",
+                                            "AZ4Td-2r",
+                                            "AZ4TfjNv",
+                                            "AZ4vrD7B",
+                                            "AZ5fv0O9",
+                                            "AZ5HftNt"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-09-07T23:40:19.481641"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان 88 متری در مارالان کوی لاهیجانی",
+                                            "city_persian": "تبریز",
+                                            "category_slug_persian": "آپارتمان",
+                                            "district_persian": ""
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "AZ5fv0O9",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "AZiPhmhb",
+                                                "metadata": {
+                                                    "last_modified": "2023-09-07T23:40:19.481641"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/thumbnails/1694114566/AZ5HftNt.jpg",
+                                "title": "۷۸ متر، ",
+                                "first_description": "ودیعه: ۴۰۰,۰۰۰,۰۰۰ تومان",
+                                "second_description": "اجاره: ۱۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "AZ5HftNt",
+                                        "current_token": "AZiPhmhb",
+                                        "suggested_tokens": [
+                                            "AZ2_J97B",
+                                            "AZ3Hzi9N",
+                                            "AZ3XtLLS",
+                                            "AZ4Td-2r",
+                                            "AZ4TfjNv",
+                                            "AZ4vrD7B",
+                                            "AZ5fv0O9",
+                                            "AZ5HftNt"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-09-07T23:40:19.481641"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۷۸ متری",
+                                            "city_persian": "تبریز",
+                                            "category_slug_persian": "آپارتمان",
+                                            "district_persian": ""
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "AZ5HftNt",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "AZiPhmhb",
+                                                "metadata": {
+                                                    "last_modified": "2023-09-07T23:40:19.481641"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "AZ2_J97B",
+                                    "AZ3Hzi9N",
+                                    "AZ3XtLLS",
+                                    "AZ4Td-2r",
+                                    "AZ4TfjNv",
+                                    "AZ4vrD7B",
+                                    "AZ5fv0O9",
+                                    "AZ5HftNt"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "AZiPhmhb",
+                                    "metadata": {
+                                        "last_modified": "2023-09-07T23:40:19.481641"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                }
+            ],
+            "post_suggestion_extra_logs": [
+                {
+                    "suggested_tokens": [
+                        "AZ2_J97B",
+                        "AZ3Hzi9N",
+                        "AZ3XtLLS",
+                        "AZ4Td-2r",
+                        "AZ4TfjNv",
+                        "AZ4vrD7B",
+                        "AZ5fv0O9",
+                        "AZ5HftNt"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-09-07T23:40:19.481641"
+                        },
+                        {
+                            "last_modified": "2023-09-07T23:40:19.481641"
+                        },
+                        {
+                            "last_modified": "2023-09-07T23:40:19.481641"
+                        },
+                        {
+                            "last_modified": "2023-09-07T23:40:19.481641"
+                        },
+                        {
+                            "last_modified": "2023-09-07T23:40:19.481641"
+                        },
+                        {
+                            "last_modified": "2023-09-07T23:40:19.481641"
+                        },
+                        {
+                            "last_modified": "2023-09-07T23:40:19.481641"
+                        },
+                        {
+                            "last_modified": "2023-09-07T23:40:19.481641"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION"
+                }
+            ]
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "AZiPhmhb",
+    "error": 0
+}
