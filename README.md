@@ -1,46 +1,52 @@
 # Divar Scraper with Multithreading
 
-This Python script allows you to scrape data from the Divar website, specifically for real estate listings in different categories and cities. It utilizes the Divar API to retrieve and store information about real estate listings in an Excel file.
+This project allows you to scrape data from the Divar website, specifically for real estate listings in different categories and cities. It utilizes the Divar API to retrieve and store information about real estate listings in an Excel file. This module provides a command-line tool for scraping posts from a website. Below are the available options and how to use them:
 
-## Table of Contents
-- [Getting Started](#getting-started)
-- [Usage](#usage)
+1. **Category (Optional)**
+   - Option: `--category`, `--cat`, `-c`
+   - Default: `apartment-rent`
+   - Description: Specify the category of posts to search for.
 
-## Important Note
-The whole point of this scraping is to get to the tokens. When obtaining the tokens, we can access the webpage of that specific ad and then extract whatever further information we want. any link in divar can be accessed by its token like this:
+2. **City Code (Optional)**
+   - Option: `--city-code`, `--city`, `--code`, `-z`
+   - Default: `1`
+   - Description: Specify the city code or identifier for the location you want to search in. Use the following city codes:
 
-      https://divar.ir/v/-/TOKEN
-      
-Example:
+     | Code | City        |
+     | ---- | ----------- |
+     | 1    | تهران      |
+     | 2    | کرج        |
+     | 3    | مشهد       |
+     | 4    | اصفهان     |
+     | ...  | ...         |
 
-      https://divar.ir/v/-/AZ4LldV9
+3. **Result Directory (Optional)**
+   - Option: `--result-directory`, `--directory`, `-d`
+   - Default: `Results`
+   - Description: Specify the directory where scraping results will be stored.
 
-## Getting Started
+4. **Last Post Date (Optional)**
+   - Option: `--last-post-date`, `--date`, `--time`, `-t`
+   - Default: Current date and time
+   - Description: Specify the date and time for the last post you want to scrape.
 
-To get started with this script, follow these steps:
+5. **Max Pages (Optional)**
+   - Option: `--max-pages`, `--pages`, `-p`
+   - Default: `4`
+   - Description: Specify the maximum number of pages to scrape.
 
-1. Clone this repository to your local machine:
+6. **Max Retries (Optional)**
+   - Option: `--max-retries`, `--retries`, `-r`
+   - Default: `5`
+   - Description: Specify the maximum number of retries for failed downloads.
 
-   ```bash
-   git clone https://github.com/amirh0ss3in/divar.git
-   ```
-   
-## Usage
+7. **Show City Codes**
+   - Option: `--show-codes`
+   - Description: Display a list of city codes and their corresponding city names and then exit. Use this option to see the available city codes for reference.
 
-2. Here is an example of how to use the script:
+### Example Usage
 
-  ```python
-  scrape(city_code=1,
-         category="apartment-rent",
-         date_time_str="2023-09-06 21:00:00",
-         MAX_PAGES=2000,
-         MAX_RETRY_ATTEMPTS=5)
-  ```
+Here is an example of how to use the module:
 
-- city_code: The code for the city you want to scrape data for.
-- category: The specific real estate category you are interested in (e.g., "apartment-rent").
-- date_time_str: The date and time from which you want to start scraping listings.
-- MAX_PAGES: The maximum number of pages to scrape.
-- MAX_RETRY_ATTEMPTS: The maximum number of retry attempts if an error occurs during scraping.
-
-The scraped data will be saved in json files in the "Results" folder.
+```bash
+python your_script.py --category electronics --city-code 2 --result-directory MyResults --last-post-date "2023-09-12 14:30:00" --max-pages 10 --max-retries 3
