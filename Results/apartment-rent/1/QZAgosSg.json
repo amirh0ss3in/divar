@@ -1,0 +1,402 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "اپارتمان  دو خوابه|اجارهٔ آپارتمان|تهران، هروی|دیوار",
+            "description": "اپارتمان  دو خوابه|اجارهٔ آپارتمان|تهران، هروی|خرید و فروش ملک فوق در خیابان قادری حوالی میدان ملت میباشد| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87_اجارهٔ-آپارتمان_تهران_هروی_دیوار/QZAgosSg",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/اپارتمان  دو خوابه/QZAgosSg/",
+            "ios_app_url": "ios-app://863029557/http/v/اپارتمان  دو خوابه/QZAgosSg/",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/yuYriHTrajCE_U0MMtPIyA/efd0d8fa-b638-404b-8d0c-188276aa3e50.jpg"
+        },
+        "share": {
+            "title": "اپارتمان  دو خوابه",
+            "description": "ملک فوق در خیابان قادری حوالی میدان ملت میباشد",
+            "android_url": "https://divar.ir/v/QZAgosSg?ref=android",
+            "ios_url": "https://divar.ir/v/QZAgosSg?ref=ios",
+            "web_url": "https://divar.ir/v/QZAgosSg"
+        },
+        "url": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87_اجارهٔ-آپارتمان_تهران_هروی_دیوار/QZAgosSg",
+        "category": {
+            "slug": "apartment-rent",
+            "title": "اجارهٔ آپارتمان",
+            "second_slug": "اجارهٔ آپارتمان"
+        },
+        "description": "ملک فوق در خیابان قادری حوالی میدان ملت میباشد",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-rent",
+            "token": "QZAgosSg",
+            "city": "tehran",
+            "brand_model": null,
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": null,
+            "rent": 100000,
+            "credit": 1300000000
+        },
+        "district": "هروی",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "دقایقی پیش",
+            "subtitle": "دقایقی پیش در تهران، هروی | اجاره آپارتمان",
+            "title": "اپارتمان  دو خوابه",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/yuYriHTrajCE_U0MMtPIyA/efd0d8fa-b638-404b-8d0c-188276aa3e50.jpg",
+            "place": "هروی",
+            "business_logo": null
+        },
+        "description": "ملک فوق در خیابان قادری حوالی میدان ملت میباشد",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۱۲۵"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۹۵"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۲"
+                    }
+                ]
+            },
+            {
+                "title": "ودیعه و اجارهٔ این ملک قابل تبدیل است.",
+                "widget_type": "FEATURE_ROW",
+                "data": {
+                    "@type": "type.googleapis.com/widgets.FeatureRowData",
+                    "title": "ودیعه و اجارهٔ این ملک قابل تبدیل است.",
+                    "icon": {
+                        "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/exchange.png",
+                        "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/exchange.png",
+                        "icon_name": "EXCHANGE",
+                        "icon_color": "ICON_SECONDARY"
+                    },
+                    "image_url": "",
+                    "image_color": "UNKNOWN",
+                    "has_divider": false,
+                    "disabled": false
+                },
+                "visibility_condition": []
+            },
+            {
+                "title": "ودیعه و اجارهٔ قابل تبدیل",
+                "widget_type": "RENT_SLIDER",
+                "data": {
+                    "@type": "type.googleapis.com/widgets.RentSliderData",
+                    "credit": {
+                        "value": "1300000000",
+                        "transformed_value": "200000000"
+                    },
+                    "rent": {
+                        "value": "100000",
+                        "transformed_value": "35000000"
+                    },
+                    "label": "برای تبدیل بکشید",
+                    "has_divider": true
+                },
+                "visibility_condition": []
+            },
+            {
+                "title": "مناسب برای",
+                "format": "string",
+                "value": "خانواده"
+            },
+            {
+                "title": "آگهی‌دهنده",
+                "format": "string",
+                "value": "شخصی"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۳"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true
+            }
+        ],
+        "location": {},
+        "images": [
+            "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.webp",
+            "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.1.webp",
+            "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.2.webp",
+            "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.3.webp",
+            "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.4.webp",
+            "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.5.webp",
+            "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.6.webp",
+            "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.7.webp",
+            "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.8.webp",
+            "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.9.webp",
+            "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.10.webp",
+            "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.11.webp",
+            "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.12.webp"
+        ],
+        "web_images": [
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.1.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.1.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.2.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.2.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.3.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.3.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.4.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.4.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.5.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.5.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.6.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.6.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.7.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.7.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.8.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.8.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.9.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.9.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.10.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.10.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.11.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.11.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.12.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/pictures/1694546433/QZAgosSg.12.jpg",
+                    "type": "image/jpeg"
+                }
+            ]
+        ],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 214,
+                    "parent_slug": "residential-rent",
+                    "slug": "apartment-rent",
+                    "title": "اجارهٔ آپارتمان",
+                    "second_slug": "اجارهٔ آپارتمان",
+                    "relative_url": "tehran/rent-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 213,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-rent",
+                    "title": "اجارهٔ مسکونی",
+                    "second_slug": "اجارهٔ مسکونی",
+                    "relative_url": "tehran/rent-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0912089xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "اجارهٔ آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,اجارهٔ-آپارتمان",
+                "relative_url": "tehran/rent-apartment"
+            },
+            {
+                "title": "اجارهٔ آپارتمان در هروی",
+                "url": "https://divar.ir/tehran/تهران/هروی/browse/اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/?place=8,1024",
+                "relative_url": "tehran/rent-apartment/heravi"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZAgosSg",
+    "error": 0
+}

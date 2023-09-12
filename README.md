@@ -49,4 +49,4 @@ This project allows you to scrape data from the Divar website, specifically for 
 Here is an example of how to use the module:
 
 ```bash
-python your_script.py --category electronics --city-code 2 --result-directory MyResults --last-post-date "2023-09-12 14:30:00" --max-pages 10 --max-retries 3
+python divar.py --category apartment-rent --city-code 2 --result-directory Results --last-post-date "2023-09-12 14:30:00" --max-pages 10 --max-retries 3

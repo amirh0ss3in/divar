@@ -71,7 +71,7 @@ def extract_tokens(posts):
             yield token
 
 
-def scrape(city_code, category, last_post_date, result_directory, max_pages, max_retries):
+def scrape(city_code, category, last_post_date, result_directory, max_pages, max_retries, show_codes):
     
     search_url = build_api_url('search', str(city_code), category)
     last_post_date = int(last_post_date.timestamp() * 1_000_000)
@@ -179,7 +179,6 @@ def main(argv=None):
         except Exception as e:
             getLogger().error("An unexpected error occurred: %s", e)
             raise
-
 
 
 if __name__ == '__main__':
