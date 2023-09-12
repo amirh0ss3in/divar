@@ -1,121 +1,171 @@
-import concurrent.futures
-import datetime
 import json
 import logging
-import os
-from time import sleep
+import argparse
+import concurrent.futures as parallel
+
+from pathlib import Path
+from datetime import datetime
+from time import sleep, perf_counter
+from functools import lru_cache
 
 import requests
-from requests.exceptions import ConnectionError, HTTPError, RequestException
-from urllib3.exceptions import MaxRetryError
+from requests.exceptions import BaseHTTPError, RequestException
 
 
-def fetch_json_data(token):
-    url = f'{BASE_URL}/posts/{token}'
+POST_LOGGER = f'{__name__}.post'
+WAIT_TIME_BETWEEN_RETRIES = 2.0  # API limits to 30 pages call per minutes
+
+
+class Retry(requests.urllib3.Retry):
+    def get_backoff_time(self):
+        return WAIT_TIME_BETWEEN_RETRIES
+
+
+@lru_cache(maxsize=1)
+def getLogger():
+    return logging.getLogger(__name__)
+
+
+def build_api_url(*route, unparse=requests.utils.urlunparse):
+    route = Path('/v8').joinpath(*route)
+    return unparse(('https', 'api.divar.ir', route.as_posix(), '', '', ''))
+
+
+def download_post(session, token, folder):
+    logger = logging.getLogger(POST_LOGGER)
+    destination = folder.joinpath(f'{token}.json')
+    if destination.exists():
+        logger.info("Skipping token %s: file already exists", token)
+        return
+
     try:
-        response = requests.get(url)
+        response = session.get(build_api_url('posts', token))
+        response.raise_for_status()
+        post = response.json()
+    except RequestException as e:
+        getLogger().error("Failed to fetch data for token %s: %s", token, e)
+    except json.JSONDecodeError as e:
+        getLogger().error("Failed to decode JSON for token %s: %s", token, e)
+    else:
+        with destination.open('w', encoding='utf-8') as f:
+            json.dump(post, f, ensure_ascii=False, indent=4)
+            logger.info("Saved: %s", token)
+
+
+def retrieve_page(session, url, payload):
+    try:
+        response = session.post(url, json=payload)
         response.raise_for_status()
         return response.json()
-    except RequestException as e:
-        logging.error(f"Failed to fetch data for token {token}: {str(e)}")
-    except json.JSONDecodeError as e:
-        logging.error(f"Failed to decode JSON for token {token}: {str(e)}")
+    except (RequestException, BaseHTTPError) as e:
+        getLogger().error("An error occurred: %s", e)
 
-def fetch_and_save_post(token, category, city_code):
-    j = fetch_json_data(token)
-    if j:
-        save_json(j, category, city_code, token)
-        
-def save_json(j, category, city_code, token):
-    json_path = f"{RESULTS_DIR}/{category}/{city_code}/"
-    with open(f'{json_path}/{token}.json', 'w', encoding='utf-8') as f:
-        json.dump(j, f, ensure_ascii=False, indent=4)
-        logging.info(f"Saved: {token}")
-        print(f"saved {token}", end="\r")
 
-def retrieve_page(url, json_payload, headers, MAX_RETRY_ATTEMPTS):
-    for _ in range(MAX_RETRY_ATTEMPTS):
+def extract_tokens(posts):
+    for post in posts:
         try:
-            start_time = datetime.datetime.now()
-            res = requests.post(url, json=json_payload, headers=headers)
-            res.raise_for_status()
-            response_time = (datetime.datetime.now() - start_time).total_seconds()
-            
-            # Adjust sleep time dynamically based on response time
-            sleep_time = max(0.6, 2 - response_time)
-            sleep(sleep_time)
-            return res.json()
-        except (RequestException, MaxRetryError, ConnectionError, HTTPError) as e:
-            logging.error(f"An error occurred: {str(e)}")
-            sleep(2)
-
-def date_to_unix(DTS): 
-    return int(datetime.datetime.strptime(DTS, "%Y-%m-%d %H:%M:%S").timestamp()) * 1_000_000
-
-def scrape(city_code, category, date_time_str, MAX_PAGES, MAX_RETRY_ATTEMPTS):
-    unix_timestamp = date_to_unix(date_time_str)
-    last_post_date = unix_timestamp
-
-    headers = {
-        "Content-Type": "application/json"
-    }
-    url = f"{BASE_URL}/search/{city_code}/{category}"
-
-    page_count = 1
-
-    try:
-        while page_count <= MAX_PAGES:
-            json_payload = {
-                "json_schema": {
-                    "category": {"value": category}
-                },
-                "last-post-date": last_post_date,
-                "page": page_count
-            }
-
-            data = retrieve_page(url, json_payload, headers, MAX_RETRY_ATTEMPTS)
-
-            if data is None:
-                break
-
-            if not data.get("web_widgets", {}).get("post_list"):
-                break
-
-            post_list = data["web_widgets"]["post_list"]
-            
-            with concurrent.futures.ThreadPoolExecutor() as executor:
-                futures = []
-
-                for post in post_list:
-                    if "action" in post["data"]:
-                        if "token" in post["data"]["action"]["payload"]:
-                            token = post["data"]["action"]["payload"]["token"]
-                            futures.append(executor.submit(fetch_and_save_post, token, category, city_code))
-
-                for future in concurrent.futures.as_completed(futures):
-                    pass  # TODO I can add any post-level processing here if needed
-
-            last_post_date = data["last_post_date"]
-            logging.info(f"Page {page_count} scraped. Last post date = {last_post_date}")
-            page_count += 1
-
-    except KeyboardInterrupt:
-        logging.info("Scraping interrupted by user.")
-    except Exception as e:
-        logging.error(f"An unexpected error occurred: {str(e)}")
+            token = post['data']['action']['payload']['token']
+        except (TypeError, KeyError):
+            pass
+        else:
+            yield token
 
 
-if __name__ == "__main__":
+def scrape(city_code, category, last_post_date, result_directory, max_pages, max_retries):
+    search_url = build_api_url('search', str(city_code), category)
+    last_post_date = int(last_post_date.timestamp() * 1_000_000)
 
-    BASE_URL = "https://api.divar.ir/v8"
-    RESULTS_DIR = "Results"
-    category="apartment-rent"
-    city_code=1
-    
+    session = requests.Session()
+    retries = Retry(total=max_retries, allowed_methods=['GET', 'POST'])
+    adapter = requests.adapters.HTTPAdapter(max_retries=retries, pool_block=True)
+    session.mount('https://api.divar.ir/', adapter)
+
+    sleep_time = 0
+    for page_count in range(1, max_pages + 1):
+        sleep(sleep_time)
+        json_payload = {
+            'json_schema': {
+                'category': {'value': category}
+            },
+            'last-post-date': last_post_date,
+            'page': page_count
+        }
+
+        start_time = perf_counter()
+        data = retrieve_page(session, search_url, json_payload)
+        try:
+            post_list = data['web_widgets']['post_list']
+        except (TypeError, KeyError):
+            break
+
+        with parallel.ThreadPoolExecutor() as executor:
+            futures = [
+                    executor.submit(download_post, session, token, result_directory)
+                    for token in extract_tokens(post_list)
+            ]
+
+            for future in parallel.as_completed(futures):
+                # TODO I can add any post-level processing here if needed
+                pass
+
+        last_post_date = data['last_post_date']
+        getLogger().info("Page %d scraped. Last post date is %d.", page_count, last_post_date)
+
+        # Adjust sleep time dynamically based on response time
+        elapsed_time = perf_counter() - start_time
+        sleep_time = max(0.2, WAIT_TIME_BETWEEN_RETRIES - elapsed_time)
+
+
+def command_line_parser():
+    def date_parser(user_input):
+        return datetime.strptime(user_input, '%Y-%m-%d %H:%M:%S')
+
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--category', '--cat', '-c',
+                        default='apartment-rent',
+                        help='category of posts to search for')
+    parser.add_argument('--city-code', '--city', '--code', '-z',
+                        type=int, default=1,
+                        help='...')
+    parser.add_argument('--result-directory', '--directory', '-d',
+                        type=Path, default=Path('Results'),
+                        help='Directory in which to store scraping results')
+    parser.add_argument('--last-post-date', '--date', '--time', '-t',
+                        type=date_parser, default=datetime.now(),
+                        help='...')
+    parser.add_argument('--max-pages', '--pages', '-p',
+                        type=int, default=4,
+                        help='Amount of pages to scrape for')
+    parser.add_argument('--max-retries', '--retries', '-r',
+                        type=int, default=5,
+                        help='Amount of time a request will be retried when a download fails')
+    return parser
+
+
+def main(argv=None):
+    args = command_line_parser().parse_args(argv)
+
+    folder = args.result_directory.joinpath(f'{args.category}/{args.city_code}/')
+    folder.mkdir(parents=True, exist_ok=True)
+
     # Configure logging
-    json_path = f"{RESULTS_DIR}/{category}/{city_code}/"
-    if not os.path.exists(json_path):
-        os.makedirs(json_path)
-    logging.basicConfig(filename=json_path+"scrape_log.log", level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
-    
-    scrape(city_code=city_code, category=category, date_time_str="2023-09-11 11:30:00", MAX_PAGES=10, MAX_RETRY_ATTEMPTS=5)
+    logging.basicConfig(
+            filename=folder.joinpath('scrape_log.log').as_posix(),
+            level=logging.INFO,
+            datefmt='%Y-%m-%d %H:%M:%S',
+            format='%(asctime)s - %(levelname)s - %(message)s')
+    logging.getLogger(POST_LOGGER).addHandler(logging.StreamHandler())
+
+    args = vars(args)
+    args['result_directory'] = folder
+    try:
+        scrape(**args)
+    except KeyboardInterrupt:
+        getLogger().info("Scraping interrupted by user.")
+    except Exception as e:
+        getLogger().error("An unexpected error occurred: %s", e)
+        raise
+
+
+if __name__ == '__main__':
+    main()
