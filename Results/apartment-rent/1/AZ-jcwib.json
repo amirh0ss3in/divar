@@ -31,18 +31,18 @@
             "business_ref": "11265",
             "data": {
                 "id": "11265",
-                "slug": "UzEAWczK",
                 "logo": "https://s100.divarcdn.com/static/images/real-estate/cuX9Zx2L1Jt7Hm8b2l3P_w.jpg",
                 "name": "✅گروه مشاورین املاک داتیس✅",
-                "agentInfo": {
-                    "slug": "EkTJi76e",
-                    "name": "امیر سلیمی"
-                },
+                "slug": "UzEAWczK",
                 "score": 0.6420036,
+                "address": "تهران تهرانسر خیابان نفت شمالی بین کوچه ۲۹و۲۷",
+                "usedFrom": "AGENT",
+                "agentInfo": {
+                    "name": "امیر سلیمی",
+                    "slug": "EkTJi76e"
+                },
                 "submitType": "AGENCY_SUBMIT",
                 "shortAddress": "تهران، تهران‌سر",
-                "usedFrom": "AGENT",
-                "address": "تهران تهرانسر خیابان نفت شمالی بین کوچه ۲۹و۲۷",
                 "telephoneNumber": "02144577582"
             }
         },
@@ -56,18 +56,18 @@
             "business_ref": "11265",
             "data": {
                 "id": "11265",
-                "slug": "UzEAWczK",
                 "logo": "https://s100.divarcdn.com/static/images/real-estate/cuX9Zx2L1Jt7Hm8b2l3P_w.jpg",
                 "name": "✅گروه مشاورین املاک داتیس✅",
-                "agentInfo": {
-                    "slug": "EkTJi76e",
-                    "name": "امیر سلیمی"
-                },
+                "slug": "UzEAWczK",
                 "score": 0.6420036,
+                "address": "تهران تهرانسر خیابان نفت شمالی بین کوچه ۲۹و۲۷",
+                "usedFrom": "AGENT",
+                "agentInfo": {
+                    "name": "امیر سلیمی",
+                    "slug": "EkTJi76e"
+                },
                 "submitType": "AGENCY_SUBMIT",
                 "shortAddress": "تهران، تهران‌سر",
-                "usedFrom": "AGENT",
-                "address": "تهران تهرانسر خیابان نفت شمالی بین کوچه ۲۹و۲۷",
                 "telephoneNumber": "02144577582"
             },
             "price": null,
@@ -79,8 +79,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، تهران‌سر | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، تهران‌سر | اجاره آپارتمان",
             "title": "71 متری/ تک خواب/شهرک پاسداران",
             "place": "تهران‌سر",
             "business_logo": null
@@ -126,6 +126,11 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده"
+            },
+            {
+                "title": "آژانس املاک",
+                "value": "✅گروه مشاورین املاک داتیس✅",
+                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -470,6 +475,13 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
         "note": {
             "enable": true
         }

@@ -31,19 +31,19 @@
             "business_type": "real-estate-business",
             "business_ref": "26558",
             "data": {
-                "score": 0.5701504,
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/Wui1okqqXDenZ5nSKR6qOw.jpg",
-                "agentInfo": {
-                    "slug": "kE9bFpVf",
-                    "name": "مجتبی گنجی"
-                },
-                "name": "املاک مهرگان",
-                "shortAddress": "تهران، نبی اکرم(ص)",
                 "id": "26558",
-                "submitType": "AGENCY_SUBMIT",
-                "telephoneNumber": "02136607007",
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/Wui1okqqXDenZ5nSKR6qOw.jpg",
+                "name": "املاک مهرگان",
                 "slug": "HBqAS0hP",
-                "address": "خیابان پیروزی،خیابان نبرد، نبش چهارراه فرزانه، پلاک ۵۲۴"
+                "score": 0.5701504,
+                "address": "خیابان پیروزی،خیابان نبرد، نبش چهارراه فرزانه، پلاک ۵۲۴",
+                "agentInfo": {
+                    "name": "مجتبی گنجی",
+                    "slug": "kE9bFpVf"
+                },
+                "submitType": "AGENCY_SUBMIT",
+                "shortAddress": "تهران، نبی اکرم(ص)",
+                "telephoneNumber": "02136607007"
             }
         },
         "city": "تهران",
@@ -55,19 +55,19 @@
             "business_type": "real-estate-business",
             "business_ref": "26558",
             "data": {
-                "score": 0.5701504,
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/Wui1okqqXDenZ5nSKR6qOw.jpg",
-                "agentInfo": {
-                    "slug": "kE9bFpVf",
-                    "name": "مجتبی گنجی"
-                },
-                "name": "املاک مهرگان",
-                "shortAddress": "تهران، نبی اکرم(ص)",
                 "id": "26558",
-                "submitType": "AGENCY_SUBMIT",
-                "telephoneNumber": "02136607007",
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/Wui1okqqXDenZ5nSKR6qOw.jpg",
+                "name": "املاک مهرگان",
                 "slug": "HBqAS0hP",
-                "address": "خیابان پیروزی،خیابان نبرد، نبش چهارراه فرزانه، پلاک ۵۲۴"
+                "score": 0.5701504,
+                "address": "خیابان پیروزی،خیابان نبرد، نبش چهارراه فرزانه، پلاک ۵۲۴",
+                "agentInfo": {
+                    "name": "مجتبی گنجی",
+                    "slug": "kE9bFpVf"
+                },
+                "submitType": "AGENCY_SUBMIT",
+                "shortAddress": "تهران، نبی اکرم(ص)",
+                "telephoneNumber": "02136607007"
             },
             "price": null,
             "rent": 10000000,
@@ -78,8 +78,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، پیروزی | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، پیروزی | اجاره آپارتمان",
             "title": "90 متر یک خواب / همکف / پارکینگ",
             "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/Smq3e-OKl0fQvLwEUWQ16Q/fde885e5-7065-4a46-8fe2-2e8f51ed4485.jpg",
             "place": "پیروزی",
@@ -126,6 +126,11 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده"
+            },
+            {
+                "title": "آژانس املاک",
+                "value": "املاک مهرگان",
+                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -354,6 +359,13 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
         "note": {
             "enable": true
         }

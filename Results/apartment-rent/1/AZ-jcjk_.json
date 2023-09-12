@@ -32,18 +32,18 @@
             "business_ref": "20280",
             "data": {
                 "id": "20280",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/iUqwzl0Pg0uda4-Ez_3ZFQ.jpg",
-                "name": "اشراف",
-                "slug": "aOJS1bjS",
-                "score": 0.6779356,
-                "address": "تهرانپارس بین فلکه سوم و چهارم نبش ۲۱۶ پ۴۰۶",
-                "agentInfo": {
-                    "name": "محمدرضا",
-                    "slug": "8w2ptyNY"
-                },
-                "submitType": "AGENCY_SUBMIT",
                 "shortAddress": "تهران، تهرانپارس غربی",
-                "telephoneNumber": "02177056677"
+                "submitType": "AGENCY_SUBMIT",
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/iUqwzl0Pg0uda4-Ez_3ZFQ.jpg",
+                "agentInfo": {
+                    "slug": "8w2ptyNY",
+                    "name": "محمدرضا"
+                },
+                "slug": "aOJS1bjS",
+                "telephoneNumber": "02177056677",
+                "name": "اشراف",
+                "score": 0.6779356,
+                "address": "تهرانپارس بین فلکه سوم و چهارم نبش ۲۱۶ پ۴۰۶"
             }
         },
         "city": "تهران",
@@ -56,18 +56,18 @@
             "business_ref": "20280",
             "data": {
                 "id": "20280",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/iUqwzl0Pg0uda4-Ez_3ZFQ.jpg",
-                "name": "اشراف",
-                "slug": "aOJS1bjS",
-                "score": 0.6779356,
-                "address": "تهرانپارس بین فلکه سوم و چهارم نبش ۲۱۶ پ۴۰۶",
-                "agentInfo": {
-                    "name": "محمدرضا",
-                    "slug": "8w2ptyNY"
-                },
-                "submitType": "AGENCY_SUBMIT",
                 "shortAddress": "تهران، تهرانپارس غربی",
-                "telephoneNumber": "02177056677"
+                "submitType": "AGENCY_SUBMIT",
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/iUqwzl0Pg0uda4-Ez_3ZFQ.jpg",
+                "agentInfo": {
+                    "slug": "8w2ptyNY",
+                    "name": "محمدرضا"
+                },
+                "slug": "aOJS1bjS",
+                "telephoneNumber": "02177056677",
+                "name": "اشراف",
+                "score": 0.6779356,
+                "address": "تهرانپارس بین فلکه سوم و چهارم نبش ۲۱۶ پ۴۰۶"
             },
             "price": null,
             "rent": 15000000,
@@ -78,8 +78,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، تهرانپارس غربی | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، تهرانپارس غربی | اجاره آپارتمان",
             "title": "۷۵ متر ۱ خوابه ۱۳ ساله فول امکانات",
             "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/23YeZmxEAO8MmqeHVqOR5Q/be488e00-e34c-43d0-8cb9-e8f8225200b7.jpg",
             "place": "تهرانپارس غربی",
@@ -126,11 +126,6 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده و مجرد"
-            },
-            {
-                "title": "آژانس املاک",
-                "value": "اشراف",
-                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -568,13 +563,6 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
-        "suggestions": {
-            "suggestion_available": false,
-            "title": "",
-            "posts": [],
-            "widget_list": [],
-            "post_suggestion_extra_logs": []
-        },
         "note": {
             "enable": true
         }

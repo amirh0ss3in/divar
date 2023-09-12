@@ -31,12 +31,12 @@
             "business_type": "real-estate-business",
             "business_ref": "agent_456430",
             "data": {
-                "id": "456430",
-                "name": "دوستی ",
-                "slug": "cApaAUSK",
+                "submitType": "INDEPENDENT_AGENT_SUBMIT",
                 "score": 0.8308712,
+                "slug": "cApaAUSK",
+                "name": "دوستی ",
                 "usedFrom": "AGENT",
-                "submitType": "INDEPENDENT_AGENT_SUBMIT"
+                "id": "456430"
             }
         },
         "city": "تهران",
@@ -48,12 +48,12 @@
             "business_type": "real-estate-business",
             "business_ref": "agent_456430",
             "data": {
-                "id": "456430",
-                "name": "دوستی ",
-                "slug": "cApaAUSK",
+                "submitType": "INDEPENDENT_AGENT_SUBMIT",
                 "score": 0.8308712,
+                "slug": "cApaAUSK",
+                "name": "دوستی ",
                 "usedFrom": "AGENT",
-                "submitType": "INDEPENDENT_AGENT_SUBMIT"
+                "id": "456430"
             },
             "price": null,
             "rent": 25000000,
@@ -64,8 +64,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، سهروردی، خیابان سهروردی شمالی (بزرگراه سردار سلیمانی) | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، سهروردی، خیابان سهروردی شمالی (بزرگراه سردار سلیمانی) | اجاره آپارتمان",
             "title": "سهروردی شمالی/۱۶۵ متر ۳ خواب فول/ ۲ پارکینگ",
             "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/IZdQvOmHv6dzKK_ctiMNHA/ff7596d6-a1d9-45bd-a70e-b8f2a4918e9d.jpg",
             "place": "سهروردی",
@@ -660,13 +660,6 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
-        "suggestions": {
-            "suggestion_available": false,
-            "title": "",
-            "posts": [],
-            "widget_list": [],
-            "post_suggestion_extra_logs": []
-        },
         "note": {
             "enable": true
         }

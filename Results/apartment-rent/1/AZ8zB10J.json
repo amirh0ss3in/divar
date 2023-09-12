@@ -31,18 +31,18 @@
             "business_type": "real-estate-business",
             "business_ref": "2866",
             "data": {
+                "id": "2866",
+                "name": "ایفل",
                 "slug": "PqWXpfBi",
                 "score": 0.592317,
+                "address": "پایین تر از میدان پونک خیابان شهید مخبری پلاک 16 مسکن ایفل",
                 "agentInfo": {
                     "name": "امین خسرویinst:aminkhosravi01",
                     "slug": "Og6fwkS9"
                 },
                 "submitType": "AGENCY_SUBMIT",
-                "telephoneNumber": "02144440012",
                 "shortAddress": "تهران، پونک",
-                "name": "ایفل",
-                "address": "پایین تر از میدان پونک خیابان شهید مخبری پلاک 16 مسکن ایفل",
-                "id": "2866"
+                "telephoneNumber": "02144440012"
             }
         },
         "city": "تهران",
@@ -54,18 +54,18 @@
             "business_type": "real-estate-business",
             "business_ref": "2866",
             "data": {
+                "id": "2866",
+                "name": "ایفل",
                 "slug": "PqWXpfBi",
                 "score": 0.592317,
+                "address": "پایین تر از میدان پونک خیابان شهید مخبری پلاک 16 مسکن ایفل",
                 "agentInfo": {
                     "name": "امین خسرویinst:aminkhosravi01",
                     "slug": "Og6fwkS9"
                 },
                 "submitType": "AGENCY_SUBMIT",
-                "telephoneNumber": "02144440012",
                 "shortAddress": "تهران، پونک",
-                "name": "ایفل",
-                "address": "پایین تر از میدان پونک خیابان شهید مخبری پلاک 16 مسکن ایفل",
-                "id": "2866"
+                "telephoneNumber": "02144440012"
             },
             "price": null,
             "rent": 30000000,
@@ -76,8 +76,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، پونک | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، پونک | اجاره آپارتمان",
             "title": "۱۱۲ متر پریزها و اینه لمسی هوشمند",
             "thumbnail": "https://s100.divarcdn.com/static/thumbnails/1694431718/AZ8zB10J.jpg",
             "place": "پونک",
@@ -146,6 +146,11 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده و مجرد"
+            },
+            {
+                "title": "آژانس املاک",
+                "value": "ایفل",
+                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -590,6 +595,13 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
         "note": {
             "enable": true
         }

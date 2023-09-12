@@ -31,19 +31,19 @@
             "business_type": "real-estate-business",
             "business_ref": "5665",
             "data": {
-                "id": "5665",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/Yuau6x-57y9-A1bAwHxlig.jpg",
                 "name": "املاک ارشیا",
-                "slug": "nq3YTfu3",
-                "score": 0.5314773,
                 "address": "کاشانی بلوارشقایق شمالی پلاک ۹۶/۴",
+                "id": "5665",
                 "agentInfo": {
-                    "name": "اشکان نوری",
-                    "slug": "S7KPENIc"
+                    "slug": "S7KPENIc",
+                    "name": "اشکان نوری"
                 },
-                "submitType": "AGENCY_SUBMIT",
+                "telephoneNumber": "02144149566",
                 "shortAddress": "تهران، سازمان برنامه",
-                "telephoneNumber": "02144149566"
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/Yuau6x-57y9-A1bAwHxlig.jpg",
+                "submitType": "AGENCY_SUBMIT",
+                "score": 0.5314773,
+                "slug": "nq3YTfu3"
             }
         },
         "city": "تهران",
@@ -55,19 +55,19 @@
             "business_type": "real-estate-business",
             "business_ref": "5665",
             "data": {
-                "id": "5665",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/Yuau6x-57y9-A1bAwHxlig.jpg",
                 "name": "املاک ارشیا",
-                "slug": "nq3YTfu3",
-                "score": 0.5314773,
                 "address": "کاشانی بلوارشقایق شمالی پلاک ۹۶/۴",
+                "id": "5665",
                 "agentInfo": {
-                    "name": "اشکان نوری",
-                    "slug": "S7KPENIc"
+                    "slug": "S7KPENIc",
+                    "name": "اشکان نوری"
                 },
-                "submitType": "AGENCY_SUBMIT",
+                "telephoneNumber": "02144149566",
                 "shortAddress": "تهران، سازمان برنامه",
-                "telephoneNumber": "02144149566"
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/Yuau6x-57y9-A1bAwHxlig.jpg",
+                "submitType": "AGENCY_SUBMIT",
+                "score": 0.5314773,
+                "slug": "nq3YTfu3"
             },
             "price": null,
             "rent": null,
@@ -78,8 +78,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، سازمان برنامه | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، سازمان برنامه | اجاره آپارتمان",
             "title": "۱۵۲متری سازمان برنامه شمالی تک واحدی",
             "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/T5V-SodYHbc5k77eP6nVuQ/7eaa6320-e1c6-40af-b901-41800913f7c8.jpg",
             "place": "سازمان برنامه",
@@ -126,11 +126,6 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده و مجرد"
-            },
-            {
-                "title": "آژانس املاک",
-                "value": "املاک ارشیا",
-                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -308,13 +303,6 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
-        "suggestions": {
-            "suggestion_available": false,
-            "title": "",
-            "posts": [],
-            "widget_list": [],
-            "post_suggestion_extra_logs": []
-        },
         "note": {
             "enable": true
         }

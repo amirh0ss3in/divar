@@ -31,18 +31,18 @@
             "business_type": "real-estate-business",
             "business_ref": "7964",
             "data": {
-                "telephoneNumber": "02188060479",
                 "id": "7964",
-                "submitType": "AGENCY_SUBMIT",
+                "name": "املاک پارسا",
+                "slug": "eUBLUiAU",
+                "score": 0.51104164,
                 "address": "یوسف آباد خیابان اسدآبادی نبش کوچه 42 پلاک 320",
                 "agentInfo": {
-                    "slug": "24C7P1oP",
-                    "name": "رسول سهامی"
+                    "name": "رسول سهامی",
+                    "slug": "24C7P1oP"
                 },
+                "submitType": "AGENCY_SUBMIT",
                 "shortAddress": "تهران، یوسف‌آباد",
-                "name": "املاک پارسا",
-                "score": 0.51104164,
-                "slug": "eUBLUiAU"
+                "telephoneNumber": "02188060479"
             }
         },
         "city": "تهران",
@@ -54,18 +54,18 @@
             "business_type": "real-estate-business",
             "business_ref": "7964",
             "data": {
-                "telephoneNumber": "02188060479",
                 "id": "7964",
-                "submitType": "AGENCY_SUBMIT",
+                "name": "املاک پارسا",
+                "slug": "eUBLUiAU",
+                "score": 0.51104164,
                 "address": "یوسف آباد خیابان اسدآبادی نبش کوچه 42 پلاک 320",
                 "agentInfo": {
-                    "slug": "24C7P1oP",
-                    "name": "رسول سهامی"
+                    "name": "رسول سهامی",
+                    "slug": "24C7P1oP"
                 },
+                "submitType": "AGENCY_SUBMIT",
                 "shortAddress": "تهران، یوسف‌آباد",
-                "name": "املاک پارسا",
-                "score": 0.51104164,
-                "slug": "eUBLUiAU"
+                "telephoneNumber": "02188060479"
             },
             "price": null,
             "rent": null,
@@ -76,8 +76,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، یوسف‌آباد | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، یوسف‌آباد | اجاره آپارتمان",
             "title": "یوسف اباد۱۵۵متر۳خواب ابن سینا تک واحدی",
             "thumbnail": "https://s100.divarcdn.com/static/thumbnails/1694431716/AZ8HSeLb.jpg",
             "place": "یوسف‌آباد",
@@ -124,6 +124,11 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده"
+            },
+            {
+                "title": "آژانس املاک",
+                "value": "املاک پارسا",
+                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -308,6 +313,13 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
         "note": {
             "enable": true
         }

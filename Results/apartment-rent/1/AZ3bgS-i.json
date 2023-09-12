@@ -31,19 +31,19 @@
             "business_type": "real-estate-business",
             "business_ref": "943",
             "data": {
-                "id": "943",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/S5efCbcXPSAjmva18o_WLQ.jpg",
-                "name": "رُهام",
-                "slug": "3i4HUFj7",
-                "score": 0.5429963,
-                "address": "فردوس شرق، نبش خیابان حسن آباد پلاک ۳۷۰ و ۳۸۸",
-                "agentInfo": {
-                    "name": "پیشنماز۲",
-                    "slug": "ZZsgXgqh"
-                },
-                "submitType": "AGENCY_SUBMIT",
+                "telephoneNumber": "02144000108",
                 "shortAddress": "تهران، کوی فردوس",
-                "telephoneNumber": "02144000108"
+                "id": "943",
+                "agentInfo": {
+                    "slug": "ZZsgXgqh",
+                    "name": "پیشنماز۲"
+                },
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/S5efCbcXPSAjmva18o_WLQ.jpg",
+                "slug": "3i4HUFj7",
+                "name": "رُهام",
+                "score": 0.5429963,
+                "submitType": "AGENCY_SUBMIT",
+                "address": "فردوس شرق، نبش خیابان حسن آباد پلاک ۳۷۰ و ۳۸۸"
             }
         },
         "city": "تهران",
@@ -55,19 +55,19 @@
             "business_type": "real-estate-business",
             "business_ref": "943",
             "data": {
-                "id": "943",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/S5efCbcXPSAjmva18o_WLQ.jpg",
-                "name": "رُهام",
-                "slug": "3i4HUFj7",
-                "score": 0.5429963,
-                "address": "فردوس شرق، نبش خیابان حسن آباد پلاک ۳۷۰ و ۳۸۸",
-                "agentInfo": {
-                    "name": "پیشنماز۲",
-                    "slug": "ZZsgXgqh"
-                },
-                "submitType": "AGENCY_SUBMIT",
+                "telephoneNumber": "02144000108",
                 "shortAddress": "تهران، کوی فردوس",
-                "telephoneNumber": "02144000108"
+                "id": "943",
+                "agentInfo": {
+                    "slug": "ZZsgXgqh",
+                    "name": "پیشنماز۲"
+                },
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/S5efCbcXPSAjmva18o_WLQ.jpg",
+                "slug": "3i4HUFj7",
+                "name": "رُهام",
+                "score": 0.5429963,
+                "submitType": "AGENCY_SUBMIT",
+                "address": "فردوس شرق، نبش خیابان حسن آباد پلاک ۳۷۰ و ۳۸۸"
             },
             "price": null,
             "rent": 10000000,
@@ -78,8 +78,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، کوی فردوس | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، کوی فردوس | اجاره آپارتمان",
             "title": "۶۲متر۲خواب فول امکانات فول بازسازی بلوار فردوس",
             "thumbnail": "https://s100.divarcdn.com/static/thumbnails/1694431750/AZ3bgS-i.jpg",
             "place": "کوی فردوس",
@@ -126,11 +126,6 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده"
-            },
-            {
-                "title": "آژانس املاک",
-                "value": "رُهام",
-                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -417,13 +412,6 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
-        "suggestions": {
-            "suggestion_available": false,
-            "title": "",
-            "posts": [],
-            "widget_list": [],
-            "post_suggestion_extra_logs": []
-        },
         "note": {
             "enable": true
         }

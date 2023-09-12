@@ -31,19 +31,19 @@
             "business_type": "real-estate-business",
             "business_ref": "1569",
             "data": {
-                "telephoneNumber": "02187700893",
-                "shortAddress": "تهران، سعادت‌آباد",
-                "address": "بلوار اصلی سعادت آباد، بالاتر از چهارراه مسجد، نبش 37 شرقی، ساختمان پزشکان قدس،پلاک 4،واحد28",
-                "slug": "H1za6ntC",
-                "submitType": "AGENCY_SUBMIT",
-                "agentInfo": {
-                    "slug": "JtDLXbfb",
-                    "name": "امین لاریجانی"
-                },
-                "score": 0.5670734,
                 "id": "1569",
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/pvBmJCs-cu5IRtUS0yqqMw.jpg",
                 "name": "کاط",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/pvBmJCs-cu5IRtUS0yqqMw.jpg"
+                "slug": "H1za6ntC",
+                "score": 0.5670734,
+                "address": "بلوار اصلی سعادت آباد، بالاتر از چهارراه مسجد، نبش 37 شرقی، ساختمان پزشکان قدس،پلاک 4،واحد28",
+                "agentInfo": {
+                    "name": "امین لاریجانی",
+                    "slug": "JtDLXbfb"
+                },
+                "submitType": "AGENCY_SUBMIT",
+                "shortAddress": "تهران، سعادت‌آباد",
+                "telephoneNumber": "02187700893"
             }
         },
         "city": "تهران",
@@ -55,19 +55,19 @@
             "business_type": "real-estate-business",
             "business_ref": "1569",
             "data": {
-                "telephoneNumber": "02187700893",
-                "shortAddress": "تهران، سعادت‌آباد",
-                "address": "بلوار اصلی سعادت آباد، بالاتر از چهارراه مسجد، نبش 37 شرقی، ساختمان پزشکان قدس،پلاک 4،واحد28",
-                "slug": "H1za6ntC",
-                "submitType": "AGENCY_SUBMIT",
-                "agentInfo": {
-                    "slug": "JtDLXbfb",
-                    "name": "امین لاریجانی"
-                },
-                "score": 0.5670734,
                 "id": "1569",
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/pvBmJCs-cu5IRtUS0yqqMw.jpg",
                 "name": "کاط",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/pvBmJCs-cu5IRtUS0yqqMw.jpg"
+                "slug": "H1za6ntC",
+                "score": 0.5670734,
+                "address": "بلوار اصلی سعادت آباد، بالاتر از چهارراه مسجد، نبش 37 شرقی، ساختمان پزشکان قدس،پلاک 4،واحد28",
+                "agentInfo": {
+                    "name": "امین لاریجانی",
+                    "slug": "JtDLXbfb"
+                },
+                "submitType": "AGENCY_SUBMIT",
+                "shortAddress": "تهران، سعادت‌آباد",
+                "telephoneNumber": "02187700893"
             },
             "price": null,
             "rent": 12000000,
@@ -78,8 +78,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، سعادت‌آباد | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، سعادت‌آباد | اجاره آپارتمان",
             "title": "۱۳۰ متر سعادت‌آباد",
             "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/08gglxWorQeM6M7cI0CkxA/e0abba92-f4d9-4d6b-9887-e50a4b113678.jpg",
             "place": "سعادت‌آباد",
@@ -148,6 +148,11 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده و مجرد"
+            },
+            {
+                "title": "آژانس املاک",
+                "value": "کاط",
+                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -563,6 +568,13 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
         "note": {
             "enable": true
         }

@@ -31,20 +31,20 @@
             "business_type": "real-estate-business",
             "business_ref": "4305",
             "data": {
-                "id": "4305",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/Sd1DJuce5cZIY9mKlIFvbQ.jpg",
-                "name": "مشاورین املاک بین الملل میرداماد",
-                "slug": "GS65DD2G",
+                "submitType": "AGENCY_SUBMIT",
                 "score": 0.54460436,
+                "id": "4305",
+                "slug": "GS65DD2G",
                 "address": "میرداماد . بین شریعتی و میدان محسنی . پلاک 19",
-                "usedFrom": "AGENT",
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/Sd1DJuce5cZIY9mKlIFvbQ.jpg",
                 "agentInfo": {
                     "name": "کیان ملایری پور",
                     "slug": "TxF9nVRD"
                 },
-                "submitType": "AGENCY_SUBMIT",
-                "shortAddress": "تهران، میرداماد",
-                "telephoneNumber": "02122902551"
+                "usedFrom": "AGENT",
+                "telephoneNumber": "02122902551",
+                "name": "مشاورین املاک بین الملل میرداماد",
+                "shortAddress": "تهران، میرداماد"
             }
         },
         "city": "تهران",
@@ -56,20 +56,20 @@
             "business_type": "real-estate-business",
             "business_ref": "4305",
             "data": {
-                "id": "4305",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/Sd1DJuce5cZIY9mKlIFvbQ.jpg",
-                "name": "مشاورین املاک بین الملل میرداماد",
-                "slug": "GS65DD2G",
+                "submitType": "AGENCY_SUBMIT",
                 "score": 0.54460436,
+                "id": "4305",
+                "slug": "GS65DD2G",
                 "address": "میرداماد . بین شریعتی و میدان محسنی . پلاک 19",
-                "usedFrom": "AGENT",
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/Sd1DJuce5cZIY9mKlIFvbQ.jpg",
                 "agentInfo": {
                     "name": "کیان ملایری پور",
                     "slug": "TxF9nVRD"
                 },
-                "submitType": "AGENCY_SUBMIT",
-                "shortAddress": "تهران، میرداماد",
-                "telephoneNumber": "02122902551"
+                "usedFrom": "AGENT",
+                "telephoneNumber": "02122902551",
+                "name": "مشاورین املاک بین الملل میرداماد",
+                "shortAddress": "تهران، میرداماد"
             },
             "price": null,
             "rent": 0,
@@ -80,8 +80,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، میرداماد | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، میرداماد | اجاره آپارتمان",
             "title": "۱۸۰ متری ۳ خواب حیاط در اختیار",
             "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/rXxSZulmWVh-DUcaInWlsA/fc92d3bb-72d0-4a60-bf93-e1458d30b14c.jpg",
             "place": "میرداماد",
@@ -150,11 +150,6 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده"
-            },
-            {
-                "title": "آژانس املاک",
-                "value": "مشاورین املاک بین الملل میرداماد",
-                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -383,13 +378,6 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
-        "suggestions": {
-            "suggestion_available": false,
-            "title": "",
-            "posts": [],
-            "widget_list": [],
-            "post_suggestion_extra_logs": []
-        },
         "note": {
             "enable": true
         }

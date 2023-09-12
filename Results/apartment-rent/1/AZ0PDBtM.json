@@ -31,19 +31,19 @@
             "business_type": "real-estate-business",
             "business_ref": "31599",
             "data": {
-                "submitType": "AGENCY_SUBMIT",
-                "slug": "JTCQkEc3",
+                "id": "31599",
                 "logo": "https://s100.divarcdn.com/static/images/real-estate/yz1wTcqqq8LlaBpZVyDJEQ.jpg",
-                "telephoneNumber": "02144400000",
-                "agentInfo": {
-                    "slug": "dA5ZuIsL",
-                    "name": "فروش پروژه های حاج رحیم قربانی (جلالی)"
-                },
-                "address": "میدان پونک، اشرفی اصفهانی، نبش غروی، پارک اداری رونیکا پالاس، طبقه ۱",
                 "name": "رسمی شرکت ابنیه سازان مقاوم قربانی ، رونیکا پالاس",
+                "slug": "JTCQkEc3",
                 "score": 0.62108034,
+                "address": "میدان پونک، اشرفی اصفهانی، نبش غروی، پارک اداری رونیکا پالاس، طبقه ۱",
+                "agentInfo": {
+                    "name": "فروش پروژه های حاج رحیم قربانی (جلالی)",
+                    "slug": "dA5ZuIsL"
+                },
+                "submitType": "AGENCY_SUBMIT",
                 "shortAddress": "تهران، حسین‌آباد",
-                "id": "31599"
+                "telephoneNumber": "02144400000"
             }
         },
         "city": "تهران",
@@ -55,19 +55,19 @@
             "business_type": "real-estate-business",
             "business_ref": "31599",
             "data": {
-                "submitType": "AGENCY_SUBMIT",
-                "slug": "JTCQkEc3",
+                "id": "31599",
                 "logo": "https://s100.divarcdn.com/static/images/real-estate/yz1wTcqqq8LlaBpZVyDJEQ.jpg",
-                "telephoneNumber": "02144400000",
-                "agentInfo": {
-                    "slug": "dA5ZuIsL",
-                    "name": "فروش پروژه های حاج رحیم قربانی (جلالی)"
-                },
-                "address": "میدان پونک، اشرفی اصفهانی، نبش غروی، پارک اداری رونیکا پالاس، طبقه ۱",
                 "name": "رسمی شرکت ابنیه سازان مقاوم قربانی ، رونیکا پالاس",
+                "slug": "JTCQkEc3",
                 "score": 0.62108034,
+                "address": "میدان پونک، اشرفی اصفهانی، نبش غروی، پارک اداری رونیکا پالاس، طبقه ۱",
+                "agentInfo": {
+                    "name": "فروش پروژه های حاج رحیم قربانی (جلالی)",
+                    "slug": "dA5ZuIsL"
+                },
+                "submitType": "AGENCY_SUBMIT",
                 "shortAddress": "تهران، حسین‌آباد",
-                "id": "31599"
+                "telephoneNumber": "02144400000"
             },
             "price": null,
             "rent": 107000,
@@ -78,8 +78,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، پونک | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، پونک | اجاره آپارتمان",
             "title": "فاز دوم فروش و رهن واحدهای اداری رونیکا پالاس",
             "thumbnail": "https://s100.divarcdn.com/static/thumbnails/1694431785/AZ0PDBtM.jpg",
             "place": "پونک",
@@ -126,6 +126,11 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده و مجرد"
+            },
+            {
+                "title": "آژانس املاک",
+                "value": "رسمی شرکت ابنیه سازان مقاوم قربانی ، رونیکا پالاس",
+                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -669,6 +674,13 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
         "note": {
             "enable": true
         }

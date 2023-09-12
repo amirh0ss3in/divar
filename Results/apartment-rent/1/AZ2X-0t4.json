@@ -31,11 +31,11 @@
             "business_type": "real-estate-business",
             "business_ref": "agent_263766",
             "data": {
+                "id": "263766",
                 "name": "محمدرضا ثانی",
+                "slug": "J3k2pQAD",
                 "score": 0.60419506,
                 "usedFrom": "AGENT",
-                "id": "263766",
-                "slug": "J3k2pQAD",
                 "submitType": "INDEPENDENT_AGENT_SUBMIT"
             }
         },
@@ -48,11 +48,11 @@
             "business_type": "real-estate-business",
             "business_ref": "agent_263766",
             "data": {
+                "id": "263766",
                 "name": "محمدرضا ثانی",
+                "slug": "J3k2pQAD",
                 "score": 0.60419506,
                 "usedFrom": "AGENT",
-                "id": "263766",
-                "slug": "J3k2pQAD",
                 "submitType": "INDEPENDENT_AGENT_SUBMIT"
             },
             "price": null,
@@ -64,8 +64,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، باغ فیض | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، باغ فیض | اجاره آپارتمان",
             "title": "60 متر / برج های مجلل مروارید غرب",
             "thumbnail": "https://s100.divarcdn.com/static/thumbnails/1694431664/AZ2X-0t4.jpg",
             "place": "باغ فیض",
@@ -412,6 +412,13 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
         "note": {
             "enable": true
         }

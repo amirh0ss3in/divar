@@ -50,8 +50,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، جنت‌آباد جنوبی | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، جنت‌آباد جنوبی | اجاره آپارتمان",
             "title": "آپارتمان سه خوابه در چهارباغ",
             "thumbnail": "https://s100.divarcdn.com/static/thumbnails/1694431673/AZ3PAcMO.jpg",
             "place": "جنت‌آباد جنوبی",
@@ -558,6 +558,13 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
         "note": {
             "enable": true
         }

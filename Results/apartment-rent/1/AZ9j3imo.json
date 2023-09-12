@@ -32,18 +32,18 @@
             "business_ref": "37569",
             "data": {
                 "id": "37569",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/F0OJXvr780-OhjLlHMeMww.jpg",
                 "name": "املاک توسعه کار آفرین",
+                "shortAddress": "تهران، میرداماد",
                 "slug": "6e4u91JW",
-                "score": 0.5693655,
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/F0OJXvr780-OhjLlHMeMww.jpg",
                 "address": "بلوار میر دامادمیدان مادر بسمت شریعتی پلاک ۵۴ طبقه اول واحد یک",
+                "telephoneNumber": "02122226160",
                 "agentInfo": {
                     "name": "افشار",
                     "slug": "gUc0Ev5L"
                 },
                 "submitType": "AGENCY_SUBMIT",
-                "shortAddress": "تهران، میرداماد",
-                "telephoneNumber": "02122226160"
+                "score": 0.5693655
             }
         },
         "city": "تهران",
@@ -56,18 +56,18 @@
             "business_ref": "37569",
             "data": {
                 "id": "37569",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/F0OJXvr780-OhjLlHMeMww.jpg",
                 "name": "املاک توسعه کار آفرین",
+                "shortAddress": "تهران، میرداماد",
                 "slug": "6e4u91JW",
-                "score": 0.5693655,
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/F0OJXvr780-OhjLlHMeMww.jpg",
                 "address": "بلوار میر دامادمیدان مادر بسمت شریعتی پلاک ۵۴ طبقه اول واحد یک",
+                "telephoneNumber": "02122226160",
                 "agentInfo": {
                     "name": "افشار",
                     "slug": "gUc0Ev5L"
                 },
                 "submitType": "AGENCY_SUBMIT",
-                "shortAddress": "تهران، میرداماد",
-                "telephoneNumber": "02122226160"
+                "score": 0.5693655
             },
             "price": null,
             "rent": 45000000,
@@ -78,8 +78,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، میرداماد | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، میرداماد | اجاره آپارتمان",
             "title": "۱۴۰ متر ۳خ شیک",
             "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/ymYQqjARW_OvvtoqxBqVBA/bb48574c-d010-4ba0-b479-a754102bd508.jpg",
             "place": "میرداماد",
@@ -126,11 +126,6 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده"
-            },
-            {
-                "title": "آژانس املاک",
-                "value": "املاک توسعه کار آفرین",
-                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -315,13 +310,6 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
-        "suggestions": {
-            "suggestion_available": false,
-            "title": "",
-            "posts": [],
-            "widget_list": [],
-            "post_suggestion_extra_logs": []
-        },
         "note": {
             "enable": true
         }

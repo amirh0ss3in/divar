@@ -31,13 +31,13 @@
             "business_type": "real-estate-business",
             "business_ref": "agent_428826",
             "data": {
-                "submitType": "INDEPENDENT_AGENT_SUBMIT",
-                "usedFrom": "AGENT",
                 "id": "428826",
-                "slug": "8lehivK9",
                 "logo": "https://s100.divarcdn.com/static/images/real-estate/4IXorMcahJlWeRjNg0KZPg.jpg",
+                "name": "نوید سمویی",
+                "slug": "8lehivK9",
                 "score": 0.63072914,
-                "name": "نوید سمویی"
+                "usedFrom": "AGENT",
+                "submitType": "INDEPENDENT_AGENT_SUBMIT"
             }
         },
         "city": "تهران",
@@ -49,13 +49,13 @@
             "business_type": "real-estate-business",
             "business_ref": "agent_428826",
             "data": {
-                "submitType": "INDEPENDENT_AGENT_SUBMIT",
-                "usedFrom": "AGENT",
                 "id": "428826",
-                "slug": "8lehivK9",
                 "logo": "https://s100.divarcdn.com/static/images/real-estate/4IXorMcahJlWeRjNg0KZPg.jpg",
+                "name": "نوید سمویی",
+                "slug": "8lehivK9",
                 "score": 0.63072914,
-                "name": "نوید سمویی"
+                "usedFrom": "AGENT",
+                "submitType": "INDEPENDENT_AGENT_SUBMIT"
             },
             "price": null,
             "rent": 25000000,
@@ -66,8 +66,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، شهرک راه‌آهن، خیابان کاج | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، شهرک راه‌آهن، خیابان کاج | اجاره آپارتمان",
             "title": "آپارتمان ۱۱۰متری ۲خواب شیک وتمیز",
             "thumbnail": "https://s100.divarcdn.com/static/thumbnails/1694431795/AZgToLGY.jpg",
             "place": "شهرک راه‌آهن",
@@ -481,6 +481,13 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
         "note": {
             "enable": true
         }

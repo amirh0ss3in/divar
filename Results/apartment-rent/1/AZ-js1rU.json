@@ -31,19 +31,19 @@
             "business_type": "real-estate-business",
             "business_ref": "2172",
             "data": {
-                "id": "2172",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/Gnm3B2zhXbxBqMnDTwzhcg.jpg",
-                "name": "گروه مشاورین املاک راشــا",
-                "slug": "6dlm29xa",
                 "score": 0.6014417,
                 "address": "تهران - اشرفی اصفهانی - پایین تر از مجتمع تجاری تیراژه - نبش کوچه امام حسین - پ142",
                 "agentInfo": {
-                    "name": "Parsa",
-                    "slug": "QOj2lVQM"
+                    "slug": "QOj2lVQM",
+                    "name": "Parsa"
                 },
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/Gnm3B2zhXbxBqMnDTwzhcg.jpg",
+                "slug": "6dlm29xa",
+                "telephoneNumber": "02144466400",
                 "submitType": "AGENCY_SUBMIT",
-                "shortAddress": "تهران، باغ فیض",
-                "telephoneNumber": "02144466400"
+                "name": "گروه مشاورین املاک راشــا",
+                "id": "2172",
+                "shortAddress": "تهران، باغ فیض"
             }
         },
         "city": "تهران",
@@ -55,19 +55,19 @@
             "business_type": "real-estate-business",
             "business_ref": "2172",
             "data": {
-                "id": "2172",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/Gnm3B2zhXbxBqMnDTwzhcg.jpg",
-                "name": "گروه مشاورین املاک راشــا",
-                "slug": "6dlm29xa",
                 "score": 0.6014417,
                 "address": "تهران - اشرفی اصفهانی - پایین تر از مجتمع تجاری تیراژه - نبش کوچه امام حسین - پ142",
                 "agentInfo": {
-                    "name": "Parsa",
-                    "slug": "QOj2lVQM"
+                    "slug": "QOj2lVQM",
+                    "name": "Parsa"
                 },
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/Gnm3B2zhXbxBqMnDTwzhcg.jpg",
+                "slug": "6dlm29xa",
+                "telephoneNumber": "02144466400",
                 "submitType": "AGENCY_SUBMIT",
-                "shortAddress": "تهران، باغ فیض",
-                "telephoneNumber": "02144466400"
+                "name": "گروه مشاورین املاک راشــا",
+                "id": "2172",
+                "shortAddress": "تهران، باغ فیض"
             },
             "price": null,
             "rent": 19000000,
@@ -78,8 +78,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، باغ فیض | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، باغ فیض | اجاره آپارتمان",
             "title": "۸۷ متری / ۲ خواب / باغ فیض",
             "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/3rjYqsj_sJkbvVkvGyviTg/c6858ed1-01ef-401a-b741-c13d46b556be.jpg",
             "place": "باغ فیض",
@@ -126,11 +126,6 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده و مجرد"
-            },
-            {
-                "title": "آژانس املاک",
-                "value": "گروه مشاورین املاک راشــا",
-                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -315,13 +310,6 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
-        "suggestions": {
-            "suggestion_available": false,
-            "title": "",
-            "posts": [],
-            "widget_list": [],
-            "post_suggestion_extra_logs": []
-        },
         "note": {
             "enable": true
         }

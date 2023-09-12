@@ -31,19 +31,19 @@
             "business_type": "real-estate-business",
             "business_ref": "11003",
             "data": {
-                "id": "11003",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/drgnQ9oVIeCtWtL2biQYNw.jpg",
-                "name": "املاک پارسی",
-                "slug": "2KSi1dji",
-                "score": 0.52168447,
-                "address": "اشرفی اصفهانی 100متر پایین تر از تیراژه",
                 "agentInfo": {
-                    "name": "ایمان بشیری",
-                    "slug": "tNv5lprf"
+                    "slug": "tNv5lprf",
+                    "name": "ایمان بشیری"
                 },
-                "submitType": "AGENCY_SUBMIT",
                 "shortAddress": "تهران، پونک",
-                "telephoneNumber": "02144455278"
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/drgnQ9oVIeCtWtL2biQYNw.jpg",
+                "id": "11003",
+                "address": "اشرفی اصفهانی 100متر پایین تر از تیراژه",
+                "submitType": "AGENCY_SUBMIT",
+                "telephoneNumber": "02144455278",
+                "slug": "2KSi1dji",
+                "name": "املاک پارسی",
+                "score": 0.52168447
             }
         },
         "city": "تهران",
@@ -55,19 +55,19 @@
             "business_type": "real-estate-business",
             "business_ref": "11003",
             "data": {
-                "id": "11003",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/drgnQ9oVIeCtWtL2biQYNw.jpg",
-                "name": "املاک پارسی",
-                "slug": "2KSi1dji",
-                "score": 0.52168447,
-                "address": "اشرفی اصفهانی 100متر پایین تر از تیراژه",
                 "agentInfo": {
-                    "name": "ایمان بشیری",
-                    "slug": "tNv5lprf"
+                    "slug": "tNv5lprf",
+                    "name": "ایمان بشیری"
                 },
-                "submitType": "AGENCY_SUBMIT",
                 "shortAddress": "تهران، پونک",
-                "telephoneNumber": "02144455278"
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/drgnQ9oVIeCtWtL2biQYNw.jpg",
+                "id": "11003",
+                "address": "اشرفی اصفهانی 100متر پایین تر از تیراژه",
+                "submitType": "AGENCY_SUBMIT",
+                "telephoneNumber": "02144455278",
+                "slug": "2KSi1dji",
+                "name": "املاک پارسی",
+                "score": 0.52168447
             },
             "price": null,
             "rent": 26000000,
@@ -78,8 +78,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، اباذر | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، اباذر | اجاره آپارتمان",
             "title": "آپارتمان ۹۸ متر فول خ بهنام تخلیه",
             "thumbnail": "https://s100.divarcdn.com/static/thumbnails/1694431907/AZv_wIhK.jpg",
             "place": "اباذر",
@@ -148,11 +148,6 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده و مجرد"
-            },
-            {
-                "title": "آژانس املاک",
-                "value": "املاک پارسی",
-                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -565,13 +560,6 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
-        "suggestions": {
-            "suggestion_available": false,
-            "title": "",
-            "posts": [],
-            "widget_list": [],
-            "post_suggestion_extra_logs": []
-        },
         "note": {
             "enable": true
         }

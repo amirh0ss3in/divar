@@ -31,19 +31,19 @@
             "business_type": "real-estate-business",
             "business_ref": "645",
             "data": {
-                "id": "645",
+                "submitType": "AGENCY_SUBMIT",
                 "logo": "https://s100.divarcdn.com/static/images/real-estate/voc9l_lUX-n_h0ZhKOEZLA.jpg",
                 "name": "املاک بزرگ امیران",
-                "slug": "0g1wJDQr",
-                "score": 0.588825,
-                "address": "پونک ،خیابان اشرفی اصفهانی،خیابان نیک زارع ،  روبروی پارکینگ تیراژه،نبش کوچه زمانی پلاک 6",
+                "telephoneNumber": "02144447381",
                 "agentInfo": {
-                    "name": "معین",
-                    "slug": "5EWU2nGa"
+                    "slug": "5EWU2nGa",
+                    "name": "معین"
                 },
-                "submitType": "AGENCY_SUBMIT",
+                "score": 0.588825,
                 "shortAddress": "تهران، باغ فیض",
-                "telephoneNumber": "02144447381"
+                "slug": "0g1wJDQr",
+                "address": "پونک ،خیابان اشرفی اصفهانی،خیابان نیک زارع ،  روبروی پارکینگ تیراژه،نبش کوچه زمانی پلاک 6",
+                "id": "645"
             }
         },
         "city": "تهران",
@@ -55,19 +55,19 @@
             "business_type": "real-estate-business",
             "business_ref": "645",
             "data": {
-                "id": "645",
+                "submitType": "AGENCY_SUBMIT",
                 "logo": "https://s100.divarcdn.com/static/images/real-estate/voc9l_lUX-n_h0ZhKOEZLA.jpg",
                 "name": "املاک بزرگ امیران",
-                "slug": "0g1wJDQr",
-                "score": 0.588825,
-                "address": "پونک ،خیابان اشرفی اصفهانی،خیابان نیک زارع ،  روبروی پارکینگ تیراژه،نبش کوچه زمانی پلاک 6",
+                "telephoneNumber": "02144447381",
                 "agentInfo": {
-                    "name": "معین",
-                    "slug": "5EWU2nGa"
+                    "slug": "5EWU2nGa",
+                    "name": "معین"
                 },
-                "submitType": "AGENCY_SUBMIT",
+                "score": 0.588825,
                 "shortAddress": "تهران، باغ فیض",
-                "telephoneNumber": "02144447381"
+                "slug": "0g1wJDQr",
+                "address": "پونک ،خیابان اشرفی اصفهانی،خیابان نیک زارع ،  روبروی پارکینگ تیراژه،نبش کوچه زمانی پلاک 6",
+                "id": "645"
             },
             "price": null,
             "rent": 12100000,
@@ -78,8 +78,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، باغ فیض | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، باغ فیض | اجاره آپارتمان",
             "title": "۸۳ متر/ دوخواب/ تاپ لوکیشن/ سالن پرده خور",
             "thumbnail": "https://s100.divarcdn.com/static/thumbnails/1694431764/AZzPQBpl.jpg",
             "place": "باغ فیض",
@@ -126,11 +126,6 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده و مجرد"
-            },
-            {
-                "title": "آژانس املاک",
-                "value": "املاک بزرگ امیران",
-                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -304,13 +299,6 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
-        "suggestions": {
-            "suggestion_available": false,
-            "title": "",
-            "posts": [],
-            "widget_list": [],
-            "post_suggestion_extra_logs": []
-        },
         "note": {
             "enable": true
         }

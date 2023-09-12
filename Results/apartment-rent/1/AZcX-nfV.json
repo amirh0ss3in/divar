@@ -31,18 +31,18 @@
             "business_type": "real-estate-business",
             "business_ref": "5461",
             "data": {
-                "id": "5461",
                 "logo": "https://s100.divarcdn.com/static/images/real-estate/12sbg4ft0xKJCEP-9OYh4w.jpg",
-                "name": "الوند",
-                "slug": "366OQDfc",
-                "score": 0.5522759,
                 "address": "تهران نیاوران خیابان پورابتهاج پ۳۴۸",
                 "agentInfo": {
                     "name": "حسام لطیفی",
                     "slug": "dP7dNbgk"
                 },
+                "name": "الوند",
                 "submitType": "AGENCY_SUBMIT",
+                "slug": "366OQDfc",
                 "shortAddress": "تهران، کاشانک",
+                "id": "5461",
+                "score": 0.5522759,
                 "telephoneNumber": "02122297979"
             }
         },
@@ -55,18 +55,18 @@
             "business_type": "real-estate-business",
             "business_ref": "5461",
             "data": {
-                "id": "5461",
                 "logo": "https://s100.divarcdn.com/static/images/real-estate/12sbg4ft0xKJCEP-9OYh4w.jpg",
-                "name": "الوند",
-                "slug": "366OQDfc",
-                "score": 0.5522759,
                 "address": "تهران نیاوران خیابان پورابتهاج پ۳۴۸",
                 "agentInfo": {
                     "name": "حسام لطیفی",
                     "slug": "dP7dNbgk"
                 },
+                "name": "الوند",
                 "submitType": "AGENCY_SUBMIT",
+                "slug": "366OQDfc",
                 "shortAddress": "تهران، کاشانک",
+                "id": "5461",
+                "score": 0.5522759,
                 "telephoneNumber": "02122297979"
             },
             "price": null,
@@ -78,8 +78,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، اختیاریه | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، اختیاریه | اجاره آپارتمان",
             "title": "۱۲۵ متر کلید نخورده دنج",
             "thumbnail": "https://s100.divarcdn.com/static/thumbnails/1694431752/AZcX-nfV.jpg",
             "place": "اختیاریه",
@@ -148,11 +148,6 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده و مجرد"
-            },
-            {
-                "title": "آژانس املاک",
-                "value": "الوند",
-                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -579,13 +574,6 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
-        "suggestions": {
-            "suggestion_available": false,
-            "title": "",
-            "posts": [],
-            "widget_list": [],
-            "post_suggestion_extra_logs": []
-        },
         "note": {
             "enable": true
         }

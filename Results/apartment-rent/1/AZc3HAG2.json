@@ -31,18 +31,18 @@
             "business_type": "real-estate-business",
             "business_ref": "2866",
             "data": {
+                "id": "2866",
+                "name": "ایفل",
+                "slug": "PqWXpfBi",
+                "score": 0.6298148,
+                "address": "پایین تر از میدان پونک خیابان شهید مخبری پلاک 16 مسکن ایفل",
                 "agentInfo": {
                     "name": "امین خسرویinst:aminkhosravi01",
                     "slug": "Og6fwkS9"
                 },
-                "id": "2866",
-                "telephoneNumber": "02144440012",
-                "slug": "PqWXpfBi",
-                "score": 0.6298148,
-                "shortAddress": "تهران، پونک",
-                "name": "ایفل",
                 "submitType": "AGENCY_SUBMIT",
-                "address": "پایین تر از میدان پونک خیابان شهید مخبری پلاک 16 مسکن ایفل"
+                "shortAddress": "تهران، پونک",
+                "telephoneNumber": "02144440012"
             }
         },
         "city": "تهران",
@@ -54,18 +54,18 @@
             "business_type": "real-estate-business",
             "business_ref": "2866",
             "data": {
+                "id": "2866",
+                "name": "ایفل",
+                "slug": "PqWXpfBi",
+                "score": 0.6298148,
+                "address": "پایین تر از میدان پونک خیابان شهید مخبری پلاک 16 مسکن ایفل",
                 "agentInfo": {
                     "name": "امین خسرویinst:aminkhosravi01",
                     "slug": "Og6fwkS9"
                 },
-                "id": "2866",
-                "telephoneNumber": "02144440012",
-                "slug": "PqWXpfBi",
-                "score": 0.6298148,
-                "shortAddress": "تهران، پونک",
-                "name": "ایفل",
                 "submitType": "AGENCY_SUBMIT",
-                "address": "پایین تر از میدان پونک خیابان شهید مخبری پلاک 16 مسکن ایفل"
+                "shortAddress": "تهران، پونک",
+                "telephoneNumber": "02144440012"
             },
             "price": null,
             "rent": 15000000,
@@ -76,8 +76,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، شهر زیبا | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، شهر زیبا | اجاره آپارتمان",
             "title": "۱۱۵متر دیزاین شده کف پارکت",
             "thumbnail": "https://s100.divarcdn.com/static/thumbnails/1694431718/AZc3HAG2.jpg",
             "place": "شهر زیبا",
@@ -146,6 +146,11 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده"
+            },
+            {
+                "title": "آژانس املاک",
+                "value": "ایفل",
+                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -602,6 +607,13 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
         "note": {
             "enable": true
         }

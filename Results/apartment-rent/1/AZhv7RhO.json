@@ -31,18 +31,18 @@
             "business_type": "real-estate-business",
             "business_ref": "9114",
             "data": {
-                "id": "9114",
-                "name": "مشاورین املاک بزرگ الماس",
-                "slug": "B1ivGjDg",
-                "score": 0.6622805,
                 "address": "اشرفی اصفهانی ۵۰ متر بالاتر از پل نیایش سمت راست املاک الماس",
-                "agentInfo": {
-                    "name": "شهرام سلیمانی",
-                    "slug": "jwQAUrwr"
-                },
-                "submitType": "AGENCY_SUBMIT",
                 "shortAddress": "تهران، پونک",
-                "telephoneNumber": "02144851146"
+                "slug": "B1ivGjDg",
+                "telephoneNumber": "02144851146",
+                "score": 0.6622805,
+                "name": "مشاورین املاک بزرگ الماس",
+                "agentInfo": {
+                    "slug": "jwQAUrwr",
+                    "name": "شهرام سلیمانی"
+                },
+                "id": "9114",
+                "submitType": "AGENCY_SUBMIT"
             }
         },
         "city": "تهران",
@@ -54,18 +54,18 @@
             "business_type": "real-estate-business",
             "business_ref": "9114",
             "data": {
-                "id": "9114",
-                "name": "مشاورین املاک بزرگ الماس",
-                "slug": "B1ivGjDg",
-                "score": 0.6622805,
                 "address": "اشرفی اصفهانی ۵۰ متر بالاتر از پل نیایش سمت راست املاک الماس",
-                "agentInfo": {
-                    "name": "شهرام سلیمانی",
-                    "slug": "jwQAUrwr"
-                },
-                "submitType": "AGENCY_SUBMIT",
                 "shortAddress": "تهران، پونک",
-                "telephoneNumber": "02144851146"
+                "slug": "B1ivGjDg",
+                "telephoneNumber": "02144851146",
+                "score": 0.6622805,
+                "name": "مشاورین املاک بزرگ الماس",
+                "agentInfo": {
+                    "slug": "jwQAUrwr",
+                    "name": "شهرام سلیمانی"
+                },
+                "id": "9114",
+                "submitType": "AGENCY_SUBMIT"
             },
             "price": null,
             "rent": 0,
@@ -76,8 +76,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، پونک | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، پونک | اجاره آپارتمان",
             "title": "۱۰۰مترغرق نورفول امکانات",
             "thumbnail": "https://s100.divarcdn.com/static/thumbnails/1694431790/AZhv7RhO.jpg",
             "place": "پونک",
@@ -124,11 +124,6 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده و مجرد"
-            },
-            {
-                "title": "آژانس املاک",
-                "value": "مشاورین املاک بزرگ الماس",
-                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -471,13 +466,6 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
-        "suggestions": {
-            "suggestion_available": false,
-            "title": "",
-            "posts": [],
-            "widget_list": [],
-            "post_suggestion_extra_logs": []
-        },
         "note": {
             "enable": true
         }

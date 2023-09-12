@@ -31,19 +31,19 @@
             "business_type": "real-estate-business",
             "business_ref": "17061",
             "data": {
-                "address": "منطقه۲۲ بزرگراه حکیم غرب بلوار اردستانی شمال ورودی اصلی شهرک شهید خرازی بلوک بی۹ دفتر فروش خرازی",
                 "id": "17061",
-                "slug": "7K8rO5IS",
-                "shortAddress": "تهران، شریف",
-                "score": 0.71243364,
-                "telephoneNumber": "02146123224",
-                "submitType": "AGENCY_SUBMIT",
                 "logo": "https://s100.divarcdn.com/static/images/real-estate/1PWXHcHclifiFi0rHArD6g.jpg",
+                "name": "دفتر فروش خرازی آکام",
+                "slug": "7K8rO5IS",
+                "score": 0.71243364,
+                "address": "منطقه۲۲ بزرگراه حکیم غرب بلوار اردستانی شمال ورودی اصلی شهرک شهید خرازی بلوک بی۹ دفتر فروش خرازی",
                 "agentInfo": {
                     "name": "سید صدرالدین حسینی",
                     "slug": "rsrEVzpp"
                 },
-                "name": "دفتر فروش خرازی آکام"
+                "submitType": "AGENCY_SUBMIT",
+                "shortAddress": "تهران، شریف",
+                "telephoneNumber": "02146123224"
             }
         },
         "city": "تهران",
@@ -55,19 +55,19 @@
             "business_type": "real-estate-business",
             "business_ref": "17061",
             "data": {
-                "address": "منطقه۲۲ بزرگراه حکیم غرب بلوار اردستانی شمال ورودی اصلی شهرک شهید خرازی بلوک بی۹ دفتر فروش خرازی",
                 "id": "17061",
-                "slug": "7K8rO5IS",
-                "shortAddress": "تهران، شریف",
-                "score": 0.71243364,
-                "telephoneNumber": "02146123224",
-                "submitType": "AGENCY_SUBMIT",
                 "logo": "https://s100.divarcdn.com/static/images/real-estate/1PWXHcHclifiFi0rHArD6g.jpg",
+                "name": "دفتر فروش خرازی آکام",
+                "slug": "7K8rO5IS",
+                "score": 0.71243364,
+                "address": "منطقه۲۲ بزرگراه حکیم غرب بلوار اردستانی شمال ورودی اصلی شهرک شهید خرازی بلوک بی۹ دفتر فروش خرازی",
                 "agentInfo": {
                     "name": "سید صدرالدین حسینی",
                     "slug": "rsrEVzpp"
                 },
-                "name": "دفتر فروش خرازی آکام"
+                "submitType": "AGENCY_SUBMIT",
+                "shortAddress": "تهران، شریف",
+                "telephoneNumber": "02146123224"
             },
             "price": null,
             "rent": 6000000,
@@ -78,8 +78,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، دریاچه شهدای خلیج فارس، بزرگراه آزادگان (آزادراه خلیج فارس) | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، دریاچه شهدای خلیج فارس، بزرگراه آزادگان (آزادراه خلیج فارس) | اجاره آپارتمان",
             "title": "۱۱۸ متر ۲ خواب خرازی",
             "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/hS8IZYX3mFKOKSOU3_6I2w/e4957467-76ef-4b92-bb7e-2acc7ebfd249.jpg",
             "place": "دریاچه شهدای خلیج فارس",
@@ -148,6 +148,11 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده و مجرد"
+            },
+            {
+                "title": "آژانس املاک",
+                "value": "دفتر فروش خرازی آکام",
+                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -559,6 +564,13 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
         "note": {
             "enable": true
         }

@@ -32,11 +32,11 @@
             "business_ref": "agent_456430",
             "data": {
                 "id": "456430",
+                "submitType": "INDEPENDENT_AGENT_SUBMIT",
                 "name": "دوستی ",
                 "slug": "cApaAUSK",
-                "score": 0.7589394,
                 "usedFrom": "AGENT",
-                "submitType": "INDEPENDENT_AGENT_SUBMIT"
+                "score": 0.7589394
             }
         },
         "city": "تهران",
@@ -49,11 +49,11 @@
             "business_ref": "agent_456430",
             "data": {
                 "id": "456430",
+                "submitType": "INDEPENDENT_AGENT_SUBMIT",
                 "name": "دوستی ",
                 "slug": "cApaAUSK",
-                "score": 0.7589394,
                 "usedFrom": "AGENT",
-                "submitType": "INDEPENDENT_AGENT_SUBMIT"
+                "score": 0.7589394
             },
             "price": null,
             "rent": 0,
@@ -64,8 +64,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، سهروردی، خیابان سهروردی شمالی (بزرگراه سردار سلیمانی) | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، سهروردی، خیابان سهروردی شمالی (بزرگراه سردار سلیمانی) | اجاره آپارتمان",
             "title": "بهار/۸۰ متر ۲ خواب/فول امکانات/نوساز کلید نخورده",
             "thumbnail": "https://s100.divarcdn.com/static/thumbnails/1694431795/AZzTE6gW.jpg",
             "place": "سهروردی",
@@ -611,13 +611,6 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
-        "suggestions": {
-            "suggestion_available": false,
-            "title": "",
-            "posts": [],
-            "widget_list": [],
-            "post_suggestion_extra_logs": []
-        },
         "note": {
             "enable": true
         }

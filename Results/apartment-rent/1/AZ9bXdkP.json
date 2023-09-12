@@ -31,19 +31,19 @@
             "business_type": "real-estate-business",
             "business_ref": "294",
             "data": {
-                "submitType": "AGENCY_SUBMIT",
                 "id": "294",
-                "score": 0.61019593,
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/OhIE0OOr1buv2CiEC0LBmQ.jpg",
+                "name": "املاک برج",
                 "slug": "pBT3vRSS",
+                "score": 0.61019593,
+                "address": "پونک ، سردار جنگل ، نبش بهار شرقی ، پلاک ۳۹د، طبقه اول",
                 "agentInfo": {
                     "name": "بهارلو",
                     "slug": "KDqD5sBN"
                 },
-                "address": "پونک ، سردار جنگل ، نبش بهار شرقی ، پلاک ۳۹د، طبقه اول",
+                "submitType": "AGENCY_SUBMIT",
                 "shortAddress": "تهران، پونک",
-                "telephoneNumber": "02144408866",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/OhIE0OOr1buv2CiEC0LBmQ.jpg",
-                "name": "املاک برج"
+                "telephoneNumber": "02144408866"
             }
         },
         "city": "تهران",
@@ -55,19 +55,19 @@
             "business_type": "real-estate-business",
             "business_ref": "294",
             "data": {
-                "submitType": "AGENCY_SUBMIT",
                 "id": "294",
-                "score": 0.61019593,
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/OhIE0OOr1buv2CiEC0LBmQ.jpg",
+                "name": "املاک برج",
                 "slug": "pBT3vRSS",
+                "score": 0.61019593,
+                "address": "پونک ، سردار جنگل ، نبش بهار شرقی ، پلاک ۳۹د، طبقه اول",
                 "agentInfo": {
                     "name": "بهارلو",
                     "slug": "KDqD5sBN"
                 },
-                "address": "پونک ، سردار جنگل ، نبش بهار شرقی ، پلاک ۳۹د، طبقه اول",
+                "submitType": "AGENCY_SUBMIT",
                 "shortAddress": "تهران، پونک",
-                "telephoneNumber": "02144408866",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/OhIE0OOr1buv2CiEC0LBmQ.jpg",
-                "name": "املاک برج"
+                "telephoneNumber": "02144408866"
             },
             "price": null,
             "rent": 9000000,
@@ -78,8 +78,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، پونک | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، پونک | اجاره آپارتمان",
             "title": "٨٠ متر/سالن پرده خور/پونک/برج",
             "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/DAHwHC3K8RW-dhO7MIiGuQ/d6f46286-39d0-4eea-b9f3-083a8484f3f0.jpg",
             "place": "پونک",
@@ -126,6 +126,11 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده و مجرد"
+            },
+            {
+                "title": "آژانس املاک",
+                "value": "املاک برج",
+                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -299,6 +304,13 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
         "note": {
             "enable": true
         }

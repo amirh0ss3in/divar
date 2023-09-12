@@ -31,18 +31,18 @@
             "business_type": "real-estate-business",
             "business_ref": "9114",
             "data": {
-                "id": "9114",
-                "name": "مشاورین املاک بزرگ الماس",
-                "slug": "B1ivGjDg",
-                "score": 0.6467548,
-                "address": "اشرفی اصفهانی ۵۰ متر بالاتر از پل نیایش سمت راست املاک الماس",
+                "submitType": "AGENCY_SUBMIT",
+                "telephoneNumber": "02144851146",
                 "agentInfo": {
                     "name": "شهرام سلیمانی",
                     "slug": "jwQAUrwr"
                 },
-                "submitType": "AGENCY_SUBMIT",
-                "shortAddress": "تهران، پونک",
-                "telephoneNumber": "02144851146"
+                "score": 0.6467548,
+                "address": "اشرفی اصفهانی ۵۰ متر بالاتر از پل نیایش سمت راست املاک الماس",
+                "name": "مشاورین املاک بزرگ الماس",
+                "id": "9114",
+                "slug": "B1ivGjDg",
+                "shortAddress": "تهران، پونک"
             }
         },
         "city": "تهران",
@@ -54,18 +54,18 @@
             "business_type": "real-estate-business",
             "business_ref": "9114",
             "data": {
-                "id": "9114",
-                "name": "مشاورین املاک بزرگ الماس",
-                "slug": "B1ivGjDg",
-                "score": 0.6467548,
-                "address": "اشرفی اصفهانی ۵۰ متر بالاتر از پل نیایش سمت راست املاک الماس",
+                "submitType": "AGENCY_SUBMIT",
+                "telephoneNumber": "02144851146",
                 "agentInfo": {
                     "name": "شهرام سلیمانی",
                     "slug": "jwQAUrwr"
                 },
-                "submitType": "AGENCY_SUBMIT",
-                "shortAddress": "تهران، پونک",
-                "telephoneNumber": "02144851146"
+                "score": 0.6467548,
+                "address": "اشرفی اصفهانی ۵۰ متر بالاتر از پل نیایش سمت راست املاک الماس",
+                "name": "مشاورین املاک بزرگ الماس",
+                "id": "9114",
+                "slug": "B1ivGjDg",
+                "shortAddress": "تهران، پونک"
             },
             "price": null,
             "rent": 24000000,
@@ -76,8 +76,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، پونک | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، پونک | اجاره آپارتمان",
             "title": "۳خوابه تک واحدی فول",
             "thumbnail": "https://s100.divarcdn.com/static/thumbnails/1694431737/AZYDoGho.jpg",
             "place": "پونک",
@@ -146,11 +146,6 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده"
-            },
-            {
-                "title": "آژانس املاک",
-                "value": "مشاورین املاک بزرگ الماس",
-                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -585,13 +580,6 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
-        "suggestions": {
-            "suggestion_available": false,
-            "title": "",
-            "posts": [],
-            "widget_list": [],
-            "post_suggestion_extra_logs": []
-        },
         "note": {
             "enable": true
         }

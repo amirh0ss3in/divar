@@ -31,19 +31,19 @@
             "business_type": "real-estate-business",
             "business_ref": "11535",
             "data": {
-                "id": "11535",
                 "logo": "https://s100.divarcdn.com/static/images/real-estate/HXYH3NbKgOEWrJz-RUmIPg.jpg",
+                "address": "شهرری. میدان نماز. خیابان ۳۵متری \r\nامام حسین. پلاک ۹۹",
+                "shortAddress": "تهران، دیلمان",
+                "telephoneNumber": "02133371055",
+                "submitType": "AGENCY_SUBMIT",
                 "name": "دپارتمان املاک شاهکار",
                 "slug": "nqcvMa6n",
                 "score": 0.58443403,
-                "address": "شهرری. میدان نماز. خیابان ۳۵متری \r\nامام حسین. پلاک ۹۹",
                 "agentInfo": {
                     "name": "تجربه",
                     "slug": "JIFuFTAh"
                 },
-                "submitType": "AGENCY_SUBMIT",
-                "shortAddress": "تهران، دیلمان",
-                "telephoneNumber": "02133371055"
+                "id": "11535"
             }
         },
         "city": "تهران",
@@ -55,19 +55,19 @@
             "business_type": "real-estate-business",
             "business_ref": "11535",
             "data": {
-                "id": "11535",
                 "logo": "https://s100.divarcdn.com/static/images/real-estate/HXYH3NbKgOEWrJz-RUmIPg.jpg",
+                "address": "شهرری. میدان نماز. خیابان ۳۵متری \r\nامام حسین. پلاک ۹۹",
+                "shortAddress": "تهران، دیلمان",
+                "telephoneNumber": "02133371055",
+                "submitType": "AGENCY_SUBMIT",
                 "name": "دپارتمان املاک شاهکار",
                 "slug": "nqcvMa6n",
                 "score": 0.58443403,
-                "address": "شهرری. میدان نماز. خیابان ۳۵متری \r\nامام حسین. پلاک ۹۹",
                 "agentInfo": {
                     "name": "تجربه",
                     "slug": "JIFuFTAh"
                 },
-                "submitType": "AGENCY_SUBMIT",
-                "shortAddress": "تهران، دیلمان",
-                "telephoneNumber": "02133371055"
+                "id": "11535"
             },
             "price": null,
             "rent": 14000000,
@@ -78,8 +78,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، سرتخت | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، سرتخت | اجاره آپارتمان",
             "title": "۱۱۰ متری/دوخواب/فول امکانات",
             "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/c1PiIusRs6vpE2Y_asN8vA/c492a729-704c-4d42-8296-b691f3ed9232.jpg",
             "place": "سرتخت",
@@ -148,11 +148,6 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده"
-            },
-            {
-                "title": "آژانس املاک",
-                "value": "دپارتمان املاک شاهکار",
-                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -574,13 +569,6 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
-        "suggestions": {
-            "suggestion_available": false,
-            "title": "",
-            "posts": [],
-            "widget_list": [],
-            "post_suggestion_extra_logs": []
-        },
         "note": {
             "enable": true
         }

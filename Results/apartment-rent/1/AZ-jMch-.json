@@ -30,19 +30,19 @@
             "business_type": "real-estate-business",
             "business_ref": "4346",
             "data": {
-                "id": "4346",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/-73dWzggBy3osd6sbMBxUQ.jpg",
-                "name": "املاك آسمان ری",
-                "slug": "GhjNu2wO",
-                "score": 0.4785525,
-                "address": "شهرری،میدان نماز،بلوار امام حسین،خیابان منتظری،پ ۱۵و۱۷",
                 "agentInfo": {
                     "name": "نهصد و سی و هشت۶۲",
                     "slug": "i07x3EFQ"
                 },
-                "submitType": "AGENCY_SUBMIT",
+                "score": 0.4785525,
+                "address": "شهرری،میدان نماز،بلوار امام حسین،خیابان منتظری،پ ۱۵و۱۷",
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/-73dWzggBy3osd6sbMBxUQ.jpg",
+                "slug": "GhjNu2wO",
                 "shortAddress": "تهران، دیلمان",
-                "telephoneNumber": "02133379004"
+                "name": "املاك آسمان ری",
+                "telephoneNumber": "02133379004",
+                "submitType": "AGENCY_SUBMIT",
+                "id": "4346"
             }
         },
         "city": "تهران",
@@ -54,19 +54,19 @@
             "business_type": "real-estate-business",
             "business_ref": "4346",
             "data": {
-                "id": "4346",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/-73dWzggBy3osd6sbMBxUQ.jpg",
-                "name": "املاك آسمان ری",
-                "slug": "GhjNu2wO",
-                "score": 0.4785525,
-                "address": "شهرری،میدان نماز،بلوار امام حسین،خیابان منتظری،پ ۱۵و۱۷",
                 "agentInfo": {
                     "name": "نهصد و سی و هشت۶۲",
                     "slug": "i07x3EFQ"
                 },
-                "submitType": "AGENCY_SUBMIT",
+                "score": 0.4785525,
+                "address": "شهرری،میدان نماز،بلوار امام حسین،خیابان منتظری،پ ۱۵و۱۷",
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/-73dWzggBy3osd6sbMBxUQ.jpg",
+                "slug": "GhjNu2wO",
                 "shortAddress": "تهران، دیلمان",
-                "telephoneNumber": "02133379004"
+                "name": "املاك آسمان ری",
+                "telephoneNumber": "02133379004",
+                "submitType": "AGENCY_SUBMIT",
+                "id": "4346"
             },
             "price": null,
             "rent": 0,
@@ -77,8 +77,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، فیروزآبادی | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، فیروزآبادی | اجاره آپارتمان",
             "title": "۵۰متری دارای یکخواب تخلیه",
             "place": "فیروزآبادی",
             "business_logo": null
@@ -124,11 +124,6 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده و مجرد"
-            },
-            {
-                "title": "آژانس املاک",
-                "value": "املاك آسمان ری",
-                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -245,13 +240,6 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
-        "suggestions": {
-            "suggestion_available": false,
-            "title": "",
-            "posts": [],
-            "widget_list": [],
-            "post_suggestion_extra_logs": []
-        },
         "note": {
             "enable": true
         }

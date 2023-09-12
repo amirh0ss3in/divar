@@ -31,19 +31,19 @@
             "business_type": "real-estate-business",
             "business_ref": "7623",
             "data": {
-                "slug": "li1Gmz7R",
+                "id": "7623",
                 "logo": "https://s100.divarcdn.com/static/images/real-estate/MsxdqZHZkCw6DW5Q9X1htg.jpg",
+                "name": "املاک ارش",
+                "slug": "li1Gmz7R",
                 "score": 0.6343484,
                 "address": "پیروزی پارک گلنما خیابان تاجری خیابان پورعبدی پلاک ۴۰",
-                "shortAddress": "تهران، پیروزی",
-                "telephoneNumber": "02133068917",
-                "submitType": "AGENCY_SUBMIT",
-                "name": "املاک ارش",
-                "id": "7623",
                 "agentInfo": {
-                    "slug": "RkP2JcNA",
-                    "name": "خانم خُدّامی"
-                }
+                    "name": "خانم خُدّامی",
+                    "slug": "RkP2JcNA"
+                },
+                "submitType": "AGENCY_SUBMIT",
+                "shortAddress": "تهران، پیروزی",
+                "telephoneNumber": "02133068917"
             }
         },
         "city": "تهران",
@@ -55,19 +55,19 @@
             "business_type": "real-estate-business",
             "business_ref": "7623",
             "data": {
-                "slug": "li1Gmz7R",
+                "id": "7623",
                 "logo": "https://s100.divarcdn.com/static/images/real-estate/MsxdqZHZkCw6DW5Q9X1htg.jpg",
+                "name": "املاک ارش",
+                "slug": "li1Gmz7R",
                 "score": 0.6343484,
                 "address": "پیروزی پارک گلنما خیابان تاجری خیابان پورعبدی پلاک ۴۰",
-                "shortAddress": "تهران، پیروزی",
-                "telephoneNumber": "02133068917",
-                "submitType": "AGENCY_SUBMIT",
-                "name": "املاک ارش",
-                "id": "7623",
                 "agentInfo": {
-                    "slug": "RkP2JcNA",
-                    "name": "خانم خُدّامی"
-                }
+                    "name": "خانم خُدّامی",
+                    "slug": "RkP2JcNA"
+                },
+                "submitType": "AGENCY_SUBMIT",
+                "shortAddress": "تهران، پیروزی",
+                "telephoneNumber": "02133068917"
             },
             "price": null,
             "rent": 1800000,
@@ -78,8 +78,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، پیروزی | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، پیروزی | اجاره آپارتمان",
             "title": "50متریکخوابه تاجری/آسانسور/تخلیه/مجرد موجه",
             "thumbnail": "https://s100.divarcdn.com/static/thumbnails/1694431683/AZunDceP.jpg",
             "place": "پیروزی",
@@ -148,6 +148,11 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده"
+            },
+            {
+                "title": "آژانس املاک",
+                "value": "املاک ارش",
+                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -537,6 +542,13 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
         "note": {
             "enable": true
         }

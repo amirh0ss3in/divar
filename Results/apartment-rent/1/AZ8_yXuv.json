@@ -31,13 +31,13 @@
             "business_type": "real-estate-business",
             "business_ref": "agent_428826",
             "data": {
+                "usedFrom": "AGENT",
                 "id": "428826",
                 "logo": "https://s100.divarcdn.com/static/images/real-estate/4IXorMcahJlWeRjNg0KZPg.jpg",
-                "name": "نوید سمویی",
-                "slug": "8lehivK9",
+                "submitType": "INDEPENDENT_AGENT_SUBMIT",
                 "score": 0.6480429,
-                "usedFrom": "AGENT",
-                "submitType": "INDEPENDENT_AGENT_SUBMIT"
+                "slug": "8lehivK9",
+                "name": "نوید سمویی"
             }
         },
         "city": "تهران",
@@ -49,13 +49,13 @@
             "business_type": "real-estate-business",
             "business_ref": "agent_428826",
             "data": {
+                "usedFrom": "AGENT",
                 "id": "428826",
                 "logo": "https://s100.divarcdn.com/static/images/real-estate/4IXorMcahJlWeRjNg0KZPg.jpg",
-                "name": "نوید سمویی",
-                "slug": "8lehivK9",
+                "submitType": "INDEPENDENT_AGENT_SUBMIT",
                 "score": 0.6480429,
-                "usedFrom": "AGENT",
-                "submitType": "INDEPENDENT_AGENT_SUBMIT"
+                "slug": "8lehivK9",
+                "name": "نوید سمویی"
             },
             "price": null,
             "rent": 0,
@@ -66,8 +66,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، شهرک راه‌آهن، میدان موج | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، شهرک راه‌آهن، میدان موج | اجاره آپارتمان",
             "title": "آپارتمان ۲خوابه ۱۲۵متر رهن کامل",
             "thumbnail": "https://s100.divarcdn.com/static/thumbnails/1694431711/AZ8_yXuv.jpg",
             "place": "شهرک راه‌آهن",
@@ -573,13 +573,6 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
-        "suggestions": {
-            "suggestion_available": false,
-            "title": "",
-            "posts": [],
-            "widget_list": [],
-            "post_suggestion_extra_logs": []
-        },
         "note": {
             "enable": true
         }

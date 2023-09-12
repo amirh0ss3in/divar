@@ -31,19 +31,19 @@
             "business_type": "real-estate-business",
             "business_ref": "40190",
             "data": {
-                "id": "40190",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/5Kw5KNjcHXnLNu69jcY-Ow.jpg",
+                "submitType": "AGENCY_SUBMIT",
                 "name": "مشاورین املاک یک",
-                "slug": "aNzkmQRL",
-                "score": 0.54614776,
-                "address": "اندرزگو روبروی بلوار قیطریه بین شریفی منش و حکمت بن بست یکم پلاک یک واحد یک",
+                "shortAddress": "تهران، حکمت",
+                "telephoneNumber": "02126872777",
+                "id": "40190",
                 "agentInfo": {
                     "name": "ساعتچی",
                     "slug": "uUVvVbk2"
                 },
-                "submitType": "AGENCY_SUBMIT",
-                "shortAddress": "تهران، حکمت",
-                "telephoneNumber": "02126872777"
+                "score": 0.54614776,
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/5Kw5KNjcHXnLNu69jcY-Ow.jpg",
+                "slug": "aNzkmQRL",
+                "address": "اندرزگو روبروی بلوار قیطریه بین شریفی منش و حکمت بن بست یکم پلاک یک واحد یک"
             }
         },
         "city": "تهران",
@@ -55,19 +55,19 @@
             "business_type": "real-estate-business",
             "business_ref": "40190",
             "data": {
-                "id": "40190",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/5Kw5KNjcHXnLNu69jcY-Ow.jpg",
+                "submitType": "AGENCY_SUBMIT",
                 "name": "مشاورین املاک یک",
-                "slug": "aNzkmQRL",
-                "score": 0.54614776,
-                "address": "اندرزگو روبروی بلوار قیطریه بین شریفی منش و حکمت بن بست یکم پلاک یک واحد یک",
+                "shortAddress": "تهران، حکمت",
+                "telephoneNumber": "02126872777",
+                "id": "40190",
                 "agentInfo": {
                     "name": "ساعتچی",
                     "slug": "uUVvVbk2"
                 },
-                "submitType": "AGENCY_SUBMIT",
-                "shortAddress": "تهران، حکمت",
-                "telephoneNumber": "02126872777"
+                "score": 0.54614776,
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/5Kw5KNjcHXnLNu69jcY-Ow.jpg",
+                "slug": "aNzkmQRL",
+                "address": "اندرزگو روبروی بلوار قیطریه بین شریفی منش و حکمت بن بست یکم پلاک یک واحد یک"
             },
             "price": null,
             "rent": 110000000,
@@ -78,8 +78,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، الهیه | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، الهیه | اجاره آپارتمان",
             "title": "واحد۱۴۹ متری الهیه/روف/لابی/نوساز",
             "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/NTixUKB46jPks2WV07zW3g/f54505a2-6f65-4d74-9e91-1f620b532438.jpg",
             "place": "الهیه",
@@ -126,11 +126,6 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده و مجرد"
-            },
-            {
-                "title": "آژانس املاک",
-                "value": "مشاورین املاک یک",
-                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -532,13 +527,6 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
-        "suggestions": {
-            "suggestion_available": false,
-            "title": "",
-            "posts": [],
-            "widget_list": [],
-            "post_suggestion_extra_logs": []
-        },
         "note": {
             "enable": true
         }

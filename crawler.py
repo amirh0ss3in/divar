@@ -118,4 +118,4 @@ if __name__ == "__main__":
         os.makedirs(json_path)
     logging.basicConfig(filename=json_path+"scrape_log.log", level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
     
-    scrape(city_code=city_code, category=category, date_time_str="2023-09-11 11:30:00", MAX_PAGES=4, MAX_RETRY_ATTEMPTS=5)
+    scrape(city_code=city_code, category=category, date_time_str="2023-09-11 11:30:00", MAX_PAGES=10, MAX_RETRY_ATTEMPTS=5)

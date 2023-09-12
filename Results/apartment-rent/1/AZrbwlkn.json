@@ -31,19 +31,19 @@
             "business_type": "real-estate-business",
             "business_ref": "1056",
             "data": {
-                "submitType": "AGENCY_SUBMIT",
+                "id": "1056",
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/IADKMCIpxkAp6sR1gcZD_w.jpg",
+                "name": "دپارتمان تخصصی املاک ماها",
                 "slug": "8i1RrQ5q",
                 "score": 0.56586313,
+                "address": "نیاوران، کاشانک، نرسیده به آجودانیه، پلاک ۱۹۳",
                 "agentInfo": {
                     "name": "پارسا",
                     "slug": "RiNuZ4k9"
                 },
-                "address": "نیاوران، کاشانک، نرسیده به آجودانیه، پلاک ۱۹۳",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/IADKMCIpxkAp6sR1gcZD_w.jpg",
-                "name": "دپارتمان تخصصی املاک ماها",
-                "telephoneNumber": "02122829587",
+                "submitType": "AGENCY_SUBMIT",
                 "shortAddress": "تهران، کاشانک",
-                "id": "1056"
+                "telephoneNumber": "02122829587"
             }
         },
         "city": "تهران",
@@ -55,19 +55,19 @@
             "business_type": "real-estate-business",
             "business_ref": "1056",
             "data": {
-                "submitType": "AGENCY_SUBMIT",
+                "id": "1056",
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/IADKMCIpxkAp6sR1gcZD_w.jpg",
+                "name": "دپارتمان تخصصی املاک ماها",
                 "slug": "8i1RrQ5q",
                 "score": 0.56586313,
+                "address": "نیاوران، کاشانک، نرسیده به آجودانیه، پلاک ۱۹۳",
                 "agentInfo": {
                     "name": "پارسا",
                     "slug": "RiNuZ4k9"
                 },
-                "address": "نیاوران، کاشانک، نرسیده به آجودانیه، پلاک ۱۹۳",
-                "logo": "https://s100.divarcdn.com/static/images/real-estate/IADKMCIpxkAp6sR1gcZD_w.jpg",
-                "name": "دپارتمان تخصصی املاک ماها",
-                "telephoneNumber": "02122829587",
+                "submitType": "AGENCY_SUBMIT",
                 "shortAddress": "تهران، کاشانک",
-                "id": "1056"
+                "telephoneNumber": "02122829587"
             },
             "price": null,
             "rent": 100000,
@@ -78,8 +78,8 @@
     },
     "widgets": {
         "header": {
-            "date": "۱۶ ساعت پیش",
-            "subtitle": "۱۶ ساعت پیش در تهران، نیاوران | اجاره آپارتمان",
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، نیاوران | اجاره آپارتمان",
             "title": "۱۱۰متر۲خوابه شمال کاخ نیاوران",
             "thumbnail": "https://s100.divarcdn.com/static/thumbnails/1694431760/AZrbwlkn.jpg",
             "place": "نیاوران",
@@ -126,6 +126,11 @@
                 "title": "مناسب برای",
                 "format": "string",
                 "value": "خانواده و مجرد"
+            },
+            {
+                "title": "آژانس املاک",
+                "value": "دپارتمان تخصصی املاک ماها",
+                "format": "string"
             },
             {
                 "title": "طبقه",
@@ -299,6 +304,13 @@
         "car_inspection": null,
         "tags": [],
         "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
         "note": {
             "enable": true
         }
