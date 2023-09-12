@@ -27,7 +27,7 @@ def fetch_and_save_post(token, category, city_code):
         save_json(j, category, city_code, token)
         
 def save_json(j, category, city_code, token):
-    json_path = f"{RESULTS_DIR}/category_{category}__city_{city_code}"
+    json_path = f"{RESULTS_DIR}/{category}/{city_code}/"
     with open(f'{json_path}/{token}.json', 'w', encoding='utf-8') as f:
         json.dump(j, f, ensure_ascii=False, indent=4)
         logging.info(f"Saved: {token}")
@@ -105,18 +105,17 @@ def scrape(city_code, category, date_time_str, MAX_PAGES, MAX_RETRY_ATTEMPTS):
         logging.error(f"An unexpected error occurred: {str(e)}")
 
 
-
 if __name__ == "__main__":
 
     BASE_URL = "https://api.divar.ir/v8"
     RESULTS_DIR = "Results"
     category="apartment-rent"
-    city_code=2
+    city_code=1
     
     # Configure logging
-    json_path = f"{RESULTS_DIR}/category_{category}__city_{city_code}/"
+    json_path = f"{RESULTS_DIR}/{category}/{city_code}/"
     if not os.path.exists(json_path):
         os.makedirs(json_path)
     logging.basicConfig(filename=json_path+"scrape_log.log", level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
     
-    scrape(city_code=city_code, category=category, date_time_str="2023-09-11 10:30:00", MAX_PAGES=4, MAX_RETRY_ATTEMPTS=5)
+    scrape(city_code=city_code, category=category, date_time_str="2023-09-11 11:30:00", MAX_PAGES=4, MAX_RETRY_ATTEMPTS=5)
