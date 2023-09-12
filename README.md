@@ -1,4 +1,4 @@
-# Divar Scraper
+# Divar Scraper with Multithreading
 
 This Python script allows you to scrape data from the Divar website, specifically for real estate listings in different categories and cities. It utilizes the Divar API to retrieve and store information about real estate listings in an Excel file.
 
