@@ -1,0 +1,366 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "اپارتمان ۱۱۰ متر|اجارهٔ آپارتمان|تهران، اوقاف|دیوار",
+            "description": "اپارتمان ۱۱۰ متر|اجارهٔ آپارتمان|تهران، اوقاف|خرید و فروش قیمت توافقی است و دسترسی محلی عالی است| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1_اجارهٔ-آپارتمان_تهران_اوقاف_دیوار/AZ0zf7bM",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/اپارتمان ۱۱۰ متر/AZ0zf7bM/",
+            "ios_app_url": "ios-app://863029557/http/v/اپارتمان ۱۱۰ متر/AZ0zf7bM/",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/Qkx2CM9e0npG57xH-L0oRg/d8cc1822-2ba3-4d7c-a6cc-e23557dfee90.jpg"
+        },
+        "share": {
+            "title": "اپارتمان ۱۱۰ متر",
+            "description": "قیمت توافقی است و دسترسی محلی عالی است",
+            "android_url": "https://divar.ir/v/AZ0zf7bM?ref=android",
+            "ios_url": "https://divar.ir/v/AZ0zf7bM?ref=ios",
+            "web_url": "https://divar.ir/v/AZ0zf7bM"
+        },
+        "url": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1_اجارهٔ-آپارتمان_تهران_اوقاف_دیوار/AZ0zf7bM",
+        "category": {
+            "slug": "apartment-rent",
+            "title": "اجارهٔ آپارتمان",
+            "second_slug": "اجارهٔ آپارتمان"
+        },
+        "description": "قیمت توافقی است و دسترسی محلی عالی است",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-rent",
+            "token": "AZ0zf7bM",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 9,
+            "district": "اوقاف",
+            "cat_3": {
+                "full_title": "اجاره آپارتمان",
+                "icon_url": "",
+                "old_meta_id": 214,
+                "parent_slug": "residential-rent",
+                "slug": "apartment-rent",
+                "title": "اجارهٔ آپارتمان",
+                "second_slug": "اجارهٔ آپارتمان",
+                "relative_url": "tehran/rent-apartment"
+            },
+            "cat_2": {
+                "full_title": "",
+                "icon_url": "",
+                "old_meta_id": 213,
+                "parent_slug": "real-estate",
+                "slug": "residential-rent",
+                "title": "اجارهٔ مسکونی",
+                "second_slug": "اجارهٔ مسکونی",
+                "relative_url": "tehran/rent-residential"
+            },
+            "cat_1": {
+                "full_title": "",
+                "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                "old_meta_id": 143,
+                "parent_slug": "root",
+                "slug": "real-estate",
+                "title": "املاک",
+                "second_slug": "املاک",
+                "relative_url": "tehran/real-estate"
+            },
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": null,
+            "rent": null,
+            "credit": null
+        },
+        "district": "اوقاف",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "۱۱ ساعت پیش",
+            "subtitle": "۱۱ ساعت پیش در تهران، اوقاف | اجاره آپارتمان",
+            "title": "اپارتمان ۱۱۰ متر",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/Qkx2CM9e0npG57xH-L0oRg/d8cc1822-2ba3-4d7c-a6cc-e23557dfee90.jpg",
+            "place": "اوقاف",
+            "business_logo": null
+        },
+        "description": "قیمت توافقی است و دسترسی محلی عالی است",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۱۱۰"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۹۶"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۲"
+                    }
+                ]
+            },
+            {
+                "title": "ودیعه",
+                "format": "string",
+                "value": "توافقی"
+            },
+            {
+                "title": "اجارهٔ ماهانه",
+                "format": "string",
+                "value": "توافقی"
+            },
+            {
+                "title": "ودیعه و اجاره",
+                "format": "string",
+                "value": "غیر قابل تبدیل"
+            },
+            {
+                "title": "مناسب برای",
+                "format": "string",
+                "value": "خانواده و مجرد"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۱"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true
+            }
+        ],
+        "location": {},
+        "images": [
+            "https://s100.divarcdn.com/static/photo/post/i3_VcXwAoHyg_1SOcGWGFg/37f4a8ee-910e-4e98-aaf0-ead7f08c68eb.webp",
+            "https://s100.divarcdn.com/static/photo/post/m6r-jCEb5h5hwYqP63B8og/68ff9bad-7f65-4f02-8849-b3f37c9f4fd6.webp",
+            "https://s100.divarcdn.com/static/photo/post/VpHIuN1ccXqsYL0JGvrQnA/39fc2af0-66d2-47b6-a858-52b81d76afc3.webp",
+            "https://s100.divarcdn.com/static/photo/post/N84-0UuxDLeUQyVgBrwUsw/3a6a23b2-c15b-47e2-96d9-4f1915ef68c9.webp",
+            "https://s100.divarcdn.com/static/photo/post/xVcxVaV5t4b7I1f7-0wPyQ/d8cc1822-2ba3-4d7c-a6cc-e23557dfee90.webp",
+            "https://s100.divarcdn.com/static/photo/post/HRWXgYetzICtqKHccdGcTQ/26a5a22c-96fe-494e-9753-cee9532dc1e4.webp",
+            "https://s100.divarcdn.com/static/photo/post/VTPLOwmbmtnQEAQo_Kgc4A/2d032f4c-d0c0-4206-b5b8-4eef437685da.webp",
+            "https://s100.divarcdn.com/static/photo/post/XjaOyMuSRe8MGKyFeoU9eQ/294a147d-02db-4b44-b25d-b7c83ef90c56.webp",
+            "https://s100.divarcdn.com/static/photo/post/ifTwemegS4RnsqrqQfWtBw/8535d07c-47b4-4ad5-8953-67a2b2e71b77.webp"
+        ],
+        "web_images": [
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/i3_VcXwAoHyg_1SOcGWGFg/37f4a8ee-910e-4e98-aaf0-ead7f08c68eb.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/i3_VcXwAoHyg_1SOcGWGFg/37f4a8ee-910e-4e98-aaf0-ead7f08c68eb.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/m6r-jCEb5h5hwYqP63B8og/68ff9bad-7f65-4f02-8849-b3f37c9f4fd6.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/m6r-jCEb5h5hwYqP63B8og/68ff9bad-7f65-4f02-8849-b3f37c9f4fd6.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/VpHIuN1ccXqsYL0JGvrQnA/39fc2af0-66d2-47b6-a858-52b81d76afc3.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/VpHIuN1ccXqsYL0JGvrQnA/39fc2af0-66d2-47b6-a858-52b81d76afc3.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/N84-0UuxDLeUQyVgBrwUsw/3a6a23b2-c15b-47e2-96d9-4f1915ef68c9.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/N84-0UuxDLeUQyVgBrwUsw/3a6a23b2-c15b-47e2-96d9-4f1915ef68c9.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/xVcxVaV5t4b7I1f7-0wPyQ/d8cc1822-2ba3-4d7c-a6cc-e23557dfee90.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/xVcxVaV5t4b7I1f7-0wPyQ/d8cc1822-2ba3-4d7c-a6cc-e23557dfee90.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/HRWXgYetzICtqKHccdGcTQ/26a5a22c-96fe-494e-9753-cee9532dc1e4.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/HRWXgYetzICtqKHccdGcTQ/26a5a22c-96fe-494e-9753-cee9532dc1e4.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/VTPLOwmbmtnQEAQo_Kgc4A/2d032f4c-d0c0-4206-b5b8-4eef437685da.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/VTPLOwmbmtnQEAQo_Kgc4A/2d032f4c-d0c0-4206-b5b8-4eef437685da.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/XjaOyMuSRe8MGKyFeoU9eQ/294a147d-02db-4b44-b25d-b7c83ef90c56.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/XjaOyMuSRe8MGKyFeoU9eQ/294a147d-02db-4b44-b25d-b7c83ef90c56.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/ifTwemegS4RnsqrqQfWtBw/8535d07c-47b4-4ad5-8953-67a2b2e71b77.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/ifTwemegS4RnsqrqQfWtBw/8535d07c-47b4-4ad5-8953-67a2b2e71b77.jpg",
+                    "type": "image/jpeg"
+                }
+            ]
+        ],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 214,
+                    "parent_slug": "residential-rent",
+                    "slug": "apartment-rent",
+                    "title": "اجارهٔ آپارتمان",
+                    "second_slug": "اجارهٔ آپارتمان",
+                    "relative_url": "tehran/rent-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 213,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-rent",
+                    "title": "اجارهٔ مسکونی",
+                    "second_slug": "اجارهٔ مسکونی",
+                    "relative_url": "tehran/rent-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "(پنهان‌شده؛ چت کنید)",
+            "hide_phone": true,
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "اجارهٔ آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,اجارهٔ-آپارتمان",
+                "relative_url": "tehran/rent-apartment"
+            },
+            {
+                "title": "اجارهٔ آپارتمان در اوقاف",
+                "url": "https://divar.ir/tehran/تهران/اوقاف/browse/اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/?place=8,115",
+                "relative_url": "tehran/rent-apartment/oghaf"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "AZ0zf7bM",
+    "error": 0
+}

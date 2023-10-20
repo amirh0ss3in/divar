@@ -1,0 +1,333 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "نیاز هم خانه|اجارهٔ آپارتمان|تهران، تهرانپارس غربی|دیوار",
+            "description": "نیاز هم خانه|اجارهٔ آپارتمان|تهران، تهرانپارس غربی|خرید و فروش آپارتمان مبله شده نیاز به هم خانه| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D9%86%DB%8C%D8%A7%D8%B2-%D9%87%D9%85-%D8%AE%D8%A7%D9%86%D9%87_اجارهٔ-آپارتمان_تهران_تهرانپارس-غربی_دیوار/QZRULXIw",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/نیاز هم خانه/QZRULXIw/",
+            "ios_app_url": "ios-app://863029557/http/v/نیاز هم خانه/QZRULXIw/",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/0gwf7Zk-kPIBuOThCIcDwA/7BA8AE32-6C43-467A-892E-4A6C1C91671F.jpg"
+        },
+        "share": {
+            "title": "نیاز هم خانه",
+            "description": "آپارتمان مبله شده نیاز به هم خانه",
+            "android_url": "https://divar.ir/v/QZRULXIw?ref=android",
+            "ios_url": "https://divar.ir/v/QZRULXIw?ref=ios",
+            "web_url": "https://divar.ir/v/QZRULXIw"
+        },
+        "url": "https://divar.ir/v/%D9%86%DB%8C%D8%A7%D8%B2-%D9%87%D9%85-%D8%AE%D8%A7%D9%86%D9%87_اجارهٔ-آپارتمان_تهران_تهرانپارس-غربی_دیوار/QZRULXIw",
+        "category": {
+            "slug": "apartment-rent",
+            "title": "اجارهٔ آپارتمان",
+            "second_slug": "اجارهٔ آپارتمان"
+        },
+        "description": "آپارتمان مبله شده نیاز به هم خانه",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-rent",
+            "token": "QZRULXIw",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 6,
+            "district": "تهرانپارس غربی",
+            "cat_3": {
+                "full_title": "اجاره آپارتمان",
+                "icon_url": "",
+                "old_meta_id": 214,
+                "parent_slug": "residential-rent",
+                "slug": "apartment-rent",
+                "title": "اجارهٔ آپارتمان",
+                "second_slug": "اجارهٔ آپارتمان",
+                "relative_url": "tehran/rent-apartment"
+            },
+            "cat_2": {
+                "full_title": "",
+                "icon_url": "",
+                "old_meta_id": 213,
+                "parent_slug": "real-estate",
+                "slug": "residential-rent",
+                "title": "اجارهٔ مسکونی",
+                "second_slug": "اجارهٔ مسکونی",
+                "relative_url": "tehran/rent-residential"
+            },
+            "cat_1": {
+                "full_title": "",
+                "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                "old_meta_id": 143,
+                "parent_slug": "root",
+                "slug": "real-estate",
+                "title": "املاک",
+                "second_slug": "املاک",
+                "relative_url": "tehran/real-estate"
+            },
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": null,
+            "rent": 4000000,
+            "credit": 100000000
+        },
+        "district": "تهرانپارس غربی",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "دیروز",
+            "subtitle": "دیروز در تهران، تهرانپارس غربی | اجاره آپارتمان",
+            "title": "نیاز هم خانه",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/0gwf7Zk-kPIBuOThCIcDwA/7BA8AE32-6C43-467A-892E-4A6C1C91671F.jpg",
+            "place": "تهرانپارس غربی",
+            "business_logo": null
+        },
+        "description": "آپارتمان مبله شده نیاز به هم خانه",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۷۸"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۹۳"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۱"
+                    }
+                ]
+            },
+            {
+                "title": "ودیعه",
+                "format": "string",
+                "value": "۱۰۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "اجارهٔ ماهانه",
+                "format": "string",
+                "value": "۴٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "ودیعه و اجاره",
+                "format": "string",
+                "value": "قابل تبدیل"
+            },
+            {
+                "title": "مناسب برای",
+                "format": "string",
+                "value": "خانواده و مجرد"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۲"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری ندارد",
+                        "available": false,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_hint/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_hint/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_HINT"
+                        }
+                    }
+                ],
+                "has_divider": true
+            }
+        ],
+        "location": {},
+        "images": [
+            "https://s100.divarcdn.com/static/photo/post/73B0ses2p2ajXfjFxgO3Hw/7BA8AE32-6C43-467A-892E-4A6C1C91671F.webp",
+            "https://s100.divarcdn.com/static/photo/post/YdrCV_hu2dzGoF6QjN4XKg/33C2BDD5-24B4-4EEA-B880-D906A5419DFB.webp",
+            "https://s100.divarcdn.com/static/photo/post/MQhdJ6NG0K5CAXb0Xj0bVQ/6EE7D02E-1951-464A-81A8-441256F6644F.webp",
+            "https://s100.divarcdn.com/static/photo/post/K2QCmf8YcWaP8SkrSox2aw/48BE24CD-2196-4C0D-B2E1-C53AE38900E3.webp",
+            "https://s100.divarcdn.com/static/photo/post/psXPElA4ZFwbWzM21_o7Jg/48C7FC51-05AE-4B08-9B76-B5BE6C90CFC9.webp",
+            "https://s100.divarcdn.com/static/photo/post/zsp8cXpfILHj85e3hLCTTA/3BAF39E7-C8C7-4B46-A866-A562060C0DF3.webp"
+        ],
+        "web_images": [
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/73B0ses2p2ajXfjFxgO3Hw/7BA8AE32-6C43-467A-892E-4A6C1C91671F.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/73B0ses2p2ajXfjFxgO3Hw/7BA8AE32-6C43-467A-892E-4A6C1C91671F.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/YdrCV_hu2dzGoF6QjN4XKg/33C2BDD5-24B4-4EEA-B880-D906A5419DFB.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/YdrCV_hu2dzGoF6QjN4XKg/33C2BDD5-24B4-4EEA-B880-D906A5419DFB.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/MQhdJ6NG0K5CAXb0Xj0bVQ/6EE7D02E-1951-464A-81A8-441256F6644F.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/MQhdJ6NG0K5CAXb0Xj0bVQ/6EE7D02E-1951-464A-81A8-441256F6644F.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/K2QCmf8YcWaP8SkrSox2aw/48BE24CD-2196-4C0D-B2E1-C53AE38900E3.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/K2QCmf8YcWaP8SkrSox2aw/48BE24CD-2196-4C0D-B2E1-C53AE38900E3.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/psXPElA4ZFwbWzM21_o7Jg/48C7FC51-05AE-4B08-9B76-B5BE6C90CFC9.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/psXPElA4ZFwbWzM21_o7Jg/48C7FC51-05AE-4B08-9B76-B5BE6C90CFC9.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/zsp8cXpfILHj85e3hLCTTA/3BAF39E7-C8C7-4B46-A866-A562060C0DF3.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/zsp8cXpfILHj85e3hLCTTA/3BAF39E7-C8C7-4B46-A866-A562060C0DF3.jpg",
+                    "type": "image/jpeg"
+                }
+            ]
+        ],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 214,
+                    "parent_slug": "residential-rent",
+                    "slug": "apartment-rent",
+                    "title": "اجارهٔ آپارتمان",
+                    "second_slug": "اجارهٔ آپارتمان",
+                    "relative_url": "tehran/rent-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 213,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-rent",
+                    "title": "اجارهٔ مسکونی",
+                    "second_slug": "اجارهٔ مسکونی",
+                    "relative_url": "tehran/rent-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "(پنهان‌شده؛ چت کنید)",
+            "hide_phone": true,
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "اجارهٔ آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,اجارهٔ-آپارتمان",
+                "relative_url": "tehran/rent-apartment"
+            },
+            {
+                "title": "اجارهٔ آپارتمان در تهرانپارس غربی",
+                "url": "https://divar.ir/tehran/تهران/تهرانپارس-غربی/browse/اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/?place=8,108",
+                "relative_url": "tehran/rent-apartment/west-tehran-pars"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZRULXIw",
+    "error": 0
+}

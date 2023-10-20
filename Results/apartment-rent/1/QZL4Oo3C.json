@@ -1,0 +1,357 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "72متر خ بهشت|اجارهٔ آپارتمان|تهران، منیریه|دیوار",
+            "description": "72متر خ بهشت|اجارهٔ آپارتمان|تهران، منیریه|خرید و فروش فول امکانات\nتخلیه\nمسکن منیریه\nآدرس املاک خ معیری پلاک 166| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/72%D9%85%D8%AA%D8%B1-%D8%AE-%D8%A8%D9%87%D8%B4%D8%AA_اجارهٔ-آپارتمان_تهران_منیریه_دیوار/QZL4Oo3C",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/72متر خ بهشت/QZL4Oo3C/",
+            "ios_app_url": "ios-app://863029557/http/v/72متر خ بهشت/QZL4Oo3C/",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/rqdSbXla7jmPug2JLTxJDg/43f44e78-6702-4439-87f3-819a9291a34c.jpg"
+        },
+        "share": {
+            "title": "72متر خ بهشت",
+            "description": "فول امکانات\nتخلیه\nمسکن منیریه\nآدرس املاک خ معیری پلاک 166",
+            "android_url": "https://divar.ir/v/QZL4Oo3C?ref=android",
+            "ios_url": "https://divar.ir/v/QZL4Oo3C?ref=ios",
+            "web_url": "https://divar.ir/v/QZL4Oo3C"
+        },
+        "url": "https://divar.ir/v/72%D9%85%D8%AA%D8%B1-%D8%AE-%D8%A8%D9%87%D8%B4%D8%AA_اجارهٔ-آپارتمان_تهران_منیریه_دیوار/QZL4Oo3C",
+        "category": {
+            "slug": "apartment-rent",
+            "title": "اجارهٔ آپارتمان",
+            "second_slug": "اجارهٔ آپارتمان"
+        },
+        "description": "فول امکانات\nتخلیه\nمسکن منیریه\nآدرس املاک خ معیری پلاک 166",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-rent",
+            "token": "QZL4Oo3C",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 8,
+            "district": "منیریه",
+            "cat_3": {
+                "full_title": "اجاره آپارتمان",
+                "icon_url": "",
+                "old_meta_id": 214,
+                "parent_slug": "residential-rent",
+                "slug": "apartment-rent",
+                "title": "اجارهٔ آپارتمان",
+                "second_slug": "اجارهٔ آپارتمان",
+                "relative_url": "tehran/rent-apartment"
+            },
+            "cat_2": {
+                "full_title": "",
+                "icon_url": "",
+                "old_meta_id": 213,
+                "parent_slug": "real-estate",
+                "slug": "residential-rent",
+                "title": "اجارهٔ مسکونی",
+                "second_slug": "اجارهٔ مسکونی",
+                "relative_url": "tehran/rent-residential"
+            },
+            "cat_1": {
+                "full_title": "",
+                "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                "old_meta_id": 143,
+                "parent_slug": "root",
+                "slug": "real-estate",
+                "title": "املاک",
+                "second_slug": "املاک",
+                "relative_url": "tehran/real-estate"
+            },
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": null,
+            "rent": 4500000,
+            "credit": 400000000
+        },
+        "district": "منیریه",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "۷ ساعت پیش",
+            "subtitle": "۷ ساعت پیش در تهران، منیریه | اجاره آپارتمان",
+            "title": "72متر خ بهشت",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/rqdSbXla7jmPug2JLTxJDg/43f44e78-6702-4439-87f3-819a9291a34c.jpg",
+            "place": "منیریه",
+            "business_logo": null
+        },
+        "description": "فول امکانات\nتخلیه\nمسکن منیریه\nآدرس املاک خ معیری پلاک 166",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۷۲"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۹۰"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۲"
+                    }
+                ]
+            },
+            {
+                "title": "ودیعه",
+                "format": "string",
+                "value": "۴۰۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "اجارهٔ ماهانه",
+                "format": "string",
+                "value": "۴٬۵۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "ودیعه و اجاره",
+                "format": "string",
+                "value": "غیر قابل تبدیل"
+            },
+            {
+                "title": "مناسب برای",
+                "format": "string",
+                "value": "خانواده و مجرد"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۲"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true
+            }
+        ],
+        "location": {},
+        "images": [
+            "https://s100.divarcdn.com/static/photo/post/rVW4QP7AnrBo0fYrll3tng/2507ccfa-a45c-4aa7-a640-57dddf1928a7.webp",
+            "https://s100.divarcdn.com/static/photo/post/hq5ugiORVXgVl0kvjklw5Q/171cb012-aac5-4a6a-a1ce-837afe592bee.webp",
+            "https://s100.divarcdn.com/static/photo/post/EBJDFV3pFRDGHUD05mjG3A/43f44e78-6702-4439-87f3-819a9291a34c.webp",
+            "https://s100.divarcdn.com/static/photo/post/HMFe8MnKXCgRtIWgk6xN_A/3fca985b-a166-4d17-b8c4-224d99e997b8.webp",
+            "https://s100.divarcdn.com/static/photo/post/1xQsYQ22KM-ki0SX62trbg/12d13904-d588-4097-956b-7d90d25bfc4e.webp",
+            "https://s100.divarcdn.com/static/photo/post/nYCWFJpZBzhCfm2MsXjKnA/388710f8-0487-4bc7-8a30-2693949171d4.webp",
+            "https://s100.divarcdn.com/static/photo/post/Pf0lcoQTuxmsZ9IzmHeMOA/3d3b8edb-2272-4e29-b5b2-0ddc9d039f76.webp",
+            "https://s100.divarcdn.com/static/photo/post/8b1Fw34-coCsN_ZtbWPksQ/3995dec2-1dc4-4793-98ef-04e63393e3ec.webp"
+        ],
+        "web_images": [
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/rVW4QP7AnrBo0fYrll3tng/2507ccfa-a45c-4aa7-a640-57dddf1928a7.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/rVW4QP7AnrBo0fYrll3tng/2507ccfa-a45c-4aa7-a640-57dddf1928a7.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/hq5ugiORVXgVl0kvjklw5Q/171cb012-aac5-4a6a-a1ce-837afe592bee.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/hq5ugiORVXgVl0kvjklw5Q/171cb012-aac5-4a6a-a1ce-837afe592bee.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/EBJDFV3pFRDGHUD05mjG3A/43f44e78-6702-4439-87f3-819a9291a34c.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/EBJDFV3pFRDGHUD05mjG3A/43f44e78-6702-4439-87f3-819a9291a34c.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/HMFe8MnKXCgRtIWgk6xN_A/3fca985b-a166-4d17-b8c4-224d99e997b8.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/HMFe8MnKXCgRtIWgk6xN_A/3fca985b-a166-4d17-b8c4-224d99e997b8.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/1xQsYQ22KM-ki0SX62trbg/12d13904-d588-4097-956b-7d90d25bfc4e.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/1xQsYQ22KM-ki0SX62trbg/12d13904-d588-4097-956b-7d90d25bfc4e.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/nYCWFJpZBzhCfm2MsXjKnA/388710f8-0487-4bc7-8a30-2693949171d4.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/nYCWFJpZBzhCfm2MsXjKnA/388710f8-0487-4bc7-8a30-2693949171d4.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/Pf0lcoQTuxmsZ9IzmHeMOA/3d3b8edb-2272-4e29-b5b2-0ddc9d039f76.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/Pf0lcoQTuxmsZ9IzmHeMOA/3d3b8edb-2272-4e29-b5b2-0ddc9d039f76.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/8b1Fw34-coCsN_ZtbWPksQ/3995dec2-1dc4-4793-98ef-04e63393e3ec.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/8b1Fw34-coCsN_ZtbWPksQ/3995dec2-1dc4-4793-98ef-04e63393e3ec.jpg",
+                    "type": "image/jpeg"
+                }
+            ]
+        ],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 214,
+                    "parent_slug": "residential-rent",
+                    "slug": "apartment-rent",
+                    "title": "اجارهٔ آپارتمان",
+                    "second_slug": "اجارهٔ آپارتمان",
+                    "relative_url": "tehran/rent-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 213,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-rent",
+                    "title": "اجارهٔ مسکونی",
+                    "second_slug": "اجارهٔ مسکونی",
+                    "relative_url": "tehran/rent-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0922840xxxx",
+            "ab_mode": 2,
+            "chat": true,
+            "landline_numbers": [
+                "0215537xxxx"
+            ]
+        },
+        "links": [
+            {
+                "title": "اجارهٔ آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,اجارهٔ-آپارتمان",
+                "relative_url": "tehran/rent-apartment"
+            },
+            {
+                "title": "اجارهٔ آپارتمان در منیریه",
+                "url": "https://divar.ir/tehran/تهران/منیریه/browse/اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/?place=8,278",
+                "relative_url": "tehran/rent-apartment/moniriyeh"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZL4Oo3C",
+    "error": 0
+}

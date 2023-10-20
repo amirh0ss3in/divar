@@ -1,0 +1,359 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "آپارتمان ۹۰ متری|اجارهٔ آپارتمان|تهران، امیرآباد|دیوار",
+            "description": "آپارتمان ۹۰ متری|اجارهٔ آپارتمان|تهران، امیرآباد|خرید و فروش محیط آرام،تمیز،طبقه اول پارکینگ آسانسور انباری دارد،نقاشی شده| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C_اجارهٔ-آپارتمان_تهران_امیرآباد_دیوار/QZJwohgl",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/آپارتمان ۹۰ متری/QZJwohgl/",
+            "ios_app_url": "ios-app://863029557/http/v/آپارتمان ۹۰ متری/QZJwohgl/",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/DxITU5m0zJ6ImuaAtzVZIg/f001e2d6-8c2b-4dec-aee4-3889968302e2.jpg"
+        },
+        "share": {
+            "title": "آپارتمان ۹۰ متری",
+            "description": "محیط آرام،تمیز،طبقه اول پارکینگ آسانسور انباری دارد،نقاشی شده",
+            "android_url": "https://divar.ir/v/QZJwohgl?ref=android",
+            "ios_url": "https://divar.ir/v/QZJwohgl?ref=ios",
+            "web_url": "https://divar.ir/v/QZJwohgl"
+        },
+        "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C_اجارهٔ-آپارتمان_تهران_امیرآباد_دیوار/QZJwohgl",
+        "category": {
+            "slug": "apartment-rent",
+            "title": "اجارهٔ آپارتمان",
+            "second_slug": "اجارهٔ آپارتمان"
+        },
+        "description": "محیط آرام،تمیز،طبقه اول پارکینگ آسانسور انباری دارد،نقاشی شده",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-rent",
+            "token": "QZJwohgl",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 6,
+            "district": "امیرآباد",
+            "cat_3": {
+                "full_title": "اجاره آپارتمان",
+                "icon_url": "",
+                "old_meta_id": 214,
+                "parent_slug": "residential-rent",
+                "slug": "apartment-rent",
+                "title": "اجارهٔ آپارتمان",
+                "second_slug": "اجارهٔ آپارتمان",
+                "relative_url": "tehran/rent-apartment"
+            },
+            "cat_2": {
+                "full_title": "",
+                "icon_url": "",
+                "old_meta_id": 213,
+                "parent_slug": "real-estate",
+                "slug": "residential-rent",
+                "title": "اجارهٔ مسکونی",
+                "second_slug": "اجارهٔ مسکونی",
+                "relative_url": "tehran/rent-residential"
+            },
+            "cat_1": {
+                "full_title": "",
+                "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                "old_meta_id": 143,
+                "parent_slug": "root",
+                "slug": "real-estate",
+                "title": "املاک",
+                "second_slug": "املاک",
+                "relative_url": "tehran/real-estate"
+            },
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": null,
+            "rent": 0,
+            "credit": 1150000000
+        },
+        "district": "امیرآباد",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "promotion": "فوری",
+            "date": "دیروز",
+            "subtitle": "دیروز در تهران، امیرآباد | اجاره آپارتمان",
+            "title": "آپارتمان ۹۰ متری",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/DxITU5m0zJ6ImuaAtzVZIg/f001e2d6-8c2b-4dec-aee4-3889968302e2.jpg",
+            "place": "امیرآباد",
+            "business_logo": null
+        },
+        "description": "محیط آرام،تمیز،طبقه اول پارکینگ آسانسور انباری دارد،نقاشی شده",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۹۰"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۹۶"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۲"
+                    }
+                ]
+            },
+            {
+                "title": "ودیعه و اجارهٔ این ملک قابل تبدیل است.",
+                "widget_type": "FEATURE_ROW",
+                "data": {
+                    "@type": "type.googleapis.com/widgets.FeatureRowData",
+                    "title": "ودیعه و اجارهٔ این ملک قابل تبدیل است.",
+                    "icon": {
+                        "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/exchange.png",
+                        "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/exchange.png",
+                        "icon_name": "EXCHANGE",
+                        "icon_color": "ICON_SECONDARY"
+                    },
+                    "image_url": "",
+                    "image_color": "UNKNOWN",
+                    "has_divider": false,
+                    "disabled": false
+                },
+                "visibility_condition": []
+            },
+            {
+                "title": "ودیعه و اجارهٔ قابل تبدیل",
+                "widget_type": "RENT_SLIDER",
+                "data": {
+                    "@type": "type.googleapis.com/widgets.RentSliderData",
+                    "credit": {
+                        "value": "1150000000",
+                        "transformed_value": "700000000"
+                    },
+                    "rent": {
+                        "transformed_value": "13500000",
+                        "value": "0"
+                    },
+                    "label": "برای تبدیل بکشید",
+                    "has_divider": true
+                },
+                "visibility_condition": []
+            },
+            {
+                "title": "مناسب برای",
+                "format": "string",
+                "value": "خانواده و مجرد"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۱"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true
+            }
+        ],
+        "location": {
+            "latitude": "35.716386884574",
+            "longitude": "51.390604376793",
+            "map_url": "https://cdn.raah.ir/divar-images-2/QZJwohgl.png"
+        },
+        "images": [
+            "https://s100.divarcdn.com/static/photo/post/6v07xn7PvXHBYv4ZpAPK1w/a3cc80c6-4df4-44de-affb-739f6c20a7eb.webp",
+            "https://s100.divarcdn.com/static/photo/post/d8H-y3pXb3k4kEkytPJmlQ/d645700a-c554-42d2-b80d-88399b574372.webp",
+            "https://s100.divarcdn.com/static/photo/post/OWOS8QG3BPMhEHiDOnybMw/bbdc0b38-3d87-43a0-8a62-545178b7f687.webp",
+            "https://s100.divarcdn.com/static/photo/post/G7BU-YbGJSOkoux2Vhi50Q/20b3d2cd-714b-4445-9de3-6169cf7c8708.webp",
+            "https://s100.divarcdn.com/static/photo/post/UOgiP7MQEA7LgOWHInNp8w/f001e2d6-8c2b-4dec-aee4-3889968302e2.webp",
+            "https://s100.divarcdn.com/static/photo/post/2dOrmpww2CPhw6QT6cvW8g/820251c8-3162-40f3-a77a-7239e8c05163.webp"
+        ],
+        "web_images": [
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/6v07xn7PvXHBYv4ZpAPK1w/a3cc80c6-4df4-44de-affb-739f6c20a7eb.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/6v07xn7PvXHBYv4ZpAPK1w/a3cc80c6-4df4-44de-affb-739f6c20a7eb.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/d8H-y3pXb3k4kEkytPJmlQ/d645700a-c554-42d2-b80d-88399b574372.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/d8H-y3pXb3k4kEkytPJmlQ/d645700a-c554-42d2-b80d-88399b574372.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/OWOS8QG3BPMhEHiDOnybMw/bbdc0b38-3d87-43a0-8a62-545178b7f687.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/OWOS8QG3BPMhEHiDOnybMw/bbdc0b38-3d87-43a0-8a62-545178b7f687.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/G7BU-YbGJSOkoux2Vhi50Q/20b3d2cd-714b-4445-9de3-6169cf7c8708.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/G7BU-YbGJSOkoux2Vhi50Q/20b3d2cd-714b-4445-9de3-6169cf7c8708.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/UOgiP7MQEA7LgOWHInNp8w/f001e2d6-8c2b-4dec-aee4-3889968302e2.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/UOgiP7MQEA7LgOWHInNp8w/f001e2d6-8c2b-4dec-aee4-3889968302e2.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/2dOrmpww2CPhw6QT6cvW8g/820251c8-3162-40f3-a77a-7239e8c05163.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/2dOrmpww2CPhw6QT6cvW8g/820251c8-3162-40f3-a77a-7239e8c05163.jpg",
+                    "type": "image/jpeg"
+                }
+            ]
+        ],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 214,
+                    "parent_slug": "residential-rent",
+                    "slug": "apartment-rent",
+                    "title": "اجارهٔ آپارتمان",
+                    "second_slug": "اجارهٔ آپارتمان",
+                    "relative_url": "tehran/rent-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 213,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-rent",
+                    "title": "اجارهٔ مسکونی",
+                    "second_slug": "اجارهٔ مسکونی",
+                    "relative_url": "tehran/rent-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0910146xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "اجارهٔ آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,اجارهٔ-آپارتمان",
+                "relative_url": "tehran/rent-apartment"
+            },
+            {
+                "title": "اجارهٔ آپارتمان در امیرآباد",
+                "url": "https://divar.ir/tehran/تهران/امیرآباد/browse/اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/?place=8,91",
+                "relative_url": "tehran/rent-apartment/amir-abad"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZJwohgl",
+    "error": 0
+}

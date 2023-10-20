@@ -1,0 +1,330 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "آپارتمان فول بازسازی|اجارهٔ آپارتمان|تهران، ارم|دیوار",
+            "description": "آپارتمان فول بازسازی|اجارهٔ آپارتمان|تهران، ارم|خرید و فروش ساختمان واحد کم و دسترسی عالی| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%81%D9%88%D9%84-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C_اجارهٔ-آپارتمان_تهران_ارم_دیوار/QZRAzeYm",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/آپارتمان فول بازسازی/QZRAzeYm/",
+            "ios_app_url": "ios-app://863029557/http/v/آپارتمان فول بازسازی/QZRAzeYm/",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/YeaL6sSOPYey8aELdFpzKg/d5559872-b6cd-48b3-acd6-99c853b4d75b.jpg"
+        },
+        "share": {
+            "title": "آپارتمان فول بازسازی",
+            "description": "ساختمان واحد کم و دسترسی عالی",
+            "android_url": "https://divar.ir/v/QZRAzeYm?ref=android",
+            "ios_url": "https://divar.ir/v/QZRAzeYm?ref=ios",
+            "web_url": "https://divar.ir/v/QZRAzeYm"
+        },
+        "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%81%D9%88%D9%84-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C_اجارهٔ-آپارتمان_تهران_ارم_دیوار/QZRAzeYm",
+        "category": {
+            "slug": "apartment-rent",
+            "title": "اجارهٔ آپارتمان",
+            "second_slug": "اجارهٔ آپارتمان"
+        },
+        "description": "ساختمان واحد کم و دسترسی عالی",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-rent",
+            "token": "QZRAzeYm",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 5,
+            "district": "ارم",
+            "cat_3": {
+                "full_title": "اجاره آپارتمان",
+                "icon_url": "",
+                "old_meta_id": 214,
+                "parent_slug": "residential-rent",
+                "slug": "apartment-rent",
+                "title": "اجارهٔ آپارتمان",
+                "second_slug": "اجارهٔ آپارتمان",
+                "relative_url": "tehran/rent-apartment"
+            },
+            "cat_2": {
+                "full_title": "",
+                "icon_url": "",
+                "old_meta_id": 213,
+                "parent_slug": "real-estate",
+                "slug": "residential-rent",
+                "title": "اجارهٔ مسکونی",
+                "second_slug": "اجارهٔ مسکونی",
+                "relative_url": "tehran/rent-residential"
+            },
+            "cat_1": {
+                "full_title": "",
+                "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                "old_meta_id": 143,
+                "parent_slug": "root",
+                "slug": "real-estate",
+                "title": "املاک",
+                "second_slug": "املاک",
+                "relative_url": "tehran/real-estate"
+            },
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": null,
+            "rent": 15000000,
+            "credit": 250000000
+        },
+        "district": "ارم",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "دیروز",
+            "subtitle": "دیروز در تهران، ارم | اجاره آپارتمان",
+            "title": "آپارتمان فول بازسازی",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/YeaL6sSOPYey8aELdFpzKg/d5559872-b6cd-48b3-acd6-99c853b4d75b.jpg",
+            "place": "ارم",
+            "business_logo": null
+        },
+        "description": "ساختمان واحد کم و دسترسی عالی",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۸۰"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۹۳"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۲"
+                    }
+                ]
+            },
+            {
+                "title": "ودیعه",
+                "format": "string",
+                "value": "۲۵۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "اجارهٔ ماهانه",
+                "format": "string",
+                "value": "۱۵٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "ودیعه و اجاره",
+                "format": "string",
+                "value": "غیر قابل تبدیل"
+            },
+            {
+                "title": "مناسب برای",
+                "format": "string",
+                "value": "خانواده"
+            },
+            {
+                "title": "آگهی‌دهنده",
+                "format": "string",
+                "value": "شخصی"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۵"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true
+            }
+        ],
+        "location": {
+            "latitude": "35.73187",
+            "longitude": "51.28924",
+            "map_url": "https://cdn.raah.ir/divar-images-2/QZRAzeYm.png"
+        },
+        "images": [
+            "https://s100.divarcdn.com/static/photo/post/UxUrEemZOPvHOFhdXu7OUw/2c4de4fe-696f-4e8b-a06f-9c0fb10fbfce.webp",
+            "https://s100.divarcdn.com/static/photo/post/sJz1Hv1wfInUDlqeqZyraQ/04b30487-4ac3-496f-b51c-769e85f7b70a.webp",
+            "https://s100.divarcdn.com/static/photo/post/z3_bIjJFM3czDI0GntpVtw/c3749f3e-7eb2-473a-9419-7f26a547f8b0.webp",
+            "https://s100.divarcdn.com/static/photo/post/Gg486m92pxmGP2-cXXLP-g/06a2a18a-9972-4ef9-b87b-6c61a5dc59cf.webp",
+            "https://s100.divarcdn.com/static/photo/post/xp4aKCJhg8-eybEOEwJWUw/d5559872-b6cd-48b3-acd6-99c853b4d75b.webp"
+        ],
+        "web_images": [
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/UxUrEemZOPvHOFhdXu7OUw/2c4de4fe-696f-4e8b-a06f-9c0fb10fbfce.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/UxUrEemZOPvHOFhdXu7OUw/2c4de4fe-696f-4e8b-a06f-9c0fb10fbfce.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/sJz1Hv1wfInUDlqeqZyraQ/04b30487-4ac3-496f-b51c-769e85f7b70a.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/sJz1Hv1wfInUDlqeqZyraQ/04b30487-4ac3-496f-b51c-769e85f7b70a.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/z3_bIjJFM3czDI0GntpVtw/c3749f3e-7eb2-473a-9419-7f26a547f8b0.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/z3_bIjJFM3czDI0GntpVtw/c3749f3e-7eb2-473a-9419-7f26a547f8b0.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/Gg486m92pxmGP2-cXXLP-g/06a2a18a-9972-4ef9-b87b-6c61a5dc59cf.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/Gg486m92pxmGP2-cXXLP-g/06a2a18a-9972-4ef9-b87b-6c61a5dc59cf.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/xp4aKCJhg8-eybEOEwJWUw/d5559872-b6cd-48b3-acd6-99c853b4d75b.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/xp4aKCJhg8-eybEOEwJWUw/d5559872-b6cd-48b3-acd6-99c853b4d75b.jpg",
+                    "type": "image/jpeg"
+                }
+            ]
+        ],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 214,
+                    "parent_slug": "residential-rent",
+                    "slug": "apartment-rent",
+                    "title": "اجارهٔ آپارتمان",
+                    "second_slug": "اجارهٔ آپارتمان",
+                    "relative_url": "tehran/rent-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 213,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-rent",
+                    "title": "اجارهٔ مسکونی",
+                    "second_slug": "اجارهٔ مسکونی",
+                    "relative_url": "tehran/rent-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0936601xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "اجارهٔ آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,اجارهٔ-آپارتمان",
+                "relative_url": "tehran/rent-apartment"
+            },
+            {
+                "title": "اجارهٔ آپارتمان در ارم",
+                "url": "https://divar.ir/tehran/تهران/ارم/browse/اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/?place=8,160",
+                "relative_url": "tehran/rent-apartment/eram"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZRAzeYm",
+    "error": 0
+}
