@@ -79,16 +79,13 @@ def main():
             success += 1
         except FileNotFoundError:
             logging.error(f"File not found: {file_name}")
-            # print(f"File not found: {file_name}")
         except JSONDecodeError:
             logging.error(f"Invalid JSON file: {file_name}")
-            # print(f"Invalid JSON file: {file_name}")
         except:
             logging.error(f"Unexpected error: {file_name}")
-            # print(f"Unexpected error: {file_name}")
     fail = len(files_names) - success
-    print("failed:",fail)
-    print("success:",success)
+
+    print(f"success ratio: {fail/success :.4f}")
 
 if __name__ == "__main__":
     main()
