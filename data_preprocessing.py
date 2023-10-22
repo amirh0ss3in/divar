@@ -4,27 +4,44 @@ import logging
 from json.decoder import JSONDecodeError
 
 
-def extract_data(file_path):
-    """Extracts the desired data from the JSON file."""
+import json
 
+def extract_data(file_path):
+    # Load the data from the JSON file
     with open(file_path, encoding='utf-8') as f:
         info = json.load(f)
-
+    
+    # Extract the desired data from the JSON structure
+    try:
+        elevator_available = info.get("widgets").get('list_data')[7].get("items")[0].get("available")
+    except (AttributeError, IndexError, KeyError):
+        elevator_available = info.get("widgets").get('list_data')[6].get("items")[0].get("available")
+    
+    try:
+        parking_available = info.get("widgets").get('list_data')[7].get("items")[1].get("available")
+    except (AttributeError, IndexError, KeyError):
+        parking_available = info.get("widgets").get('list_data')[6].get("items")[1].get("available")
+    
+    try:
+        warehouse_available = info.get("widgets").get('list_data')[7].get("items")[2].get("available")
+    except (AttributeError, IndexError, KeyError):
+        warehouse_available = info.get("widgets").get('list_data')[6].get("items")[2].get("available")
+    
     data = {
-        "Date": info.get("widgets").get("header").get("date"),
+        "Date": info.get("widgets").get('header').get('date'),
         "RENT": info.get("data").get("webengage").get("rent"),
         "CREDIT": info.get("data").get("webengage").get("credit"),
         "CITY": info.get("data").get("webengage").get("city"),
-        "Meterage": info.get("widgets").get("list_data")[0].get("items")[0].get("value"),
-        "Construction": info.get("widgets").get("list_data")[0].get("items")[1].get("value"),
-        "ROOMS": info.get("widgets").get("list_data")[0].get("items")[2].get("value"),
-        "floor": info.get("widgets").get("list_data")[6].get("value"),
-        "Elevator": info.get("widgets").get("list_data")[7].get("items")[0].get("available"),
-        "Parking": info.get("widgets").get("list_data")[7].get("items")[1].get("available"),
-        "Warehouse": info.get("widgets").get("list_data")[7].get("items")[2].get("available"),
+        "Meterage": info.get("widgets").get('list_data')[0].get("items")[0].get('value'),
+        "Construction": info.get("widgets").get('list_data')[0].get("items")[1].get('value'),
+        "ROOMS": info.get("widgets").get('list_data')[0].get("items")[2].get('value'),
+        "floor": info.get("widgets").get('list_data')[6].get("value"),
+        "Elevator": elevator_available,
+        "Parking": parking_available,
+        "Warehouse": warehouse_available,
         "location": info.get("data").get("lacation")
     }
-
+    
     return data
 
 def create_new_dict(data):
@@ -58,17 +75,17 @@ def main():
         try:
             data = extract_data(files_path + file_name)
             new_dict = create_new_dict(data)
-            # print(new_dict)
+            print(new_dict["location"])
             success += 1
         except FileNotFoundError:
             logging.error(f"File not found: {file_name}")
-            print(f"File not found: {file_name}")
+            # print(f"File not found: {file_name}")
         except JSONDecodeError:
             logging.error(f"Invalid JSON file: {file_name}")
-            print(f"Invalid JSON file: {file_name}")
+            # print(f"Invalid JSON file: {file_name}")
         except:
             logging.error(f"Unexpected error: {file_name}")
-            print(f"Unexpected error: {file_name}")
+            # print(f"Unexpected error: {file_name}")
     fail = len(files_names) - success
     print("failed:",fail)
     print("success:",success)
