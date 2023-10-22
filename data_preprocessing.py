@@ -63,10 +63,8 @@ def create_new_dict(data):
 
     return new_dict
 
-def main():
+def main(files_path):
     """Main function."""
-
-    files_path = "Results/apartment-rent/1/"
     files_names = os.listdir(files_path)
     logging.basicConfig(filename="errors.log", level=logging.INFO)
 
@@ -88,4 +86,4 @@ def main():
     print(f"success ratio: {fail/success :.4f}")
 
 if __name__ == "__main__":
-    main()
+    main(files_path = "Results/apartment-rent/1/")
