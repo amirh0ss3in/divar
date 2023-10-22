@@ -71,6 +71,7 @@ def compute_PCA_districts(files_path, treshhold):
     plt.title(f"Conversion Rate All: {conversion_rate_all * 100 :.2f}%")
     plt.tight_layout()
     plt.savefig(PCA_path+"bar_plot.png")
+    plt.show()
 
 compute_PCA_districts(files_path = "Results/apartment-rent/1/",
                       treshhold=10)
