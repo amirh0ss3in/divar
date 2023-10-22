@@ -79,8 +79,6 @@ def main(files_path):
             new_dict = create_new_dict(data)
             success += 1
             table[file_name.removesuffix(".json")] = new_dict
-            with open('table.json', 'w', encoding='utf-8') as f:
-                json.dump(files_path+table, f, ensure_ascii=False, indent=4)
 
         except FileNotFoundError:
             logging.error(f"File not found: {file_name}")
@@ -89,6 +87,9 @@ def main(files_path):
         except:
             logging.error(f"Unexpected error: {file_name}")
 
+    with open(files_path+'table.json', 'w', encoding='utf-8') as f:
+        json.dump(table, f, ensure_ascii=False, indent=4)
+        
     print(f"success ratio: {100*success/len(files_names) :.2f}%")
 
 if __name__ == "__main__":
