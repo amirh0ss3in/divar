@@ -2,7 +2,8 @@ import json
 import os
 import logging
 from json.decoder import JSONDecodeError
-
+import pandas as pd
+from tqdm import tqdm
 
 import json
 
@@ -40,9 +41,9 @@ def extract_data(file_path):
         "Parking": parking_available,
         "Warehouse": warehouse_available,
         "district" : info.get("data").get("district"),
-        "location": info.get("data").get("lacation")
+        "latitude": info.get("widgets").get("location").get("latitude"),
+        "longitude": info.get("widgets").get("location").get("longitude")
     }
-    
     return data
 
 def create_new_dict(data):
@@ -59,7 +60,8 @@ def create_new_dict(data):
         "Elevator": data["Elevator"],
         "Warehouse": data["Warehouse"],
         "floor": data["floor"],
-        "Location": data["location"],
+        "latitude": data["latitude"],
+        "longitude": data["longitude"],
         "District": data['district']
     }
 
@@ -69,22 +71,25 @@ def main(files_path):
     """Main function."""
     files_names = os.listdir(files_path)
     logging.basicConfig(filename="errors.log", level=logging.INFO)
-
-    success = 0 
-    for file_name in files_names:
+    table = {}
+    success = 0
+    for file_name in tqdm(files_names):
         try:
             data = extract_data(files_path + file_name)
             new_dict = create_new_dict(data)
             success += 1
+            table[file_name.removesuffix(".json")] = new_dict
+            with open('table.json', 'w', encoding='utf-8') as f:
+                json.dump(files_path+table, f, ensure_ascii=False, indent=4)
+
         except FileNotFoundError:
             logging.error(f"File not found: {file_name}")
         except JSONDecodeError:
             logging.error(f"Invalid JSON file: {file_name}")
         except:
             logging.error(f"Unexpected error: {file_name}")
-    fail = len(files_names) - success
 
-    print(f"success ratio: {fail/success :.4f}")
+    print(f"success ratio: {100*success/len(files_names) :.2f}%")
 
 if __name__ == "__main__":
     main(files_path = "Results/apartment-rent/1/")
