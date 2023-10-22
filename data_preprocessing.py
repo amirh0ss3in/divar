@@ -75,7 +75,6 @@ def main(files_path):
         try:
             data = extract_data(files_path + file_name)
             new_dict = create_new_dict(data)
-            print(new_dict["location"])
             success += 1
         except FileNotFoundError:
             logging.error(f"File not found: {file_name}")
