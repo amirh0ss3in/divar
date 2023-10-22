@@ -39,6 +39,7 @@ def extract_data(file_path):
         "Elevator": elevator_available,
         "Parking": parking_available,
         "Warehouse": warehouse_available,
+        "district" : info.get("data").get("district"),
         "location": info.get("data").get("lacation")
     }
     
@@ -58,7 +59,8 @@ def create_new_dict(data):
         "Elevator": data["Elevator"],
         "Warehouse": data["Warehouse"],
         "floor": data["floor"],
-        "location": data["location"]
+        "Location": data["location"],
+        "District": data['district']
     }
 
     return new_dict
