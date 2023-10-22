@@ -7,7 +7,7 @@ from bidi.algorithm import get_display
 from arabic_reshaper import reshape
 import matplotlib.ticker as mtick
 import os
-
+import numpy as np
 
 def process_data(info):
     data = pd.DataFrame.from_dict(info, orient='index', columns=['CREDIT', 'RENT', 'longitude', 'latitude','Meterage','District'])
@@ -17,7 +17,7 @@ def process_data(info):
     data['CREDIT'] /= 1000000
     data['RENT'] /= 1000000
     data['longitude'], data['latitude'] = data['longitude'].astype(float), data['latitude'].astype(float)
-    mask_prices = (data['CREDIT'] < 100) | (data['CREDIT'] > 2000) | (data['RENT'] < 1) | (data['RENT'] > 100)
+    mask_prices = (data['CREDIT'] < 100) | (data['CREDIT'] > 2000) | (data['RENT'] < 5) | (data['RENT'] > 100)
     data = data.loc[~mask_prices].dropna(subset=['CREDIT', 'RENT'])
 
     locs = data[['longitude', 'latitude']].dropna()
@@ -32,19 +32,28 @@ def compute_PCA_districts(files_path, treshhold):
     data, data_location, districts = process_data(info=info)
     conversion_rates = {}
 
+    pca = PCA()
+    pca.fit_transform(data[['CREDIT', 'RENT']])
+    conversion_rate_all = abs(pca.components_[0,1])
+
     for district in districts:
         data_district = data.loc[data['District'] == district]
 
         if len(data_district) > treshhold:
             pca = PCA()
-            pca_fit = pca.fit_transform(data_district[['CREDIT', 'RENT']])
+            pca.fit_transform(data_district[['CREDIT', 'RENT']])
 
             conversion_rate = abs(pca.components_[0,1])
 
-            # print(f'Conversion Rate of district {district}:\t {conversion_rate*100 :.2f}%')
             conversion_rates[district] = conversion_rate
 
-    fig = plt.figure(figsize=(20, 8))
+    # Sort the conversion_rates dictionary by values in ascending order
+    sorted_rates = sorted(conversion_rates.items(), key=lambda x: x[1])
+    # Create two lists for the sorted district names and conversion rates
+    sorted_districts = [x[0] for x in sorted_rates]
+    sorted_rates = [x[1] for x in sorted_rates]
+    
+    fig = plt.figure(figsize=(16, 8))
     
     PCA_path = files_path.replace("Results", "PCA_Results")
     if not os.path.isdir(PCA_path):
@@ -53,18 +62,18 @@ def compute_PCA_districts(files_path, treshhold):
         json.dump(conversion_rates, f, ensure_ascii=False, indent=4)
         
 
-    persian_labels = [get_display(reshape(label)) for label in conversion_rates.keys()]
-    plt.bar(persian_labels, conversion_rates.values())
+    persian_labels = [get_display(reshape(label)) for label in sorted_districts]
+    plt.bar(persian_labels, sorted_rates)
     plt.xticks(rotation=90, ha='right', fontsize = 8)
     plt.xlabel('District')
     plt.ylabel('Conversion Rate')
     plt.gca().yaxis.set_major_formatter(mtick.PercentFormatter(1.0))
+    plt.title(f"Conversion Rate All: {conversion_rate_all * 100 :.2f}%")
     plt.tight_layout()
-    # plt.show()
     plt.savefig(PCA_path+"bar_plot.png")
 
 compute_PCA_districts(files_path = "Results/apartment-rent/1/",
-                      treshhold=100)
+                      treshhold=10)
 
 
 # hist, xedges, yedges = np.histogram2d(data_location['longitude'], data_location['latitude'], bins=20)
