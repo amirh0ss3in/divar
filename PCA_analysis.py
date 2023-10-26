@@ -75,14 +75,3 @@ def compute_PCA_districts(files_path, treshhold):
 
 compute_PCA_districts(files_path = "Results/apartment-rent/1/",
                       treshhold=10)
-
-
-# hist, xedges, yedges = np.histogram2d(data_location['longitude'], data_location['latitude'], bins=20)
-# x, y = np.meshgrid(xedges[:-1], yedges[:-1])
-# coords = np.stack([x.ravel(), y.ravel()], axis=1)
-# plt.imshow(hist.T, origin='lower', extent=[xedges[0], xedges[-1], yedges[0], yedges[-1]], cmap='viridis')
-# plt.colorbar()
-# plt.xlabel('longitude')
-# plt.ylabel('latitude')
-# plt.title('Heatmap of Credit and Rent Data')
-# plt.show()
