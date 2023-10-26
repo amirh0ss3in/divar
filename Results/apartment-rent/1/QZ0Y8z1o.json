@@ -1,0 +1,576 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "۶۰متربا ویو و|اجارهٔ آپارتمان|تهران، شهرک کیانشهر|دیوار",
+            "description": "۶۰متربا ویو و|اجارهٔ آپارتمان|تهران، شهرک کیانشهر|خرید و فروش دارای دسترسی مناسب| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%DB%B6%DB%B0%D9%85%D8%AA%D8%B1%D8%A8%D8%A7-%D9%88%DB%8C%D9%88-%D9%88_اجارهٔ-آپارتمان_تهران_شهرک-کیانشهر_دیوار/QZ0Y8z1o",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/۶۰متربا ویو و/QZ0Y8z1o/",
+            "ios_app_url": "ios-app://863029557/http/v/۶۰متربا ویو و/QZ0Y8z1o/",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/DflMfABicNUuAhb-IjOg6Q/e5a11949-e782-4701-86e9-b5a277952d6f.jpg"
+        },
+        "share": {
+            "title": "۶۰متربا ویو و",
+            "description": "دارای دسترسی مناسب",
+            "android_url": "https://divar.ir/v/QZ0Y8z1o?ref=android",
+            "ios_url": "https://divar.ir/v/QZ0Y8z1o?ref=ios",
+            "web_url": "https://divar.ir/v/QZ0Y8z1o"
+        },
+        "url": "https://divar.ir/v/%DB%B6%DB%B0%D9%85%D8%AA%D8%B1%D8%A8%D8%A7-%D9%88%DB%8C%D9%88-%D9%88_اجارهٔ-آپارتمان_تهران_شهرک-کیانشهر_دیوار/QZ0Y8z1o",
+        "category": {
+            "slug": "apartment-rent",
+            "title": "اجارهٔ آپارتمان",
+            "second_slug": "اجارهٔ آپارتمان"
+        },
+        "description": "دارای دسترسی مناسب",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-rent",
+            "token": "QZ0Y8z1o",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 11,
+            "district": "شهرک کیانشهر",
+            "cat_3": {
+                "full_title": "اجاره آپارتمان",
+                "icon_url": "",
+                "old_meta_id": 214,
+                "parent_slug": "residential-rent",
+                "slug": "apartment-rent",
+                "title": "اجارهٔ آپارتمان",
+                "second_slug": "اجارهٔ آپارتمان",
+                "relative_url": "tehran/rent-apartment"
+            },
+            "cat_2": {
+                "full_title": "",
+                "icon_url": "",
+                "old_meta_id": 213,
+                "parent_slug": "real-estate",
+                "slug": "residential-rent",
+                "title": "اجارهٔ مسکونی",
+                "second_slug": "اجارهٔ مسکونی",
+                "relative_url": "tehran/rent-residential"
+            },
+            "cat_1": {
+                "full_title": "",
+                "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                "old_meta_id": 143,
+                "parent_slug": "root",
+                "slug": "real-estate",
+                "title": "املاک",
+                "second_slug": "املاک",
+                "relative_url": "tehran/real-estate"
+            },
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": null,
+            "rent": 3000000,
+            "credit": 250000000
+        },
+        "district": "شهرک کیانشهر",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "دیروز",
+            "subtitle": "دیروز در تهران، شهرک کیانشهر | اجاره آپارتمان",
+            "title": "۶۰متربا ویو و",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/DflMfABicNUuAhb-IjOg6Q/e5a11949-e782-4701-86e9-b5a277952d6f.jpg",
+            "place": "شهرک کیانشهر",
+            "business_logo": null
+        },
+        "description": "دارای دسترسی مناسب",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۶۰"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۸۰"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۲"
+                    }
+                ]
+            },
+            {
+                "title": "ودیعه و اجارهٔ این ملک قابل تبدیل است.",
+                "widget_type": "FEATURE_ROW",
+                "data": {
+                    "@type": "type.googleapis.com/widgets.FeatureRowData",
+                    "title": "ودیعه و اجارهٔ این ملک قابل تبدیل است.",
+                    "icon": {
+                        "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/exchange.png",
+                        "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/exchange.png",
+                        "icon_name": "EXCHANGE",
+                        "icon_color": "ICON_SECONDARY"
+                    },
+                    "image_url": "",
+                    "image_color": "UNKNOWN",
+                    "has_divider": false,
+                    "disabled": false
+                },
+                "visibility_condition": []
+            },
+            {
+                "title": "ودیعه و اجارهٔ قابل تبدیل",
+                "widget_type": "RENT_SLIDER",
+                "data": {
+                    "@type": "type.googleapis.com/widgets.RentSliderData",
+                    "credit": {
+                        "value": "250000000",
+                        "transformed_value": "300000000"
+                    },
+                    "rent": {
+                        "value": "3000000",
+                        "transformed_value": "1500000"
+                    },
+                    "label": "برای تبدیل بکشید",
+                    "has_divider": true
+                },
+                "visibility_condition": []
+            },
+            {
+                "title": "مناسب برای",
+                "format": "string",
+                "value": "خانواده و مجرد"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۳"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور ندارد",
+                        "available": false,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_hint/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_hint/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_HINT"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری ندارد",
+                        "available": false,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_hint/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_hint/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_HINT"
+                        }
+                    }
+                ],
+                "has_divider": true,
+                "next_page_text": "نمایش همهٔ جزئیات",
+                "next_page": {
+                    "title": "ویژگی‌ها و امکانات",
+                    "widget_list": [
+                        {
+                            "widget_type": "TITLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.TitleRowData",
+                                "text": "امکانات",
+                                "text_color": "TEXT_PRIMARY",
+                                "has_divider": false,
+                                "color": ""
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "آسانسور ندارد",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                                    "icon_name": "ELEVATOR",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "پارکینگ",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                                    "icon_name": "PARKING",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "انباری ندارد",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                                    "icon_name": "CABINET",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "بالکن",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/balcony.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/balcony.png",
+                                    "icon_name": "BALCONY",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "جنس کف سرامیک",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/texture.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/texture.png",
+                                    "icon_name": "TEXTURE",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "سرویس بهداشتی ایرانی",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/wc.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/wc.png",
+                                    "icon_name": "WC",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "گرمایش بخاری",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/sunny.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/sunny.png",
+                                    "icon_name": "SUNNY",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "تأمین‌کننده آب گرم آبگرم‌کن",
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/thermometer.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/thermometer.png",
+                                    "icon_name": "THERMOMETER",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "has_divider": false,
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        }
+                    ],
+                    "is_searchable": false,
+                    "nav_bar": []
+                }
+            }
+        ],
+        "location": {
+            "latitude": "35.62986",
+            "longitude": "51.440975",
+            "map_url": "https://cdn.raah.ir/divar-images-2/QZ0Y8z1o.png"
+        },
+        "images": [
+            "https://s100.divarcdn.com/static/photo/post/X0eskwRa46qpRIzuVRoknQ/7c78c0e9-338b-4440-a490-bdf914f44ac7.webp",
+            "https://s100.divarcdn.com/static/photo/post/Gg6XkBEBKTOIhNB09DGYwQ/491cbbb7-a402-403b-a9c3-f25cf7a9edff.webp",
+            "https://s100.divarcdn.com/static/photo/post/PvPM_KKH1LV2i2nS8Sz2mg/109020a1-3e29-4a0c-87c9-d041c497e68b.webp",
+            "https://s100.divarcdn.com/static/photo/post/HZzZMjrvLwajcyZfwIRzfw/0106574e-99e8-48e2-82ad-945fd8590e11.webp",
+            "https://s100.divarcdn.com/static/photo/post/UQ6q00NW4_-p4w8DN5SRZw/addc3c5d-7a33-42ee-9a37-d227bd2a2517.webp",
+            "https://s100.divarcdn.com/static/photo/post/vfSMtMIn5Kvl1uWHEUpV6A/e5a11949-e782-4701-86e9-b5a277952d6f.webp",
+            "https://s100.divarcdn.com/static/photo/post/zzAd78JKV_8tBzJDkD2PlA/c41196e6-bc98-4b97-b2a9-90e3de48b07b.webp",
+            "https://s100.divarcdn.com/static/photo/post/ZMwax8kbfpfOTYv4kfdhIA/2e9e9027-f7f0-4827-97d0-ba78c95e2c2b.webp",
+            "https://s100.divarcdn.com/static/photo/post/_RitsGAB6ZGLgcVaNl-fyg/2eb89ade-0009-4cd2-a10a-9fe875411709.webp",
+            "https://s100.divarcdn.com/static/photo/post/pi4lnBhdluCY3C5ZX3baCQ/5bab0450-fd4c-42e8-ab30-fab1d015160d.webp",
+            "https://s100.divarcdn.com/static/photo/post/V4rliKyDrCqdofzhdFuJIw/7a70c699-c673-4e59-a026-3d4be801229a.webp"
+        ],
+        "web_images": [
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/X0eskwRa46qpRIzuVRoknQ/7c78c0e9-338b-4440-a490-bdf914f44ac7.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/X0eskwRa46qpRIzuVRoknQ/7c78c0e9-338b-4440-a490-bdf914f44ac7.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/Gg6XkBEBKTOIhNB09DGYwQ/491cbbb7-a402-403b-a9c3-f25cf7a9edff.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/Gg6XkBEBKTOIhNB09DGYwQ/491cbbb7-a402-403b-a9c3-f25cf7a9edff.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/PvPM_KKH1LV2i2nS8Sz2mg/109020a1-3e29-4a0c-87c9-d041c497e68b.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/PvPM_KKH1LV2i2nS8Sz2mg/109020a1-3e29-4a0c-87c9-d041c497e68b.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/HZzZMjrvLwajcyZfwIRzfw/0106574e-99e8-48e2-82ad-945fd8590e11.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/HZzZMjrvLwajcyZfwIRzfw/0106574e-99e8-48e2-82ad-945fd8590e11.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/UQ6q00NW4_-p4w8DN5SRZw/addc3c5d-7a33-42ee-9a37-d227bd2a2517.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/UQ6q00NW4_-p4w8DN5SRZw/addc3c5d-7a33-42ee-9a37-d227bd2a2517.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/vfSMtMIn5Kvl1uWHEUpV6A/e5a11949-e782-4701-86e9-b5a277952d6f.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/vfSMtMIn5Kvl1uWHEUpV6A/e5a11949-e782-4701-86e9-b5a277952d6f.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/zzAd78JKV_8tBzJDkD2PlA/c41196e6-bc98-4b97-b2a9-90e3de48b07b.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/zzAd78JKV_8tBzJDkD2PlA/c41196e6-bc98-4b97-b2a9-90e3de48b07b.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/ZMwax8kbfpfOTYv4kfdhIA/2e9e9027-f7f0-4827-97d0-ba78c95e2c2b.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/ZMwax8kbfpfOTYv4kfdhIA/2e9e9027-f7f0-4827-97d0-ba78c95e2c2b.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/_RitsGAB6ZGLgcVaNl-fyg/2eb89ade-0009-4cd2-a10a-9fe875411709.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/_RitsGAB6ZGLgcVaNl-fyg/2eb89ade-0009-4cd2-a10a-9fe875411709.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/pi4lnBhdluCY3C5ZX3baCQ/5bab0450-fd4c-42e8-ab30-fab1d015160d.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/pi4lnBhdluCY3C5ZX3baCQ/5bab0450-fd4c-42e8-ab30-fab1d015160d.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/V4rliKyDrCqdofzhdFuJIw/7a70c699-c673-4e59-a026-3d4be801229a.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/V4rliKyDrCqdofzhdFuJIw/7a70c699-c673-4e59-a026-3d4be801229a.jpg",
+                    "type": "image/jpeg"
+                }
+            ]
+        ],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 214,
+                    "parent_slug": "residential-rent",
+                    "slug": "apartment-rent",
+                    "title": "اجارهٔ آپارتمان",
+                    "second_slug": "اجارهٔ آپارتمان",
+                    "relative_url": "tehran/rent-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 213,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-rent",
+                    "title": "اجارهٔ مسکونی",
+                    "second_slug": "اجارهٔ مسکونی",
+                    "relative_url": "tehran/rent-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0904570xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "اجارهٔ آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,اجارهٔ-آپارتمان",
+                "relative_url": "tehran/rent-apartment"
+            },
+            {
+                "title": "اجارهٔ آپارتمان در شهرک کیانشهر",
+                "url": "https://divar.ir/tehran/تهران/شهرک-کیانشهر/browse/اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/?place=8,241",
+                "relative_url": "tehran/rent-apartment/shahrak-kyanshahr"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZ0Y8z1o",
+    "error": 0
+}

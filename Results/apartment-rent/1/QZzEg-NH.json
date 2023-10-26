@@ -1,0 +1,402 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "آپارتمان ۵۵ متر|اجارهٔ آپارتمان|تهران، شیوا|دیوار",
+            "description": "آپارتمان ۵۵ متر|اجارهٔ آپارتمان|تهران، شیوا|خرید و فروش آپارتمان ۵۵ متری\nتک واحدی\nانباری\nساختمان ساکت و همسایگان خوب| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B5-%D9%85%D8%AA%D8%B1_اجارهٔ-آپارتمان_تهران_شیوا_دیوار/QZzEg-NH",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/آپارتمان ۵۵ متر/QZzEg-NH/",
+            "ios_app_url": "ios-app://863029557/http/v/آپارتمان ۵۵ متر/QZzEg-NH/",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/V4EiHQDAbi2Rf8jJPJaJKw/e61afd97-9480-4c46-8fc1-8ed157bc11d5.jpg"
+        },
+        "share": {
+            "title": "آپارتمان ۵۵ متر",
+            "description": "آپارتمان ۵۵ متری\nتک واحدی\nانباری\nساختمان ساکت و همسایگان خوب",
+            "android_url": "https://divar.ir/v/QZzEg-NH?ref=android",
+            "ios_url": "https://divar.ir/v/QZzEg-NH?ref=ios",
+            "web_url": "https://divar.ir/v/QZzEg-NH"
+        },
+        "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B5-%D9%85%D8%AA%D8%B1_اجارهٔ-آپارتمان_تهران_شیوا_دیوار/QZzEg-NH",
+        "category": {
+            "slug": "apartment-rent",
+            "title": "اجارهٔ آپارتمان",
+            "second_slug": "اجارهٔ آپارتمان"
+        },
+        "description": "آپارتمان ۵۵ متری\nتک واحدی\nانباری\nساختمان ساکت و همسایگان خوب",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-rent",
+            "token": "QZzEg-NH",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 10,
+            "district": "شیوا",
+            "cat_3": {
+                "full_title": "اجاره آپارتمان",
+                "icon_url": "",
+                "old_meta_id": 214,
+                "parent_slug": "residential-rent",
+                "slug": "apartment-rent",
+                "title": "اجارهٔ آپارتمان",
+                "second_slug": "اجارهٔ آپارتمان",
+                "relative_url": "tehran/rent-apartment"
+            },
+            "cat_2": {
+                "full_title": "",
+                "icon_url": "",
+                "old_meta_id": 213,
+                "parent_slug": "real-estate",
+                "slug": "residential-rent",
+                "title": "اجارهٔ مسکونی",
+                "second_slug": "اجارهٔ مسکونی",
+                "relative_url": "tehran/rent-residential"
+            },
+            "cat_1": {
+                "full_title": "",
+                "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                "old_meta_id": 143,
+                "parent_slug": "root",
+                "slug": "real-estate",
+                "title": "املاک",
+                "second_slug": "املاک",
+                "relative_url": "tehran/real-estate"
+            },
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": null,
+            "rent": 7500000,
+            "credit": 150000000
+        },
+        "district": "شیوا",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "پریروز",
+            "subtitle": "پریروز در تهران، شیوا | اجاره آپارتمان",
+            "title": "آپارتمان ۵۵ متر",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/V4EiHQDAbi2Rf8jJPJaJKw/e61afd97-9480-4c46-8fc1-8ed157bc11d5.jpg",
+            "place": "شیوا",
+            "business_logo": null
+        },
+        "description": "آپارتمان ۵۵ متری\nتک واحدی\nانباری\nساختمان ساکت و همسایگان خوب",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۵۵"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۹۵"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۲"
+                    }
+                ]
+            },
+            {
+                "title": "ودیعه و اجارهٔ این ملک قابل تبدیل است.",
+                "widget_type": "FEATURE_ROW",
+                "data": {
+                    "@type": "type.googleapis.com/widgets.FeatureRowData",
+                    "title": "ودیعه و اجارهٔ این ملک قابل تبدیل است.",
+                    "icon": {
+                        "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/exchange.png",
+                        "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/exchange.png",
+                        "icon_name": "EXCHANGE",
+                        "icon_color": "ICON_SECONDARY"
+                    },
+                    "image_url": "",
+                    "image_color": "UNKNOWN",
+                    "has_divider": false,
+                    "disabled": false
+                },
+                "visibility_condition": []
+            },
+            {
+                "title": "ودیعه و اجارهٔ قابل تبدیل",
+                "widget_type": "RENT_SLIDER",
+                "data": {
+                    "@type": "type.googleapis.com/widgets.RentSliderData",
+                    "credit": {
+                        "value": "150000000",
+                        "transformed_value": "200000000"
+                    },
+                    "rent": {
+                        "value": "7500000",
+                        "transformed_value": "6000000"
+                    },
+                    "label": "برای تبدیل بکشید",
+                    "has_divider": true
+                },
+                "visibility_condition": []
+            },
+            {
+                "title": "مناسب برای",
+                "format": "string",
+                "value": "خانواده"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۳"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور ندارد",
+                        "available": false,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_hint/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_hint/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_HINT"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ ندارد",
+                        "available": false,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_hint/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_hint/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_HINT"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true
+            }
+        ],
+        "location": {
+            "latitude": "35.680420094536",
+            "longitude": "51.472642421722",
+            "map_url": "https://cdn.raah.ir/divar-images-2/QZzEg-NH.png"
+        },
+        "images": [
+            "https://s100.divarcdn.com/static/photo/post/dbe6l3yL67c80CleNM23bQ/b0a1549b-2b04-4050-9afe-f1bff013bf85.webp",
+            "https://s100.divarcdn.com/static/photo/post/NMu6hTY9iQPNuIW_EdZLtQ/d3ab942e-16f4-4039-9084-e1556e55f841.webp",
+            "https://s100.divarcdn.com/static/photo/post/0TlO_6rVXBfi5OWDPorWZA/508656b5-ed65-42bb-984c-25f9803575fe.webp",
+            "https://s100.divarcdn.com/static/photo/post/QeQ-E7XCgwLXg3mgrMj7qg/3832531e-5d3d-4fd9-a536-9bd38ff0590e.webp",
+            "https://s100.divarcdn.com/static/photo/post/LCN0OAbZ_vyWA0QwyJyzDg/5550a2a0-57fd-45a3-ac4f-7bd1c4ff9e4e.webp",
+            "https://s100.divarcdn.com/static/photo/post/gW3nULFrD5TmavZ1HCl0fg/46fcb04d-aa46-4092-b79c-48e8b9b1d253.webp",
+            "https://s100.divarcdn.com/static/photo/post/8KQEC_TACQHF9WyglcvqCA/622ed163-5127-4722-8c7f-4460867f181c.webp",
+            "https://s100.divarcdn.com/static/photo/post/sFRk8Gg8qxpu2_6E8IrJFg/aab278f5-8dec-42a4-9603-2a525885e466.webp",
+            "https://s100.divarcdn.com/static/photo/post/9jJR6rWycUxFFKt2yKl0Vw/5076f6b0-8daf-4c51-902c-45199ad5efe3.webp",
+            "https://s100.divarcdn.com/static/photo/post/F2k_NhIBsnw5aoOBRNbAmQ/e61afd97-9480-4c46-8fc1-8ed157bc11d5.webp"
+        ],
+        "web_images": [
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/dbe6l3yL67c80CleNM23bQ/b0a1549b-2b04-4050-9afe-f1bff013bf85.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/dbe6l3yL67c80CleNM23bQ/b0a1549b-2b04-4050-9afe-f1bff013bf85.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/NMu6hTY9iQPNuIW_EdZLtQ/d3ab942e-16f4-4039-9084-e1556e55f841.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/NMu6hTY9iQPNuIW_EdZLtQ/d3ab942e-16f4-4039-9084-e1556e55f841.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/0TlO_6rVXBfi5OWDPorWZA/508656b5-ed65-42bb-984c-25f9803575fe.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/0TlO_6rVXBfi5OWDPorWZA/508656b5-ed65-42bb-984c-25f9803575fe.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/QeQ-E7XCgwLXg3mgrMj7qg/3832531e-5d3d-4fd9-a536-9bd38ff0590e.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/QeQ-E7XCgwLXg3mgrMj7qg/3832531e-5d3d-4fd9-a536-9bd38ff0590e.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/LCN0OAbZ_vyWA0QwyJyzDg/5550a2a0-57fd-45a3-ac4f-7bd1c4ff9e4e.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/LCN0OAbZ_vyWA0QwyJyzDg/5550a2a0-57fd-45a3-ac4f-7bd1c4ff9e4e.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/gW3nULFrD5TmavZ1HCl0fg/46fcb04d-aa46-4092-b79c-48e8b9b1d253.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/gW3nULFrD5TmavZ1HCl0fg/46fcb04d-aa46-4092-b79c-48e8b9b1d253.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/8KQEC_TACQHF9WyglcvqCA/622ed163-5127-4722-8c7f-4460867f181c.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/8KQEC_TACQHF9WyglcvqCA/622ed163-5127-4722-8c7f-4460867f181c.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/sFRk8Gg8qxpu2_6E8IrJFg/aab278f5-8dec-42a4-9603-2a525885e466.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/sFRk8Gg8qxpu2_6E8IrJFg/aab278f5-8dec-42a4-9603-2a525885e466.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/9jJR6rWycUxFFKt2yKl0Vw/5076f6b0-8daf-4c51-902c-45199ad5efe3.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/9jJR6rWycUxFFKt2yKl0Vw/5076f6b0-8daf-4c51-902c-45199ad5efe3.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/F2k_NhIBsnw5aoOBRNbAmQ/e61afd97-9480-4c46-8fc1-8ed157bc11d5.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/F2k_NhIBsnw5aoOBRNbAmQ/e61afd97-9480-4c46-8fc1-8ed157bc11d5.jpg",
+                    "type": "image/jpeg"
+                }
+            ]
+        ],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 214,
+                    "parent_slug": "residential-rent",
+                    "slug": "apartment-rent",
+                    "title": "اجارهٔ آپارتمان",
+                    "second_slug": "اجارهٔ آپارتمان",
+                    "relative_url": "tehran/rent-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 213,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-rent",
+                    "title": "اجارهٔ مسکونی",
+                    "second_slug": "اجارهٔ مسکونی",
+                    "relative_url": "tehran/rent-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0902743xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "اجارهٔ آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,اجارهٔ-آپارتمان",
+                "relative_url": "tehran/rent-apartment"
+            },
+            {
+                "title": "اجارهٔ آپارتمان در شیوا",
+                "url": "https://divar.ir/tehran/تهران/شیوا/browse/اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/?place=8,968",
+                "relative_url": "tehran/rent-apartment/shiva"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZzEg-NH",
+    "error": 0
+}

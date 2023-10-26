@@ -91,6 +91,6 @@ def main(files_path):
         json.dump(table, f, ensure_ascii=False, indent=4)
         
     print(f"success ratio: {100*success/len(files_names) :.2f}%")
-
+    
 if __name__ == "__main__":
     main(files_path = "Results/apartment-rent/1/")

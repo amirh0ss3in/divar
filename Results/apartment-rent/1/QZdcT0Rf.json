@@ -1,0 +1,336 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "بیست متری جوادیه تک واحد|اجارهٔ آپارتمان|تهران، جوادیه|دیوار",
+            "description": "بیست متری جوادیه تک واحد|اجارهٔ آپارتمان|تهران، جوادیه|خرید و فروش فول امکانات -نورگیر عالی -نقاشی شده| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A8%DB%8C%D8%B3%D8%AA-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AC%D9%88%D8%A7%D8%AF%DB%8C%D9%87-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF_اجارهٔ-آپارتمان_تهران_جوادیه_دیوار/QZdcT0Rf",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/بیست متری جوادیه تک واحد/QZdcT0Rf/",
+            "ios_app_url": "ios-app://863029557/http/v/بیست متری جوادیه تک واحد/QZdcT0Rf/",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/lis1yxECtfqyXf7hmaMr8g/ece39c20-54b9-4439-b306-2750649119ee.jpg"
+        },
+        "share": {
+            "title": "بیست متری جوادیه تک واحد",
+            "description": "فول امکانات -نورگیر عالی -نقاشی شده",
+            "android_url": "https://divar.ir/v/QZdcT0Rf?ref=android",
+            "ios_url": "https://divar.ir/v/QZdcT0Rf?ref=ios",
+            "web_url": "https://divar.ir/v/QZdcT0Rf"
+        },
+        "url": "https://divar.ir/v/%D8%A8%DB%8C%D8%B3%D8%AA-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AC%D9%88%D8%A7%D8%AF%DB%8C%D9%87-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF_اجارهٔ-آپارتمان_تهران_جوادیه_دیوار/QZdcT0Rf",
+        "category": {
+            "slug": "apartment-rent",
+            "title": "اجارهٔ آپارتمان",
+            "second_slug": "اجارهٔ آپارتمان"
+        },
+        "description": "فول امکانات -نورگیر عالی -نقاشی شده",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-rent",
+            "token": "QZdcT0Rf",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 6,
+            "district": "جوادیه",
+            "cat_3": {
+                "full_title": "اجاره آپارتمان",
+                "icon_url": "",
+                "old_meta_id": 214,
+                "parent_slug": "residential-rent",
+                "slug": "apartment-rent",
+                "title": "اجارهٔ آپارتمان",
+                "second_slug": "اجارهٔ آپارتمان",
+                "relative_url": "tehran/rent-apartment"
+            },
+            "cat_2": {
+                "full_title": "",
+                "icon_url": "",
+                "old_meta_id": 213,
+                "parent_slug": "real-estate",
+                "slug": "residential-rent",
+                "title": "اجارهٔ مسکونی",
+                "second_slug": "اجارهٔ مسکونی",
+                "relative_url": "tehran/rent-residential"
+            },
+            "cat_1": {
+                "full_title": "",
+                "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                "old_meta_id": 143,
+                "parent_slug": "root",
+                "slug": "real-estate",
+                "title": "املاک",
+                "second_slug": "املاک",
+                "relative_url": "tehran/real-estate"
+            },
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": null,
+            "rent": 9000000,
+            "credit": 300000000
+        },
+        "district": "جوادیه",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "پریروز",
+            "subtitle": "پریروز در تهران، جوادیه | اجاره آپارتمان",
+            "title": "بیست متری جوادیه تک واحد",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/lis1yxECtfqyXf7hmaMr8g/ece39c20-54b9-4439-b306-2750649119ee.jpg",
+            "place": "جوادیه",
+            "business_logo": null
+        },
+        "description": "فول امکانات -نورگیر عالی -نقاشی شده",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۹۰"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۹۳"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۲"
+                    }
+                ]
+            },
+            {
+                "title": "ودیعه",
+                "format": "string",
+                "value": "۳۰۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "اجارهٔ ماهانه",
+                "format": "string",
+                "value": "۹٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "ودیعه و اجاره",
+                "format": "string",
+                "value": "غیر قابل تبدیل"
+            },
+            {
+                "title": "مناسب برای",
+                "format": "string",
+                "value": "خانواده"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۲"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true
+            }
+        ],
+        "location": {
+            "latitude": "35.653935629386",
+            "longitude": "51.389646828175",
+            "map_url": "https://cdn.raah.ir/divar-images-2/QZdcT0Rf.png"
+        },
+        "images": [
+            "https://s100.divarcdn.com/static/photo/post/1WG0Lp7quEZh7XaUPFtXeQ/db7a54c8-aa1a-47d6-8dc5-491f6628a416.webp",
+            "https://s100.divarcdn.com/static/photo/post/k4SEspmzIJYnJ_P2_oeydw/94c7672f-1a98-4a28-a141-1f9054993d69.webp",
+            "https://s100.divarcdn.com/static/photo/post/2AsXSR2JFSXaxM8r5G7Nug/ece39c20-54b9-4439-b306-2750649119ee.webp",
+            "https://s100.divarcdn.com/static/photo/post/mNaiXC2_qpvnXvxboik_Tg/de3e90e0-ff9b-4b2b-b873-f06c10d9b742.webp",
+            "https://s100.divarcdn.com/static/photo/post/2NShhqWCCyIIdae2r3IghA/282f9f76-708b-4203-a5c4-c4a3c7682f21.webp",
+            "https://s100.divarcdn.com/static/photo/post/SK-2yLehMWNEVN6bIvE1PQ/00ede53c-9a0b-44d6-80b1-48c2ff33d8f4.webp"
+        ],
+        "web_images": [
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/1WG0Lp7quEZh7XaUPFtXeQ/db7a54c8-aa1a-47d6-8dc5-491f6628a416.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/1WG0Lp7quEZh7XaUPFtXeQ/db7a54c8-aa1a-47d6-8dc5-491f6628a416.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/k4SEspmzIJYnJ_P2_oeydw/94c7672f-1a98-4a28-a141-1f9054993d69.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/k4SEspmzIJYnJ_P2_oeydw/94c7672f-1a98-4a28-a141-1f9054993d69.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/2AsXSR2JFSXaxM8r5G7Nug/ece39c20-54b9-4439-b306-2750649119ee.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/2AsXSR2JFSXaxM8r5G7Nug/ece39c20-54b9-4439-b306-2750649119ee.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/mNaiXC2_qpvnXvxboik_Tg/de3e90e0-ff9b-4b2b-b873-f06c10d9b742.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/mNaiXC2_qpvnXvxboik_Tg/de3e90e0-ff9b-4b2b-b873-f06c10d9b742.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/2NShhqWCCyIIdae2r3IghA/282f9f76-708b-4203-a5c4-c4a3c7682f21.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/2NShhqWCCyIIdae2r3IghA/282f9f76-708b-4203-a5c4-c4a3c7682f21.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/SK-2yLehMWNEVN6bIvE1PQ/00ede53c-9a0b-44d6-80b1-48c2ff33d8f4.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/SK-2yLehMWNEVN6bIvE1PQ/00ede53c-9a0b-44d6-80b1-48c2ff33d8f4.jpg",
+                    "type": "image/jpeg"
+                }
+            ]
+        ],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 214,
+                    "parent_slug": "residential-rent",
+                    "slug": "apartment-rent",
+                    "title": "اجارهٔ آپارتمان",
+                    "second_slug": "اجارهٔ آپارتمان",
+                    "relative_url": "tehran/rent-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 213,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-rent",
+                    "title": "اجارهٔ مسکونی",
+                    "second_slug": "اجارهٔ مسکونی",
+                    "relative_url": "tehran/rent-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0912237xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "اجارهٔ آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,اجارهٔ-آپارتمان",
+                "relative_url": "tehran/rent-apartment"
+            },
+            {
+                "title": "اجارهٔ آپارتمان در جوادیه",
+                "url": "https://divar.ir/tehran/تهران/جوادیه/browse/اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/?place=8,265",
+                "relative_url": "tehran/rent-apartment/javadiyeh"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZdcT0Rf",
+    "error": 0
+}

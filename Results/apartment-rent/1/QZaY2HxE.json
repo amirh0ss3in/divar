@@ -1,0 +1,376 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "آپارتمان ۱۱۰ متری پاسداران(قابل تبدیل)|اجارهٔ آپارتمان|تهران، پاسداران|دیوار",
+            "description": "آپارتمان ۱۱۰ متری پاسداران(قابل تبدیل)|اجارهٔ آپارتمان|تهران، پاسداران|خرید و فروش نوساز\nلابی شیک\nاسانسور\nپارکینگ\nانباری\nبالکن| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D9%BE%D8%A7%D8%B3%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-_اجارهٔ-آپارتمان_تهران_پاسداران_دیوار/QZaY2HxE",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/آپارتمان ۱۱۰ متری پاسداران(قابل تبدیل)/QZaY2HxE/",
+            "ios_app_url": "ios-app://863029557/http/v/آپارتمان ۱۱۰ متری پاسداران(قابل تبدیل)/QZaY2HxE/",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/qHQVXdMCVdV5JboCOd_wSg/fb9c9abb-eac8-41f6-83bf-f65aa84ddc72.jpg"
+        },
+        "share": {
+            "title": "آپارتمان ۱۱۰ متری پاسداران(قابل تبدیل)",
+            "description": "نوساز\nلابی شیک\nاسانسور\nپارکینگ\nانباری\nبالکن",
+            "android_url": "https://divar.ir/v/QZaY2HxE?ref=android",
+            "ios_url": "https://divar.ir/v/QZaY2HxE?ref=ios",
+            "web_url": "https://divar.ir/v/QZaY2HxE"
+        },
+        "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D9%BE%D8%A7%D8%B3%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-_اجارهٔ-آپارتمان_تهران_پاسداران_دیوار/QZaY2HxE",
+        "category": {
+            "slug": "apartment-rent",
+            "title": "اجارهٔ آپارتمان",
+            "second_slug": "اجارهٔ آپارتمان"
+        },
+        "description": "نوساز\nلابی شیک\nاسانسور\nپارکینگ\nانباری\nبالکن",
+        "business_data": {
+            "business_type": "real-estate-business",
+            "business_ref": "2216",
+            "data": {
+                "id": "2216",
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/qvLhwZ-htTgU2y4gu4D_Mw.jpg",
+                "name": "مشاورین هوشمند ",
+                "slug": "1Khruyn4",
+                "score": 0.5868617,
+                "address": "پاسداران \r\nبین دشتستان 7 و 8\r\nپلاک 104\r\nطبقه همکف \r\nمشاورین هوشمند",
+                "agentInfo": {
+                    "name": "حسین پور",
+                    "slug": "MXm7N6bX"
+                },
+                "submitType": "AGENCY_SUBMIT",
+                "shortAddress": "تهران، پاسداران",
+                "telephoneNumber": "02122888822"
+            }
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-rent",
+            "token": "QZaY2HxE",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 7,
+            "district": "پاسداران",
+            "cat_3": {
+                "full_title": "اجاره آپارتمان",
+                "icon_url": "",
+                "old_meta_id": 214,
+                "parent_slug": "residential-rent",
+                "slug": "apartment-rent",
+                "title": "اجارهٔ آپارتمان",
+                "second_slug": "اجارهٔ آپارتمان",
+                "relative_url": "tehran/rent-apartment"
+            },
+            "cat_2": {
+                "full_title": "",
+                "icon_url": "",
+                "old_meta_id": 213,
+                "parent_slug": "real-estate",
+                "slug": "residential-rent",
+                "title": "اجارهٔ مسکونی",
+                "second_slug": "اجارهٔ مسکونی",
+                "relative_url": "tehran/rent-residential"
+            },
+            "cat_1": {
+                "full_title": "",
+                "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                "old_meta_id": 143,
+                "parent_slug": "root",
+                "slug": "real-estate",
+                "title": "املاک",
+                "second_slug": "املاک",
+                "relative_url": "tehran/real-estate"
+            },
+            "status": "",
+            "originality": "",
+            "business_type": "real-estate-business",
+            "business_ref": "2216",
+            "data": {
+                "id": "2216",
+                "logo": "https://s100.divarcdn.com/static/images/real-estate/qvLhwZ-htTgU2y4gu4D_Mw.jpg",
+                "name": "مشاورین هوشمند ",
+                "slug": "1Khruyn4",
+                "score": 0.5868617,
+                "address": "پاسداران \r\nبین دشتستان 7 و 8\r\nپلاک 104\r\nطبقه همکف \r\nمشاورین هوشمند",
+                "agentInfo": {
+                    "name": "حسین پور",
+                    "slug": "MXm7N6bX"
+                },
+                "submitType": "AGENCY_SUBMIT",
+                "shortAddress": "تهران، پاسداران",
+                "telephoneNumber": "02122888822"
+            },
+            "price": null,
+            "rent": 26000000,
+            "credit": 500000000
+        },
+        "district": "پاسداران",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "۴ روز پیش",
+            "subtitle": "۴ روز پیش در تهران، پاسداران | اجاره آپارتمان",
+            "title": "آپارتمان ۱۱۰ متری پاسداران(قابل تبدیل)",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/qHQVXdMCVdV5JboCOd_wSg/fb9c9abb-eac8-41f6-83bf-f65aa84ddc72.jpg",
+            "place": "پاسداران",
+            "business_logo": null
+        },
+        "description": "نوساز\nلابی شیک\nاسانسور\nپارکینگ\nانباری\nبالکن",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۱۱۰"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۴۰۱"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۲"
+                    }
+                ]
+            },
+            {
+                "title": "ودیعه",
+                "format": "string",
+                "value": "۵۰۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "اجارهٔ ماهانه",
+                "format": "string",
+                "value": "۲۶٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "ودیعه و اجاره",
+                "format": "string",
+                "value": "غیر قابل تبدیل"
+            },
+            {
+                "title": "مناسب برای",
+                "format": "string",
+                "value": "خانواده و مجرد"
+            },
+            {
+                "title": "آژانس املاک",
+                "value": "مشاورین هوشمند ",
+                "format": "string"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۲"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true
+            }
+        ],
+        "location": {},
+        "images": [
+            "https://s100.divarcdn.com/static/photo/post/zY73z-qirYLT785qLNNv5A/91d2d37f-5f08-4716-99c0-28abf4d1a309.webp",
+            "https://s100.divarcdn.com/static/photo/post/SqaS97FN_re0m7E4EknQdw/0aae7308-faa0-4c56-8fcb-d12e69b5cf82.webp",
+            "https://s100.divarcdn.com/static/photo/post/AEbkrp1e1g7Zm048bDPMWg/b6ccc21c-815f-43bd-8885-802855692401.webp",
+            "https://s100.divarcdn.com/static/photo/post/XK-C9Bg_NLMN0tJp8AbcJg/e361d3c2-54f2-4b10-b425-a485bf6821f1.webp",
+            "https://s100.divarcdn.com/static/photo/post/uj8rJvAsSdPtuphlrcyTwQ/ee18d637-f554-461f-b6cd-efe674a485e8.webp",
+            "https://s100.divarcdn.com/static/photo/post/rNLmvgyfkr1cAlerAOkiEQ/50a67fc6-e531-4880-83b9-cb1f6548b62b.webp",
+            "https://s100.divarcdn.com/static/photo/post/0JEtz0knqmDf9UxLHr02Gg/fb9c9abb-eac8-41f6-83bf-f65aa84ddc72.webp"
+        ],
+        "web_images": [
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/zY73z-qirYLT785qLNNv5A/91d2d37f-5f08-4716-99c0-28abf4d1a309.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/zY73z-qirYLT785qLNNv5A/91d2d37f-5f08-4716-99c0-28abf4d1a309.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/SqaS97FN_re0m7E4EknQdw/0aae7308-faa0-4c56-8fcb-d12e69b5cf82.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/SqaS97FN_re0m7E4EknQdw/0aae7308-faa0-4c56-8fcb-d12e69b5cf82.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/AEbkrp1e1g7Zm048bDPMWg/b6ccc21c-815f-43bd-8885-802855692401.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/AEbkrp1e1g7Zm048bDPMWg/b6ccc21c-815f-43bd-8885-802855692401.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/XK-C9Bg_NLMN0tJp8AbcJg/e361d3c2-54f2-4b10-b425-a485bf6821f1.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/XK-C9Bg_NLMN0tJp8AbcJg/e361d3c2-54f2-4b10-b425-a485bf6821f1.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/uj8rJvAsSdPtuphlrcyTwQ/ee18d637-f554-461f-b6cd-efe674a485e8.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/uj8rJvAsSdPtuphlrcyTwQ/ee18d637-f554-461f-b6cd-efe674a485e8.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/rNLmvgyfkr1cAlerAOkiEQ/50a67fc6-e531-4880-83b9-cb1f6548b62b.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/rNLmvgyfkr1cAlerAOkiEQ/50a67fc6-e531-4880-83b9-cb1f6548b62b.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/0JEtz0knqmDf9UxLHr02Gg/fb9c9abb-eac8-41f6-83bf-f65aa84ddc72.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/0JEtz0knqmDf9UxLHr02Gg/fb9c9abb-eac8-41f6-83bf-f65aa84ddc72.jpg",
+                    "type": "image/jpeg"
+                }
+            ]
+        ],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 214,
+                    "parent_slug": "residential-rent",
+                    "slug": "apartment-rent",
+                    "title": "اجارهٔ آپارتمان",
+                    "second_slug": "اجارهٔ آپارتمان",
+                    "relative_url": "tehran/rent-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 213,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-rent",
+                    "title": "اجارهٔ مسکونی",
+                    "second_slug": "اجارهٔ مسکونی",
+                    "relative_url": "tehran/rent-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0910593xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "اجارهٔ آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,اجارهٔ-آپارتمان",
+                "relative_url": "tehran/rent-apartment"
+            },
+            {
+                "title": "اجارهٔ آپارتمان در پاسداران",
+                "url": "https://divar.ir/tehran/تهران/پاسداران/browse/اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/?place=8,67",
+                "relative_url": "tehran/rent-apartment/pasdaran"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZaY2HxE",
+    "error": 0
+}

@@ -1,0 +1,325 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "۴۰ متری|اجارهٔ آپارتمان|تهران، قلمستان|دیوار",
+            "description": "۴۰ متری|اجارهٔ آپارتمان|تهران، قلمستان|خرید و فروش تماس \n***********| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%DB%B4%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C_اجارهٔ-آپارتمان_تهران_قلمستان_دیوار/QZ0MrHC5",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/۴۰ متری/QZ0MrHC5/",
+            "ios_app_url": "ios-app://863029557/http/v/۴۰ متری/QZ0MrHC5/",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/a4L9MLb1nNI-NO7jMwG7Bw/b2c31c1a-5003-444f-a41d-590a50da37ad.jpg"
+        },
+        "share": {
+            "title": "۴۰ متری",
+            "description": "تماس \n***********",
+            "android_url": "https://divar.ir/v/QZ0MrHC5?ref=android",
+            "ios_url": "https://divar.ir/v/QZ0MrHC5?ref=ios",
+            "web_url": "https://divar.ir/v/QZ0MrHC5"
+        },
+        "url": "https://divar.ir/v/%DB%B4%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C_اجارهٔ-آپارتمان_تهران_قلمستان_دیوار/QZ0MrHC5",
+        "category": {
+            "slug": "apartment-rent",
+            "title": "اجارهٔ آپارتمان",
+            "second_slug": "اجارهٔ آپارتمان"
+        },
+        "description": "تماس \n***********",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-rent",
+            "token": "QZ0MrHC5",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 3,
+            "district": "قلمستان",
+            "cat_3": {
+                "full_title": "اجاره آپارتمان",
+                "icon_url": "",
+                "old_meta_id": 214,
+                "parent_slug": "residential-rent",
+                "slug": "apartment-rent",
+                "title": "اجارهٔ آپارتمان",
+                "second_slug": "اجارهٔ آپارتمان",
+                "relative_url": "tehran/rent-apartment"
+            },
+            "cat_2": {
+                "full_title": "",
+                "icon_url": "",
+                "old_meta_id": 213,
+                "parent_slug": "real-estate",
+                "slug": "residential-rent",
+                "title": "اجارهٔ مسکونی",
+                "second_slug": "اجارهٔ مسکونی",
+                "relative_url": "tehran/rent-residential"
+            },
+            "cat_1": {
+                "full_title": "",
+                "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                "old_meta_id": 143,
+                "parent_slug": "root",
+                "slug": "real-estate",
+                "title": "املاک",
+                "second_slug": "املاک",
+                "relative_url": "tehran/real-estate"
+            },
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": null,
+            "rent": 0,
+            "credit": 250000000
+        },
+        "district": "قلمستان",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "دیروز",
+            "subtitle": "دیروز در تهران، قلمستان | اجاره آپارتمان",
+            "title": "۴۰ متری",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/a4L9MLb1nNI-NO7jMwG7Bw/b2c31c1a-5003-444f-a41d-590a50da37ad.jpg",
+            "place": "قلمستان",
+            "business_logo": null
+        },
+        "description": "تماس \n***********",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۴۰"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۸۲"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۱"
+                    }
+                ]
+            },
+            {
+                "title": "ودیعه و اجارهٔ این ملک قابل تبدیل است.",
+                "widget_type": "FEATURE_ROW",
+                "data": {
+                    "@type": "type.googleapis.com/widgets.FeatureRowData",
+                    "title": "ودیعه و اجارهٔ این ملک قابل تبدیل است.",
+                    "icon": {
+                        "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/exchange.png",
+                        "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/exchange.png",
+                        "icon_name": "EXCHANGE",
+                        "icon_color": "ICON_SECONDARY"
+                    },
+                    "image_url": "",
+                    "image_color": "UNKNOWN",
+                    "has_divider": false,
+                    "disabled": false
+                },
+                "visibility_condition": []
+            },
+            {
+                "title": "ودیعه و اجارهٔ قابل تبدیل",
+                "widget_type": "RENT_SLIDER",
+                "data": {
+                    "@type": "type.googleapis.com/widgets.RentSliderData",
+                    "credit": {
+                        "value": "250000000",
+                        "transformed_value": "200000000"
+                    },
+                    "rent": {
+                        "transformed_value": "1500000",
+                        "value": "0"
+                    },
+                    "label": "برای تبدیل بکشید",
+                    "has_divider": true
+                },
+                "visibility_condition": []
+            },
+            {
+                "title": "مناسب برای",
+                "format": "string",
+                "value": "خانواده و مجرد"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۲"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور ندارد",
+                        "available": false,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_hint/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_hint/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_HINT"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ ندارد",
+                        "available": false,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_hint/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_hint/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_HINT"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true
+            }
+        ],
+        "location": {
+            "latitude": "35.670284080291",
+            "longitude": "51.385116577148",
+            "map_url": "https://cdn.raah.ir/divar-images-2/QZ0MrHC5.png"
+        },
+        "images": [
+            "https://s100.divarcdn.com/static/photo/post/kLYejwhvxJoids70HLFTaw/b2c31c1a-5003-444f-a41d-590a50da37ad.webp",
+            "https://s100.divarcdn.com/static/photo/post/cInWWyxv_VnCubMk6sdaGg/6737fdc9-19ef-4ba3-9ebe-aa243c8cd112.webp",
+            "https://s100.divarcdn.com/static/photo/post/T8hXiH7DCcCNBFtRNb_ZlA/0c7a90d8-2169-41f3-a494-4dfa8d1720f1.webp"
+        ],
+        "web_images": [
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/kLYejwhvxJoids70HLFTaw/b2c31c1a-5003-444f-a41d-590a50da37ad.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/kLYejwhvxJoids70HLFTaw/b2c31c1a-5003-444f-a41d-590a50da37ad.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/cInWWyxv_VnCubMk6sdaGg/6737fdc9-19ef-4ba3-9ebe-aa243c8cd112.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/cInWWyxv_VnCubMk6sdaGg/6737fdc9-19ef-4ba3-9ebe-aa243c8cd112.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/T8hXiH7DCcCNBFtRNb_ZlA/0c7a90d8-2169-41f3-a494-4dfa8d1720f1.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/T8hXiH7DCcCNBFtRNb_ZlA/0c7a90d8-2169-41f3-a494-4dfa8d1720f1.jpg",
+                    "type": "image/jpeg"
+                }
+            ]
+        ],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 214,
+                    "parent_slug": "residential-rent",
+                    "slug": "apartment-rent",
+                    "title": "اجارهٔ آپارتمان",
+                    "second_slug": "اجارهٔ آپارتمان",
+                    "relative_url": "tehran/rent-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 213,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-rent",
+                    "title": "اجارهٔ مسکونی",
+                    "second_slug": "اجارهٔ مسکونی",
+                    "relative_url": "tehran/rent-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0910006xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "اجارهٔ آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,اجارهٔ-آپارتمان",
+                "relative_url": "tehran/rent-apartment"
+            },
+            {
+                "title": "اجارهٔ آپارتمان در قلمستان",
+                "url": "https://divar.ir/tehran/تهران/قلمستان/browse/اجارهٔ-مسکونی/املاک/اجارهٔ-آپارتمان/?place=8,998",
+                "relative_url": "tehran/rent-apartment/qalamestan"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZ0MrHC5",
+    "error": 0
+}
