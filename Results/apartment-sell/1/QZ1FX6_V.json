@@ -1,0 +1,1917 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "آپارتمان 72 متر|فروش آپارتمان|تهران، دانشگاه شریف|دیوار",
+            "description": "آپارتمان 72 متر|فروش آپارتمان|تهران، دانشگاه شریف|خرید و فروش کلید نخورده\nقابلیت دو خوابه\nفول امکانات| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-72-%D9%85%D8%AA%D8%B1_فروش-آپارتمان_تهران_دانشگاه-شریف_دیوار/QZ1FX6_V",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/آپارتمان 72 متر/QZ1FX6_V/",
+            "ios_app_url": "ios-app://863029557/http/v/آپارتمان 72 متر/QZ1FX6_V/",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/NWiG7dwylR-Wf2tzXzU-FA/de1cadc7-8066-40f9-97ef-9b598414f099.jpg"
+        },
+        "share": {
+            "title": "آپارتمان 72 متر",
+            "description": "کلید نخورده\nقابلیت دو خوابه\nفول امکانات",
+            "android_url": "https://divar.ir/v/QZ1FX6_V?ref=android",
+            "ios_url": "https://divar.ir/v/QZ1FX6_V?ref=ios",
+            "web_url": "https://divar.ir/v/QZ1FX6_V"
+        },
+        "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-72-%D9%85%D8%AA%D8%B1_فروش-آپارتمان_تهران_دانشگاه-شریف_دیوار/QZ1FX6_V",
+        "category": {
+            "slug": "apartment-sell",
+            "title": "فروش آپارتمان",
+            "second_slug": "فروش آپارتمان"
+        },
+        "description": "کلید نخورده\nقابلیت دو خوابه\nفول امکانات",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-sell",
+            "token": "QZ1FX6_V",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 3,
+            "district": "دانشگاه شریف",
+            "cat_3": "apartment-sell",
+            "cat_2": "residential-sell",
+            "cat_1": "real-estate",
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": 7900000000,
+            "rent": null,
+            "credit": null
+        },
+        "district": "دانشگاه شریف",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "۵ ساعت پیش",
+            "subtitle": "۵ ساعت پیش در تهران، دانشگاه شریف | فروش آپارتمان",
+            "title": "آپارتمان 72 متر",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/NWiG7dwylR-Wf2tzXzU-FA/de1cadc7-8066-40f9-97ef-9b598414f099.jpg",
+            "place": "دانشگاه شریف",
+            "business_logo": null
+        },
+        "description": "کلید نخورده\nقابلیت دو خوابه\nفول امکانات",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۷۲"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۹۹"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۱"
+                    }
+                ]
+            },
+            {
+                "title": "قیمت کل",
+                "format": "string",
+                "value": "۷٬۹۰۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "قیمت هر متر",
+                "format": "string",
+                "value": "۱۰۹٬۷۲۲٬۰۰۰ تومان"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۴"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true
+            }
+        ],
+        "location": {
+            "latitude": "35.710001524357",
+            "longitude": "51.35293006897",
+            "map_url": "https://cdn.raah.ir/divar-images-2/QZ1FX6_V.png"
+        },
+        "images": [
+            "https://s100.divarcdn.com/static/photo/post/aVzaGjxfj-3x54hOEHR9wA/de1cadc7-8066-40f9-97ef-9b598414f099.webp",
+            "https://s100.divarcdn.com/static/photo/post/rW5njkdMpkLYrU7J4PsxEA/66c71923-644c-4f5c-8b67-b629e8d221f4.webp",
+            "https://s100.divarcdn.com/static/photo/post/k7kWHmdITqhZUDPZrXfUiQ/d1da4598-a9e8-4356-89b5-5d482d093386.webp"
+        ],
+        "web_images": [
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/aVzaGjxfj-3x54hOEHR9wA/de1cadc7-8066-40f9-97ef-9b598414f099.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/aVzaGjxfj-3x54hOEHR9wA/de1cadc7-8066-40f9-97ef-9b598414f099.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/rW5njkdMpkLYrU7J4PsxEA/66c71923-644c-4f5c-8b67-b629e8d221f4.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/rW5njkdMpkLYrU7J4PsxEA/66c71923-644c-4f5c-8b67-b629e8d221f4.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/k7kWHmdITqhZUDPZrXfUiQ/d1da4598-a9e8-4356-89b5-5d482d093386.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/k7kWHmdITqhZUDPZrXfUiQ/d1da4598-a9e8-4356-89b5-5d482d093386.jpg",
+                    "type": "image/jpeg"
+                }
+            ]
+        ],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 210,
+                    "parent_slug": "residential-sell",
+                    "slug": "apartment-sell",
+                    "title": "فروش آپارتمان",
+                    "second_slug": "فروش آپارتمان",
+                    "relative_url": "tehran/buy-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 209,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-sell",
+                    "title": "فروش مسکونی",
+                    "second_slug": "فروش مسکونی",
+                    "relative_url": "tehran/buy-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "فروش-مسکونی/املاک/فروش-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0912215xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "فروش آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,فروش-آپارتمان",
+                "relative_url": "tehran/buy-apartment"
+            },
+            {
+                "title": "فروش آپارتمان در دانشگاه شریف",
+                "url": "https://divar.ir/tehran/تهران/دانشگاه-شریف/browse/فروش-مسکونی/املاک/فروش-آپارتمان/?place=8,928",
+                "relative_url": "tehran/buy-apartment/university-of-sharif"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": true,
+            "title": "آگهی‌های مشابه در این محله",
+            "posts": [
+                {
+                    "bottom_text": "۱۶,۰۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۱۴۷ متر، دانشگاه شریف",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/sVdlx0Rm6sTDN9tj9qE_3Q/acc4dc1e-4b84-45de-b27e-d23937c20d89.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "AZTCCrpL"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T08:21:09.055943"
+                    },
+                    "token": "AZTCCrpL",
+                    "web_info": {
+                        "title": "آپارتمان خوش نقشه 147 متری 3 خوابه نورگیر",
+                        "district_persian": "دانشگاه شریف",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۷,۷۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۵ متر، دانشگاه شریف",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/a_mz81hZajhYkBHxZPo5ug/c257f10b-090b-4728-bcab-e22b4ebcc0bb.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0pwPky"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T08:21:09.055943"
+                    },
+                    "token": "QZ0pwPky",
+                    "web_info": {
+                        "title": "آپارتمان 75 متری/خوش نقشه/لطفعلی خانی",
+                        "district_persian": "دانشگاه شریف",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۵,۹۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۰ متر، دانشگاه شریف",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/sO8OWVlEGaYfGJomlWQbOw/42266c8f-cf1a-422c-ad2a-52a0c493ce08.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZhhqT1G"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T08:21:09.055943"
+                    },
+                    "token": "QZhhqT1G",
+                    "web_info": {
+                        "title": "70 متر /2 خواب/خطی پرده خور",
+                        "district_persian": "دانشگاه شریف",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۷,۰۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۰ متر، دانشگاه شریف",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/fEbfAa8Sqosbc8hfxcbzJA/8b76015b-5b5a-4b12-9a88-db81a222e591.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZlBr16i"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T08:21:09.055943"
+                    },
+                    "token": "QZlBr16i",
+                    "web_info": {
+                        "title": "آپارتمان 80متری دو خوابه",
+                        "district_persian": "دانشگاه شریف",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۷,۸۵۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۱۰۰ متر، دانشگاه شریف",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/Bt_qewpA-pDluEXuf1yfQA/3741b05c-605f-4c75-982c-3d012c38b536.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZlxYSvO"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T08:21:09.055943"
+                    },
+                    "token": "QZlxYSvO",
+                    "web_info": {
+                        "title": "۱۰۰ متر دوخواب",
+                        "district_persian": "دانشگاه شریف",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۶,۵۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۶ متر، دانشگاه شریف",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/A55GMZd8KPMxVImRjy00_Q/16bf7ccb-98b4-466a-bf3d-d55c6048cb28.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZOJBn8p"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T08:21:09.055943"
+                    },
+                    "token": "QZOJBn8p",
+                    "web_info": {
+                        "title": "آپارتمان76 متری /فول امکانات/سرمایه گذاری",
+                        "district_persian": "دانشگاه شریف",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۶,۵۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۱۱۰ متر، دانشگاه شریف",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/ejsonYWa4UDef3Buf__YLw/9366f601-d295-4ca1-a033-3b436be26f97.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZoRK1E2"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T08:21:09.055943"
+                    },
+                    "token": "QZoRK1E2",
+                    "web_info": {
+                        "title": "آپارتمان ۱۱۰ متری اکوازیون فول بازسازی",
+                        "district_persian": "دانشگاه شریف",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۷,۷۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۷ متر، دانشگاه شریف",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZpRaAAy"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T08:21:09.055943"
+                    },
+                    "token": "QZpRaAAy",
+                    "web_info": {
+                        "title": "فروش آپارتمان ۷۷ متر دانشگاه شریف",
+                        "district_persian": "دانشگاه شریف",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۴,۷۵۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۳ متر، دانشگاه شریف",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/OrSCltozEOzTQr1yqVW7KQ/d69bdb60-0ef4-4323-b270-9ba09e8f25b4.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZqx_aBy"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T08:21:09.055943"
+                    },
+                    "token": "QZqx_aBy",
+                    "web_info": {
+                        "title": "63متری بولوار اردستانی مجتمع نگین غرب",
+                        "district_persian": "دانشگاه شریف",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۷,۸۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۱۰۰ متر، دانشگاه شریف",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/TlOKogNqZYaatTcjUoKvkg/504dea36-dde1-42bb-a40e-b17740a09820.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZrJ6Xeb"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T08:21:09.055943"
+                    },
+                    "token": "QZrJ6Xeb",
+                    "web_info": {
+                        "title": "آپارتمان100 متری جنوبی خوش نقشه",
+                        "district_persian": "دانشگاه شریف",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                }
+            ],
+            "widget_list": [
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌های مشابه در این محله",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/sVdlx0Rm6sTDN9tj9qE_3Q/acc4dc1e-4b84-45de-b27e-d23937c20d89.jpg",
+                                "title": "۱۴۷ متر، دانشگاه شریف",
+                                "second_description": "۱۶,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "AZTCCrpL",
+                                        "current_token": "QZ1FX6_V",
+                                        "suggested_tokens": [
+                                            "AZTCCrpL",
+                                            "QZ0pwPky",
+                                            "QZhhqT1G",
+                                            "QZlBr16i",
+                                            "QZlxYSvO",
+                                            "QZOJBn8p",
+                                            "QZoRK1E2",
+                                            "QZpRaAAy",
+                                            "QZqx_aBy",
+                                            "QZrJ6Xeb"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T08:21:09.055943"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان خوش نقشه 147 متری 3 خوابه نورگیر",
+                                            "district_persian": "دانشگاه شریف",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "AZTCCrpL",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1FX6_V",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T08:21:09.055943"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/a_mz81hZajhYkBHxZPo5ug/c257f10b-090b-4728-bcab-e22b4ebcc0bb.jpg",
+                                "title": "۷۵ متر، دانشگاه شریف",
+                                "second_description": "۷,۷۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0pwPky",
+                                        "current_token": "QZ1FX6_V",
+                                        "suggested_tokens": [
+                                            "AZTCCrpL",
+                                            "QZ0pwPky",
+                                            "QZhhqT1G",
+                                            "QZlBr16i",
+                                            "QZlxYSvO",
+                                            "QZOJBn8p",
+                                            "QZoRK1E2",
+                                            "QZpRaAAy",
+                                            "QZqx_aBy",
+                                            "QZrJ6Xeb"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T08:21:09.055943"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان 75 متری/خوش نقشه/لطفعلی خانی",
+                                            "district_persian": "دانشگاه شریف",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0pwPky",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1FX6_V",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T08:21:09.055943"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/sO8OWVlEGaYfGJomlWQbOw/42266c8f-cf1a-422c-ad2a-52a0c493ce08.jpg",
+                                "title": "۷۰ متر، دانشگاه شریف",
+                                "second_description": "۵,۹۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZhhqT1G",
+                                        "current_token": "QZ1FX6_V",
+                                        "suggested_tokens": [
+                                            "AZTCCrpL",
+                                            "QZ0pwPky",
+                                            "QZhhqT1G",
+                                            "QZlBr16i",
+                                            "QZlxYSvO",
+                                            "QZOJBn8p",
+                                            "QZoRK1E2",
+                                            "QZpRaAAy",
+                                            "QZqx_aBy",
+                                            "QZrJ6Xeb"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T08:21:09.055943"
+                                        },
+                                        "web_info": {
+                                            "title": "70 متر /2 خواب/خطی پرده خور",
+                                            "district_persian": "دانشگاه شریف",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZhhqT1G",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1FX6_V",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T08:21:09.055943"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/fEbfAa8Sqosbc8hfxcbzJA/8b76015b-5b5a-4b12-9a88-db81a222e591.jpg",
+                                "title": "۸۰ متر، دانشگاه شریف",
+                                "second_description": "۷,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZlBr16i",
+                                        "current_token": "QZ1FX6_V",
+                                        "suggested_tokens": [
+                                            "AZTCCrpL",
+                                            "QZ0pwPky",
+                                            "QZhhqT1G",
+                                            "QZlBr16i",
+                                            "QZlxYSvO",
+                                            "QZOJBn8p",
+                                            "QZoRK1E2",
+                                            "QZpRaAAy",
+                                            "QZqx_aBy",
+                                            "QZrJ6Xeb"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T08:21:09.055943"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان 80متری دو خوابه",
+                                            "district_persian": "دانشگاه شریف",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZlBr16i",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1FX6_V",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T08:21:09.055943"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/Bt_qewpA-pDluEXuf1yfQA/3741b05c-605f-4c75-982c-3d012c38b536.jpg",
+                                "title": "۱۰۰ متر، دانشگاه شریف",
+                                "second_description": "۷,۸۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZlxYSvO",
+                                        "current_token": "QZ1FX6_V",
+                                        "suggested_tokens": [
+                                            "AZTCCrpL",
+                                            "QZ0pwPky",
+                                            "QZhhqT1G",
+                                            "QZlBr16i",
+                                            "QZlxYSvO",
+                                            "QZOJBn8p",
+                                            "QZoRK1E2",
+                                            "QZpRaAAy",
+                                            "QZqx_aBy",
+                                            "QZrJ6Xeb"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T08:21:09.055943"
+                                        },
+                                        "web_info": {
+                                            "title": "۱۰۰ متر دوخواب",
+                                            "district_persian": "دانشگاه شریف",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZlxYSvO",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1FX6_V",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T08:21:09.055943"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/A55GMZd8KPMxVImRjy00_Q/16bf7ccb-98b4-466a-bf3d-d55c6048cb28.jpg",
+                                "title": "۷۶ متر، دانشگاه شریف",
+                                "second_description": "۶,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZOJBn8p",
+                                        "current_token": "QZ1FX6_V",
+                                        "suggested_tokens": [
+                                            "AZTCCrpL",
+                                            "QZ0pwPky",
+                                            "QZhhqT1G",
+                                            "QZlBr16i",
+                                            "QZlxYSvO",
+                                            "QZOJBn8p",
+                                            "QZoRK1E2",
+                                            "QZpRaAAy",
+                                            "QZqx_aBy",
+                                            "QZrJ6Xeb"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T08:21:09.055943"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان76 متری /فول امکانات/سرمایه گذاری",
+                                            "district_persian": "دانشگاه شریف",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZOJBn8p",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1FX6_V",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T08:21:09.055943"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/ejsonYWa4UDef3Buf__YLw/9366f601-d295-4ca1-a033-3b436be26f97.jpg",
+                                "title": "۱۱۰ متر، دانشگاه شریف",
+                                "second_description": "۶,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZoRK1E2",
+                                        "current_token": "QZ1FX6_V",
+                                        "suggested_tokens": [
+                                            "AZTCCrpL",
+                                            "QZ0pwPky",
+                                            "QZhhqT1G",
+                                            "QZlBr16i",
+                                            "QZlxYSvO",
+                                            "QZOJBn8p",
+                                            "QZoRK1E2",
+                                            "QZpRaAAy",
+                                            "QZqx_aBy",
+                                            "QZrJ6Xeb"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T08:21:09.055943"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۱۱۰ متری اکوازیون فول بازسازی",
+                                            "district_persian": "دانشگاه شریف",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZoRK1E2",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1FX6_V",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T08:21:09.055943"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۷۷ متر، دانشگاه شریف",
+                                "second_description": "۷,۷۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZpRaAAy",
+                                        "current_token": "QZ1FX6_V",
+                                        "suggested_tokens": [
+                                            "AZTCCrpL",
+                                            "QZ0pwPky",
+                                            "QZhhqT1G",
+                                            "QZlBr16i",
+                                            "QZlxYSvO",
+                                            "QZOJBn8p",
+                                            "QZoRK1E2",
+                                            "QZpRaAAy",
+                                            "QZqx_aBy",
+                                            "QZrJ6Xeb"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T08:21:09.055943"
+                                        },
+                                        "web_info": {
+                                            "title": "فروش آپارتمان ۷۷ متر دانشگاه شریف",
+                                            "district_persian": "دانشگاه شریف",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZpRaAAy",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1FX6_V",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T08:21:09.055943"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/OrSCltozEOzTQr1yqVW7KQ/d69bdb60-0ef4-4323-b270-9ba09e8f25b4.jpg",
+                                "title": "۶۳ متر، دانشگاه شریف",
+                                "second_description": "۴,۷۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZqx_aBy",
+                                        "current_token": "QZ1FX6_V",
+                                        "suggested_tokens": [
+                                            "AZTCCrpL",
+                                            "QZ0pwPky",
+                                            "QZhhqT1G",
+                                            "QZlBr16i",
+                                            "QZlxYSvO",
+                                            "QZOJBn8p",
+                                            "QZoRK1E2",
+                                            "QZpRaAAy",
+                                            "QZqx_aBy",
+                                            "QZrJ6Xeb"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T08:21:09.055943"
+                                        },
+                                        "web_info": {
+                                            "title": "63متری بولوار اردستانی مجتمع نگین غرب",
+                                            "district_persian": "دانشگاه شریف",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZqx_aBy",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1FX6_V",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T08:21:09.055943"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/TlOKogNqZYaatTcjUoKvkg/504dea36-dde1-42bb-a40e-b17740a09820.jpg",
+                                "title": "۱۰۰ متر، دانشگاه شریف",
+                                "second_description": "۷,۸۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZrJ6Xeb",
+                                        "current_token": "QZ1FX6_V",
+                                        "suggested_tokens": [
+                                            "AZTCCrpL",
+                                            "QZ0pwPky",
+                                            "QZhhqT1G",
+                                            "QZlBr16i",
+                                            "QZlxYSvO",
+                                            "QZOJBn8p",
+                                            "QZoRK1E2",
+                                            "QZpRaAAy",
+                                            "QZqx_aBy",
+                                            "QZrJ6Xeb"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T08:21:09.055943"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان100 متری جنوبی خوش نقشه",
+                                            "district_persian": "دانشگاه شریف",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZrJ6Xeb",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1FX6_V",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T08:21:09.055943"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "AZTCCrpL",
+                                    "QZ0pwPky",
+                                    "QZhhqT1G",
+                                    "QZlBr16i",
+                                    "QZlxYSvO",
+                                    "QZOJBn8p",
+                                    "QZoRK1E2",
+                                    "QZpRaAAy",
+                                    "QZqx_aBy",
+                                    "QZrJ6Xeb"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ1FX6_V",
+                                    "metadata": {
+                                        "last_modified": "2023-12-10T08:21:09.055943"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                },
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌‌های مشابه در دیگر محله‌ها",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/kcyNSI6YpmkkB7M4EtL0Nw/b0439288-0db8-48d0-975c-00d69f273f1e.jpg",
+                                "title": "۵۷ متر، ستارخان",
+                                "second_description": "۴,۷۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0dr7kE",
+                                        "current_token": "QZ1FX6_V",
+                                        "suggested_tokens": [
+                                            "QZ0dr7kE",
+                                            "QZMVJENV",
+                                            "QZodzN22",
+                                            "QZp98O5e",
+                                            "QZQNu3P3",
+                                            "QZRp9Vw0",
+                                            "QZs5EJ-0",
+                                            "QZsJIN0p",
+                                            "QZsNL2n9",
+                                            "QZt95pC2"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T08:22:45.750755"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۵۷ متر/عکس های خود واحد میباشد",
+                                            "district_persian": "ستارخان",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0dr7kE",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1FX6_V",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T08:22:45.750755"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/fs5J8s0g5EB4gBcnOawrkw/ff0274b6-f9e0-45a0-a814-c1840f56fc03.jpg",
+                                "title": "۷۰ متر، ستارخان",
+                                "second_description": "۷,۷۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZMVJENV",
+                                        "current_token": "QZ1FX6_V",
+                                        "suggested_tokens": [
+                                            "QZ0dr7kE",
+                                            "QZMVJENV",
+                                            "QZodzN22",
+                                            "QZp98O5e",
+                                            "QZQNu3P3",
+                                            "QZRp9Vw0",
+                                            "QZs5EJ-0",
+                                            "QZsJIN0p",
+                                            "QZsNL2n9",
+                                            "QZt95pC2"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T08:22:45.750755"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۷۰ متری ۲ خوابه تک واحدی با تمام امکانات",
+                                            "district_persian": "ستارخان",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZMVJENV",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1FX6_V",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T08:22:45.750755"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/msPJpZAGsQAux3vEryU6IA/d4a7c816-d828-4c78-9d84-36c0df22d313.jpg",
+                                "title": "۶۳ متر، ستارخان",
+                                "second_description": "۵,۶۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZodzN22",
+                                        "current_token": "QZ1FX6_V",
+                                        "suggested_tokens": [
+                                            "QZ0dr7kE",
+                                            "QZMVJENV",
+                                            "QZodzN22",
+                                            "QZp98O5e",
+                                            "QZQNu3P3",
+                                            "QZRp9Vw0",
+                                            "QZs5EJ-0",
+                                            "QZsJIN0p",
+                                            "QZsNL2n9",
+                                            "QZt95pC2"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T08:22:45.750755"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۶۳ متری فول امکانات ستارخان",
+                                            "district_persian": "ستارخان",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZodzN22",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1FX6_V",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T08:22:45.750755"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/WMQrWiJLvm7BCpkZQOSQWQ/c1c3a954-49bd-4abd-a67c-bc86acd0e413.jpg",
+                                "title": "۹۰ متر، دکتر هوشیار",
+                                "second_description": "۷,۸۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZp98O5e",
+                                        "current_token": "QZ1FX6_V",
+                                        "suggested_tokens": [
+                                            "QZ0dr7kE",
+                                            "QZMVJENV",
+                                            "QZodzN22",
+                                            "QZp98O5e",
+                                            "QZQNu3P3",
+                                            "QZRp9Vw0",
+                                            "QZs5EJ-0",
+                                            "QZsJIN0p",
+                                            "QZsNL2n9",
+                                            "QZt95pC2"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T08:22:45.750755"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۹۰متری/کلید نخورده/۲خوابه/دو پارکینگ",
+                                            "district_persian": "دکتر هوشیار",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZp98O5e",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1FX6_V",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T08:22:45.750755"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/ZtwWR98YmSVmlYUBexvRqg/d7341095-163d-4fb0-9bff-4bcd779d1a2f.jpg",
+                                "title": "۷۱ متر، ستارخان",
+                                "second_description": "۷,۸۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZQNu3P3",
+                                        "current_token": "QZ1FX6_V",
+                                        "suggested_tokens": [
+                                            "QZ0dr7kE",
+                                            "QZMVJENV",
+                                            "QZodzN22",
+                                            "QZp98O5e",
+                                            "QZQNu3P3",
+                                            "QZRp9Vw0",
+                                            "QZs5EJ-0",
+                                            "QZsJIN0p",
+                                            "QZsNL2n9",
+                                            "QZt95pC2"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T08:22:45.750755"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۷۱ متری ستارخان",
+                                            "district_persian": "ستارخان",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZQNu3P3",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1FX6_V",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T08:22:45.750755"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/MxAgE-BKvz6cA0c5NdMyGw/1dbc4315-620c-4ea1-9733-fbb3f31284f8.jpg",
+                                "title": "۷۵ متر، طرشت",
+                                "second_description": "۷,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZRp9Vw0",
+                                        "current_token": "QZ1FX6_V",
+                                        "suggested_tokens": [
+                                            "QZ0dr7kE",
+                                            "QZMVJENV",
+                                            "QZodzN22",
+                                            "QZp98O5e",
+                                            "QZQNu3P3",
+                                            "QZRp9Vw0",
+                                            "QZs5EJ-0",
+                                            "QZsJIN0p",
+                                            "QZsNL2n9",
+                                            "QZt95pC2"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T08:22:45.750755"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۷۵ متر نوساز فول",
+                                            "district_persian": "طرشت",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZRp9Vw0",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1FX6_V",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T08:22:45.750755"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/nbd_gw3nAAMWnkkLqXHqUg/8afc89aa-4a59-45a6-ae19-944553e08a96.jpg",
+                                "title": "۶۷ متر، ستارخان",
+                                "second_description": "۸,۰۴۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZs5EJ-0",
+                                        "current_token": "QZ1FX6_V",
+                                        "suggested_tokens": [
+                                            "QZ0dr7kE",
+                                            "QZMVJENV",
+                                            "QZodzN22",
+                                            "QZp98O5e",
+                                            "QZQNu3P3",
+                                            "QZRp9Vw0",
+                                            "QZs5EJ-0",
+                                            "QZsJIN0p",
+                                            "QZsNL2n9",
+                                            "QZt95pC2"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T08:22:45.750755"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "فروش آپارتمان 67 متری نوساز ستارخان",
+                                            "district_persian": "ستارخان",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZs5EJ-0",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1FX6_V",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T08:22:45.750755"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/dRyM2ko9r5JHCCl_sPVQOw/d833ca8b-6d90-4c8f-9a75-80f954fba33c.jpg",
+                                "title": "۶۲ متر، طرشت",
+                                "second_description": "۵,۷۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZsJIN0p",
+                                        "current_token": "QZ1FX6_V",
+                                        "suggested_tokens": [
+                                            "QZ0dr7kE",
+                                            "QZMVJENV",
+                                            "QZodzN22",
+                                            "QZp98O5e",
+                                            "QZQNu3P3",
+                                            "QZRp9Vw0",
+                                            "QZs5EJ-0",
+                                            "QZsJIN0p",
+                                            "QZsNL2n9",
+                                            "QZt95pC2"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T08:22:45.750755"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۶۲ متری یک خواب خوش نقشه در طرشت",
+                                            "district_persian": "طرشت",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZsJIN0p",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1FX6_V",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T08:22:45.750755"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۷۲ متر، ستارخان",
+                                "second_description": "۷,۹۲۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZsNL2n9",
+                                        "current_token": "QZ1FX6_V",
+                                        "suggested_tokens": [
+                                            "QZ0dr7kE",
+                                            "QZMVJENV",
+                                            "QZodzN22",
+                                            "QZp98O5e",
+                                            "QZQNu3P3",
+                                            "QZRp9Vw0",
+                                            "QZs5EJ-0",
+                                            "QZsJIN0p",
+                                            "QZsNL2n9",
+                                            "QZt95pC2"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T08:22:45.750755"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۷۲ متری",
+                                            "district_persian": "ستارخان",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZsNL2n9",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1FX6_V",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T08:22:45.750755"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/AwswvP8TdDTteMgUrowAUg/01a00436-3690-4221-b489-a96518823a0d.jpg",
+                                "title": "۹۴ متر، ستارخان",
+                                "second_description": "۷,۹۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZt95pC2",
+                                        "current_token": "QZ1FX6_V",
+                                        "suggested_tokens": [
+                                            "QZ0dr7kE",
+                                            "QZMVJENV",
+                                            "QZodzN22",
+                                            "QZp98O5e",
+                                            "QZQNu3P3",
+                                            "QZRp9Vw0",
+                                            "QZs5EJ-0",
+                                            "QZsJIN0p",
+                                            "QZsNL2n9",
+                                            "QZt95pC2"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T08:22:45.750755"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "94 متر ستارخان زنجان شمالی",
+                                            "district_persian": "ستارخان",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZt95pC2",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1FX6_V",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T08:22:45.750755"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ0dr7kE",
+                                    "QZMVJENV",
+                                    "QZodzN22",
+                                    "QZp98O5e",
+                                    "QZQNu3P3",
+                                    "QZRp9Vw0",
+                                    "QZs5EJ-0",
+                                    "QZsJIN0p",
+                                    "QZsNL2n9",
+                                    "QZt95pC2"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ1FX6_V",
+                                    "metadata": {
+                                        "last_modified": "2023-12-10T08:22:45.750755"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                }
+            ],
+            "post_suggestion_extra_logs": [
+                {
+                    "suggested_tokens": [
+                        "AZTCCrpL",
+                        "QZ0pwPky",
+                        "QZhhqT1G",
+                        "QZlBr16i",
+                        "QZlxYSvO",
+                        "QZOJBn8p",
+                        "QZoRK1E2",
+                        "QZpRaAAy",
+                        "QZqx_aBy",
+                        "QZrJ6Xeb"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-10T08:21:09.055943"
+                        },
+                        {
+                            "last_modified": "2023-12-10T08:21:09.055943"
+                        },
+                        {
+                            "last_modified": "2023-12-10T08:21:09.055943"
+                        },
+                        {
+                            "last_modified": "2023-12-10T08:21:09.055943"
+                        },
+                        {
+                            "last_modified": "2023-12-10T08:21:09.055943"
+                        },
+                        {
+                            "last_modified": "2023-12-10T08:21:09.055943"
+                        },
+                        {
+                            "last_modified": "2023-12-10T08:21:09.055943"
+                        },
+                        {
+                            "last_modified": "2023-12-10T08:21:09.055943"
+                        },
+                        {
+                            "last_modified": "2023-12-10T08:21:09.055943"
+                        },
+                        {
+                            "last_modified": "2023-12-10T08:21:09.055943"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION"
+                },
+                {
+                    "suggested_tokens": [
+                        "QZ0dr7kE",
+                        "QZMVJENV",
+                        "QZodzN22",
+                        "QZp98O5e",
+                        "QZQNu3P3",
+                        "QZRp9Vw0",
+                        "QZs5EJ-0",
+                        "QZsJIN0p",
+                        "QZsNL2n9",
+                        "QZt95pC2"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-10T08:22:45.750755"
+                        },
+                        {
+                            "last_modified": "2023-12-10T08:22:45.750755"
+                        },
+                        {
+                            "last_modified": "2023-12-10T08:22:45.750755"
+                        },
+                        {
+                            "last_modified": "2023-12-10T08:22:45.750755"
+                        },
+                        {
+                            "last_modified": "2023-12-10T08:22:45.750755"
+                        },
+                        {
+                            "last_modified": "2023-12-10T08:22:45.750755"
+                        },
+                        {
+                            "last_modified": "2023-12-10T08:22:45.750755"
+                        },
+                        {
+                            "last_modified": "2023-12-10T08:22:45.750755"
+                        },
+                        {
+                            "last_modified": "2023-12-10T08:22:45.750755"
+                        },
+                        {
+                            "last_modified": "2023-12-10T08:22:45.750755"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS"
+                }
+            ]
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZ1FX6_V",
+    "error": 0
+}

@@ -1,0 +1,1784 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "آپارتمان ۱۰۰ متری در شهران|فروش آپارتمان|تهران، شهران جنوبی|دیوار",
+            "description": "آپارتمان ۱۰۰ متری در شهران|فروش آپارتمان|تهران، شهران جنوبی|خرید و فروش فضای آرام و شیک. دارای لابی و پارکینگ دو طبقه و انباری| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%B4%D9%87%D8%B1%D8%A7%D9%86_فروش-آپارتمان_تهران_شهران-جنوبی_دیوار/QZ1NqVET",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/آپارتمان ۱۰۰ متری در شهران/QZ1NqVET/",
+            "ios_app_url": "ios-app://863029557/http/v/آپارتمان ۱۰۰ متری در شهران/QZ1NqVET/"
+        },
+        "share": {
+            "title": "آپارتمان ۱۰۰ متری در شهران",
+            "description": "فضای آرام و شیک. دارای لابی و پارکینگ دو طبقه و انباری",
+            "android_url": "https://divar.ir/v/QZ1NqVET?ref=android",
+            "ios_url": "https://divar.ir/v/QZ1NqVET?ref=ios",
+            "web_url": "https://divar.ir/v/QZ1NqVET"
+        },
+        "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%B4%D9%87%D8%B1%D8%A7%D9%86_فروش-آپارتمان_تهران_شهران-جنوبی_دیوار/QZ1NqVET",
+        "category": {
+            "slug": "apartment-sell",
+            "title": "فروش آپارتمان",
+            "second_slug": "فروش آپارتمان"
+        },
+        "description": "فضای آرام و شیک. دارای لابی و پارکینگ دو طبقه و انباری",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-sell",
+            "token": "QZ1NqVET",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 0,
+            "district": "شهران جنوبی",
+            "cat_3": "apartment-sell",
+            "cat_2": "residential-sell",
+            "cat_1": "real-estate",
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": 10000000000,
+            "rent": null,
+            "credit": null
+        },
+        "district": "شهران جنوبی",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "۱ ساعت پیش",
+            "subtitle": "۱ ساعت پیش در تهران، شهران جنوبی | فروش آپارتمان",
+            "title": "آپارتمان ۱۰۰ متری در شهران",
+            "place": "شهران جنوبی",
+            "business_logo": null
+        },
+        "description": "فضای آرام و شیک. دارای لابی و پارکینگ دو طبقه و انباری",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۱۳۴"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۹۴"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۴"
+                    }
+                ]
+            },
+            {
+                "title": "قیمت کل",
+                "format": "string",
+                "value": "۱۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "قیمت هر متر",
+                "format": "string",
+                "value": "۷۴٬۶۲۷٬۰۰۰ تومان"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۴"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true
+            }
+        ],
+        "location": {
+            "latitude": "35.761244230375",
+            "longitude": "51.293449378727",
+            "map_url": "https://cdn.raah.ir/divar-images-2/QZ1NqVET.png"
+        },
+        "images": [],
+        "web_images": [],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 210,
+                    "parent_slug": "residential-sell",
+                    "slug": "apartment-sell",
+                    "title": "فروش آپارتمان",
+                    "second_slug": "فروش آپارتمان",
+                    "relative_url": "tehran/buy-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 209,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-sell",
+                    "title": "فروش مسکونی",
+                    "second_slug": "فروش مسکونی",
+                    "relative_url": "tehran/buy-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "فروش-مسکونی/املاک/فروش-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "(پنهان‌شده؛ چت کنید)",
+            "hide_phone": true,
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "فروش آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,فروش-آپارتمان",
+                "relative_url": "tehran/buy-apartment"
+            },
+            {
+                "title": "فروش آپارتمان در شهران جنوبی",
+                "url": "https://divar.ir/tehran/تهران/شهران-جنوبی/browse/فروش-مسکونی/املاک/فروش-آپارتمان/?place=8,152",
+                "relative_url": "tehran/buy-apartment/south-shahran"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": true,
+            "title": "آگهی‌های مشابه در این محله",
+            "posts": [
+                {
+                    "bottom_text": "۹,۴۵۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۱۱۲ متر، شهران جنوبی",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/LzljX6rN0UJwbNZNUSYDcA/20bc0f20-2e84-41ab-8cfa-83f7cbceda65.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0h2SpC"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T12:21:53.445770"
+                    },
+                    "token": "QZ0h2SpC",
+                    "web_info": {
+                        "title": "112 متر ۲ خواب فول امکانات تک واحدی",
+                        "district_persian": "شهران جنوبی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۷,۸۵۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۹۷ متر، شهران جنوبی",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/dpcFQrp0BGxM8hipYLZ7hw/51d9d560-7af7-4d58-95be-cb48eb8f1f6a.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0V1xm9"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T12:21:53.445770"
+                    },
+                    "token": "QZ0V1xm9",
+                    "web_info": {
+                        "title": "آپارتمان 97 متری فول سند تکبرگ",
+                        "district_persian": "شهران جنوبی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۱۰,۷۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۱۲۶ متر، شهران جنوبی",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/LbYX5IEKq0U3UGbvcd8UpA/dc62c78e-5e16-441a-949a-99d6d6397cb8.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ1VX1iu"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T12:21:53.445770"
+                    },
+                    "token": "QZ1VX1iu",
+                    "web_info": {
+                        "title": "۱۲۶متر ۳ خواب سوپر نقشه کلاسیک",
+                        "district_persian": "شهران جنوبی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۷,۰۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۸ متر، شهران جنوبی",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZh5uq3b"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T12:21:53.445770"
+                    },
+                    "token": "QZh5uq3b",
+                    "web_info": {
+                        "title": "۸۸ متر شهران جنوبی( سرمایه گذاری )",
+                        "district_persian": "شهران جنوبی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۶,۰۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۰ متر، شهران جنوبی",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZjxCwY_"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T12:21:53.445770"
+                    },
+                    "token": "QZjxCwY_",
+                    "web_info": {
+                        "title": "فروش واحد سنددار در برج سارا",
+                        "district_persian": "شهران جنوبی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۴,۸۵۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۴۵ متر، شهران جنوبی",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZLRFhzF"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T12:21:53.445770"
+                    },
+                    "token": "QZLRFhzF",
+                    "web_info": {
+                        "title": "آپارتمان ۴۵ متری طوقانی",
+                        "district_persian": "شهران جنوبی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۶,۷۹۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۳ متر، شهران جنوبی",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/Z8csdJglxRr-qqMJIbDI2Q/463f29a4-1242-4bb3-915f-f0cb6d710f92.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZoNHUTF"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T12:21:53.445770"
+                    },
+                    "token": "QZoNHUTF",
+                    "web_info": {
+                        "title": "فروش ۱۰+۸۳ متر/۱ خواب/عمارت  شاهنشین .فقط ۱ واحد",
+                        "district_persian": "شهران جنوبی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۱۰,۵۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۱۱۰ متر، شهران جنوبی",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/0j6BD7QTs2l7T-54Rvn22w/6ce1c4d5-0599-4743-812e-348a0edba4f2.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZsR3S63"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T12:21:53.445770"
+                    },
+                    "token": "QZsR3S63",
+                    "web_info": {
+                        "title": "110متر/نوساز/فول امکانات/شهران/کم واحد",
+                        "district_persian": "شهران جنوبی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۸,۰۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۱۰۲ متر، شهران جنوبی",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/tjwu4viEz1oBodwUzuJnHw/923A247F-B074-4B92-B18E-5390CDB1F800.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZtRNqMy"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T12:21:53.445770"
+                    },
+                    "token": "QZtRNqMy",
+                    "web_info": {
+                        "title": "آپارتمان ١٠٢ متر شهران",
+                        "district_persian": "شهران جنوبی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                }
+            ],
+            "widget_list": [
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌های مشابه در این محله",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/LzljX6rN0UJwbNZNUSYDcA/20bc0f20-2e84-41ab-8cfa-83f7cbceda65.jpg",
+                                "title": "۱۱۲ متر، شهران جنوبی",
+                                "second_description": "۹,۴۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0h2SpC",
+                                        "current_token": "QZ1NqVET",
+                                        "suggested_tokens": [
+                                            "QZ0h2SpC",
+                                            "QZ0V1xm9",
+                                            "QZ1VX1iu",
+                                            "QZh5uq3b",
+                                            "QZjxCwY_",
+                                            "QZLRFhzF",
+                                            "QZoNHUTF",
+                                            "QZsR3S63",
+                                            "QZtRNqMy"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:21:53.445770"
+                                        },
+                                        "web_info": {
+                                            "title": "112 متر ۲ خواب فول امکانات تک واحدی",
+                                            "district_persian": "شهران جنوبی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0h2SpC",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NqVET",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:21:53.445770"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/dpcFQrp0BGxM8hipYLZ7hw/51d9d560-7af7-4d58-95be-cb48eb8f1f6a.jpg",
+                                "title": "۹۷ متر، شهران جنوبی",
+                                "second_description": "۷,۸۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0V1xm9",
+                                        "current_token": "QZ1NqVET",
+                                        "suggested_tokens": [
+                                            "QZ0h2SpC",
+                                            "QZ0V1xm9",
+                                            "QZ1VX1iu",
+                                            "QZh5uq3b",
+                                            "QZjxCwY_",
+                                            "QZLRFhzF",
+                                            "QZoNHUTF",
+                                            "QZsR3S63",
+                                            "QZtRNqMy"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:21:53.445770"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان 97 متری فول سند تکبرگ",
+                                            "district_persian": "شهران جنوبی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0V1xm9",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NqVET",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:21:53.445770"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/LbYX5IEKq0U3UGbvcd8UpA/dc62c78e-5e16-441a-949a-99d6d6397cb8.jpg",
+                                "title": "۱۲۶ متر، شهران جنوبی",
+                                "second_description": "۱۰,۷۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ1VX1iu",
+                                        "current_token": "QZ1NqVET",
+                                        "suggested_tokens": [
+                                            "QZ0h2SpC",
+                                            "QZ0V1xm9",
+                                            "QZ1VX1iu",
+                                            "QZh5uq3b",
+                                            "QZjxCwY_",
+                                            "QZLRFhzF",
+                                            "QZoNHUTF",
+                                            "QZsR3S63",
+                                            "QZtRNqMy"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:21:53.445770"
+                                        },
+                                        "web_info": {
+                                            "title": "۱۲۶متر ۳ خواب سوپر نقشه کلاسیک",
+                                            "district_persian": "شهران جنوبی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ1VX1iu",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NqVET",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:21:53.445770"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۸۸ متر، شهران جنوبی",
+                                "second_description": "۷,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZh5uq3b",
+                                        "current_token": "QZ1NqVET",
+                                        "suggested_tokens": [
+                                            "QZ0h2SpC",
+                                            "QZ0V1xm9",
+                                            "QZ1VX1iu",
+                                            "QZh5uq3b",
+                                            "QZjxCwY_",
+                                            "QZLRFhzF",
+                                            "QZoNHUTF",
+                                            "QZsR3S63",
+                                            "QZtRNqMy"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:21:53.445770"
+                                        },
+                                        "web_info": {
+                                            "title": "۸۸ متر شهران جنوبی( سرمایه گذاری )",
+                                            "district_persian": "شهران جنوبی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZh5uq3b",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NqVET",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:21:53.445770"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۸۰ متر، شهران جنوبی",
+                                "second_description": "۶,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZjxCwY_",
+                                        "current_token": "QZ1NqVET",
+                                        "suggested_tokens": [
+                                            "QZ0h2SpC",
+                                            "QZ0V1xm9",
+                                            "QZ1VX1iu",
+                                            "QZh5uq3b",
+                                            "QZjxCwY_",
+                                            "QZLRFhzF",
+                                            "QZoNHUTF",
+                                            "QZsR3S63",
+                                            "QZtRNqMy"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:21:53.445770"
+                                        },
+                                        "web_info": {
+                                            "title": "فروش واحد سنددار در برج سارا",
+                                            "district_persian": "شهران جنوبی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZjxCwY_",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NqVET",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:21:53.445770"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۴۵ متر، شهران جنوبی",
+                                "second_description": "۴,۸۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZLRFhzF",
+                                        "current_token": "QZ1NqVET",
+                                        "suggested_tokens": [
+                                            "QZ0h2SpC",
+                                            "QZ0V1xm9",
+                                            "QZ1VX1iu",
+                                            "QZh5uq3b",
+                                            "QZjxCwY_",
+                                            "QZLRFhzF",
+                                            "QZoNHUTF",
+                                            "QZsR3S63",
+                                            "QZtRNqMy"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:21:53.445770"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۴۵ متری طوقانی",
+                                            "district_persian": "شهران جنوبی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZLRFhzF",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NqVET",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:21:53.445770"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/Z8csdJglxRr-qqMJIbDI2Q/463f29a4-1242-4bb3-915f-f0cb6d710f92.jpg",
+                                "title": "۸۳ متر، شهران جنوبی",
+                                "second_description": "۶,۷۹۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZoNHUTF",
+                                        "current_token": "QZ1NqVET",
+                                        "suggested_tokens": [
+                                            "QZ0h2SpC",
+                                            "QZ0V1xm9",
+                                            "QZ1VX1iu",
+                                            "QZh5uq3b",
+                                            "QZjxCwY_",
+                                            "QZLRFhzF",
+                                            "QZoNHUTF",
+                                            "QZsR3S63",
+                                            "QZtRNqMy"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:21:53.445770"
+                                        },
+                                        "web_info": {
+                                            "title": "فروش ۱۰+۸۳ متر/۱ خواب/عمارت  شاهنشین .فقط ۱ واحد",
+                                            "district_persian": "شهران جنوبی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZoNHUTF",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NqVET",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:21:53.445770"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/0j6BD7QTs2l7T-54Rvn22w/6ce1c4d5-0599-4743-812e-348a0edba4f2.jpg",
+                                "title": "۱۱۰ متر، شهران جنوبی",
+                                "second_description": "۱۰,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZsR3S63",
+                                        "current_token": "QZ1NqVET",
+                                        "suggested_tokens": [
+                                            "QZ0h2SpC",
+                                            "QZ0V1xm9",
+                                            "QZ1VX1iu",
+                                            "QZh5uq3b",
+                                            "QZjxCwY_",
+                                            "QZLRFhzF",
+                                            "QZoNHUTF",
+                                            "QZsR3S63",
+                                            "QZtRNqMy"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:21:53.445770"
+                                        },
+                                        "web_info": {
+                                            "title": "110متر/نوساز/فول امکانات/شهران/کم واحد",
+                                            "district_persian": "شهران جنوبی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZsR3S63",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NqVET",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:21:53.445770"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/tjwu4viEz1oBodwUzuJnHw/923A247F-B074-4B92-B18E-5390CDB1F800.jpg",
+                                "title": "۱۰۲ متر، شهران جنوبی",
+                                "second_description": "۸,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZtRNqMy",
+                                        "current_token": "QZ1NqVET",
+                                        "suggested_tokens": [
+                                            "QZ0h2SpC",
+                                            "QZ0V1xm9",
+                                            "QZ1VX1iu",
+                                            "QZh5uq3b",
+                                            "QZjxCwY_",
+                                            "QZLRFhzF",
+                                            "QZoNHUTF",
+                                            "QZsR3S63",
+                                            "QZtRNqMy"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:21:53.445770"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ١٠٢ متر شهران",
+                                            "district_persian": "شهران جنوبی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZtRNqMy",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NqVET",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:21:53.445770"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ0h2SpC",
+                                    "QZ0V1xm9",
+                                    "QZ1VX1iu",
+                                    "QZh5uq3b",
+                                    "QZjxCwY_",
+                                    "QZLRFhzF",
+                                    "QZoNHUTF",
+                                    "QZsR3S63",
+                                    "QZtRNqMy"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ1NqVET",
+                                    "metadata": {
+                                        "last_modified": "2023-12-10T12:21:53.445770"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                },
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌‌های مشابه در دیگر محله‌ها",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/EvKFmbVS0iLjAov2h0cXhw/7a0d5e40-f261-46d2-a144-cbcf9e40982a.jpg",
+                                "title": "۷۳ متر، جنت‌آباد مرکزی",
+                                "second_description": "۶,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ01-DLz",
+                                        "current_token": "QZ1NqVET",
+                                        "suggested_tokens": [
+                                            "QZ01-DLz",
+                                            "QZ0lnjl3",
+                                            "QZ0NxnNW",
+                                            "QZ0Vl4Pb",
+                                            "QZ1ZGzWw",
+                                            "QZkh25oQ",
+                                            "QZqoq0O9",
+                                            "QZs9X59I",
+                                            "QZsVOxZA",
+                                            "QZth4FYV"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:21:43.131690"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۷۳ متر ۲ خواب فول امکانات جنت مرکزی بلوار بعثت",
+                                            "district_persian": "جنت‌آباد مرکزی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ01-DLz",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NqVET",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:21:43.131690"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/b0Kjw-HBchVL2oTh8OsoyQ/9494f337-9f2e-435d-bad8-cf18613380e5.jpg",
+                                "title": "۸۵ متر، جنت‌آباد جنوبی",
+                                "second_description": "۷,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0lnjl3",
+                                        "current_token": "QZ1NqVET",
+                                        "suggested_tokens": [
+                                            "QZ01-DLz",
+                                            "QZ0lnjl3",
+                                            "QZ0NxnNW",
+                                            "QZ0Vl4Pb",
+                                            "QZ1ZGzWw",
+                                            "QZkh25oQ",
+                                            "QZqoq0O9",
+                                            "QZs9X59I",
+                                            "QZsVOxZA",
+                                            "QZth4FYV"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:21:43.131690"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "85 متر فول. 6 ساله. پرده خور رو به آفتاب. چهارباغ",
+                                            "district_persian": "جنت‌آباد جنوبی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0lnjl3",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NqVET",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:21:43.131690"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/Riute5fWBtIPBTk8cBjsIg/8d895d67-aa2d-4f1f-98f4-d24d00838bdc.jpg",
+                                "title": "۱۳۰ متر، شهران شمالی",
+                                "second_description": "۹,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0NxnNW",
+                                        "current_token": "QZ1NqVET",
+                                        "suggested_tokens": [
+                                            "QZ01-DLz",
+                                            "QZ0lnjl3",
+                                            "QZ0NxnNW",
+                                            "QZ0Vl4Pb",
+                                            "QZ1ZGzWw",
+                                            "QZkh25oQ",
+                                            "QZqoq0O9",
+                                            "QZs9X59I",
+                                            "QZsVOxZA",
+                                            "QZth4FYV"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:21:43.131690"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۱۳۵ متر سه خواب بی همتا",
+                                            "district_persian": "شهران شمالی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0NxnNW",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NqVET",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:21:43.131690"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/2o3aK23E8SQvbNoPNy0MNA/c81d37f1-2c76-44f0-a368-f24b2c71624b.jpg",
+                                "title": "۷۸ متر، شهران شمالی",
+                                "second_description": "۷,۴۱۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0Vl4Pb",
+                                        "current_token": "QZ1NqVET",
+                                        "suggested_tokens": [
+                                            "QZ01-DLz",
+                                            "QZ0lnjl3",
+                                            "QZ0NxnNW",
+                                            "QZ0Vl4Pb",
+                                            "QZ1ZGzWw",
+                                            "QZkh25oQ",
+                                            "QZqoq0O9",
+                                            "QZs9X59I",
+                                            "QZsVOxZA",
+                                            "QZth4FYV"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:21:43.131690"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۷۸ متر آپارتمان شهران",
+                                            "district_persian": "شهران شمالی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0Vl4Pb",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NqVET",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:21:43.131690"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/6iS6KmeIL86apQqklG-RRw/1431d2b8-b5ec-4c80-a1db-6960bec04685.jpg",
+                                "title": "۷۲ متر، شهر زیبا",
+                                "second_description": "۴,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ1ZGzWw",
+                                        "current_token": "QZ1NqVET",
+                                        "suggested_tokens": [
+                                            "QZ01-DLz",
+                                            "QZ0lnjl3",
+                                            "QZ0NxnNW",
+                                            "QZ0Vl4Pb",
+                                            "QZ1ZGzWw",
+                                            "QZkh25oQ",
+                                            "QZqoq0O9",
+                                            "QZs9X59I",
+                                            "QZsVOxZA",
+                                            "QZth4FYV"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:21:43.131690"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۷۲ متر یکخوابه فروشنده واقعی",
+                                            "district_persian": "شهر زیبا",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ1ZGzWw",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NqVET",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:21:43.131690"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۵۴ متر، جنت‌آباد شمالی",
+                                "second_description": "۴,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZkh25oQ",
+                                        "current_token": "QZ1NqVET",
+                                        "suggested_tokens": [
+                                            "QZ01-DLz",
+                                            "QZ0lnjl3",
+                                            "QZ0NxnNW",
+                                            "QZ0Vl4Pb",
+                                            "QZ1ZGzWw",
+                                            "QZkh25oQ",
+                                            "QZqoq0O9",
+                                            "QZs9X59I",
+                                            "QZsVOxZA",
+                                            "QZth4FYV"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:21:43.131690"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "جنت آباد شمالی/۵۴متر/دوخوابه/فول/خوش نقشه",
+                                            "district_persian": "جنت‌آباد شمالی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZkh25oQ",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NqVET",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:21:43.131690"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/4NPoC20eQc7zt5CvjZgTxQ/18e56ad9-0294-4b24-91af-56ed37d06b07.jpg",
+                                "title": "۸۷ متر، شهران شمالی",
+                                "second_description": "۷,۴۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZqoq0O9",
+                                        "current_token": "QZ1NqVET",
+                                        "suggested_tokens": [
+                                            "QZ01-DLz",
+                                            "QZ0lnjl3",
+                                            "QZ0NxnNW",
+                                            "QZ0Vl4Pb",
+                                            "QZ1ZGzWw",
+                                            "QZkh25oQ",
+                                            "QZqoq0O9",
+                                            "QZs9X59I",
+                                            "QZsVOxZA",
+                                            "QZth4FYV"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:21:43.131690"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۸۷ متر ویوی ابدی",
+                                            "district_persian": "شهران شمالی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZqoq0O9",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NqVET",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:21:43.131690"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/oTZt482HX6Msm4fUmSN9sw/4c82fa27-6004-429d-bf88-55f1037d5b56.jpg",
+                                "title": "۸۴ متر، شهران شمالی",
+                                "second_description": "۷,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZs9X59I",
+                                        "current_token": "QZ1NqVET",
+                                        "suggested_tokens": [
+                                            "QZ01-DLz",
+                                            "QZ0lnjl3",
+                                            "QZ0NxnNW",
+                                            "QZ0Vl4Pb",
+                                            "QZ1ZGzWw",
+                                            "QZkh25oQ",
+                                            "QZqoq0O9",
+                                            "QZs9X59I",
+                                            "QZsVOxZA",
+                                            "QZth4FYV"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:21:43.131690"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۸۴ متر معاوضه با واحد یک خوابه",
+                                            "district_persian": "شهران شمالی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZs9X59I",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NqVET",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:21:43.131690"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۸۰ متر، شهر‌زیبا",
+                                "second_description": "۴,۷۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZsVOxZA",
+                                        "current_token": "QZ1NqVET",
+                                        "suggested_tokens": [
+                                            "QZ01-DLz",
+                                            "QZ0lnjl3",
+                                            "QZ0NxnNW",
+                                            "QZ0Vl4Pb",
+                                            "QZ1ZGzWw",
+                                            "QZkh25oQ",
+                                            "QZqoq0O9",
+                                            "QZs9X59I",
+                                            "QZsVOxZA",
+                                            "QZth4FYV"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:21:43.131690"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "بلوک های شهرزیبا۸۰متر سه خوابه باز سازی شده",
+                                            "district_persian": "اندیشه (شهر زیبا)",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZsVOxZA",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NqVET",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:21:43.131690"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/FhvcOEaWR418drp3FN9HUQ/29e2f1d9-c5d1-4f95-af71-5ee96293fe8e.jpg",
+                                "title": "۷۱ متر، جنت‌آباد جنوبی",
+                                "second_description": "۵,۶۷۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZth4FYV",
+                                        "current_token": "QZ1NqVET",
+                                        "suggested_tokens": [
+                                            "QZ01-DLz",
+                                            "QZ0lnjl3",
+                                            "QZ0NxnNW",
+                                            "QZ0Vl4Pb",
+                                            "QZ1ZGzWw",
+                                            "QZkh25oQ",
+                                            "QZqoq0O9",
+                                            "QZs9X59I",
+                                            "QZsVOxZA",
+                                            "QZth4FYV"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:21:43.131690"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۷۱متر۲خواب/فول امکانات/جهاداکبر",
+                                            "district_persian": "جنت‌آباد جنوبی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZth4FYV",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NqVET",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:21:43.131690"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ01-DLz",
+                                    "QZ0lnjl3",
+                                    "QZ0NxnNW",
+                                    "QZ0Vl4Pb",
+                                    "QZ1ZGzWw",
+                                    "QZkh25oQ",
+                                    "QZqoq0O9",
+                                    "QZs9X59I",
+                                    "QZsVOxZA",
+                                    "QZth4FYV"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ1NqVET",
+                                    "metadata": {
+                                        "last_modified": "2023-12-10T12:21:43.131690"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                }
+            ],
+            "post_suggestion_extra_logs": [
+                {
+                    "suggested_tokens": [
+                        "QZ0h2SpC",
+                        "QZ0V1xm9",
+                        "QZ1VX1iu",
+                        "QZh5uq3b",
+                        "QZjxCwY_",
+                        "QZLRFhzF",
+                        "QZoNHUTF",
+                        "QZsR3S63",
+                        "QZtRNqMy"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-10T12:21:53.445770"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:21:53.445770"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:21:53.445770"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:21:53.445770"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:21:53.445770"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:21:53.445770"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:21:53.445770"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:21:53.445770"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:21:53.445770"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION"
+                },
+                {
+                    "suggested_tokens": [
+                        "QZ01-DLz",
+                        "QZ0lnjl3",
+                        "QZ0NxnNW",
+                        "QZ0Vl4Pb",
+                        "QZ1ZGzWw",
+                        "QZkh25oQ",
+                        "QZqoq0O9",
+                        "QZs9X59I",
+                        "QZsVOxZA",
+                        "QZth4FYV"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-10T12:21:43.131690"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:21:43.131690"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:21:43.131690"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:21:43.131690"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:21:43.131690"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:21:43.131690"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:21:43.131690"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:21:43.131690"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:21:43.131690"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:21:43.131690"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS"
+                }
+            ]
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZ1NqVET",
+    "error": 0
+}

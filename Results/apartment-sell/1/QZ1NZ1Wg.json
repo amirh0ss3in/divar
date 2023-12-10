@@ -1,0 +1,1907 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "اپارتمان ۸۰ متری|فروش آپارتمان|تهران، پونک|دیوار",
+            "description": "اپارتمان ۸۰ متری|فروش آپارتمان|تهران، پونک|خرید و فروش اپارتمان ۸۰ متری \nاعلایی یکم پلاک ۱۲ ط ۴ \nبازدید اواخر هر هفته| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C_فروش-آپارتمان_تهران_پونک_دیوار/QZ1NZ1Wg",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/اپارتمان ۸۰ متری/QZ1NZ1Wg/",
+            "ios_app_url": "ios-app://863029557/http/v/اپارتمان ۸۰ متری/QZ1NZ1Wg/",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/OS-wdRfKn4-x6gPK9p7dPQ/b8f6ce03-8e06-4918-beb7-59a532176122.jpg"
+        },
+        "share": {
+            "title": "اپارتمان ۸۰ متری",
+            "description": "اپارتمان ۸۰ متری \nاعلایی یکم پلاک ۱۲ ط ۴ \nبازدید اواخر هر هفته",
+            "android_url": "https://divar.ir/v/QZ1NZ1Wg?ref=android",
+            "ios_url": "https://divar.ir/v/QZ1NZ1Wg?ref=ios",
+            "web_url": "https://divar.ir/v/QZ1NZ1Wg"
+        },
+        "url": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C_فروش-آپارتمان_تهران_پونک_دیوار/QZ1NZ1Wg",
+        "category": {
+            "slug": "apartment-sell",
+            "title": "فروش آپارتمان",
+            "second_slug": "فروش آپارتمان"
+        },
+        "description": "اپارتمان ۸۰ متری \nاعلایی یکم پلاک ۱۲ ط ۴ \nبازدید اواخر هر هفته",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-sell",
+            "token": "QZ1NZ1Wg",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 2,
+            "district": "پونک",
+            "cat_3": "apartment-sell",
+            "cat_2": "residential-sell",
+            "cat_1": "real-estate",
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": 13500000000,
+            "rent": null,
+            "credit": null
+        },
+        "district": "پونک",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "promotion": "فوری",
+            "date": "۳ ساعت پیش",
+            "subtitle": "۳ ساعت پیش در تهران، پونک | فروش آپارتمان",
+            "title": "اپارتمان ۸۰ متری",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/OS-wdRfKn4-x6gPK9p7dPQ/b8f6ce03-8e06-4918-beb7-59a532176122.jpg",
+            "place": "پونک",
+            "business_logo": null
+        },
+        "description": "اپارتمان ۸۰ متری \nاعلایی یکم پلاک ۱۲ ط ۴ \nبازدید اواخر هر هفته",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۸۱"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۴۰۱"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۲"
+                    }
+                ]
+            },
+            {
+                "title": "قیمت کل",
+                "format": "string",
+                "value": "۱۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "قیمت هر متر",
+                "format": "string",
+                "value": "۱۶۶٬۶۶۷٬۰۰۰ تومان"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۴"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true
+            }
+        ],
+        "location": {
+            "latitude": "35.758832596698",
+            "longitude": "51.320561170578",
+            "map_url": "https://cdn.raah.ir/divar-images-2/QZ1NZ1Wg.png"
+        },
+        "images": [
+            "https://s100.divarcdn.com/static/photo/post/TgEFqgyTL1sxHvqkO5PETA/2b1f0780-137d-4aa3-9dc1-f5283e0c49d5.webp",
+            "https://s100.divarcdn.com/static/photo/post/rEdbStHWWCCh8M8vM6i7LQ/b8f6ce03-8e06-4918-beb7-59a532176122.webp"
+        ],
+        "web_images": [
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/TgEFqgyTL1sxHvqkO5PETA/2b1f0780-137d-4aa3-9dc1-f5283e0c49d5.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/TgEFqgyTL1sxHvqkO5PETA/2b1f0780-137d-4aa3-9dc1-f5283e0c49d5.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/rEdbStHWWCCh8M8vM6i7LQ/b8f6ce03-8e06-4918-beb7-59a532176122.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/rEdbStHWWCCh8M8vM6i7LQ/b8f6ce03-8e06-4918-beb7-59a532176122.jpg",
+                    "type": "image/jpeg"
+                }
+            ]
+        ],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 210,
+                    "parent_slug": "residential-sell",
+                    "slug": "apartment-sell",
+                    "title": "فروش آپارتمان",
+                    "second_slug": "فروش آپارتمان",
+                    "relative_url": "tehran/buy-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 209,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-sell",
+                    "title": "فروش مسکونی",
+                    "second_slug": "فروش مسکونی",
+                    "relative_url": "tehran/buy-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "فروش-مسکونی/املاک/فروش-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0902570xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "فروش آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,فروش-آپارتمان",
+                "relative_url": "tehran/buy-apartment"
+            },
+            {
+                "title": "فروش آپارتمان در پونک",
+                "url": "https://divar.ir/tehran/تهران/پونک/browse/فروش-مسکونی/املاک/فروش-آپارتمان/?place=8,82",
+                "relative_url": "tehran/buy-apartment/punak"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": true,
+            "title": "آگهی‌های مشابه در این محله",
+            "posts": [
+                {
+                    "bottom_text": "۱۱,۸۴۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۰ متر، پونک",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/lg8NH-8B78SqXX4ENGSTaA/60C89760-CDA9-4D99-B021-8BD326208F39.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ01z6VC"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T10:50:28.281070"
+                    },
+                    "token": "QZ01z6VC",
+                    "web_info": {
+                        "title": "۸۰ متر برج باغ مدرن/ مشاعات آبی/پونک",
+                        "district_persian": "پونک",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۸,۹۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۹ متر، پونک",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/ISkWcGcmWeq4_PrRZYwhxA/458ae3c1-ffde-4a5e-a262-ddccf813e17c.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0BmoK6"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T10:50:28.281070"
+                    },
+                    "token": "QZ0BmoK6",
+                    "web_info": {
+                        "title": "مدرن و شیک آپارتمان ",
+                        "district_persian": "پونک",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۱۳,۲۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۱۱۰ متر، پونک",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0RRqZ1"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T10:50:28.281070"
+                    },
+                    "token": "QZ0RRqZ1",
+                    "web_info": {
+                        "title": "پونک  خ همیلا ۱۱۰ متر",
+                        "district_persian": "پونک",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۱۳,۷۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۹۵ متر، پونک",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/SqLAB6DiU5UElO9x06joBg/471db15d-69bc-47cf-b945-4d295afb11ce.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ11V1e_"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T10:50:28.281070"
+                    },
+                    "token": "QZ11V1e_",
+                    "web_info": {
+                        "title": "۹۵متر۲خ پونک منطقه۲ پایین نیایش",
+                        "district_persian": "پونک",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۱۴,۷۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۹۸ متر، پونک",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/p4C1RQypOuogY-opFc3JwQ/f7d01e78-db97-4f6e-b785-11647b4d1510.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ1FoBlh"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T10:50:28.281070"
+                    },
+                    "token": "QZ1FoBlh",
+                    "web_info": {
+                        "title": "آپارتمان نوساز",
+                        "district_persian": "پونک",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۱۳,۰۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۵ متر، پونک",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/o1khyEc4ssNAxU-8kGCV2Q/7cabe9a4-3d00-4813-80c5-e5abaee7f0f3.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZc1bgZ8"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T10:50:28.281070"
+                    },
+                    "token": "QZc1bgZ8",
+                    "web_info": {
+                        "title": "۸۵ متری / پونک بهار غربی/نوساز و کلید نخورده",
+                        "district_persian": "پونک",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۱۱,۸۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۰ متر، پونک",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/w9NqDxC6A0qd531c8Ggpfw/bb39d2ab-bc62-47af-96b6-1b7d4321d22b.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZcl0hEZ"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T10:50:28.281070"
+                    },
+                    "token": "QZcl0hEZ",
+                    "web_info": {
+                        "title": "80 متر برج مجلل پونک همیلا",
+                        "district_persian": "پونک",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۱۲,۹۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۶ متر، پونک",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/TZpTvyRKA2r-41Cmz3265g/3530950d-1ce9-461e-8b90-c5a456a6b973.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZdh8fbs"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T10:50:28.281070"
+                    },
+                    "token": "QZdh8fbs",
+                    "web_info": {
+                        "title": "آپارتمان ۸۶ متر برج باغ",
+                        "district_persian": "پونک",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۱۳,۲۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۸ متر، پونک",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/IILtykLwC0iPYqZCbBxSkw/1574d838-0f75-400e-9b65-ab4c23be670f.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZi9_PL3"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T10:50:28.281070"
+                    },
+                    "token": "QZi9_PL3",
+                    "web_info": {
+                        "title": "پونک/۸۸متر/کلید نخورده/رو به آفتاب",
+                        "district_persian": "پونک",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۱۳,۹۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۵ متر، پونک",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/W6E5uy0MJOgx9wyAQ4Csrg/72620fe3-3b73-40b1-bc65-8604795e6e42.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZl5nCTp"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T10:50:28.281070"
+                    },
+                    "token": "QZl5nCTp",
+                    "web_info": {
+                        "title": "85متر پونک سردار جنگل جنوبی",
+                        "district_persian": "پونک",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                }
+            ],
+            "widget_list": [
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌های مشابه در این محله",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/lg8NH-8B78SqXX4ENGSTaA/60C89760-CDA9-4D99-B021-8BD326208F39.jpg",
+                                "title": "۸۰ متر، پونک",
+                                "second_description": "۱۱,۸۴۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ01z6VC",
+                                        "current_token": "QZ1NZ1Wg",
+                                        "suggested_tokens": [
+                                            "QZ01z6VC",
+                                            "QZ0BmoK6",
+                                            "QZ0RRqZ1",
+                                            "QZ11V1e_",
+                                            "QZ1FoBlh",
+                                            "QZc1bgZ8",
+                                            "QZcl0hEZ",
+                                            "QZdh8fbs",
+                                            "QZi9_PL3",
+                                            "QZl5nCTp"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:50:28.281070"
+                                        },
+                                        "web_info": {
+                                            "title": "۸۰ متر برج باغ مدرن/ مشاعات آبی/پونک",
+                                            "district_persian": "پونک",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ01z6VC",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NZ1Wg",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:50:28.281070"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/ISkWcGcmWeq4_PrRZYwhxA/458ae3c1-ffde-4a5e-a262-ddccf813e17c.jpg",
+                                "title": "۶۹ متر، پونک",
+                                "second_description": "۸,۹۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0BmoK6",
+                                        "current_token": "QZ1NZ1Wg",
+                                        "suggested_tokens": [
+                                            "QZ01z6VC",
+                                            "QZ0BmoK6",
+                                            "QZ0RRqZ1",
+                                            "QZ11V1e_",
+                                            "QZ1FoBlh",
+                                            "QZc1bgZ8",
+                                            "QZcl0hEZ",
+                                            "QZdh8fbs",
+                                            "QZi9_PL3",
+                                            "QZl5nCTp"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:50:28.281070"
+                                        },
+                                        "web_info": {
+                                            "title": "مدرن و شیک آپارتمان ",
+                                            "district_persian": "پونک",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0BmoK6",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NZ1Wg",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:50:28.281070"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۱۱۰ متر، پونک",
+                                "second_description": "۱۳,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0RRqZ1",
+                                        "current_token": "QZ1NZ1Wg",
+                                        "suggested_tokens": [
+                                            "QZ01z6VC",
+                                            "QZ0BmoK6",
+                                            "QZ0RRqZ1",
+                                            "QZ11V1e_",
+                                            "QZ1FoBlh",
+                                            "QZc1bgZ8",
+                                            "QZcl0hEZ",
+                                            "QZdh8fbs",
+                                            "QZi9_PL3",
+                                            "QZl5nCTp"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:50:28.281070"
+                                        },
+                                        "web_info": {
+                                            "title": "پونک  خ همیلا ۱۱۰ متر",
+                                            "district_persian": "پونک",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0RRqZ1",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NZ1Wg",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:50:28.281070"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/SqLAB6DiU5UElO9x06joBg/471db15d-69bc-47cf-b945-4d295afb11ce.jpg",
+                                "title": "۹۵ متر، پونک",
+                                "second_description": "۱۳,۷۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ11V1e_",
+                                        "current_token": "QZ1NZ1Wg",
+                                        "suggested_tokens": [
+                                            "QZ01z6VC",
+                                            "QZ0BmoK6",
+                                            "QZ0RRqZ1",
+                                            "QZ11V1e_",
+                                            "QZ1FoBlh",
+                                            "QZc1bgZ8",
+                                            "QZcl0hEZ",
+                                            "QZdh8fbs",
+                                            "QZi9_PL3",
+                                            "QZl5nCTp"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:50:28.281070"
+                                        },
+                                        "web_info": {
+                                            "title": "۹۵متر۲خ پونک منطقه۲ پایین نیایش",
+                                            "district_persian": "پونک",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ11V1e_",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NZ1Wg",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:50:28.281070"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/p4C1RQypOuogY-opFc3JwQ/f7d01e78-db97-4f6e-b785-11647b4d1510.jpg",
+                                "title": "۹۸ متر، پونک",
+                                "second_description": "۱۴,۷۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ1FoBlh",
+                                        "current_token": "QZ1NZ1Wg",
+                                        "suggested_tokens": [
+                                            "QZ01z6VC",
+                                            "QZ0BmoK6",
+                                            "QZ0RRqZ1",
+                                            "QZ11V1e_",
+                                            "QZ1FoBlh",
+                                            "QZc1bgZ8",
+                                            "QZcl0hEZ",
+                                            "QZdh8fbs",
+                                            "QZi9_PL3",
+                                            "QZl5nCTp"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:50:28.281070"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان نوساز",
+                                            "district_persian": "پونک",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ1FoBlh",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NZ1Wg",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:50:28.281070"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/o1khyEc4ssNAxU-8kGCV2Q/7cabe9a4-3d00-4813-80c5-e5abaee7f0f3.jpg",
+                                "title": "۸۵ متر، پونک",
+                                "second_description": "۱۳,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZc1bgZ8",
+                                        "current_token": "QZ1NZ1Wg",
+                                        "suggested_tokens": [
+                                            "QZ01z6VC",
+                                            "QZ0BmoK6",
+                                            "QZ0RRqZ1",
+                                            "QZ11V1e_",
+                                            "QZ1FoBlh",
+                                            "QZc1bgZ8",
+                                            "QZcl0hEZ",
+                                            "QZdh8fbs",
+                                            "QZi9_PL3",
+                                            "QZl5nCTp"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:50:28.281070"
+                                        },
+                                        "web_info": {
+                                            "title": "۸۵ متری / پونک بهار غربی/نوساز و کلید نخورده",
+                                            "district_persian": "پونک",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZc1bgZ8",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NZ1Wg",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:50:28.281070"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/w9NqDxC6A0qd531c8Ggpfw/bb39d2ab-bc62-47af-96b6-1b7d4321d22b.jpg",
+                                "title": "۸۰ متر، پونک",
+                                "second_description": "۱۱,۸۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZcl0hEZ",
+                                        "current_token": "QZ1NZ1Wg",
+                                        "suggested_tokens": [
+                                            "QZ01z6VC",
+                                            "QZ0BmoK6",
+                                            "QZ0RRqZ1",
+                                            "QZ11V1e_",
+                                            "QZ1FoBlh",
+                                            "QZc1bgZ8",
+                                            "QZcl0hEZ",
+                                            "QZdh8fbs",
+                                            "QZi9_PL3",
+                                            "QZl5nCTp"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:50:28.281070"
+                                        },
+                                        "web_info": {
+                                            "title": "80 متر برج مجلل پونک همیلا",
+                                            "district_persian": "پونک",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZcl0hEZ",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NZ1Wg",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:50:28.281070"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/TZpTvyRKA2r-41Cmz3265g/3530950d-1ce9-461e-8b90-c5a456a6b973.jpg",
+                                "title": "۸۶ متر، پونک",
+                                "second_description": "۱۲,۹۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZdh8fbs",
+                                        "current_token": "QZ1NZ1Wg",
+                                        "suggested_tokens": [
+                                            "QZ01z6VC",
+                                            "QZ0BmoK6",
+                                            "QZ0RRqZ1",
+                                            "QZ11V1e_",
+                                            "QZ1FoBlh",
+                                            "QZc1bgZ8",
+                                            "QZcl0hEZ",
+                                            "QZdh8fbs",
+                                            "QZi9_PL3",
+                                            "QZl5nCTp"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:50:28.281070"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۸۶ متر برج باغ",
+                                            "district_persian": "پونک",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZdh8fbs",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NZ1Wg",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:50:28.281070"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/IILtykLwC0iPYqZCbBxSkw/1574d838-0f75-400e-9b65-ab4c23be670f.jpg",
+                                "title": "۸۸ متر، پونک",
+                                "second_description": "۱۳,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZi9_PL3",
+                                        "current_token": "QZ1NZ1Wg",
+                                        "suggested_tokens": [
+                                            "QZ01z6VC",
+                                            "QZ0BmoK6",
+                                            "QZ0RRqZ1",
+                                            "QZ11V1e_",
+                                            "QZ1FoBlh",
+                                            "QZc1bgZ8",
+                                            "QZcl0hEZ",
+                                            "QZdh8fbs",
+                                            "QZi9_PL3",
+                                            "QZl5nCTp"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:50:28.281070"
+                                        },
+                                        "web_info": {
+                                            "title": "پونک/۸۸متر/کلید نخورده/رو به آفتاب",
+                                            "district_persian": "پونک",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZi9_PL3",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NZ1Wg",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:50:28.281070"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/W6E5uy0MJOgx9wyAQ4Csrg/72620fe3-3b73-40b1-bc65-8604795e6e42.jpg",
+                                "title": "۸۵ متر، پونک",
+                                "second_description": "۱۳,۹۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZl5nCTp",
+                                        "current_token": "QZ1NZ1Wg",
+                                        "suggested_tokens": [
+                                            "QZ01z6VC",
+                                            "QZ0BmoK6",
+                                            "QZ0RRqZ1",
+                                            "QZ11V1e_",
+                                            "QZ1FoBlh",
+                                            "QZc1bgZ8",
+                                            "QZcl0hEZ",
+                                            "QZdh8fbs",
+                                            "QZi9_PL3",
+                                            "QZl5nCTp"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:50:28.281070"
+                                        },
+                                        "web_info": {
+                                            "title": "85متر پونک سردار جنگل جنوبی",
+                                            "district_persian": "پونک",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZl5nCTp",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NZ1Wg",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:50:28.281070"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ01z6VC",
+                                    "QZ0BmoK6",
+                                    "QZ0RRqZ1",
+                                    "QZ11V1e_",
+                                    "QZ1FoBlh",
+                                    "QZc1bgZ8",
+                                    "QZcl0hEZ",
+                                    "QZdh8fbs",
+                                    "QZi9_PL3",
+                                    "QZl5nCTp"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ1NZ1Wg",
+                                    "metadata": {
+                                        "last_modified": "2023-12-10T10:50:28.281070"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                },
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌‌های مشابه در دیگر محله‌ها",
+                        "items": [
+                            {
+                                "title": "۱۰۰ متر، جنت‌آباد شمالی",
+                                "second_description": "۱۲,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0BOHgw",
+                                        "current_token": "QZ1NZ1Wg",
+                                        "suggested_tokens": [
+                                            "QZ0BOHgw",
+                                            "QZ0disl7",
+                                            "QZ0hAqCE",
+                                            "QZ1Z4iif",
+                                            "QZ5AT8p9",
+                                            "QZgpLFMj",
+                                            "QZK9r8SI",
+                                            "QZQROXj-",
+                                            "QZRpc1cw",
+                                            "QZsBkyto"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:50:22.629405"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۱۰۰متر آپارتمان/فول امکانات/کلید نخورده",
+                                            "district_persian": "جنت‌آباد شمالی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0BOHgw",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NZ1Wg",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:50:22.629405"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/0geQgIQbNP886BEWp5GCbA/b1c5a5ff-4496-4072-afbb-a53ddec5bde3.jpg",
+                                "title": "۸۵ متر، جنت‌آباد شمالی",
+                                "second_description": "۹,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0disl7",
+                                        "current_token": "QZ1NZ1Wg",
+                                        "suggested_tokens": [
+                                            "QZ0BOHgw",
+                                            "QZ0disl7",
+                                            "QZ0hAqCE",
+                                            "QZ1Z4iif",
+                                            "QZ5AT8p9",
+                                            "QZgpLFMj",
+                                            "QZK9r8SI",
+                                            "QZQROXj-",
+                                            "QZRpc1cw",
+                                            "QZsBkyto"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:50:22.629405"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "85متر.نوساز.جنت اباد شمالی",
+                                            "district_persian": "جنت‌آباد شمالی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0disl7",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NZ1Wg",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:50:22.629405"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۸۵ متر، جنت‌آباد شمالی",
+                                "second_description": "۹,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0hAqCE",
+                                        "current_token": "QZ1NZ1Wg",
+                                        "suggested_tokens": [
+                                            "QZ0BOHgw",
+                                            "QZ0disl7",
+                                            "QZ0hAqCE",
+                                            "QZ1Z4iif",
+                                            "QZ5AT8p9",
+                                            "QZgpLFMj",
+                                            "QZK9r8SI",
+                                            "QZQROXj-",
+                                            "QZRpc1cw",
+                                            "QZsBkyto"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:50:22.629405"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "جنت آباد شمالی گلستان شرقی ۸۵ متر",
+                                            "district_persian": "جنت‌آباد شمالی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0hAqCE",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NZ1Wg",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:50:22.629405"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/MSGM7cWDrl_OXiRpsxasMQ/11e5d162-2ffd-49f8-b5e2-1feb96502298.jpg",
+                                "title": "۱۱۱ متر، صادقیه",
+                                "second_description": "۹,۹۹۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ1Z4iif",
+                                        "current_token": "QZ1NZ1Wg",
+                                        "suggested_tokens": [
+                                            "QZ0BOHgw",
+                                            "QZ0disl7",
+                                            "QZ0hAqCE",
+                                            "QZ1Z4iif",
+                                            "QZ5AT8p9",
+                                            "QZgpLFMj",
+                                            "QZK9r8SI",
+                                            "QZQROXj-",
+                                            "QZRpc1cw",
+                                            "QZsBkyto"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:50:22.629405"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان 111متری 2خوابه",
+                                            "district_persian": "صادقیه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ1Z4iif",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NZ1Wg",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:50:22.629405"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/KDGu7ZCu9KMGIUedtFCTow/66a6fc7c-2821-476d-ab87-74c25f7dcfe4.jpg",
+                                "title": "۱۰۱ متر، باغ فیض",
+                                "second_description": "۱۴,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ5AT8p9",
+                                        "current_token": "QZ1NZ1Wg",
+                                        "suggested_tokens": [
+                                            "QZ0BOHgw",
+                                            "QZ0disl7",
+                                            "QZ0hAqCE",
+                                            "QZ1Z4iif",
+                                            "QZ5AT8p9",
+                                            "QZgpLFMj",
+                                            "QZK9r8SI",
+                                            "QZQROXj-",
+                                            "QZRpc1cw",
+                                            "QZsBkyto"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:50:22.629405"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۱۰۱ متری دو خوابه",
+                                            "district_persian": "باغ فیض",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ5AT8p9",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NZ1Wg",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:50:22.629405"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/WgD-fokmi89MPrB7pz050Q/2de513dd-27db-4ac0-bc26-60136e78c6b2.jpg",
+                                "title": "۱۱۸ متر، باغ فیض",
+                                "second_description": "۱۳,۶۸۸,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZgpLFMj",
+                                        "current_token": "QZ1NZ1Wg",
+                                        "suggested_tokens": [
+                                            "QZ0BOHgw",
+                                            "QZ0disl7",
+                                            "QZ0hAqCE",
+                                            "QZ1Z4iif",
+                                            "QZ5AT8p9",
+                                            "QZgpLFMj",
+                                            "QZK9r8SI",
+                                            "QZQROXj-",
+                                            "QZRpc1cw",
+                                            "QZsBkyto"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:50:22.629405"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "فروش واحد ۱۱۸ متری وقابل معاوضه باواحدکوچکتر",
+                                            "district_persian": "باغ فیض",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZgpLFMj",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NZ1Wg",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:50:22.629405"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/nWLBSENFiXYqW_tTN_F4fQ/904e4282-b1a0-4232-841f-901630278e2f.jpg",
+                                "title": "۵۵ متر، کوی فردوس",
+                                "second_description": "۷,۱۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZK9r8SI",
+                                        "current_token": "QZ1NZ1Wg",
+                                        "suggested_tokens": [
+                                            "QZ0BOHgw",
+                                            "QZ0disl7",
+                                            "QZ0hAqCE",
+                                            "QZ1Z4iif",
+                                            "QZ5AT8p9",
+                                            "QZgpLFMj",
+                                            "QZK9r8SI",
+                                            "QZQROXj-",
+                                            "QZRpc1cw",
+                                            "QZsBkyto"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:50:22.629405"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان 55متری نوساز/ بلوار فردوس شرق",
+                                            "district_persian": "کوی فردوس",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZK9r8SI",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NZ1Wg",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:50:22.629405"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/5sLLqRZx2M7fk17pXEHfkQ/646F3097-4DAB-4827-9128-2CBF4C3E77A1.jpg",
+                                "title": "۱۰۰ متر، جنت‌آباد جنوبی",
+                                "second_description": "۱۲,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZQROXj-",
+                                        "current_token": "QZ1NZ1Wg",
+                                        "suggested_tokens": [
+                                            "QZ0BOHgw",
+                                            "QZ0disl7",
+                                            "QZ0hAqCE",
+                                            "QZ1Z4iif",
+                                            "QZ5AT8p9",
+                                            "QZgpLFMj",
+                                            "QZK9r8SI",
+                                            "QZQROXj-",
+                                            "QZRpc1cw",
+                                            "QZsBkyto"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:50:22.629405"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "فروش آپارتمان جنت آباد جنوبى١٠٠ مترنوساز",
+                                            "district_persian": "جنت‌آباد جنوبی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZQROXj-",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NZ1Wg",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:50:22.629405"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/GZGnOO8bYElIcLWO5OUNqw/8a99a3b0-6391-426d-a67f-6aca17574d49.jpg",
+                                "title": "۱۱۰ متر، باغ فیض",
+                                "second_description": "۱۲,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZRpc1cw",
+                                        "current_token": "QZ1NZ1Wg",
+                                        "suggested_tokens": [
+                                            "QZ0BOHgw",
+                                            "QZ0disl7",
+                                            "QZ0hAqCE",
+                                            "QZ1Z4iif",
+                                            "QZ5AT8p9",
+                                            "QZgpLFMj",
+                                            "QZK9r8SI",
+                                            "QZQROXj-",
+                                            "QZRpc1cw",
+                                            "QZsBkyto"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:50:22.629405"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۱۱۰متر دو خواب پیامبر مرکزی ویو ابدی و خوش نقشه",
+                                            "district_persian": "باغ فیض",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZRpc1cw",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NZ1Wg",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:50:22.629405"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/tTalixoMJobCaf57wUkJgA/10f91c13-92b8-4a0e-b7b7-a7773318cb80.jpg",
+                                "title": "۴۵ متر، باغ فیض",
+                                "second_description": "۶,۰۸۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZsBkyto",
+                                        "current_token": "QZ1NZ1Wg",
+                                        "suggested_tokens": [
+                                            "QZ0BOHgw",
+                                            "QZ0disl7",
+                                            "QZ0hAqCE",
+                                            "QZ1Z4iif",
+                                            "QZ5AT8p9",
+                                            "QZgpLFMj",
+                                            "QZK9r8SI",
+                                            "QZQROXj-",
+                                            "QZRpc1cw",
+                                            "QZsBkyto"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:50:22.629405"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "واحد مینیمال / مدرن/تک برگ کلید نخورده",
+                                            "district_persian": "باغ فیض",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZsBkyto",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1NZ1Wg",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:50:22.629405"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ0BOHgw",
+                                    "QZ0disl7",
+                                    "QZ0hAqCE",
+                                    "QZ1Z4iif",
+                                    "QZ5AT8p9",
+                                    "QZgpLFMj",
+                                    "QZK9r8SI",
+                                    "QZQROXj-",
+                                    "QZRpc1cw",
+                                    "QZsBkyto"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ1NZ1Wg",
+                                    "metadata": {
+                                        "last_modified": "2023-12-10T10:50:22.629405"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                }
+            ],
+            "post_suggestion_extra_logs": [
+                {
+                    "suggested_tokens": [
+                        "QZ01z6VC",
+                        "QZ0BmoK6",
+                        "QZ0RRqZ1",
+                        "QZ11V1e_",
+                        "QZ1FoBlh",
+                        "QZc1bgZ8",
+                        "QZcl0hEZ",
+                        "QZdh8fbs",
+                        "QZi9_PL3",
+                        "QZl5nCTp"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-10T10:50:28.281070"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:50:28.281070"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:50:28.281070"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:50:28.281070"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:50:28.281070"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:50:28.281070"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:50:28.281070"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:50:28.281070"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:50:28.281070"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:50:28.281070"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION"
+                },
+                {
+                    "suggested_tokens": [
+                        "QZ0BOHgw",
+                        "QZ0disl7",
+                        "QZ0hAqCE",
+                        "QZ1Z4iif",
+                        "QZ5AT8p9",
+                        "QZgpLFMj",
+                        "QZK9r8SI",
+                        "QZQROXj-",
+                        "QZRpc1cw",
+                        "QZsBkyto"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-10T10:50:22.629405"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:50:22.629405"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:50:22.629405"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:50:22.629405"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:50:22.629405"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:50:22.629405"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:50:22.629405"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:50:22.629405"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:50:22.629405"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:50:22.629405"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS"
+                }
+            ]
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZ1NZ1Wg",
+    "error": 0
+}

@@ -1,0 +1,455 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "اپارتمان هفتاد متری دو خوابه|فروش آپارتمان|تهران، مجیدیه|دیوار",
+            "description": "اپارتمان هفتاد متری دو خوابه|فروش آپارتمان|تهران، مجیدیه|خرید و فروش اپارتمانی دو خوابه هفتاد متر باسازی کامل تمیز موقعیت عالی دسترسی به مترو بازار تره بار خلوت| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%87%D9%81%D8%AA%D8%A7%D8%AF-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87_فروش-آپارتمان_تهران_مجیدیه_دیوار/QZ1tbUnf",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/اپارتمان هفتاد متری دو خوابه/QZ1tbUnf/",
+            "ios_app_url": "ios-app://863029557/http/v/اپارتمان هفتاد متری دو خوابه/QZ1tbUnf/"
+        },
+        "share": {
+            "title": "اپارتمان هفتاد متری دو خوابه",
+            "description": "اپارتمانی دو خوابه هفتاد متر باسازی کامل تمیز موقعیت عالی دسترسی به مترو بازار تره بار خلوت",
+            "android_url": "https://divar.ir/v/QZ1tbUnf?ref=android",
+            "ios_url": "https://divar.ir/v/QZ1tbUnf?ref=ios",
+            "web_url": "https://divar.ir/v/QZ1tbUnf"
+        },
+        "url": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%87%D9%81%D8%AA%D8%A7%D8%AF-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87_فروش-آپارتمان_تهران_مجیدیه_دیوار/QZ1tbUnf",
+        "category": {
+            "slug": "apartment-sell",
+            "title": "فروش آپارتمان",
+            "second_slug": "فروش آپارتمان"
+        },
+        "description": "اپارتمانی دو خوابه هفتاد متر باسازی کامل تمیز موقعیت عالی دسترسی به مترو بازار تره بار خلوت",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-sell",
+            "token": "QZ1tbUnf",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 0,
+            "district": "مجیدیه",
+            "cat_3": "apartment-sell",
+            "cat_2": "residential-sell",
+            "cat_1": "real-estate",
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": 5000000000,
+            "rent": null,
+            "credit": null
+        },
+        "district": "مجیدیه",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "دقایقی پیش",
+            "subtitle": "دقایقی پیش در تهران، مجیدیه | فروش آپارتمان",
+            "title": "اپارتمان هفتاد متری دو خوابه",
+            "place": "مجیدیه",
+            "business_logo": null
+        },
+        "description": "اپارتمانی دو خوابه هفتاد متر باسازی کامل تمیز موقعیت عالی دسترسی به مترو بازار تره بار خلوت",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۷۰"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۷۱"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۲"
+                    }
+                ]
+            },
+            {
+                "title": "قیمت کل",
+                "format": "string",
+                "value": "۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "قیمت هر متر",
+                "format": "string",
+                "value": "۷۱٬۴۲۹٬۰۰۰ تومان"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۲ از ۳"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور ندارد",
+                        "available": false,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_hint/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_hint/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_HINT"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ ندارد",
+                        "available": false,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_hint/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_hint/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_HINT"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true,
+                "next_page_text": "نمایش همهٔ جزئیات",
+                "next_page": {
+                    "title": "ویژگی‌ها و امکانات",
+                    "widget_list": [
+                        {
+                            "widget_type": "TITLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.TitleRowData",
+                                "text": "ویژگی‌ها",
+                                "text_color": "TEXT_PRIMARY",
+                                "has_divider": false,
+                                "color": "",
+                                "description": "",
+                                "description_color": "UNKNOWN",
+                                "subtitle": "",
+                                "subtitle_color": "UNKNOWN"
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "تعداد واحد در طبقه",
+                                "value": "۳",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "سند",
+                                "value": "تک‌برگ",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "جهت ساختمان",
+                                "value": "شمالی",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "وضعیت واحد",
+                                "value": "بازسازی شده",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "TITLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.TitleRowData",
+                                "text": "امکانات",
+                                "text_color": "TEXT_PRIMARY",
+                                "has_divider": false,
+                                "color": "",
+                                "description": "",
+                                "description_color": "UNKNOWN",
+                                "subtitle": "",
+                                "subtitle_color": "UNKNOWN"
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "آسانسور ندارد",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                                    "icon_name": "ELEVATOR",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "پارکینگ ندارد",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                                    "icon_name": "PARKING",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "انباری",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                                    "icon_name": "CABINET",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "جنس کف سرامیک",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/texture.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/texture.png",
+                                    "icon_name": "TEXTURE",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "سرویس بهداشتی ایرانی",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/wc.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/wc.png",
+                                    "icon_name": "WC",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "سرمایش کولر آبی",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/snowflake.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/snowflake.png",
+                                    "icon_name": "SNOWFLAKE",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "گرمایش شوفاژ",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/sunny.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/sunny.png",
+                                    "icon_name": "SUNNY",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "تأمین‌کننده آب گرم موتورخانه",
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/thermometer.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/thermometer.png",
+                                    "icon_name": "THERMOMETER",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "has_divider": false,
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        }
+                    ],
+                    "is_searchable": false,
+                    "nav_bar": []
+                }
+            }
+        ],
+        "location": {},
+        "images": [],
+        "web_images": [],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 210,
+                    "parent_slug": "residential-sell",
+                    "slug": "apartment-sell",
+                    "title": "فروش آپارتمان",
+                    "second_slug": "فروش آپارتمان",
+                    "relative_url": "tehran/buy-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 209,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-sell",
+                    "title": "فروش مسکونی",
+                    "second_slug": "فروش مسکونی",
+                    "relative_url": "tehran/buy-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "فروش-مسکونی/املاک/فروش-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0919354xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "فروش آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,فروش-آپارتمان",
+                "relative_url": "tehran/buy-apartment"
+            },
+            {
+                "title": "فروش آپارتمان در مجیدیه",
+                "url": "https://divar.ir/tehran/تهران/مجیدیه/browse/فروش-مسکونی/املاک/فروش-آپارتمان/?place=8,126",
+                "relative_url": "tehran/buy-apartment/majidiyeh"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": false,
+            "title": "",
+            "posts": [],
+            "widget_list": [],
+            "post_suggestion_extra_logs": []
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZ1tbUnf",
+    "error": 0
+}

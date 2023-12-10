@@ -1,0 +1,1989 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "آپارتمان  ۵۰ یک خوابه|فروش آپارتمان|تهران، دولاب|دیوار",
+            "description": "آپارتمان  ۵۰ یک خوابه|فروش آپارتمان|تهران، دولاب|خرید و فروش دارای پاسیو دوتا انباری کاذب داخل واحد| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B0-%DB%8C%DA%A9-%D8%AE%D9%88%D8%A7%D8%A8%D9%87_فروش-آپارتمان_تهران_دولاب_دیوار/QZ1dW2lG",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/آپارتمان  ۵۰ یک خوابه/QZ1dW2lG/",
+            "ios_app_url": "ios-app://863029557/http/v/آپارتمان  ۵۰ یک خوابه/QZ1dW2lG/"
+        },
+        "share": {
+            "title": "آپارتمان  ۵۰ یک خوابه",
+            "description": "دارای پاسیو دوتا انباری کاذب داخل واحد",
+            "android_url": "https://divar.ir/v/QZ1dW2lG?ref=android",
+            "ios_url": "https://divar.ir/v/QZ1dW2lG?ref=ios",
+            "web_url": "https://divar.ir/v/QZ1dW2lG"
+        },
+        "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B0-%DB%8C%DA%A9-%D8%AE%D9%88%D8%A7%D8%A8%D9%87_فروش-آپارتمان_تهران_دولاب_دیوار/QZ1dW2lG",
+        "category": {
+            "slug": "apartment-sell",
+            "title": "فروش آپارتمان",
+            "second_slug": "فروش آپارتمان"
+        },
+        "description": "دارای پاسیو دوتا انباری کاذب داخل واحد",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-sell",
+            "token": "QZ1dW2lG",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 0,
+            "district": "دولاب",
+            "cat_3": "apartment-sell",
+            "cat_2": "residential-sell",
+            "cat_1": "real-estate",
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": 2300000000,
+            "rent": null,
+            "credit": null
+        },
+        "district": "دولاب",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "۶ ساعت پیش",
+            "subtitle": "۶ ساعت پیش در تهران، دولاب | فروش آپارتمان",
+            "title": "آپارتمان  ۵۰ یک خوابه",
+            "place": "دولاب",
+            "business_logo": null
+        },
+        "description": "دارای پاسیو دوتا انباری کاذب داخل واحد",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۵۰"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۷۷"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۱"
+                    }
+                ]
+            },
+            {
+                "title": "قیمت کل",
+                "format": "string",
+                "value": "۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "قیمت هر متر",
+                "format": "string",
+                "value": "۴۶٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "همکف از ۳"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور ندارد",
+                        "available": false,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_hint/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_hint/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_HINT"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ ندارد",
+                        "available": false,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_hint/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_hint/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_HINT"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true,
+                "next_page_text": "نمایش همهٔ جزئیات",
+                "next_page": {
+                    "title": "ویژگی‌ها و امکانات",
+                    "widget_list": [
+                        {
+                            "widget_type": "TITLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.TitleRowData",
+                                "text": "ویژگی‌ها",
+                                "text_color": "TEXT_PRIMARY",
+                                "has_divider": false,
+                                "color": "",
+                                "description": "",
+                                "description_color": "UNKNOWN",
+                                "subtitle": "",
+                                "subtitle_color": "UNKNOWN"
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "تعداد واحد در طبقه",
+                                "value": "۴",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "سند",
+                                "value": "تک‌برگ",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "TITLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.TitleRowData",
+                                "text": "امکانات",
+                                "text_color": "TEXT_PRIMARY",
+                                "has_divider": false,
+                                "color": "",
+                                "description": "",
+                                "description_color": "UNKNOWN",
+                                "subtitle": "",
+                                "subtitle_color": "UNKNOWN"
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "آسانسور ندارد",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                                    "icon_name": "ELEVATOR",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "پارکینگ ندارد",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                                    "icon_name": "PARKING",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "انباری",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                                    "icon_name": "CABINET",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "بالکن ندارد",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/balcony.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/balcony.png",
+                                    "icon_name": "BALCONY",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "جنس کف سرامیک",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/texture.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/texture.png",
+                                    "icon_name": "TEXTURE",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "سرویس بهداشتی ایرانی",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/wc.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/wc.png",
+                                    "icon_name": "WC",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "سرمایش کولر آبی",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/snowflake.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/snowflake.png",
+                                    "icon_name": "SNOWFLAKE",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "گرمایش بخاری",
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/sunny.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/sunny.png",
+                                    "icon_name": "SUNNY",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "has_divider": false,
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        }
+                    ],
+                    "is_searchable": false,
+                    "nav_bar": []
+                }
+            }
+        ],
+        "location": {
+            "latitude": "35.665924",
+            "longitude": "51.4608",
+            "map_url": "https://cdn.raah.ir/divar-images-2/QZ1dW2lG.png"
+        },
+        "images": [],
+        "web_images": [],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 210,
+                    "parent_slug": "residential-sell",
+                    "slug": "apartment-sell",
+                    "title": "فروش آپارتمان",
+                    "second_slug": "فروش آپارتمان",
+                    "relative_url": "tehran/buy-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 209,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-sell",
+                    "title": "فروش مسکونی",
+                    "second_slug": "فروش مسکونی",
+                    "relative_url": "tehran/buy-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "فروش-مسکونی/املاک/فروش-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0922108xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "فروش آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,فروش-آپارتمان",
+                "relative_url": "tehran/buy-apartment"
+            },
+            {
+                "title": "فروش آپارتمان در دولاب",
+                "url": "https://divar.ir/tehran/تهران/دولاب/browse/فروش-مسکونی/املاک/فروش-آپارتمان/?place=8,272",
+                "relative_url": "tehran/buy-apartment/doolab"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": true,
+            "title": "آگهی‌های مشابه در این محله",
+            "posts": [
+                {
+                    "bottom_text": "۳,۹۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۸ متر، دولاب",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0hn-n2"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T07:51:15.119421"
+                    },
+                    "token": "QZ0hn-n2",
+                    "web_info": {
+                        "title": "اپارتمان نوساز خوش نقشه68 متری",
+                        "district_persian": "دولاب",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۲,۳۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۴۸ متر، دولاب",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/ihiBWiFOGPnKbzS4AFsiEw/f6692e01-b21e-4410-af0b-b7f55f020a6c.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0xgw6W"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T07:51:15.119421"
+                    },
+                    "token": "QZ0xgw6W",
+                    "web_info": {
+                        "title": "آپارتمان تک واحدی ۴۸متری +۴متر پاسیو",
+                        "district_persian": "دولاب",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۲,۲۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۹ متر، دولاب",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/l5EmCOEqHeikzqdWJiUSuw/5033a650-11ce-4311-9e7c-ec86519c9a0e.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZARfgYw"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T07:51:15.119421"
+                    },
+                    "token": "QZARfgYw",
+                    "web_info": {
+                        "title": "شهر مدرن پردیس مناسب سکونت و فاز۱۱سرمایه گذاری",
+                        "district_persian": "دولاب",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۲,۳۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۵۰ متر، دولاب",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/gzirAU5e1PI_mqkWE0V-jg/584e0fa6-ddce-404e-a9eb-850840c9d66d.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZcNsq9r"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T07:51:15.119421"
+                    },
+                    "token": "QZcNsq9r",
+                    "web_info": {
+                        "title": "اپارتمان 50 متری",
+                        "district_persian": "دولاب",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۳,۷۵۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۵ متر، دولاب",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/s7gWIU1rC5GwFnqS5CzBhA/4e1b7cca-c3ad-4ea6-821e-b5fc8b8e5c84.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZJ1OFz-"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T07:51:15.119421"
+                    },
+                    "token": "QZJ1OFz-",
+                    "web_info": {
+                        "title": "۶۵ متر کلید نخورده .معاوضه با خودرو",
+                        "district_persian": "دولاب",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۲,۸۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۵۰ متر، دولاب",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/Eakuz4p1b5JR7ilUbpTsMQ/12fa125d-a865-4697-b2a6-516258739fc3.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZPFmlU0"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T07:51:15.119421"
+                    },
+                    "token": "QZPFmlU0",
+                    "web_info": {
+                        "title": "٥٠ متری در سادات شمالی",
+                        "district_persian": "دولاب",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۳,۹۵۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۶ متر، دولاب",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/VeDmkOYC-VFXBEVfs5dRwg/c394a902-1bac-48ba-908c-a2468e280820.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZrpn39E"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T07:51:15.119421"
+                    },
+                    "token": "QZrpn39E",
+                    "web_info": {
+                        "title": "آپارتمان 66متر نوساز کلید نخورده",
+                        "district_persian": "دولاب",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۲,۴۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۴۶ متر، دولاب",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/b03AwrzjVA2cvJkDVzIssg/e7a4f729-279b-461f-9053-a3464431c70f.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZth8rkU"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T07:51:15.119421"
+                    },
+                    "token": "QZth8rkU",
+                    "web_info": {
+                        "title": "آپارتمان ۴۶متر نیم",
+                        "district_persian": "دولاب",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۲,۲۲۵,۰۰۰,۰۰۰ تومان",
+                    "title": "۵۱ متر، دولاب",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZuNt6co"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T07:51:15.119421"
+                    },
+                    "token": "QZuNt6co",
+                    "web_info": {
+                        "title": "۵۱ متری بمب سرمایه گذاری",
+                        "district_persian": "دولاب",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                }
+            ],
+            "widget_list": [
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌های مشابه در این محله",
+                        "items": [
+                            {
+                                "title": "۶۸ متر، دولاب",
+                                "second_description": "۳,۹۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0hn-n2",
+                                        "current_token": "QZ1dW2lG",
+                                        "suggested_tokens": [
+                                            "QZ0hn-n2",
+                                            "QZ0xgw6W",
+                                            "QZARfgYw",
+                                            "QZcNsq9r",
+                                            "QZJ1OFz-",
+                                            "QZPFmlU0",
+                                            "QZrpn39E",
+                                            "QZth8rkU",
+                                            "QZuNt6co"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T07:51:15.119421"
+                                        },
+                                        "web_info": {
+                                            "title": "اپارتمان نوساز خوش نقشه68 متری",
+                                            "district_persian": "دولاب",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0hn-n2",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1dW2lG",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T07:51:15.119421"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/ihiBWiFOGPnKbzS4AFsiEw/f6692e01-b21e-4410-af0b-b7f55f020a6c.jpg",
+                                "title": "۴۸ متر، دولاب",
+                                "second_description": "۲,۳۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0xgw6W",
+                                        "current_token": "QZ1dW2lG",
+                                        "suggested_tokens": [
+                                            "QZ0hn-n2",
+                                            "QZ0xgw6W",
+                                            "QZARfgYw",
+                                            "QZcNsq9r",
+                                            "QZJ1OFz-",
+                                            "QZPFmlU0",
+                                            "QZrpn39E",
+                                            "QZth8rkU",
+                                            "QZuNt6co"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T07:51:15.119421"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان تک واحدی ۴۸متری +۴متر پاسیو",
+                                            "district_persian": "دولاب",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0xgw6W",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1dW2lG",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T07:51:15.119421"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/l5EmCOEqHeikzqdWJiUSuw/5033a650-11ce-4311-9e7c-ec86519c9a0e.jpg",
+                                "title": "۸۹ متر، دولاب",
+                                "second_description": "۲,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZARfgYw",
+                                        "current_token": "QZ1dW2lG",
+                                        "suggested_tokens": [
+                                            "QZ0hn-n2",
+                                            "QZ0xgw6W",
+                                            "QZARfgYw",
+                                            "QZcNsq9r",
+                                            "QZJ1OFz-",
+                                            "QZPFmlU0",
+                                            "QZrpn39E",
+                                            "QZth8rkU",
+                                            "QZuNt6co"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T07:51:15.119421"
+                                        },
+                                        "web_info": {
+                                            "title": "شهر مدرن پردیس مناسب سکونت و فاز۱۱سرمایه گذاری",
+                                            "district_persian": "دولاب",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZARfgYw",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1dW2lG",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T07:51:15.119421"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/gzirAU5e1PI_mqkWE0V-jg/584e0fa6-ddce-404e-a9eb-850840c9d66d.jpg",
+                                "title": "۵۰ متر، دولاب",
+                                "second_description": "۲,۳۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZcNsq9r",
+                                        "current_token": "QZ1dW2lG",
+                                        "suggested_tokens": [
+                                            "QZ0hn-n2",
+                                            "QZ0xgw6W",
+                                            "QZARfgYw",
+                                            "QZcNsq9r",
+                                            "QZJ1OFz-",
+                                            "QZPFmlU0",
+                                            "QZrpn39E",
+                                            "QZth8rkU",
+                                            "QZuNt6co"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T07:51:15.119421"
+                                        },
+                                        "web_info": {
+                                            "title": "اپارتمان 50 متری",
+                                            "district_persian": "دولاب",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZcNsq9r",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1dW2lG",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T07:51:15.119421"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/s7gWIU1rC5GwFnqS5CzBhA/4e1b7cca-c3ad-4ea6-821e-b5fc8b8e5c84.jpg",
+                                "title": "۶۵ متر، دولاب",
+                                "second_description": "۳,۷۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZJ1OFz-",
+                                        "current_token": "QZ1dW2lG",
+                                        "suggested_tokens": [
+                                            "QZ0hn-n2",
+                                            "QZ0xgw6W",
+                                            "QZARfgYw",
+                                            "QZcNsq9r",
+                                            "QZJ1OFz-",
+                                            "QZPFmlU0",
+                                            "QZrpn39E",
+                                            "QZth8rkU",
+                                            "QZuNt6co"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T07:51:15.119421"
+                                        },
+                                        "web_info": {
+                                            "title": "۶۵ متر کلید نخورده .معاوضه با خودرو",
+                                            "district_persian": "دولاب",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZJ1OFz-",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1dW2lG",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T07:51:15.119421"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/Eakuz4p1b5JR7ilUbpTsMQ/12fa125d-a865-4697-b2a6-516258739fc3.jpg",
+                                "title": "۵۰ متر، دولاب",
+                                "second_description": "۲,۸۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZPFmlU0",
+                                        "current_token": "QZ1dW2lG",
+                                        "suggested_tokens": [
+                                            "QZ0hn-n2",
+                                            "QZ0xgw6W",
+                                            "QZARfgYw",
+                                            "QZcNsq9r",
+                                            "QZJ1OFz-",
+                                            "QZPFmlU0",
+                                            "QZrpn39E",
+                                            "QZth8rkU",
+                                            "QZuNt6co"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T07:51:15.119421"
+                                        },
+                                        "web_info": {
+                                            "title": "٥٠ متری در سادات شمالی",
+                                            "district_persian": "دولاب",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZPFmlU0",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1dW2lG",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T07:51:15.119421"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/VeDmkOYC-VFXBEVfs5dRwg/c394a902-1bac-48ba-908c-a2468e280820.jpg",
+                                "title": "۶۶ متر، دولاب",
+                                "second_description": "۳,۹۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZrpn39E",
+                                        "current_token": "QZ1dW2lG",
+                                        "suggested_tokens": [
+                                            "QZ0hn-n2",
+                                            "QZ0xgw6W",
+                                            "QZARfgYw",
+                                            "QZcNsq9r",
+                                            "QZJ1OFz-",
+                                            "QZPFmlU0",
+                                            "QZrpn39E",
+                                            "QZth8rkU",
+                                            "QZuNt6co"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T07:51:15.119421"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان 66متر نوساز کلید نخورده",
+                                            "district_persian": "دولاب",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZrpn39E",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1dW2lG",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T07:51:15.119421"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/b03AwrzjVA2cvJkDVzIssg/e7a4f729-279b-461f-9053-a3464431c70f.jpg",
+                                "title": "۴۶ متر، دولاب",
+                                "second_description": "۲,۴۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZth8rkU",
+                                        "current_token": "QZ1dW2lG",
+                                        "suggested_tokens": [
+                                            "QZ0hn-n2",
+                                            "QZ0xgw6W",
+                                            "QZARfgYw",
+                                            "QZcNsq9r",
+                                            "QZJ1OFz-",
+                                            "QZPFmlU0",
+                                            "QZrpn39E",
+                                            "QZth8rkU",
+                                            "QZuNt6co"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T07:51:15.119421"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۴۶متر نیم",
+                                            "district_persian": "دولاب",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZth8rkU",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1dW2lG",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T07:51:15.119421"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۵۱ متر، دولاب",
+                                "second_description": "۲,۲۲۵,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZuNt6co",
+                                        "current_token": "QZ1dW2lG",
+                                        "suggested_tokens": [
+                                            "QZ0hn-n2",
+                                            "QZ0xgw6W",
+                                            "QZARfgYw",
+                                            "QZcNsq9r",
+                                            "QZJ1OFz-",
+                                            "QZPFmlU0",
+                                            "QZrpn39E",
+                                            "QZth8rkU",
+                                            "QZuNt6co"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T07:51:15.119421"
+                                        },
+                                        "web_info": {
+                                            "title": "۵۱ متری بمب سرمایه گذاری",
+                                            "district_persian": "دولاب",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZuNt6co",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1dW2lG",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T07:51:15.119421"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ0hn-n2",
+                                    "QZ0xgw6W",
+                                    "QZARfgYw",
+                                    "QZcNsq9r",
+                                    "QZJ1OFz-",
+                                    "QZPFmlU0",
+                                    "QZrpn39E",
+                                    "QZth8rkU",
+                                    "QZuNt6co"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ1dW2lG",
+                                    "metadata": {
+                                        "last_modified": "2023-12-10T07:51:15.119421"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                },
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌‌های مشابه در دیگر محله‌ها",
+                        "items": [
+                            {
+                                "title": "۳۵ متر، آهنگ",
+                                "second_description": "۲,۲۴۲,۵۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0Z-EjV",
+                                        "current_token": "QZ1dW2lG",
+                                        "suggested_tokens": [
+                                            "QZ0Z-EjV",
+                                            "QZixGFWo",
+                                            "QZjVJ8jy",
+                                            "QZn9hcYj",
+                                            "QZsFHre_",
+                                            "QZsQv4h-",
+                                            "QZTZCi3t",
+                                            "QZuZBMu2",
+                                            "QZv5QAna",
+                                            "QZwpDEFr"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T07:51:35.693755"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۳۴.۵متری مربع",
+                                            "district_persian": "آهنگ",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0Z-EjV",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1dW2lG",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T07:51:35.693755"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۴۷ متر، طیب",
+                                "second_description": "۲,۲۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZixGFWo",
+                                        "current_token": "QZ1dW2lG",
+                                        "suggested_tokens": [
+                                            "QZ0Z-EjV",
+                                            "QZixGFWo",
+                                            "QZjVJ8jy",
+                                            "QZn9hcYj",
+                                            "QZsFHre_",
+                                            "QZsQv4h-",
+                                            "QZTZCi3t",
+                                            "QZuZBMu2",
+                                            "QZv5QAna",
+                                            "QZwpDEFr"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T07:51:35.693755"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "47 متر خوش نقشه معاوضه با خودرو",
+                                            "district_persian": "طیب",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZixGFWo",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1dW2lG",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T07:51:35.693755"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/iFFhPzyUAMn_CyQLPKXL_A/75d7fa93-1bb3-47b1-b493-56beba428424.jpg",
+                                "title": "۴۸ متر، سرآسیاب دولاب",
+                                "second_description": "۲,۱۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZjVJ8jy",
+                                        "current_token": "QZ1dW2lG",
+                                        "suggested_tokens": [
+                                            "QZ0Z-EjV",
+                                            "QZixGFWo",
+                                            "QZjVJ8jy",
+                                            "QZn9hcYj",
+                                            "QZsFHre_",
+                                            "QZsQv4h-",
+                                            "QZTZCi3t",
+                                            "QZuZBMu2",
+                                            "QZv5QAna",
+                                            "QZwpDEFr"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T07:51:35.693755"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۴۸متر یک خواب",
+                                            "district_persian": "سرآسیاب دولاب",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZjVJ8jy",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1dW2lG",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T07:51:35.693755"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/r-Enfg5QCYBR98vw_duFeg/95768d89-9084-47f8-a1de-55f273ae8af2.jpg",
+                                "title": "۴۲ متر، مینا",
+                                "second_description": "۲,۳۸۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZn9hcYj",
+                                        "current_token": "QZ1dW2lG",
+                                        "suggested_tokens": [
+                                            "QZ0Z-EjV",
+                                            "QZixGFWo",
+                                            "QZjVJ8jy",
+                                            "QZn9hcYj",
+                                            "QZsFHre_",
+                                            "QZsQv4h-",
+                                            "QZTZCi3t",
+                                            "QZuZBMu2",
+                                            "QZv5QAna",
+                                            "QZwpDEFr"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T07:51:35.693755"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "نقشه عالی/عارف /عجب گل",
+                                            "district_persian": "مینا",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZn9hcYj",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1dW2lG",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T07:51:35.693755"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/krx3E79x0GBADd5Ne_ZZxA/d87755da-5ba5-4ae3-8104-5383686f185d.jpg",
+                                "title": "۶۷ متر، شکوفه",
+                                "second_description": "۴,۳۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZsFHre_",
+                                        "current_token": "QZ1dW2lG",
+                                        "suggested_tokens": [
+                                            "QZ0Z-EjV",
+                                            "QZixGFWo",
+                                            "QZjVJ8jy",
+                                            "QZn9hcYj",
+                                            "QZsFHre_",
+                                            "QZsQv4h-",
+                                            "QZTZCi3t",
+                                            "QZuZBMu2",
+                                            "QZv5QAna",
+                                            "QZwpDEFr"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T07:51:35.693755"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان  ۶۷ متر دو خوابه شکوفه",
+                                            "district_persian": "شکوفه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZsFHre_",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1dW2lG",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T07:51:35.693755"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/JyQnVtVufdApVIwegJvZ-w/ed02c036-c236-4735-a857-ea6bd64d50de.jpg",
+                                "title": "۳۶ متر، سرآسیاب دولاب",
+                                "second_description": "۲,۳۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZsQv4h-",
+                                        "current_token": "QZ1dW2lG",
+                                        "suggested_tokens": [
+                                            "QZ0Z-EjV",
+                                            "QZixGFWo",
+                                            "QZjVJ8jy",
+                                            "QZn9hcYj",
+                                            "QZsFHre_",
+                                            "QZsQv4h-",
+                                            "QZTZCi3t",
+                                            "QZuZBMu2",
+                                            "QZv5QAna",
+                                            "QZwpDEFr"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T07:51:35.693755"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "3 واحد آپارتمان 36 متری شخصی ساز جداگانه و یکجا",
+                                            "district_persian": "سرآسیاب دولاب",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZsQv4h-",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1dW2lG",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T07:51:35.693755"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/3pfpPql0vMTmC-gisKqCoQ/6f3a2191-6a47-490e-bd8d-92ac84e69ced.jpg",
+                                "title": "۵۲ متر، سرآسیاب دولاب",
+                                "second_description": "۲,۲۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZTZCi3t",
+                                        "current_token": "QZ1dW2lG",
+                                        "suggested_tokens": [
+                                            "QZ0Z-EjV",
+                                            "QZixGFWo",
+                                            "QZjVJ8jy",
+                                            "QZn9hcYj",
+                                            "QZsFHre_",
+                                            "QZsQv4h-",
+                                            "QZTZCi3t",
+                                            "QZuZBMu2",
+                                            "QZv5QAna",
+                                            "QZwpDEFr"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T07:51:35.693755"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۵۲ متر / کم واحد / بازسازی",
+                                            "district_persian": "سرآسیاب دولاب",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZTZCi3t",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1dW2lG",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T07:51:35.693755"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/xiuVN2PZSLss_Dsw2wCXWA/788e5bca-6985-45d5-a57f-e839e55c3e04.jpg",
+                                "title": "۴۵ متر، طیب",
+                                "second_description": "۲,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZuZBMu2",
+                                        "current_token": "QZ1dW2lG",
+                                        "suggested_tokens": [
+                                            "QZ0Z-EjV",
+                                            "QZixGFWo",
+                                            "QZjVJ8jy",
+                                            "QZn9hcYj",
+                                            "QZsFHre_",
+                                            "QZsQv4h-",
+                                            "QZTZCi3t",
+                                            "QZuZBMu2",
+                                            "QZv5QAna",
+                                            "QZwpDEFr"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T07:51:35.693755"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان 45 متری (طبقه دو)",
+                                            "district_persian": "طیب",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZuZBMu2",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1dW2lG",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T07:51:35.693755"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/bqzB7iGRr1cym9xgE6yEWQ/d4a965ab-1280-4030-8c8b-e9329fceed64.jpg",
+                                "title": "۳۸ متر، سرآسیاب دولاب",
+                                "second_description": "۲,۳۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZv5QAna",
+                                        "current_token": "QZ1dW2lG",
+                                        "suggested_tokens": [
+                                            "QZ0Z-EjV",
+                                            "QZixGFWo",
+                                            "QZjVJ8jy",
+                                            "QZn9hcYj",
+                                            "QZsFHre_",
+                                            "QZsQv4h-",
+                                            "QZTZCi3t",
+                                            "QZuZBMu2",
+                                            "QZv5QAna",
+                                            "QZwpDEFr"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T07:51:35.693755"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "کف پارکت ،اسپیلت تازه نصب شده ،فشار اب",
+                                            "district_persian": "سرآسیاب دولاب",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZv5QAna",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1dW2lG",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T07:51:35.693755"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/qQxGDe9ffHKnm57mJJwWnQ/59aa915c-06f9-492a-a3e0-de387698e818.jpg",
+                                "title": "۴۴ متر، آهنگ",
+                                "second_description": "۲,۳۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZwpDEFr",
+                                        "current_token": "QZ1dW2lG",
+                                        "suggested_tokens": [
+                                            "QZ0Z-EjV",
+                                            "QZixGFWo",
+                                            "QZjVJ8jy",
+                                            "QZn9hcYj",
+                                            "QZsFHre_",
+                                            "QZsQv4h-",
+                                            "QZTZCi3t",
+                                            "QZuZBMu2",
+                                            "QZv5QAna",
+                                            "QZwpDEFr"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T07:51:35.693755"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان در نبرد جنوبی خ گلستان می باشد",
+                                            "district_persian": "آهنگ",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZwpDEFr",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1dW2lG",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T07:51:35.693755"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ0Z-EjV",
+                                    "QZixGFWo",
+                                    "QZjVJ8jy",
+                                    "QZn9hcYj",
+                                    "QZsFHre_",
+                                    "QZsQv4h-",
+                                    "QZTZCi3t",
+                                    "QZuZBMu2",
+                                    "QZv5QAna",
+                                    "QZwpDEFr"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ1dW2lG",
+                                    "metadata": {
+                                        "last_modified": "2023-12-10T07:51:35.693755"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                }
+            ],
+            "post_suggestion_extra_logs": [
+                {
+                    "suggested_tokens": [
+                        "QZ0hn-n2",
+                        "QZ0xgw6W",
+                        "QZARfgYw",
+                        "QZcNsq9r",
+                        "QZJ1OFz-",
+                        "QZPFmlU0",
+                        "QZrpn39E",
+                        "QZth8rkU",
+                        "QZuNt6co"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-10T07:51:15.119421"
+                        },
+                        {
+                            "last_modified": "2023-12-10T07:51:15.119421"
+                        },
+                        {
+                            "last_modified": "2023-12-10T07:51:15.119421"
+                        },
+                        {
+                            "last_modified": "2023-12-10T07:51:15.119421"
+                        },
+                        {
+                            "last_modified": "2023-12-10T07:51:15.119421"
+                        },
+                        {
+                            "last_modified": "2023-12-10T07:51:15.119421"
+                        },
+                        {
+                            "last_modified": "2023-12-10T07:51:15.119421"
+                        },
+                        {
+                            "last_modified": "2023-12-10T07:51:15.119421"
+                        },
+                        {
+                            "last_modified": "2023-12-10T07:51:15.119421"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION"
+                },
+                {
+                    "suggested_tokens": [
+                        "QZ0Z-EjV",
+                        "QZixGFWo",
+                        "QZjVJ8jy",
+                        "QZn9hcYj",
+                        "QZsFHre_",
+                        "QZsQv4h-",
+                        "QZTZCi3t",
+                        "QZuZBMu2",
+                        "QZv5QAna",
+                        "QZwpDEFr"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-10T07:51:35.693755"
+                        },
+                        {
+                            "last_modified": "2023-12-10T07:51:35.693755"
+                        },
+                        {
+                            "last_modified": "2023-12-10T07:51:35.693755"
+                        },
+                        {
+                            "last_modified": "2023-12-10T07:51:35.693755"
+                        },
+                        {
+                            "last_modified": "2023-12-10T07:51:35.693755"
+                        },
+                        {
+                            "last_modified": "2023-12-10T07:51:35.693755"
+                        },
+                        {
+                            "last_modified": "2023-12-10T07:51:35.693755"
+                        },
+                        {
+                            "last_modified": "2023-12-10T07:51:35.693755"
+                        },
+                        {
+                            "last_modified": "2023-12-10T07:51:35.693755"
+                        },
+                        {
+                            "last_modified": "2023-12-10T07:51:35.693755"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS"
+                }
+            ]
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZ1dW2lG",
+    "error": 0
+}
