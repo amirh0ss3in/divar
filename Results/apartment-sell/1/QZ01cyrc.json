@@ -1,0 +1,1983 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "آپارتمان|فروش آپارتمان|تهران، صاحب الزمان|دیوار",
+            "description": "آپارتمان|فروش آپارتمان|تهران، صاحب الزمان|خرید و فروش دارای پکیج، هود،کابینت ،کمد دیواری ،گاز ، کف پوش سرامیک ، توالت ایرانی و فرنگی| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86_فروش-آپارتمان_تهران_صاحب-الزمان_دیوار/QZ01cyrc",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/آپارتمان/QZ01cyrc/",
+            "ios_app_url": "ios-app://863029557/http/v/آپارتمان/QZ01cyrc/",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/c0_6uKZeNQ7TM7Fpf5_4lg/fc61c684-e5ac-4151-a1db-d267837688ac.jpg"
+        },
+        "share": {
+            "title": "آپارتمان",
+            "description": "دارای پکیج، هود،کابینت ،کمد دیواری ،گاز ، کف پوش سرامیک ، توالت ایرانی و فرنگی",
+            "android_url": "https://divar.ir/v/QZ01cyrc?ref=android",
+            "ios_url": "https://divar.ir/v/QZ01cyrc?ref=ios",
+            "web_url": "https://divar.ir/v/QZ01cyrc"
+        },
+        "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86_فروش-آپارتمان_تهران_صاحب-الزمان_دیوار/QZ01cyrc",
+        "category": {
+            "slug": "apartment-sell",
+            "title": "فروش آپارتمان",
+            "second_slug": "فروش آپارتمان"
+        },
+        "description": "دارای پکیج، هود،کابینت ،کمد دیواری ،گاز ، کف پوش سرامیک ، توالت ایرانی و فرنگی",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-sell",
+            "token": "QZ01cyrc",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 9,
+            "district": "صاحب الزمان",
+            "cat_3": "apartment-sell",
+            "cat_2": "residential-sell",
+            "cat_1": "real-estate",
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": 6700000000,
+            "rent": null,
+            "credit": null
+        },
+        "district": "صاحب الزمان",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "۱۷ ساعت پیش",
+            "subtitle": "۱۷ ساعت پیش در تهران، صاحب الزمان | فروش آپارتمان",
+            "title": "آپارتمان",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/c0_6uKZeNQ7TM7Fpf5_4lg/fc61c684-e5ac-4151-a1db-d267837688ac.jpg",
+            "place": "صاحب الزمان",
+            "business_logo": null
+        },
+        "description": "دارای پکیج، هود،کابینت ،کمد دیواری ،گاز ، کف پوش سرامیک ، توالت ایرانی و فرنگی",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۹۰"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۹۰"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۲"
+                    }
+                ]
+            },
+            {
+                "title": "قیمت کل",
+                "format": "string",
+                "value": "۶٬۷۰۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "قیمت هر متر",
+                "format": "string",
+                "value": "۷۴٬۴۴۴٬۰۰۰ تومان"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۲"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری ندارد",
+                        "available": false,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_hint/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_hint/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_HINT"
+                        }
+                    }
+                ],
+                "has_divider": true
+            }
+        ],
+        "location": {
+            "latitude": "35.670066657726",
+            "longitude": "51.471583911363",
+            "map_url": "https://cdn.raah.ir/divar-images-2/QZ01cyrc.png"
+        },
+        "images": [
+            "https://s100.divarcdn.com/static/photo/post/yYJsyoVGNY2AzNf90wFOpQ/3ed3d484-aeaf-4cbd-9885-d895748db403.webp",
+            "https://s100.divarcdn.com/static/photo/post/PVI79jLfN2eV0PoyGFTnNQ/54ed99cc-c1e1-469c-9fd2-ff892c2e4af0.webp",
+            "https://s100.divarcdn.com/static/photo/post/-E5pgM4v1yuUa8HqY5zRKA/419eb872-adc1-420a-b028-e0c601717952.webp",
+            "https://s100.divarcdn.com/static/photo/post/rRjuhCaP1CO8edYLV1q-yQ/93635e54-e289-4af5-9071-c28fcb8c27c5.webp",
+            "https://s100.divarcdn.com/static/photo/post/LJPvdUoTtQlXPFpkeQQhww/db45ace4-0655-41b1-b446-75466636a42c.webp",
+            "https://s100.divarcdn.com/static/photo/post/NFsOEZoWSSD0uK4ow5oWfg/fc61c684-e5ac-4151-a1db-d267837688ac.webp",
+            "https://s100.divarcdn.com/static/photo/post/pvcHUosCxL2nf8_6kFCSEg/ac1bcdba-bea4-438d-9e56-fdad4651486c.webp",
+            "https://s100.divarcdn.com/static/photo/post/SlR8Atd7WrW4dCUVcK0G7w/102580d1-c1d4-4480-a809-fead69ff2aea.webp",
+            "https://s100.divarcdn.com/static/photo/post/TbPQkSRAyE9KrpirgABSvA/4ffddcb3-c3ac-4255-a97f-b8e723d04ea5.webp"
+        ],
+        "web_images": [
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/yYJsyoVGNY2AzNf90wFOpQ/3ed3d484-aeaf-4cbd-9885-d895748db403.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/yYJsyoVGNY2AzNf90wFOpQ/3ed3d484-aeaf-4cbd-9885-d895748db403.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/PVI79jLfN2eV0PoyGFTnNQ/54ed99cc-c1e1-469c-9fd2-ff892c2e4af0.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/PVI79jLfN2eV0PoyGFTnNQ/54ed99cc-c1e1-469c-9fd2-ff892c2e4af0.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/-E5pgM4v1yuUa8HqY5zRKA/419eb872-adc1-420a-b028-e0c601717952.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/-E5pgM4v1yuUa8HqY5zRKA/419eb872-adc1-420a-b028-e0c601717952.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/rRjuhCaP1CO8edYLV1q-yQ/93635e54-e289-4af5-9071-c28fcb8c27c5.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/rRjuhCaP1CO8edYLV1q-yQ/93635e54-e289-4af5-9071-c28fcb8c27c5.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/LJPvdUoTtQlXPFpkeQQhww/db45ace4-0655-41b1-b446-75466636a42c.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/LJPvdUoTtQlXPFpkeQQhww/db45ace4-0655-41b1-b446-75466636a42c.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/NFsOEZoWSSD0uK4ow5oWfg/fc61c684-e5ac-4151-a1db-d267837688ac.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/NFsOEZoWSSD0uK4ow5oWfg/fc61c684-e5ac-4151-a1db-d267837688ac.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/pvcHUosCxL2nf8_6kFCSEg/ac1bcdba-bea4-438d-9e56-fdad4651486c.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/pvcHUosCxL2nf8_6kFCSEg/ac1bcdba-bea4-438d-9e56-fdad4651486c.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/SlR8Atd7WrW4dCUVcK0G7w/102580d1-c1d4-4480-a809-fead69ff2aea.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/SlR8Atd7WrW4dCUVcK0G7w/102580d1-c1d4-4480-a809-fead69ff2aea.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/TbPQkSRAyE9KrpirgABSvA/4ffddcb3-c3ac-4255-a97f-b8e723d04ea5.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/TbPQkSRAyE9KrpirgABSvA/4ffddcb3-c3ac-4255-a97f-b8e723d04ea5.jpg",
+                    "type": "image/jpeg"
+                }
+            ]
+        ],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 210,
+                    "parent_slug": "residential-sell",
+                    "slug": "apartment-sell",
+                    "title": "فروش آپارتمان",
+                    "second_slug": "فروش آپارتمان",
+                    "relative_url": "tehran/buy-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 209,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-sell",
+                    "title": "فروش مسکونی",
+                    "second_slug": "فروش مسکونی",
+                    "relative_url": "tehran/buy-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "فروش-مسکونی/املاک/فروش-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0912838xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "فروش آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,فروش-آپارتمان",
+                "relative_url": "tehran/buy-apartment"
+            },
+            {
+                "title": "فروش آپارتمان در صاحب الزمان",
+                "url": "https://divar.ir/tehran/تهران/صاحب-الزمان/browse/فروش-مسکونی/املاک/فروش-آپارتمان/?place=8,973",
+                "relative_url": "tehran/buy-apartment/saheb-al-zaman"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": true,
+            "title": "آگهی‌های مشابه در این محله",
+            "posts": [
+                {
+                    "bottom_text": "۶,۲۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۹۸ متر، صاحب الزمان",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/T3Kt4yylxNNzp3nfHM_gnQ/D189DE68-29A5-447E-9F38-02A47D78A831.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0RYp-B"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T03:40:22.046228"
+                    },
+                    "token": "QZ0RYp-B",
+                    "web_info": {
+                        "title": "۹۸متراپارتمان اهنگ پاسدارگمنام فرشته ازادی",
+                        "district_persian": "صاحب الزمان",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۵,۲۵۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۵ متر، صاحب الزمان",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0VIsbp"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T03:40:22.046228"
+                    },
+                    "token": "QZ0VIsbp",
+                    "web_info": {
+                        "title": "آپارتمان 75 متری صاحب الزمان",
+                        "district_persian": "صاحب الزمان",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۵,۵۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۴ متر، صاحب الزمان",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/HELwH4abju61pGPj9zMBjQ/26bd303b-908f-403a-8739-0a7f3a9b60f5.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ15CzEC"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T03:40:22.046228"
+                    },
+                    "token": "QZ15CzEC",
+                    "web_info": {
+                        "title": "آپارتمان ۸۴ متر ۲ خواب",
+                        "district_persian": "صاحب الزمان",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۳,۴۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۵۸ متر، صاحب الزمان",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/EpiGm4_pXWGU6aGU94SZFA/96a3bc78-062a-4183-8172-61a648abdca0.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZbpgRjY"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T03:40:22.046228"
+                    },
+                    "token": "QZbpgRjY",
+                    "web_info": {
+                        "title": "آپارتمان 58 متری تک واحدی فول",
+                        "district_persian": "صاحب الزمان",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۶,۸۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۱۰۰ متر، صاحب الزمان",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/kUy5CnH9v3-98dbmalN59Q/ce38c2b7-572d-4a34-a045-4376dc7a6ee0.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZbtBOop"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T03:40:22.046228"
+                    },
+                    "token": "QZbtBOop",
+                    "web_info": {
+                        "title": "آپارتمان 100 متری/ فول امکانات/ نوساز کلید نخورده",
+                        "district_persian": "صاحب الزمان",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۸,۵۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۱۲۰ متر، صاحب الزمان",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/kiC97TxzrUndYXTO03JKMw/d0afa80c-176c-45f6-986d-66d94e521474.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ_cVpcd"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T03:40:22.046228"
+                    },
+                    "token": "QZ_cVpcd",
+                    "web_info": {
+                        "title": "۱۲۰ متر دو خواب تک واحدی",
+                        "district_persian": "صاحب الزمان",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۶,۳۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۴ متر، صاحب الزمان",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/J34-tRxlAuxQKeLqlf1lvQ/6a1e24ab-1505-4196-a7f2-708b32260702.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZj5ZySc"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T03:40:22.046228"
+                    },
+                    "token": "QZj5ZySc",
+                    "web_info": {
+                        "title": "آپارتمان ۸۴ متری نوساز دوخوابه",
+                        "district_persian": "صاحب الزمان",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۴,۲۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۹۱ متر، صاحب الزمان",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZjlAZGg"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T03:40:22.046228"
+                    },
+                    "token": "QZjlAZGg",
+                    "web_info": {
+                        "title": "91متر یک واحد و خوش نقشه",
+                        "district_persian": "صاحب الزمان",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۲,۸۵۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۵۵ متر، صاحب الزمان",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/5gUFfh9uxTODMYosJPTfsA/746cf032-de02-4903-86a5-b0547f0a762e.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZjVHELJ"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T03:40:22.046228"
+                    },
+                    "token": "QZjVHELJ",
+                    "web_info": {
+                        "title": "آپارتمان۵۵ متری پاسدارگمنام",
+                        "district_persian": "صاحب الزمان",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۸,۰۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۱۱۰ متر، صاحب الزمان",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZp5MFVa"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T03:40:22.046228"
+                    },
+                    "token": "QZp5MFVa",
+                    "web_info": {
+                        "title": "اپارتمان ۱۱۰ متری دوخوابه",
+                        "district_persian": "صاحب الزمان",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                }
+            ],
+            "widget_list": [
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌های مشابه در این محله",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/T3Kt4yylxNNzp3nfHM_gnQ/D189DE68-29A5-447E-9F38-02A47D78A831.jpg",
+                                "title": "۹۸ متر، صاحب الزمان",
+                                "second_description": "۶,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0RYp-B",
+                                        "current_token": "QZ01cyrc",
+                                        "suggested_tokens": [
+                                            "QZ0RYp-B",
+                                            "QZ0VIsbp",
+                                            "QZ15CzEC",
+                                            "QZbpgRjY",
+                                            "QZbtBOop",
+                                            "QZ_cVpcd",
+                                            "QZj5ZySc",
+                                            "QZjlAZGg",
+                                            "QZjVHELJ",
+                                            "QZp5MFVa"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T03:40:22.046228"
+                                        },
+                                        "web_info": {
+                                            "title": "۹۸متراپارتمان اهنگ پاسدارگمنام فرشته ازادی",
+                                            "district_persian": "صاحب الزمان",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0RYp-B",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01cyrc",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T03:40:22.046228"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۷۵ متر، صاحب الزمان",
+                                "second_description": "۵,۲۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0VIsbp",
+                                        "current_token": "QZ01cyrc",
+                                        "suggested_tokens": [
+                                            "QZ0RYp-B",
+                                            "QZ0VIsbp",
+                                            "QZ15CzEC",
+                                            "QZbpgRjY",
+                                            "QZbtBOop",
+                                            "QZ_cVpcd",
+                                            "QZj5ZySc",
+                                            "QZjlAZGg",
+                                            "QZjVHELJ",
+                                            "QZp5MFVa"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T03:40:22.046228"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان 75 متری صاحب الزمان",
+                                            "district_persian": "صاحب الزمان",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0VIsbp",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01cyrc",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T03:40:22.046228"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/HELwH4abju61pGPj9zMBjQ/26bd303b-908f-403a-8739-0a7f3a9b60f5.jpg",
+                                "title": "۸۴ متر، صاحب الزمان",
+                                "second_description": "۵,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ15CzEC",
+                                        "current_token": "QZ01cyrc",
+                                        "suggested_tokens": [
+                                            "QZ0RYp-B",
+                                            "QZ0VIsbp",
+                                            "QZ15CzEC",
+                                            "QZbpgRjY",
+                                            "QZbtBOop",
+                                            "QZ_cVpcd",
+                                            "QZj5ZySc",
+                                            "QZjlAZGg",
+                                            "QZjVHELJ",
+                                            "QZp5MFVa"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T03:40:22.046228"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۸۴ متر ۲ خواب",
+                                            "district_persian": "صاحب الزمان",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ15CzEC",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01cyrc",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T03:40:22.046228"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/EpiGm4_pXWGU6aGU94SZFA/96a3bc78-062a-4183-8172-61a648abdca0.jpg",
+                                "title": "۵۸ متر، صاحب الزمان",
+                                "second_description": "۳,۴۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZbpgRjY",
+                                        "current_token": "QZ01cyrc",
+                                        "suggested_tokens": [
+                                            "QZ0RYp-B",
+                                            "QZ0VIsbp",
+                                            "QZ15CzEC",
+                                            "QZbpgRjY",
+                                            "QZbtBOop",
+                                            "QZ_cVpcd",
+                                            "QZj5ZySc",
+                                            "QZjlAZGg",
+                                            "QZjVHELJ",
+                                            "QZp5MFVa"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T03:40:22.046228"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان 58 متری تک واحدی فول",
+                                            "district_persian": "صاحب الزمان",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZbpgRjY",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01cyrc",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T03:40:22.046228"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/kUy5CnH9v3-98dbmalN59Q/ce38c2b7-572d-4a34-a045-4376dc7a6ee0.jpg",
+                                "title": "۱۰۰ متر، صاحب الزمان",
+                                "second_description": "۶,۸۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZbtBOop",
+                                        "current_token": "QZ01cyrc",
+                                        "suggested_tokens": [
+                                            "QZ0RYp-B",
+                                            "QZ0VIsbp",
+                                            "QZ15CzEC",
+                                            "QZbpgRjY",
+                                            "QZbtBOop",
+                                            "QZ_cVpcd",
+                                            "QZj5ZySc",
+                                            "QZjlAZGg",
+                                            "QZjVHELJ",
+                                            "QZp5MFVa"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T03:40:22.046228"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان 100 متری/ فول امکانات/ نوساز کلید نخورده",
+                                            "district_persian": "صاحب الزمان",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZbtBOop",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01cyrc",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T03:40:22.046228"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/kiC97TxzrUndYXTO03JKMw/d0afa80c-176c-45f6-986d-66d94e521474.jpg",
+                                "title": "۱۲۰ متر، صاحب الزمان",
+                                "second_description": "۸,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ_cVpcd",
+                                        "current_token": "QZ01cyrc",
+                                        "suggested_tokens": [
+                                            "QZ0RYp-B",
+                                            "QZ0VIsbp",
+                                            "QZ15CzEC",
+                                            "QZbpgRjY",
+                                            "QZbtBOop",
+                                            "QZ_cVpcd",
+                                            "QZj5ZySc",
+                                            "QZjlAZGg",
+                                            "QZjVHELJ",
+                                            "QZp5MFVa"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T03:40:22.046228"
+                                        },
+                                        "web_info": {
+                                            "title": "۱۲۰ متر دو خواب تک واحدی",
+                                            "district_persian": "صاحب الزمان",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ_cVpcd",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01cyrc",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T03:40:22.046228"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/J34-tRxlAuxQKeLqlf1lvQ/6a1e24ab-1505-4196-a7f2-708b32260702.jpg",
+                                "title": "۸۴ متر، صاحب الزمان",
+                                "second_description": "۶,۳۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZj5ZySc",
+                                        "current_token": "QZ01cyrc",
+                                        "suggested_tokens": [
+                                            "QZ0RYp-B",
+                                            "QZ0VIsbp",
+                                            "QZ15CzEC",
+                                            "QZbpgRjY",
+                                            "QZbtBOop",
+                                            "QZ_cVpcd",
+                                            "QZj5ZySc",
+                                            "QZjlAZGg",
+                                            "QZjVHELJ",
+                                            "QZp5MFVa"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T03:40:22.046228"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۸۴ متری نوساز دوخوابه",
+                                            "district_persian": "صاحب الزمان",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZj5ZySc",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01cyrc",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T03:40:22.046228"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۹۱ متر، صاحب الزمان",
+                                "second_description": "۴,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZjlAZGg",
+                                        "current_token": "QZ01cyrc",
+                                        "suggested_tokens": [
+                                            "QZ0RYp-B",
+                                            "QZ0VIsbp",
+                                            "QZ15CzEC",
+                                            "QZbpgRjY",
+                                            "QZbtBOop",
+                                            "QZ_cVpcd",
+                                            "QZj5ZySc",
+                                            "QZjlAZGg",
+                                            "QZjVHELJ",
+                                            "QZp5MFVa"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T03:40:22.046228"
+                                        },
+                                        "web_info": {
+                                            "title": "91متر یک واحد و خوش نقشه",
+                                            "district_persian": "صاحب الزمان",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZjlAZGg",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01cyrc",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T03:40:22.046228"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/5gUFfh9uxTODMYosJPTfsA/746cf032-de02-4903-86a5-b0547f0a762e.jpg",
+                                "title": "۵۵ متر، صاحب الزمان",
+                                "second_description": "۲,۸۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZjVHELJ",
+                                        "current_token": "QZ01cyrc",
+                                        "suggested_tokens": [
+                                            "QZ0RYp-B",
+                                            "QZ0VIsbp",
+                                            "QZ15CzEC",
+                                            "QZbpgRjY",
+                                            "QZbtBOop",
+                                            "QZ_cVpcd",
+                                            "QZj5ZySc",
+                                            "QZjlAZGg",
+                                            "QZjVHELJ",
+                                            "QZp5MFVa"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T03:40:22.046228"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان۵۵ متری پاسدارگمنام",
+                                            "district_persian": "صاحب الزمان",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZjVHELJ",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01cyrc",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T03:40:22.046228"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۱۱۰ متر، صاحب الزمان",
+                                "second_description": "۸,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZp5MFVa",
+                                        "current_token": "QZ01cyrc",
+                                        "suggested_tokens": [
+                                            "QZ0RYp-B",
+                                            "QZ0VIsbp",
+                                            "QZ15CzEC",
+                                            "QZbpgRjY",
+                                            "QZbtBOop",
+                                            "QZ_cVpcd",
+                                            "QZj5ZySc",
+                                            "QZjlAZGg",
+                                            "QZjVHELJ",
+                                            "QZp5MFVa"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T03:40:22.046228"
+                                        },
+                                        "web_info": {
+                                            "title": "اپارتمان ۱۱۰ متری دوخوابه",
+                                            "district_persian": "صاحب الزمان",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZp5MFVa",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01cyrc",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T03:40:22.046228"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ0RYp-B",
+                                    "QZ0VIsbp",
+                                    "QZ15CzEC",
+                                    "QZbpgRjY",
+                                    "QZbtBOop",
+                                    "QZ_cVpcd",
+                                    "QZj5ZySc",
+                                    "QZjlAZGg",
+                                    "QZjVHELJ",
+                                    "QZp5MFVa"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ01cyrc",
+                                    "metadata": {
+                                        "last_modified": "2023-12-10T03:40:22.046228"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                },
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌‌های مشابه در دیگر محله‌ها",
+                        "items": [
+                            {
+                                "title": "۶۰ متر، آهنگ",
+                                "second_description": "۴,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ054lnJ",
+                                        "current_token": "QZ01cyrc",
+                                        "suggested_tokens": [
+                                            "QZ054lnJ",
+                                            "QZ0Bw7aa",
+                                            "QZ0ZYiI2",
+                                            "QZgAVRdt",
+                                            "QZkVxLxp",
+                                            "QZnZb1zH",
+                                            "QZohaN6G",
+                                            "QZrBxNW6",
+                                            "QZshVwVw",
+                                            "QZth7p33"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T03:41:51.519656"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۶۰ متری ۱ خوابه",
+                                            "district_persian": "آهنگ",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ054lnJ",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01cyrc",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T03:41:51.519656"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/m-ggW5YO95k4ofVljZtvng/7d8757e8-aacc-4c1e-bb6a-b7e9b4882fca.jpg",
+                                "title": "۱۰۳ متر، آهنگ",
+                                "second_description": "۶,۷۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0Bw7aa",
+                                        "current_token": "QZ01cyrc",
+                                        "suggested_tokens": [
+                                            "QZ054lnJ",
+                                            "QZ0Bw7aa",
+                                            "QZ0ZYiI2",
+                                            "QZgAVRdt",
+                                            "QZkVxLxp",
+                                            "QZnZb1zH",
+                                            "QZohaN6G",
+                                            "QZrBxNW6",
+                                            "QZshVwVw",
+                                            "QZth7p33"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T03:41:51.519656"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۲خوابه ، برج عرش",
+                                            "district_persian": "آهنگ",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0Bw7aa",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01cyrc",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T03:41:51.519656"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/E-yI_qo47hHbX5sAehhoTQ/0e052766-4cac-452c-a92d-45134ba74cc1.jpg",
+                                "title": "۱۰۰ متر، آهنگ",
+                                "second_description": "۶,۸۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0ZYiI2",
+                                        "current_token": "QZ01cyrc",
+                                        "suggested_tokens": [
+                                            "QZ054lnJ",
+                                            "QZ0Bw7aa",
+                                            "QZ0ZYiI2",
+                                            "QZgAVRdt",
+                                            "QZkVxLxp",
+                                            "QZnZb1zH",
+                                            "QZohaN6G",
+                                            "QZrBxNW6",
+                                            "QZshVwVw",
+                                            "QZth7p33"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T03:41:51.519656"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان دو خوابه ۱۰۰ متری آهنگ",
+                                            "district_persian": "آهنگ",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0ZYiI2",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01cyrc",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T03:41:51.519656"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/mgKmgoWtV3pPse1KiCviyg/d3098004-cd20-4a9c-8e2c-4ebece978095.jpg",
+                                "title": "۱۰۶ متر، آهنگ",
+                                "second_description": "۶,۶۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZgAVRdt",
+                                        "current_token": "QZ01cyrc",
+                                        "suggested_tokens": [
+                                            "QZ054lnJ",
+                                            "QZ0Bw7aa",
+                                            "QZ0ZYiI2",
+                                            "QZgAVRdt",
+                                            "QZkVxLxp",
+                                            "QZnZb1zH",
+                                            "QZohaN6G",
+                                            "QZrBxNW6",
+                                            "QZshVwVw",
+                                            "QZth7p33"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T03:41:51.519656"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۱۰۶ متری ۲خوابه",
+                                            "district_persian": "آهنگ",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZgAVRdt",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01cyrc",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T03:41:51.519656"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/u92G5Dps6-88TjuKQnWzMQ/247a9854-0fb6-4342-b6d3-c925065fcfd3.jpg",
+                                "title": "۹۸ متر، آهنگ",
+                                "second_description": "۶,۶۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZkVxLxp",
+                                        "current_token": "QZ01cyrc",
+                                        "suggested_tokens": [
+                                            "QZ054lnJ",
+                                            "QZ0Bw7aa",
+                                            "QZ0ZYiI2",
+                                            "QZgAVRdt",
+                                            "QZkVxLxp",
+                                            "QZnZb1zH",
+                                            "QZohaN6G",
+                                            "QZrBxNW6",
+                                            "QZshVwVw",
+                                            "QZth7p33"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T03:41:51.519656"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۹۸ متر دو خواب اقاجانلو گلستان تکواحد",
+                                            "district_persian": "آهنگ",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZkVxLxp",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01cyrc",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T03:41:51.519656"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/0v9-wTOqkWh_Ye4RpGXg3g/1eb295f1-39a4-40a3-8389-e98e63bbcd0e.jpg",
+                                "title": "۸۰ متر، آهنگ",
+                                "second_description": "۶,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZnZb1zH",
+                                        "current_token": "QZ01cyrc",
+                                        "suggested_tokens": [
+                                            "QZ054lnJ",
+                                            "QZ0Bw7aa",
+                                            "QZ0ZYiI2",
+                                            "QZgAVRdt",
+                                            "QZkVxLxp",
+                                            "QZnZb1zH",
+                                            "QZohaN6G",
+                                            "QZrBxNW6",
+                                            "QZshVwVw",
+                                            "QZth7p33"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T03:41:51.519656"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "٨٠ متری نوساز آهنگ/بلوار گلشناس/تاپ لوکیشن",
+                                            "district_persian": "آهنگ",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZnZb1zH",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01cyrc",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T03:41:51.519656"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/NN9Ohwr7-g03lhJwMyTE9A/45834bcc-1de1-46c2-9305-a8c463710146.jpg",
+                                "title": "۷۷ متر، آهنگ",
+                                "second_description": "۶,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZohaN6G",
+                                        "current_token": "QZ01cyrc",
+                                        "suggested_tokens": [
+                                            "QZ054lnJ",
+                                            "QZ0Bw7aa",
+                                            "QZ0ZYiI2",
+                                            "QZgAVRdt",
+                                            "QZkVxLxp",
+                                            "QZnZb1zH",
+                                            "QZohaN6G",
+                                            "QZrBxNW6",
+                                            "QZshVwVw",
+                                            "QZth7p33"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T03:41:51.519656"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان / ۷۷ متر / شهرک گلها",
+                                            "district_persian": "آهنگ",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZohaN6G",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01cyrc",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T03:41:51.519656"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/ZrXmqNpcKzR22AHny4oMoA/1224b5ba-14a1-48d8-b5a3-8657e52cd33d.jpg",
+                                "title": "۷۴ متر، شکوفه",
+                                "second_description": "۵,۰۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZrBxNW6",
+                                        "current_token": "QZ01cyrc",
+                                        "suggested_tokens": [
+                                            "QZ054lnJ",
+                                            "QZ0Bw7aa",
+                                            "QZ0ZYiI2",
+                                            "QZgAVRdt",
+                                            "QZkVxLxp",
+                                            "QZnZb1zH",
+                                            "QZohaN6G",
+                                            "QZrBxNW6",
+                                            "QZshVwVw",
+                                            "QZth7p33"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T03:41:51.519656"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۷۴متر،شکوفه",
+                                            "district_persian": "شکوفه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZrBxNW6",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01cyrc",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T03:41:51.519656"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/KaPHzMxziiHcAzmPRUjUmQ/f939e0f0-b07f-4332-b809-438a1fd24c21.jpg",
+                                "title": "۷۳ متر، عارف",
+                                "second_description": "۴,۹۳۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZshVwVw",
+                                        "current_token": "QZ01cyrc",
+                                        "suggested_tokens": [
+                                            "QZ054lnJ",
+                                            "QZ0Bw7aa",
+                                            "QZ0ZYiI2",
+                                            "QZgAVRdt",
+                                            "QZkVxLxp",
+                                            "QZnZb1zH",
+                                            "QZohaN6G",
+                                            "QZrBxNW6",
+                                            "QZshVwVw",
+                                            "QZth7p33"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T03:41:51.519656"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان کلید نخورده اتوبان محلاتی شهمیرزادی",
+                                            "district_persian": "عارف",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZshVwVw",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01cyrc",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T03:41:51.519656"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/0grMWZH3HSzmjNOJ23nrQQ/51e2708a-5025-4b0f-a92e-6c86ec6d2f71.jpg",
+                                "title": "۹۱ متر، شکوفه",
+                                "second_description": "۶,۶۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZth7p33",
+                                        "current_token": "QZ01cyrc",
+                                        "suggested_tokens": [
+                                            "QZ054lnJ",
+                                            "QZ0Bw7aa",
+                                            "QZ0ZYiI2",
+                                            "QZgAVRdt",
+                                            "QZkVxLxp",
+                                            "QZnZb1zH",
+                                            "QZohaN6G",
+                                            "QZrBxNW6",
+                                            "QZshVwVw",
+                                            "QZth7p33"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T03:41:51.519656"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان 91 متری شخصی ساز",
+                                            "district_persian": "شکوفه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZth7p33",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01cyrc",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T03:41:51.519656"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ054lnJ",
+                                    "QZ0Bw7aa",
+                                    "QZ0ZYiI2",
+                                    "QZgAVRdt",
+                                    "QZkVxLxp",
+                                    "QZnZb1zH",
+                                    "QZohaN6G",
+                                    "QZrBxNW6",
+                                    "QZshVwVw",
+                                    "QZth7p33"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ01cyrc",
+                                    "metadata": {
+                                        "last_modified": "2023-12-10T03:41:51.519656"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                }
+            ],
+            "post_suggestion_extra_logs": [
+                {
+                    "suggested_tokens": [
+                        "QZ0RYp-B",
+                        "QZ0VIsbp",
+                        "QZ15CzEC",
+                        "QZbpgRjY",
+                        "QZbtBOop",
+                        "QZ_cVpcd",
+                        "QZj5ZySc",
+                        "QZjlAZGg",
+                        "QZjVHELJ",
+                        "QZp5MFVa"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-10T03:40:22.046228"
+                        },
+                        {
+                            "last_modified": "2023-12-10T03:40:22.046228"
+                        },
+                        {
+                            "last_modified": "2023-12-10T03:40:22.046228"
+                        },
+                        {
+                            "last_modified": "2023-12-10T03:40:22.046228"
+                        },
+                        {
+                            "last_modified": "2023-12-10T03:40:22.046228"
+                        },
+                        {
+                            "last_modified": "2023-12-10T03:40:22.046228"
+                        },
+                        {
+                            "last_modified": "2023-12-10T03:40:22.046228"
+                        },
+                        {
+                            "last_modified": "2023-12-10T03:40:22.046228"
+                        },
+                        {
+                            "last_modified": "2023-12-10T03:40:22.046228"
+                        },
+                        {
+                            "last_modified": "2023-12-10T03:40:22.046228"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION"
+                },
+                {
+                    "suggested_tokens": [
+                        "QZ054lnJ",
+                        "QZ0Bw7aa",
+                        "QZ0ZYiI2",
+                        "QZgAVRdt",
+                        "QZkVxLxp",
+                        "QZnZb1zH",
+                        "QZohaN6G",
+                        "QZrBxNW6",
+                        "QZshVwVw",
+                        "QZth7p33"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-10T03:41:51.519656"
+                        },
+                        {
+                            "last_modified": "2023-12-10T03:41:51.519656"
+                        },
+                        {
+                            "last_modified": "2023-12-10T03:41:51.519656"
+                        },
+                        {
+                            "last_modified": "2023-12-10T03:41:51.519656"
+                        },
+                        {
+                            "last_modified": "2023-12-10T03:41:51.519656"
+                        },
+                        {
+                            "last_modified": "2023-12-10T03:41:51.519656"
+                        },
+                        {
+                            "last_modified": "2023-12-10T03:41:51.519656"
+                        },
+                        {
+                            "last_modified": "2023-12-10T03:41:51.519656"
+                        },
+                        {
+                            "last_modified": "2023-12-10T03:41:51.519656"
+                        },
+                        {
+                            "last_modified": "2023-12-10T03:41:51.519656"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS"
+                }
+            ]
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZ01cyrc",
+    "error": 0
+}

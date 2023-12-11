@@ -1,0 +1,2172 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "آپارتمان ۹۷ متری|فروش آپارتمان|تهران، یافت‌آباد|دیوار",
+            "description": "آپارتمان ۹۷ متری|فروش آپارتمان|تهران، یافت‌آباد|خرید و فروش بازسازی شده با امکانات کامل \nواحد هیچ گونه دیوار مشترکی با همسایه ها ندارد| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B7-%D9%85%D8%AA%D8%B1%DB%8C_فروش-آپارتمان_تهران_یافت-آباد_دیوار/QZ0Jsn3c",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/آپارتمان ۹۷ متری/QZ0Jsn3c/",
+            "ios_app_url": "ios-app://863029557/http/v/آپارتمان ۹۷ متری/QZ0Jsn3c/",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/oXNQW5v-b4eLzmteNKu36Q/e60ed101-5952-4b47-97b8-5b628decc116.jpg"
+        },
+        "share": {
+            "title": "آپارتمان ۹۷ متری",
+            "description": "بازسازی شده با امکانات کامل \nواحد هیچ گونه دیوار مشترکی با همسایه ها ندارد",
+            "android_url": "https://divar.ir/v/QZ0Jsn3c?ref=android",
+            "ios_url": "https://divar.ir/v/QZ0Jsn3c?ref=ios",
+            "web_url": "https://divar.ir/v/QZ0Jsn3c"
+        },
+        "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B7-%D9%85%D8%AA%D8%B1%DB%8C_فروش-آپارتمان_تهران_یافت-آباد_دیوار/QZ0Jsn3c",
+        "category": {
+            "slug": "apartment-sell",
+            "title": "فروش آپارتمان",
+            "second_slug": "فروش آپارتمان"
+        },
+        "description": "بازسازی شده با امکانات کامل \nواحد هیچ گونه دیوار مشترکی با همسایه ها ندارد",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-sell",
+            "token": "QZ0Jsn3c",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 4,
+            "district": "یافت‌آباد",
+            "cat_3": "apartment-sell",
+            "cat_2": "residential-sell",
+            "cat_1": "real-estate",
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": 3880000000,
+            "rent": null,
+            "credit": null
+        },
+        "district": "یافت‌آباد",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، یافت‌آباد | فروش آپارتمان",
+            "title": "آپارتمان ۹۷ متری",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/oXNQW5v-b4eLzmteNKu36Q/e60ed101-5952-4b47-97b8-5b628decc116.jpg",
+            "place": "یافت‌آباد",
+            "business_logo": null
+        },
+        "description": "بازسازی شده با امکانات کامل \nواحد هیچ گونه دیوار مشترکی با همسایه ها ندارد",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۹۷"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۸۷"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۳"
+                    }
+                ]
+            },
+            {
+                "title": "قیمت کل",
+                "format": "string",
+                "value": "۳٬۸۸۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "قیمت هر متر",
+                "format": "string",
+                "value": "۴۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۳ از ۵"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true,
+                "next_page_text": "نمایش همهٔ جزئیات",
+                "next_page": {
+                    "title": "ویژگی‌ها و امکانات",
+                    "widget_list": [
+                        {
+                            "widget_type": "TITLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.TitleRowData",
+                                "text": "ویژگی‌ها",
+                                "text_color": "TEXT_PRIMARY",
+                                "has_divider": false,
+                                "color": "",
+                                "description": "",
+                                "description_color": "UNKNOWN",
+                                "subtitle": "",
+                                "subtitle_color": "UNKNOWN"
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "تعداد واحد در طبقه",
+                                "value": "۴",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "سند",
+                                "value": "تک‌برگ",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "جهت ساختمان",
+                                "value": "شمالی",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "وضعیت واحد",
+                                "value": "بازسازی شده",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "TITLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.TitleRowData",
+                                "text": "امکانات",
+                                "text_color": "TEXT_PRIMARY",
+                                "has_divider": false,
+                                "color": "",
+                                "description": "",
+                                "description_color": "UNKNOWN",
+                                "subtitle": "",
+                                "subtitle_color": "UNKNOWN"
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "آسانسور",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                                    "icon_name": "ELEVATOR",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "پارکینگ",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                                    "icon_name": "PARKING",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "انباری",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                                    "icon_name": "CABINET",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "بالکن",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/balcony.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/balcony.png",
+                                    "icon_name": "BALCONY",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "جنس کف پارکت چوب",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/texture.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/texture.png",
+                                    "icon_name": "TEXTURE",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "سرویس بهداشتی ایرانی",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/wc.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/wc.png",
+                                    "icon_name": "WC",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "سرمایش کولر آبی",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/snowflake.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/snowflake.png",
+                                    "icon_name": "SNOWFLAKE",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "گرمایش شوفاژ",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/sunny.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/sunny.png",
+                                    "icon_name": "SUNNY",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "تأمین‌کننده آب گرم پکیج",
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/thermometer.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/thermometer.png",
+                                    "icon_name": "THERMOMETER",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "has_divider": false,
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        }
+                    ],
+                    "is_searchable": false,
+                    "nav_bar": []
+                }
+            }
+        ],
+        "location": {},
+        "images": [
+            "https://s100.divarcdn.com/static/photo/post/Hb7lSbBNE1VMQRHY894SGQ/db38cd94-4d61-454d-bab1-399343efe221.webp",
+            "https://s100.divarcdn.com/static/photo/post/c_uxUfQShSv-4CT1Cr2xQg/36883525-5e81-40a7-a6c7-d81c5ad982f5.webp",
+            "https://s100.divarcdn.com/static/photo/post/hp6HiuUEc88rZoO9lkeRuQ/e60ed101-5952-4b47-97b8-5b628decc116.webp",
+            "https://s100.divarcdn.com/static/photo/post/GUGVH3QyjUQWodqhDLfJ6Q/e0ae2536-61f4-4d62-9a4a-3e4bb9febc6e.webp"
+        ],
+        "web_images": [
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/Hb7lSbBNE1VMQRHY894SGQ/db38cd94-4d61-454d-bab1-399343efe221.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/Hb7lSbBNE1VMQRHY894SGQ/db38cd94-4d61-454d-bab1-399343efe221.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/c_uxUfQShSv-4CT1Cr2xQg/36883525-5e81-40a7-a6c7-d81c5ad982f5.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/c_uxUfQShSv-4CT1Cr2xQg/36883525-5e81-40a7-a6c7-d81c5ad982f5.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/hp6HiuUEc88rZoO9lkeRuQ/e60ed101-5952-4b47-97b8-5b628decc116.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/hp6HiuUEc88rZoO9lkeRuQ/e60ed101-5952-4b47-97b8-5b628decc116.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/GUGVH3QyjUQWodqhDLfJ6Q/e0ae2536-61f4-4d62-9a4a-3e4bb9febc6e.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/GUGVH3QyjUQWodqhDLfJ6Q/e0ae2536-61f4-4d62-9a4a-3e4bb9febc6e.jpg",
+                    "type": "image/jpeg"
+                }
+            ]
+        ],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 210,
+                    "parent_slug": "residential-sell",
+                    "slug": "apartment-sell",
+                    "title": "فروش آپارتمان",
+                    "second_slug": "فروش آپارتمان",
+                    "relative_url": "tehran/buy-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 209,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-sell",
+                    "title": "فروش مسکونی",
+                    "second_slug": "فروش مسکونی",
+                    "relative_url": "tehran/buy-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "فروش-مسکونی/املاک/فروش-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0912405xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "فروش آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,فروش-آپارتمان",
+                "relative_url": "tehran/buy-apartment"
+            },
+            {
+                "title": "فروش آپارتمان در یافت‌آباد",
+                "url": "https://divar.ir/tehran/تهران/یافت‌آباد/browse/فروش-مسکونی/املاک/فروش-آپارتمان/?place=8,192",
+                "relative_url": "tehran/buy-apartment/yaftabad"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": true,
+            "title": "آگهی‌های مشابه در این محله",
+            "posts": [
+                {
+                    "bottom_text": "۲,۴۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۳ متر، یافت‌آباد",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/pBWcmBJ4s1xP-xWT9VjJ6w/d2f776d7-dfd8-4b80-84a7-6b74b3588e4c.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0N3yxa"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T19:49:47.027128"
+                    },
+                    "token": "QZ0N3yxa",
+                    "web_info": {
+                        "title": "آپارتمان ۶۳ متری  سعادتمندی",
+                        "district_persian": "یافت‌آباد",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۲,۲۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۵۴ متر، یافت‌آباد",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0xaeJb"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T19:49:47.027128"
+                    },
+                    "token": "QZ0xaeJb",
+                    "web_info": {
+                        "title": "آپارتمان54متری تک واحدی",
+                        "district_persian": "یافت‌آباد",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۳,۵۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۵ متر، یافت‌آباد",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZl9hn8h"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T19:49:47.027128"
+                    },
+                    "token": "QZl9hn8h",
+                    "web_info": {
+                        "title": "آپارتمان 75 متری یک خوابه",
+                        "district_persian": "یافت‌آباد",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۳,۵۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۸ متر، یافت‌آباد",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZrRiOux"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T19:49:47.027128"
+                    },
+                    "token": "QZrRiOux",
+                    "web_info": {
+                        "title": "78متر طبقه دوم تک واحدی سند دار با پارکینگ",
+                        "district_persian": "یافت‌آباد",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۳,۸۵۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۹ متر، یافت‌آباد",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/x6Mp_AFEhX8T8O1BkdB_OA/c538175d-90c0-4f8d-9348-d18dc0bdce50.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZrx4CUk"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T19:49:47.027128"
+                    },
+                    "token": "QZrx4CUk",
+                    "web_info": {
+                        "title": "آپارتمان ۸۹ متری ۲خواب سال ساخت ۱۴۰۱",
+                        "district_persian": "یافت‌آباد",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۲,۷۳۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۵ متر، یافت‌آباد",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/6tuDchF0imCNhXG8Zt474w/7686dd78-f04c-45d3-bbef-445b6315ca68.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZsRep1b"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T19:49:47.027128"
+                    },
+                    "token": "QZsRep1b",
+                    "web_info": {
+                        "title": "۶۵ متری تک واحدی چهارراه قهوه خانه",
+                        "district_persian": "یافت‌آباد",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۲,۵۸۴,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۸ متر، یافت‌آباد",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/IJ3BXtRclVXMahZxJU-Isg/1fdc468f-0c81-4593-805b-1baa2ca6016b.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZtxrAVj"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T19:49:47.027128"
+                    },
+                    "token": "QZtxrAVj",
+                    "web_info": {
+                        "title": "آپارتمان شهرک امام خمینی",
+                        "district_persian": "یافت‌آباد",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۲,۵۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۵ متر، یافت‌آباد",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZu1jBdj"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T19:49:47.027128"
+                    },
+                    "token": "QZu1jBdj",
+                    "web_info": {
+                        "title": "آپارتمان ۷۵ متر",
+                        "district_persian": "یافت‌آباد",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۳,۵۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۰ متر، یافت‌آباد",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/FKT0wwf7ci55LoWhBxTV8g/444c0651-c724-4c1c-b455-16eef1ee2d13.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZuxxZJC"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T19:49:47.027128"
+                    },
+                    "token": "QZuxxZJC",
+                    "web_info": {
+                        "title": "یک واحد اپارتمان نو ساز  به فروش میرسد.",
+                        "district_persian": "یافت‌آباد",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۲,۹۲۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۵ متر، یافت‌آباد",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZvtF66z"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T19:49:47.027128"
+                    },
+                    "token": "QZvtF66z",
+                    "web_info": {
+                        "title": "۶۵ متر ۲ خواب تکواحدی ۵ سال ساخت",
+                        "district_persian": "یافت‌آباد",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                }
+            ],
+            "widget_list": [
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌های مشابه در این محله",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/pBWcmBJ4s1xP-xWT9VjJ6w/d2f776d7-dfd8-4b80-84a7-6b74b3588e4c.jpg",
+                                "title": "۶۳ متر، یافت‌آباد",
+                                "second_description": "۲,۴۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0N3yxa",
+                                        "current_token": "QZ0Jsn3c",
+                                        "suggested_tokens": [
+                                            "QZ0N3yxa",
+                                            "QZ0xaeJb",
+                                            "QZl9hn8h",
+                                            "QZrRiOux",
+                                            "QZrx4CUk",
+                                            "QZsRep1b",
+                                            "QZtxrAVj",
+                                            "QZu1jBdj",
+                                            "QZuxxZJC",
+                                            "QZvtF66z"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T19:49:47.027128"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۶۳ متری  سعادتمندی",
+                                            "district_persian": "یافت‌آباد",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0N3yxa",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0Jsn3c",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T19:49:47.027128"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۵۴ متر، یافت‌آباد",
+                                "second_description": "۲,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0xaeJb",
+                                        "current_token": "QZ0Jsn3c",
+                                        "suggested_tokens": [
+                                            "QZ0N3yxa",
+                                            "QZ0xaeJb",
+                                            "QZl9hn8h",
+                                            "QZrRiOux",
+                                            "QZrx4CUk",
+                                            "QZsRep1b",
+                                            "QZtxrAVj",
+                                            "QZu1jBdj",
+                                            "QZuxxZJC",
+                                            "QZvtF66z"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T19:49:47.027128"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان54متری تک واحدی",
+                                            "district_persian": "یافت‌آباد",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0xaeJb",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0Jsn3c",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T19:49:47.027128"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۷۵ متر، یافت‌آباد",
+                                "second_description": "۳,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZl9hn8h",
+                                        "current_token": "QZ0Jsn3c",
+                                        "suggested_tokens": [
+                                            "QZ0N3yxa",
+                                            "QZ0xaeJb",
+                                            "QZl9hn8h",
+                                            "QZrRiOux",
+                                            "QZrx4CUk",
+                                            "QZsRep1b",
+                                            "QZtxrAVj",
+                                            "QZu1jBdj",
+                                            "QZuxxZJC",
+                                            "QZvtF66z"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T19:49:47.027128"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان 75 متری یک خوابه",
+                                            "district_persian": "یافت‌آباد",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZl9hn8h",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0Jsn3c",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T19:49:47.027128"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۷۸ متر، یافت‌آباد",
+                                "second_description": "۳,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZrRiOux",
+                                        "current_token": "QZ0Jsn3c",
+                                        "suggested_tokens": [
+                                            "QZ0N3yxa",
+                                            "QZ0xaeJb",
+                                            "QZl9hn8h",
+                                            "QZrRiOux",
+                                            "QZrx4CUk",
+                                            "QZsRep1b",
+                                            "QZtxrAVj",
+                                            "QZu1jBdj",
+                                            "QZuxxZJC",
+                                            "QZvtF66z"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T19:49:47.027128"
+                                        },
+                                        "web_info": {
+                                            "title": "78متر طبقه دوم تک واحدی سند دار با پارکینگ",
+                                            "district_persian": "یافت‌آباد",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZrRiOux",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0Jsn3c",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T19:49:47.027128"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/x6Mp_AFEhX8T8O1BkdB_OA/c538175d-90c0-4f8d-9348-d18dc0bdce50.jpg",
+                                "title": "۸۹ متر، یافت‌آباد",
+                                "second_description": "۳,۸۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZrx4CUk",
+                                        "current_token": "QZ0Jsn3c",
+                                        "suggested_tokens": [
+                                            "QZ0N3yxa",
+                                            "QZ0xaeJb",
+                                            "QZl9hn8h",
+                                            "QZrRiOux",
+                                            "QZrx4CUk",
+                                            "QZsRep1b",
+                                            "QZtxrAVj",
+                                            "QZu1jBdj",
+                                            "QZuxxZJC",
+                                            "QZvtF66z"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T19:49:47.027128"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۸۹ متری ۲خواب سال ساخت ۱۴۰۱",
+                                            "district_persian": "یافت‌آباد",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZrx4CUk",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0Jsn3c",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T19:49:47.027128"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/6tuDchF0imCNhXG8Zt474w/7686dd78-f04c-45d3-bbef-445b6315ca68.jpg",
+                                "title": "۶۵ متر، یافت‌آباد",
+                                "second_description": "۲,۷۳۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZsRep1b",
+                                        "current_token": "QZ0Jsn3c",
+                                        "suggested_tokens": [
+                                            "QZ0N3yxa",
+                                            "QZ0xaeJb",
+                                            "QZl9hn8h",
+                                            "QZrRiOux",
+                                            "QZrx4CUk",
+                                            "QZsRep1b",
+                                            "QZtxrAVj",
+                                            "QZu1jBdj",
+                                            "QZuxxZJC",
+                                            "QZvtF66z"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T19:49:47.027128"
+                                        },
+                                        "web_info": {
+                                            "title": "۶۵ متری تک واحدی چهارراه قهوه خانه",
+                                            "district_persian": "یافت‌آباد",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZsRep1b",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0Jsn3c",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T19:49:47.027128"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/IJ3BXtRclVXMahZxJU-Isg/1fdc468f-0c81-4593-805b-1baa2ca6016b.jpg",
+                                "title": "۶۸ متر، یافت‌آباد",
+                                "second_description": "۲,۵۸۴,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZtxrAVj",
+                                        "current_token": "QZ0Jsn3c",
+                                        "suggested_tokens": [
+                                            "QZ0N3yxa",
+                                            "QZ0xaeJb",
+                                            "QZl9hn8h",
+                                            "QZrRiOux",
+                                            "QZrx4CUk",
+                                            "QZsRep1b",
+                                            "QZtxrAVj",
+                                            "QZu1jBdj",
+                                            "QZuxxZJC",
+                                            "QZvtF66z"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T19:49:47.027128"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان شهرک امام خمینی",
+                                            "district_persian": "یافت‌آباد",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZtxrAVj",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0Jsn3c",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T19:49:47.027128"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۷۵ متر، یافت‌آباد",
+                                "second_description": "۲,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZu1jBdj",
+                                        "current_token": "QZ0Jsn3c",
+                                        "suggested_tokens": [
+                                            "QZ0N3yxa",
+                                            "QZ0xaeJb",
+                                            "QZl9hn8h",
+                                            "QZrRiOux",
+                                            "QZrx4CUk",
+                                            "QZsRep1b",
+                                            "QZtxrAVj",
+                                            "QZu1jBdj",
+                                            "QZuxxZJC",
+                                            "QZvtF66z"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T19:49:47.027128"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۷۵ متر",
+                                            "district_persian": "یافت‌آباد",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZu1jBdj",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0Jsn3c",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T19:49:47.027128"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/FKT0wwf7ci55LoWhBxTV8g/444c0651-c724-4c1c-b455-16eef1ee2d13.jpg",
+                                "title": "۸۰ متر، یافت‌آباد",
+                                "second_description": "۳,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZuxxZJC",
+                                        "current_token": "QZ0Jsn3c",
+                                        "suggested_tokens": [
+                                            "QZ0N3yxa",
+                                            "QZ0xaeJb",
+                                            "QZl9hn8h",
+                                            "QZrRiOux",
+                                            "QZrx4CUk",
+                                            "QZsRep1b",
+                                            "QZtxrAVj",
+                                            "QZu1jBdj",
+                                            "QZuxxZJC",
+                                            "QZvtF66z"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T19:49:47.027128"
+                                        },
+                                        "web_info": {
+                                            "title": "یک واحد اپارتمان نو ساز  به فروش میرسد.",
+                                            "district_persian": "یافت‌آباد",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZuxxZJC",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0Jsn3c",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T19:49:47.027128"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۶۵ متر، یافت‌آباد",
+                                "second_description": "۲,۹۲۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZvtF66z",
+                                        "current_token": "QZ0Jsn3c",
+                                        "suggested_tokens": [
+                                            "QZ0N3yxa",
+                                            "QZ0xaeJb",
+                                            "QZl9hn8h",
+                                            "QZrRiOux",
+                                            "QZrx4CUk",
+                                            "QZsRep1b",
+                                            "QZtxrAVj",
+                                            "QZu1jBdj",
+                                            "QZuxxZJC",
+                                            "QZvtF66z"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T19:49:47.027128"
+                                        },
+                                        "web_info": {
+                                            "title": "۶۵ متر ۲ خواب تکواحدی ۵ سال ساخت",
+                                            "district_persian": "یافت‌آباد",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZvtF66z",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0Jsn3c",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T19:49:47.027128"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ0N3yxa",
+                                    "QZ0xaeJb",
+                                    "QZl9hn8h",
+                                    "QZrRiOux",
+                                    "QZrx4CUk",
+                                    "QZsRep1b",
+                                    "QZtxrAVj",
+                                    "QZu1jBdj",
+                                    "QZuxxZJC",
+                                    "QZvtF66z"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ0Jsn3c",
+                                    "metadata": {
+                                        "last_modified": "2023-12-09T19:49:47.027128"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                },
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌‌های مشابه در دیگر محله‌ها",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/drMxdO7KYAvETMCIiyFb6g/ab57c2e7-2aeb-41ac-a7db-ba4851833c30.jpg",
+                                "title": "۶۳ متر، شهرک ولیعصر",
+                                "second_description": "۲,۷۸۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0h3Whd",
+                                        "current_token": "QZ0Jsn3c",
+                                        "suggested_tokens": [
+                                            "QZ0h3Whd",
+                                            "QZ0V3P36",
+                                            "QZhJwKqA",
+                                            "QZndqyB_",
+                                            "QZpBMQka",
+                                            "QZrZYeNK",
+                                            "QZsBy_mT",
+                                            "QZt5KzMp",
+                                            "QZThj39G",
+                                            "QZtMVhaA"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T19:49:25.021313"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۶۳ متری",
+                                            "district_persian": "شهرک ولیعصر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0h3Whd",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0Jsn3c",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T19:49:25.021313"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/Q1RciSyh7xwn_1kaIl3jVw/5a646d34-5284-4323-920f-f73b7ee462ad.jpg",
+                                "title": "۶۸ متر، سعیدآباد",
+                                "second_description": "۲,۷۲۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0V3P36",
+                                        "current_token": "QZ0Jsn3c",
+                                        "suggested_tokens": [
+                                            "QZ0h3Whd",
+                                            "QZ0V3P36",
+                                            "QZhJwKqA",
+                                            "QZndqyB_",
+                                            "QZpBMQka",
+                                            "QZrZYeNK",
+                                            "QZsBy_mT",
+                                            "QZt5KzMp",
+                                            "QZThj39G",
+                                            "QZtMVhaA"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T19:49:25.021313"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "سعید آباد 68متر  شخصی ساز تک خواب . فول امکانات",
+                                            "district_persian": "سعیدآباد",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0V3P36",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0Jsn3c",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T19:49:25.021313"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/-MY8kMlTCWbaJULH6ETQPg/1e2a41f5-ef31-42c6-b2bf-09f4516936d0.jpg",
+                                "title": "۹۸ متر، شادآباد",
+                                "second_description": "۴,۱۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZhJwKqA",
+                                        "current_token": "QZ0Jsn3c",
+                                        "suggested_tokens": [
+                                            "QZ0h3Whd",
+                                            "QZ0V3P36",
+                                            "QZhJwKqA",
+                                            "QZndqyB_",
+                                            "QZpBMQka",
+                                            "QZrZYeNK",
+                                            "QZsBy_mT",
+                                            "QZt5KzMp",
+                                            "QZThj39G",
+                                            "QZtMVhaA"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T19:49:25.021313"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "اپارتمان ۹۸متری",
+                                            "district_persian": "شادآباد",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZhJwKqA",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0Jsn3c",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T19:49:25.021313"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/qh3occ7srWs8DASc4L7Pww/eaac3d3f-3ddb-42d1-8745-e35c02d1fe9c.jpg",
+                                "title": "۶۳ متر، شهرک ولیعصر",
+                                "second_description": "۲,۸۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZndqyB_",
+                                        "current_token": "QZ0Jsn3c",
+                                        "suggested_tokens": [
+                                            "QZ0h3Whd",
+                                            "QZ0V3P36",
+                                            "QZhJwKqA",
+                                            "QZndqyB_",
+                                            "QZpBMQka",
+                                            "QZrZYeNK",
+                                            "QZsBy_mT",
+                                            "QZt5KzMp",
+                                            "QZThj39G",
+                                            "QZtMVhaA"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T19:49:25.021313"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "اپارتمان شهرک ولی عصر ،فوری فروشی ،زیر",
+                                            "district_persian": "شهرک ولیعصر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZndqyB_",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0Jsn3c",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T19:49:25.021313"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/K9mCOpVOk1RxHhIhAA8lsA/c12fc813-4e3a-4435-bb8f-6df77e3c05d9.jpg",
+                                "title": "۱۲۰ متر، سعیدآباد",
+                                "second_description": "۴,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZpBMQka",
+                                        "current_token": "QZ0Jsn3c",
+                                        "suggested_tokens": [
+                                            "QZ0h3Whd",
+                                            "QZ0V3P36",
+                                            "QZhJwKqA",
+                                            "QZndqyB_",
+                                            "QZpBMQka",
+                                            "QZrZYeNK",
+                                            "QZsBy_mT",
+                                            "QZt5KzMp",
+                                            "QZThj39G",
+                                            "QZtMVhaA"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T19:49:25.021313"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۱۲۰ دو خواب پارکینگ اختصاصی کلید نخورده",
+                                            "district_persian": "سعیدآباد",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZpBMQka",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0Jsn3c",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T19:49:25.021313"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/hZsvHrVvwF0n2bUDOCYwTw/c2d3bf26-cff8-4c78-b97c-3cf4250f3325.jpg",
+                                "title": "۶۱ متر، شهرک ولیعصر",
+                                "second_description": "۲,۷۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZrZYeNK",
+                                        "current_token": "QZ0Jsn3c",
+                                        "suggested_tokens": [
+                                            "QZ0h3Whd",
+                                            "QZ0V3P36",
+                                            "QZhJwKqA",
+                                            "QZndqyB_",
+                                            "QZpBMQka",
+                                            "QZrZYeNK",
+                                            "QZsBy_mT",
+                                            "QZt5KzMp",
+                                            "QZThj39G",
+                                            "QZtMVhaA"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T19:49:25.021313"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "اپارتمان 61متری یک خوابه شهرک ولیعصر",
+                                            "district_persian": "شهرک ولیعصر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZrZYeNK",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0Jsn3c",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T19:49:25.021313"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/q0BZf-EtdmdXD5vSsLt4Xw/160ae799-5886-4e69-be58-02de19db4867.jpg",
+                                "title": "۵۵ متر، شهرک ولیعصر",
+                                "second_description": "۲,۷۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZsBy_mT",
+                                        "current_token": "QZ0Jsn3c",
+                                        "suggested_tokens": [
+                                            "QZ0h3Whd",
+                                            "QZ0V3P36",
+                                            "QZhJwKqA",
+                                            "QZndqyB_",
+                                            "QZpBMQka",
+                                            "QZrZYeNK",
+                                            "QZsBy_mT",
+                                            "QZt5KzMp",
+                                            "QZThj39G",
+                                            "QZtMVhaA"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T19:49:25.021313"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "فروش آپارتمان 55 متری در شهرک ولیعصر جلالی شمالی",
+                                            "district_persian": "شهرک ولیعصر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZsBy_mT",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0Jsn3c",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T19:49:25.021313"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/60eJW6j290jS90gepJLJFQ/b79f76a2-9d39-4242-a393-376a6a0f1481.jpg",
+                                "title": "۶۱ متر، شهرک ولیعصر",
+                                "second_description": "۲,۶۲۳,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZt5KzMp",
+                                        "current_token": "QZ0Jsn3c",
+                                        "suggested_tokens": [
+                                            "QZ0h3Whd",
+                                            "QZ0V3P36",
+                                            "QZhJwKqA",
+                                            "QZndqyB_",
+                                            "QZpBMQka",
+                                            "QZrZYeNK",
+                                            "QZsBy_mT",
+                                            "QZt5KzMp",
+                                            "QZThj39G",
+                                            "QZtMVhaA"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T19:49:25.021313"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان 61متری  تک واحدی غرق نور سند تک برگ",
+                                            "district_persian": "شهرک ولیعصر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZt5KzMp",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0Jsn3c",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T19:49:25.021313"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/RPu2kL4AfW0sROV934OSsg/cca8a8ca-8e2a-4d64-8feb-a84435f850cf.jpg",
+                                "title": "۱۲۰ متر، شادآباد",
+                                "second_description": "۵,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZThj39G",
+                                        "current_token": "QZ0Jsn3c",
+                                        "suggested_tokens": [
+                                            "QZ0h3Whd",
+                                            "QZ0V3P36",
+                                            "QZhJwKqA",
+                                            "QZndqyB_",
+                                            "QZpBMQka",
+                                            "QZrZYeNK",
+                                            "QZsBy_mT",
+                                            "QZt5KzMp",
+                                            "QZThj39G",
+                                            "QZtMVhaA"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T19:49:25.021313"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان فروشی 120متری",
+                                            "district_persian": "شادآباد",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZThj39G",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0Jsn3c",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T19:49:25.021313"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/nMcxI6CVG8oNGhEaNdXAGg/31bb1cab-14de-4c59-b1a7-880e5d32a9b6.jpg",
+                                "title": "۱۰۲ متر، نعمت‌آباد",
+                                "second_description": "۳,۸۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZtMVhaA",
+                                        "current_token": "QZ0Jsn3c",
+                                        "suggested_tokens": [
+                                            "QZ0h3Whd",
+                                            "QZ0V3P36",
+                                            "QZhJwKqA",
+                                            "QZndqyB_",
+                                            "QZpBMQka",
+                                            "QZrZYeNK",
+                                            "QZsBy_mT",
+                                            "QZt5KzMp",
+                                            "QZThj39G",
+                                            "QZtMVhaA"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T19:49:25.021313"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۱۰۲ متری",
+                                            "district_persian": "نعمت‌آباد",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZtMVhaA",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0Jsn3c",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T19:49:25.021313"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ0h3Whd",
+                                    "QZ0V3P36",
+                                    "QZhJwKqA",
+                                    "QZndqyB_",
+                                    "QZpBMQka",
+                                    "QZrZYeNK",
+                                    "QZsBy_mT",
+                                    "QZt5KzMp",
+                                    "QZThj39G",
+                                    "QZtMVhaA"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ0Jsn3c",
+                                    "metadata": {
+                                        "last_modified": "2023-12-09T19:49:25.021313"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                }
+            ],
+            "post_suggestion_extra_logs": [
+                {
+                    "suggested_tokens": [
+                        "QZ0N3yxa",
+                        "QZ0xaeJb",
+                        "QZl9hn8h",
+                        "QZrRiOux",
+                        "QZrx4CUk",
+                        "QZsRep1b",
+                        "QZtxrAVj",
+                        "QZu1jBdj",
+                        "QZuxxZJC",
+                        "QZvtF66z"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-09T19:49:47.027128"
+                        },
+                        {
+                            "last_modified": "2023-12-09T19:49:47.027128"
+                        },
+                        {
+                            "last_modified": "2023-12-09T19:49:47.027128"
+                        },
+                        {
+                            "last_modified": "2023-12-09T19:49:47.027128"
+                        },
+                        {
+                            "last_modified": "2023-12-09T19:49:47.027128"
+                        },
+                        {
+                            "last_modified": "2023-12-09T19:49:47.027128"
+                        },
+                        {
+                            "last_modified": "2023-12-09T19:49:47.027128"
+                        },
+                        {
+                            "last_modified": "2023-12-09T19:49:47.027128"
+                        },
+                        {
+                            "last_modified": "2023-12-09T19:49:47.027128"
+                        },
+                        {
+                            "last_modified": "2023-12-09T19:49:47.027128"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION"
+                },
+                {
+                    "suggested_tokens": [
+                        "QZ0h3Whd",
+                        "QZ0V3P36",
+                        "QZhJwKqA",
+                        "QZndqyB_",
+                        "QZpBMQka",
+                        "QZrZYeNK",
+                        "QZsBy_mT",
+                        "QZt5KzMp",
+                        "QZThj39G",
+                        "QZtMVhaA"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-09T19:49:25.021313"
+                        },
+                        {
+                            "last_modified": "2023-12-09T19:49:25.021313"
+                        },
+                        {
+                            "last_modified": "2023-12-09T19:49:25.021313"
+                        },
+                        {
+                            "last_modified": "2023-12-09T19:49:25.021313"
+                        },
+                        {
+                            "last_modified": "2023-12-09T19:49:25.021313"
+                        },
+                        {
+                            "last_modified": "2023-12-09T19:49:25.021313"
+                        },
+                        {
+                            "last_modified": "2023-12-09T19:49:25.021313"
+                        },
+                        {
+                            "last_modified": "2023-12-09T19:49:25.021313"
+                        },
+                        {
+                            "last_modified": "2023-12-09T19:49:25.021313"
+                        },
+                        {
+                            "last_modified": "2023-12-09T19:49:25.021313"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS"
+                }
+            ]
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZ0Jsn3c",
+    "error": 0
+}

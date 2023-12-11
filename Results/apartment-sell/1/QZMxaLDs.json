@@ -1,0 +1,1876 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "۳۰ متر پروژه شمیم شمشاد ایران ۲|فروش آپارتمان|تهران، چیتگر|دیوار",
+            "description": "۳۰ متر پروژه شمیم شمشاد ایران ۲|فروش آپارتمان|تهران، چیتگر|خرید و فروش واریزی به روز| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%DB%B3%DB%B0-%D9%85%D8%AA%D8%B1-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D8%B4%D9%85%DB%8C%D9%85-%D8%B4%D9%85%D8%B4%D8%A7%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DB%B2_فروش-آپارتمان_تهران_چیتگر_دیوار/QZMxaLDs",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/۳۰ متر پروژه شمیم شمشاد ایران ۲/QZMxaLDs/",
+            "ios_app_url": "ios-app://863029557/http/v/۳۰ متر پروژه شمیم شمشاد ایران ۲/QZMxaLDs/"
+        },
+        "share": {
+            "title": "۳۰ متر پروژه شمیم شمشاد ایران ۲",
+            "description": "واریزی به روز",
+            "android_url": "https://divar.ir/v/QZMxaLDs?ref=android",
+            "ios_url": "https://divar.ir/v/QZMxaLDs?ref=ios",
+            "web_url": "https://divar.ir/v/QZMxaLDs"
+        },
+        "url": "https://divar.ir/v/%DB%B3%DB%B0-%D9%85%D8%AA%D8%B1-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D8%B4%D9%85%DB%8C%D9%85-%D8%B4%D9%85%D8%B4%D8%A7%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DB%B2_فروش-آپارتمان_تهران_چیتگر_دیوار/QZMxaLDs",
+        "category": {
+            "slug": "apartment-sell",
+            "title": "فروش آپارتمان",
+            "second_slug": "فروش آپارتمان"
+        },
+        "description": "واریزی به روز",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-sell",
+            "token": "QZMxaLDs",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 0,
+            "district": "چیتگر",
+            "cat_3": "apartment-sell",
+            "cat_2": "residential-sell",
+            "cat_1": "real-estate",
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": 1350000000,
+            "rent": null,
+            "credit": null
+        },
+        "district": "چیتگر",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "دیروز",
+            "subtitle": "دیروز در تهران، چیتگر | فروش آپارتمان",
+            "title": "۳۰ متر پروژه شمیم شمشاد ایران ۲",
+            "place": "چیتگر",
+            "business_logo": null
+        },
+        "description": "واریزی به روز",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۳۰"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۴۰۲"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "بدون اتاق"
+                    }
+                ]
+            },
+            {
+                "title": "قیمت کل",
+                "format": "string",
+                "value": "۱٬۳۵۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "قیمت هر متر",
+                "format": "string",
+                "value": "۴۵٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۱۵"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true
+            }
+        ],
+        "location": {},
+        "images": [],
+        "web_images": [],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 210,
+                    "parent_slug": "residential-sell",
+                    "slug": "apartment-sell",
+                    "title": "فروش آپارتمان",
+                    "second_slug": "فروش آپارتمان",
+                    "relative_url": "tehran/buy-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 209,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-sell",
+                    "title": "فروش مسکونی",
+                    "second_slug": "فروش مسکونی",
+                    "relative_url": "tehran/buy-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "فروش-مسکونی/املاک/فروش-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0992504xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "فروش آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,فروش-آپارتمان",
+                "relative_url": "tehran/buy-apartment"
+            },
+            {
+                "title": "فروش آپارتمان در چیتگر",
+                "url": "https://divar.ir/tehran/تهران/چیتگر/browse/فروش-مسکونی/املاک/فروش-آپارتمان/?place=8,306",
+                "relative_url": "tehran/buy-apartment/chitgar"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": true,
+            "title": "آگهی‌های مشابه در این محله",
+            "posts": [
+                {
+                    "bottom_text": "۱,۲۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۵۰ متر، چیتگر",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/irw3_-_QzdphyhVQ-Tb3KQ/c669d5a0-c374-4d83-838a-64e0529cf6f8.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ018uWP"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T05:42:42.200994"
+                    },
+                    "token": "QZ018uWP",
+                    "web_info": {
+                        "title": "50متری/یک خوابه/سرمایه گذاری/چیتگر",
+                        "district_persian": "چیتگر",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۱,۵۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۵۰ متر، چیتگر",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/chYDDnBOeg787DHVhLgkrw/5f6011f3-36b7-46d0-9ede-03b9ae5dfc2f.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0dpcmI"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T05:42:42.200994"
+                    },
+                    "token": "QZ0dpcmI",
+                    "web_info": {
+                        "title": "اپارتمان 50متری با ویو",
+                        "district_persian": "چیتگر",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۱,۱۴۵,۰۰۰,۰۰۰ تومان",
+                    "title": "۵۰ متر، چیتگر",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/iJPL9Jjc8uTk0pYJkAP8ZQ/a5505f44-5178-4680-a34b-1b939ae754bf.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0VwLkA"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T05:42:42.200994"
+                    },
+                    "token": "QZ0VwLkA",
+                    "web_info": {
+                        "title": "سهام۵۰متری چیتگرتوانمندسازی ارتش دریاچه",
+                        "district_persian": "چیتگر",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۱,۱۲۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۵۰ متر، چیتگر",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/TAOLpWP4579lM0RCDsAnxQ/fd7391d7-ebaa-46ce-9833-89daa792201c.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0xwM9d"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T05:42:42.200994"
+                    },
+                    "token": "QZ0xwM9d",
+                    "web_info": {
+                        "title": "سهام۲۰ ۵۰متری ارتش/چیتگر/آبشار اسپادانا/پهنه bوd",
+                        "district_persian": "چیتگر",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۱,۳۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۴۰ متر، چیتگر",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/3pDd29ZHrod1DWn-uhWG9A/e1acb113-dba6-4b49-821a-ebe6094925c0.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZcBGQOm"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T05:42:42.200994"
+                    },
+                    "token": "QZcBGQOm",
+                    "web_info": {
+                        "title": "۴۰متر/واحد در آغوش دریاچه چیتگر/خرید قدیم",
+                        "district_persian": "چیتگر",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۱,۲۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۴۰ متر، چیتگر",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/dZpgvEofu29d8Yt3lzMD0A/6030c772-e6dc-4912-a19a-3b0dbc390c91.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZftDcMD"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T05:42:42.200994"
+                    },
+                    "token": "QZftDcMD",
+                    "web_info": {
+                        "title": "۴۰متر نقلی ویو دریاچه برج هوشمند و مدرن چیتگر",
+                        "district_persian": "چیتگر",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۱,۳۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۴۰ متر، چیتگر",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/p2I37GyBf-0YCIKiTcEt4A/a5673500-0a31-46af-9c97-e6f51c49924c.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZlVJxHf"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T05:42:42.200994"
+                    },
+                    "token": "QZlVJxHf",
+                    "web_info": {
+                        "title": "۴۰متر ساحل دریاچه رو به طلوع آفتاب چیتگر",
+                        "district_persian": "چیتگر",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۱,۱۲۵,۰۰۰,۰۰۰ تومان",
+                    "title": "۵۰ متر، چیتگر",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/qyYONHesM8HM2FnWTDH2MA/A2116960-C205-4089-BEE2-0B5CD63E602D.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZn1EQgI"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T05:42:42.200994"
+                    },
+                    "token": "QZn1EQgI",
+                    "web_info": {
+                        "title": "سهام چیتگر ۵۰متری ارتش اولویت انتخاب واحدی دست اول",
+                        "district_persian": "چیتگر",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۱,۱۲۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۵۰ متر، چیتگر",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/wUM_PM_PR7HOptNkTql7jQ/FA004F6C-D9AA-4806-AC35-590043860B7E.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZpNSlNN"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T05:42:42.200994"
+                    },
+                    "token": "QZpNSlNN",
+                    "web_info": {
+                        "title": "خرید/فروش سهام چیتگر ۵۰متری ارتش تهران شهرستان",
+                        "district_persian": "چیتگر",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۱,۸۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۵۰ متر، چیتگر",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZrp_e9V"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T05:42:42.200994"
+                    },
+                    "token": "QZrp_e9V",
+                    "web_info": {
+                        "title": "اپارتمان 120متری 2خوابه",
+                        "district_persian": "چیتگر",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                }
+            ],
+            "widget_list": [
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌های مشابه در این محله",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/irw3_-_QzdphyhVQ-Tb3KQ/c669d5a0-c374-4d83-838a-64e0529cf6f8.jpg",
+                                "title": "۵۰ متر، چیتگر",
+                                "second_description": "۱,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ018uWP",
+                                        "current_token": "QZMxaLDs",
+                                        "suggested_tokens": [
+                                            "QZ018uWP",
+                                            "QZ0dpcmI",
+                                            "QZ0VwLkA",
+                                            "QZ0xwM9d",
+                                            "QZcBGQOm",
+                                            "QZftDcMD",
+                                            "QZlVJxHf",
+                                            "QZn1EQgI",
+                                            "QZpNSlNN",
+                                            "QZrp_e9V"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T05:42:42.200994"
+                                        },
+                                        "web_info": {
+                                            "title": "50متری/یک خوابه/سرمایه گذاری/چیتگر",
+                                            "district_persian": "چیتگر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ018uWP",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZMxaLDs",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T05:42:42.200994"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/chYDDnBOeg787DHVhLgkrw/5f6011f3-36b7-46d0-9ede-03b9ae5dfc2f.jpg",
+                                "title": "۵۰ متر، چیتگر",
+                                "second_description": "۱,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0dpcmI",
+                                        "current_token": "QZMxaLDs",
+                                        "suggested_tokens": [
+                                            "QZ018uWP",
+                                            "QZ0dpcmI",
+                                            "QZ0VwLkA",
+                                            "QZ0xwM9d",
+                                            "QZcBGQOm",
+                                            "QZftDcMD",
+                                            "QZlVJxHf",
+                                            "QZn1EQgI",
+                                            "QZpNSlNN",
+                                            "QZrp_e9V"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T05:42:42.200994"
+                                        },
+                                        "web_info": {
+                                            "title": "اپارتمان 50متری با ویو",
+                                            "district_persian": "چیتگر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0dpcmI",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZMxaLDs",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T05:42:42.200994"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/iJPL9Jjc8uTk0pYJkAP8ZQ/a5505f44-5178-4680-a34b-1b939ae754bf.jpg",
+                                "title": "۵۰ متر، چیتگر",
+                                "second_description": "۱,۱۴۵,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0VwLkA",
+                                        "current_token": "QZMxaLDs",
+                                        "suggested_tokens": [
+                                            "QZ018uWP",
+                                            "QZ0dpcmI",
+                                            "QZ0VwLkA",
+                                            "QZ0xwM9d",
+                                            "QZcBGQOm",
+                                            "QZftDcMD",
+                                            "QZlVJxHf",
+                                            "QZn1EQgI",
+                                            "QZpNSlNN",
+                                            "QZrp_e9V"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T05:42:42.200994"
+                                        },
+                                        "web_info": {
+                                            "title": "سهام۵۰متری چیتگرتوانمندسازی ارتش دریاچه",
+                                            "district_persian": "چیتگر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0VwLkA",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZMxaLDs",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T05:42:42.200994"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/TAOLpWP4579lM0RCDsAnxQ/fd7391d7-ebaa-46ce-9833-89daa792201c.jpg",
+                                "title": "۵۰ متر، چیتگر",
+                                "second_description": "۱,۱۲۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0xwM9d",
+                                        "current_token": "QZMxaLDs",
+                                        "suggested_tokens": [
+                                            "QZ018uWP",
+                                            "QZ0dpcmI",
+                                            "QZ0VwLkA",
+                                            "QZ0xwM9d",
+                                            "QZcBGQOm",
+                                            "QZftDcMD",
+                                            "QZlVJxHf",
+                                            "QZn1EQgI",
+                                            "QZpNSlNN",
+                                            "QZrp_e9V"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T05:42:42.200994"
+                                        },
+                                        "web_info": {
+                                            "title": "سهام۲۰ ۵۰متری ارتش/چیتگر/آبشار اسپادانا/پهنه bوd",
+                                            "district_persian": "چیتگر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0xwM9d",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZMxaLDs",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T05:42:42.200994"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/3pDd29ZHrod1DWn-uhWG9A/e1acb113-dba6-4b49-821a-ebe6094925c0.jpg",
+                                "title": "۴۰ متر، چیتگر",
+                                "second_description": "۱,۳۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZcBGQOm",
+                                        "current_token": "QZMxaLDs",
+                                        "suggested_tokens": [
+                                            "QZ018uWP",
+                                            "QZ0dpcmI",
+                                            "QZ0VwLkA",
+                                            "QZ0xwM9d",
+                                            "QZcBGQOm",
+                                            "QZftDcMD",
+                                            "QZlVJxHf",
+                                            "QZn1EQgI",
+                                            "QZpNSlNN",
+                                            "QZrp_e9V"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T05:42:42.200994"
+                                        },
+                                        "web_info": {
+                                            "title": "۴۰متر/واحد در آغوش دریاچه چیتگر/خرید قدیم",
+                                            "district_persian": "چیتگر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZcBGQOm",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZMxaLDs",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T05:42:42.200994"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/dZpgvEofu29d8Yt3lzMD0A/6030c772-e6dc-4912-a19a-3b0dbc390c91.jpg",
+                                "title": "۴۰ متر، چیتگر",
+                                "second_description": "۱,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZftDcMD",
+                                        "current_token": "QZMxaLDs",
+                                        "suggested_tokens": [
+                                            "QZ018uWP",
+                                            "QZ0dpcmI",
+                                            "QZ0VwLkA",
+                                            "QZ0xwM9d",
+                                            "QZcBGQOm",
+                                            "QZftDcMD",
+                                            "QZlVJxHf",
+                                            "QZn1EQgI",
+                                            "QZpNSlNN",
+                                            "QZrp_e9V"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T05:42:42.200994"
+                                        },
+                                        "web_info": {
+                                            "title": "۴۰متر نقلی ویو دریاچه برج هوشمند و مدرن چیتگر",
+                                            "district_persian": "چیتگر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZftDcMD",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZMxaLDs",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T05:42:42.200994"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/p2I37GyBf-0YCIKiTcEt4A/a5673500-0a31-46af-9c97-e6f51c49924c.jpg",
+                                "title": "۴۰ متر، چیتگر",
+                                "second_description": "۱,۳۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZlVJxHf",
+                                        "current_token": "QZMxaLDs",
+                                        "suggested_tokens": [
+                                            "QZ018uWP",
+                                            "QZ0dpcmI",
+                                            "QZ0VwLkA",
+                                            "QZ0xwM9d",
+                                            "QZcBGQOm",
+                                            "QZftDcMD",
+                                            "QZlVJxHf",
+                                            "QZn1EQgI",
+                                            "QZpNSlNN",
+                                            "QZrp_e9V"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T05:42:42.200994"
+                                        },
+                                        "web_info": {
+                                            "title": "۴۰متر ساحل دریاچه رو به طلوع آفتاب چیتگر",
+                                            "district_persian": "چیتگر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZlVJxHf",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZMxaLDs",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T05:42:42.200994"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/qyYONHesM8HM2FnWTDH2MA/A2116960-C205-4089-BEE2-0B5CD63E602D.jpg",
+                                "title": "۵۰ متر، چیتگر",
+                                "second_description": "۱,۱۲۵,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZn1EQgI",
+                                        "current_token": "QZMxaLDs",
+                                        "suggested_tokens": [
+                                            "QZ018uWP",
+                                            "QZ0dpcmI",
+                                            "QZ0VwLkA",
+                                            "QZ0xwM9d",
+                                            "QZcBGQOm",
+                                            "QZftDcMD",
+                                            "QZlVJxHf",
+                                            "QZn1EQgI",
+                                            "QZpNSlNN",
+                                            "QZrp_e9V"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T05:42:42.200994"
+                                        },
+                                        "web_info": {
+                                            "title": "سهام چیتگر ۵۰متری ارتش اولویت انتخاب واحدی دست اول",
+                                            "district_persian": "چیتگر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZn1EQgI",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZMxaLDs",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T05:42:42.200994"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/wUM_PM_PR7HOptNkTql7jQ/FA004F6C-D9AA-4806-AC35-590043860B7E.jpg",
+                                "title": "۵۰ متر، چیتگر",
+                                "second_description": "۱,۱۲۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZpNSlNN",
+                                        "current_token": "QZMxaLDs",
+                                        "suggested_tokens": [
+                                            "QZ018uWP",
+                                            "QZ0dpcmI",
+                                            "QZ0VwLkA",
+                                            "QZ0xwM9d",
+                                            "QZcBGQOm",
+                                            "QZftDcMD",
+                                            "QZlVJxHf",
+                                            "QZn1EQgI",
+                                            "QZpNSlNN",
+                                            "QZrp_e9V"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T05:42:42.200994"
+                                        },
+                                        "web_info": {
+                                            "title": "خرید/فروش سهام چیتگر ۵۰متری ارتش تهران شهرستان",
+                                            "district_persian": "چیتگر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZpNSlNN",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZMxaLDs",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T05:42:42.200994"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۵۰ متر، چیتگر",
+                                "second_description": "۱,۸۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZrp_e9V",
+                                        "current_token": "QZMxaLDs",
+                                        "suggested_tokens": [
+                                            "QZ018uWP",
+                                            "QZ0dpcmI",
+                                            "QZ0VwLkA",
+                                            "QZ0xwM9d",
+                                            "QZcBGQOm",
+                                            "QZftDcMD",
+                                            "QZlVJxHf",
+                                            "QZn1EQgI",
+                                            "QZpNSlNN",
+                                            "QZrp_e9V"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T05:42:42.200994"
+                                        },
+                                        "web_info": {
+                                            "title": "اپارتمان 120متری 2خوابه",
+                                            "district_persian": "چیتگر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZrp_e9V",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZMxaLDs",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T05:42:42.200994"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ018uWP",
+                                    "QZ0dpcmI",
+                                    "QZ0VwLkA",
+                                    "QZ0xwM9d",
+                                    "QZcBGQOm",
+                                    "QZftDcMD",
+                                    "QZlVJxHf",
+                                    "QZn1EQgI",
+                                    "QZpNSlNN",
+                                    "QZrp_e9V"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZMxaLDs",
+                                    "metadata": {
+                                        "last_modified": "2023-12-10T05:42:42.200994"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                },
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌‌های مشابه در دیگر محله‌ها",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/NNA_MXu2R8S86iv2RDEMvA/57E28D51-9EBC-4C55-BCEF-A306F7B051EF.jpg",
+                                "title": "۵۰ متر، دریاچه شهدای خلیج فارس",
+                                "second_description": "۲,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0l3zH9",
+                                        "current_token": "QZMxaLDs",
+                                        "suggested_tokens": [
+                                            "QZ0l3zH9",
+                                            "QZ0lVoxV",
+                                            "QZ0lYavR",
+                                            "QZ0NYzSR",
+                                            "QZ0xWvLV",
+                                            "QZ1xUi39",
+                                            "QZaBQ6cX",
+                                            "QZaRUB8D",
+                                            "QZbhFEPA",
+                                            "QZd1oqop"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T05:45:32.548474"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۵۰متر فول با ۵۰۰میلیون ورودی",
+                                            "district_persian": "دریاچه شهدای خلیج فارس",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0l3zH9",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZMxaLDs",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T05:45:32.548474"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/Km5NY44CcSNATEfqzXzBgQ/e5a24bd8-e630-437f-98de-b3c0285567b9.jpg",
+                                "title": "۴۶ متر، سرو آزاد",
+                                "second_description": "۲,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0lVoxV",
+                                        "current_token": "QZMxaLDs",
+                                        "suggested_tokens": [
+                                            "QZ0l3zH9",
+                                            "QZ0lVoxV",
+                                            "QZ0lYavR",
+                                            "QZ0NYzSR",
+                                            "QZ0xWvLV",
+                                            "QZ1xUi39",
+                                            "QZaBQ6cX",
+                                            "QZaRUB8D",
+                                            "QZbhFEPA",
+                                            "QZd1oqop"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T05:45:32.548474"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان۴۶ متری  سند تکبرگی",
+                                            "district_persian": "سرو آزاد",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0lVoxV",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZMxaLDs",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T05:45:32.548474"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/bK3GyBv_70C42vHWJVdQhw/22cb919d-f045-4756-b927-0fd7d7ac3850.jpg",
+                                "title": "۵۵ متر، سرو آزاد",
+                                "second_description": "۲,۷۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0lYavR",
+                                        "current_token": "QZMxaLDs",
+                                        "suggested_tokens": [
+                                            "QZ0l3zH9",
+                                            "QZ0lVoxV",
+                                            "QZ0lYavR",
+                                            "QZ0NYzSR",
+                                            "QZ0xWvLV",
+                                            "QZ1xUi39",
+                                            "QZaBQ6cX",
+                                            "QZaRUB8D",
+                                            "QZbhFEPA",
+                                            "QZd1oqop"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T05:45:32.548474"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "اپارتمان ۵۵متری",
+                                            "district_persian": "سرو آزاد",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0lYavR",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZMxaLDs",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T05:45:32.548474"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/AZwUJwH8zkYjrIhEA1eIDw/9458557c-290a-4037-869b-45ba49d6f165.jpg",
+                                "title": "۴۵ متر، سرو آزاد",
+                                "second_description": "۲,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0NYzSR",
+                                        "current_token": "QZMxaLDs",
+                                        "suggested_tokens": [
+                                            "QZ0l3zH9",
+                                            "QZ0lVoxV",
+                                            "QZ0lYavR",
+                                            "QZ0NYzSR",
+                                            "QZ0xWvLV",
+                                            "QZ1xUi39",
+                                            "QZaBQ6cX",
+                                            "QZaRUB8D",
+                                            "QZbhFEPA",
+                                            "QZd1oqop"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T05:45:32.548474"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۴۵ متری برای سرمایه گذاری",
+                                            "district_persian": "سرو آزاد",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0NYzSR",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZMxaLDs",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T05:45:32.548474"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/VZ_pMJQOg23i3tyXNuju9g/7c7f1c9e-3435-4819-8565-280979010ed3.jpg",
+                                "title": "۲۰ متر، دریاچه شهدای خلیج فارس",
+                                "second_description": "۹۲۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0xWvLV",
+                                        "current_token": "QZMxaLDs",
+                                        "suggested_tokens": [
+                                            "QZ0l3zH9",
+                                            "QZ0lVoxV",
+                                            "QZ0lYavR",
+                                            "QZ0NYzSR",
+                                            "QZ0xWvLV",
+                                            "QZ1xUi39",
+                                            "QZaBQ6cX",
+                                            "QZaRUB8D",
+                                            "QZbhFEPA",
+                                            "QZd1oqop"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T05:45:32.548474"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۲۰متر سهام امپریال پالاس کوهک شمیم رحمت تهاتر دار",
+                                            "district_persian": "دریاچه شهدای خلیج فارس",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0xWvLV",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZMxaLDs",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T05:45:32.548474"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/Ui6bwoFQMVI2vDkdcC8i6w/C5586E0D-082C-4926-A2D6-A6A2826FB057.jpg",
+                                "title": "۵۴ متر، شهرک سینمایی",
+                                "second_description": "۳,۲۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ1xUi39",
+                                        "current_token": "QZMxaLDs",
+                                        "suggested_tokens": [
+                                            "QZ0l3zH9",
+                                            "QZ0lVoxV",
+                                            "QZ0lYavR",
+                                            "QZ0NYzSR",
+                                            "QZ0xWvLV",
+                                            "QZ1xUi39",
+                                            "QZaBQ6cX",
+                                            "QZaRUB8D",
+                                            "QZbhFEPA",
+                                            "QZd1oqop"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T05:45:32.548474"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۵۴متری ویلاشهر",
+                                            "district_persian": "شهرک سینمایی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ1xUi39",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZMxaLDs",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T05:45:32.548474"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/rw5IAE_2qv06cOdYc1J6Lw/27bbde53-86c2-4cb5-838d-fb1cbafd8097.jpg",
+                                "title": "۴۰ متر، دریاچه شهدای خلیج فارس",
+                                "second_description": "۱,۶۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZaBQ6cX",
+                                        "current_token": "QZMxaLDs",
+                                        "suggested_tokens": [
+                                            "QZ0l3zH9",
+                                            "QZ0lVoxV",
+                                            "QZ0lYavR",
+                                            "QZ0NYzSR",
+                                            "QZ0xWvLV",
+                                            "QZ1xUi39",
+                                            "QZaBQ6cX",
+                                            "QZaRUB8D",
+                                            "QZbhFEPA",
+                                            "QZd1oqop"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T05:45:32.548474"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۴۰متری‌ویو ابدی دریاچه چیتگر تاپ لوکیشن",
+                                            "district_persian": "دریاچه شهدای خلیج فارس",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZaBQ6cX",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZMxaLDs",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T05:45:32.548474"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/CrJL49zpm4mycaKOFA_MKQ/89e49a15-dcb5-452d-b127-543ce52699e9.jpg",
+                                "title": "۴۰ متر، دریاچه شهدای خلیج فارس",
+                                "second_description": "۱,۶۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZaRUB8D",
+                                        "current_token": "QZMxaLDs",
+                                        "suggested_tokens": [
+                                            "QZ0l3zH9",
+                                            "QZ0lVoxV",
+                                            "QZ0lYavR",
+                                            "QZ0NYzSR",
+                                            "QZ0xWvLV",
+                                            "QZ1xUi39",
+                                            "QZaBQ6cX",
+                                            "QZaRUB8D",
+                                            "QZbhFEPA",
+                                            "QZd1oqop"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T05:45:32.548474"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۴۰مترچیتگر/ایرانمال/دید دریاچه/میدان موج/",
+                                            "district_persian": "دریاچه شهدای خلیج فارس",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZaRUB8D",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZMxaLDs",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T05:45:32.548474"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/oWg7YC22tU63dqN_rSqtbA/c18976af-c2e5-4eff-a695-3ef6417a08e3.jpg",
+                                "title": "۵۰ متر، شهرک راه‌آهن",
+                                "second_description": "۱,۲۸۲,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZbhFEPA",
+                                        "current_token": "QZMxaLDs",
+                                        "suggested_tokens": [
+                                            "QZ0l3zH9",
+                                            "QZ0lVoxV",
+                                            "QZ0lYavR",
+                                            "QZ0NYzSR",
+                                            "QZ0xWvLV",
+                                            "QZ1xUi39",
+                                            "QZaBQ6cX",
+                                            "QZaRUB8D",
+                                            "QZbhFEPA",
+                                            "QZd1oqop"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T05:45:32.548474"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۵۰ متری /راه اهن / ویو ابدی / وام دار",
+                                            "district_persian": "شهرک راه‌آهن",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZbhFEPA",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZMxaLDs",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T05:45:32.548474"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/DTfDk0ZfYZd74npMkAdifg/2ebd608c-aefd-4132-91d7-ec537aa35bde.jpg",
+                                "title": "۴۰ متر، دریاچه شهدای خلیج فارس",
+                                "second_description": "۱,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZd1oqop",
+                                        "current_token": "QZMxaLDs",
+                                        "suggested_tokens": [
+                                            "QZ0l3zH9",
+                                            "QZ0lVoxV",
+                                            "QZ0lYavR",
+                                            "QZ0NYzSR",
+                                            "QZ0xWvLV",
+                                            "QZ1xUi39",
+                                            "QZaBQ6cX",
+                                            "QZaRUB8D",
+                                            "QZbhFEPA",
+                                            "QZd1oqop"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T05:45:32.548474"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۴۰متر ویوی دریاچه چیتگرسرمایه گذاری تهاتر خودروملک",
+                                            "district_persian": "دریاچه شهدای خلیج فارس",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZd1oqop",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZMxaLDs",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T05:45:32.548474"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ0l3zH9",
+                                    "QZ0lVoxV",
+                                    "QZ0lYavR",
+                                    "QZ0NYzSR",
+                                    "QZ0xWvLV",
+                                    "QZ1xUi39",
+                                    "QZaBQ6cX",
+                                    "QZaRUB8D",
+                                    "QZbhFEPA",
+                                    "QZd1oqop"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZMxaLDs",
+                                    "metadata": {
+                                        "last_modified": "2023-12-10T05:45:32.548474"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                }
+            ],
+            "post_suggestion_extra_logs": [
+                {
+                    "suggested_tokens": [
+                        "QZ018uWP",
+                        "QZ0dpcmI",
+                        "QZ0VwLkA",
+                        "QZ0xwM9d",
+                        "QZcBGQOm",
+                        "QZftDcMD",
+                        "QZlVJxHf",
+                        "QZn1EQgI",
+                        "QZpNSlNN",
+                        "QZrp_e9V"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-10T05:42:42.200994"
+                        },
+                        {
+                            "last_modified": "2023-12-10T05:42:42.200994"
+                        },
+                        {
+                            "last_modified": "2023-12-10T05:42:42.200994"
+                        },
+                        {
+                            "last_modified": "2023-12-10T05:42:42.200994"
+                        },
+                        {
+                            "last_modified": "2023-12-10T05:42:42.200994"
+                        },
+                        {
+                            "last_modified": "2023-12-10T05:42:42.200994"
+                        },
+                        {
+                            "last_modified": "2023-12-10T05:42:42.200994"
+                        },
+                        {
+                            "last_modified": "2023-12-10T05:42:42.200994"
+                        },
+                        {
+                            "last_modified": "2023-12-10T05:42:42.200994"
+                        },
+                        {
+                            "last_modified": "2023-12-10T05:42:42.200994"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION"
+                },
+                {
+                    "suggested_tokens": [
+                        "QZ0l3zH9",
+                        "QZ0lVoxV",
+                        "QZ0lYavR",
+                        "QZ0NYzSR",
+                        "QZ0xWvLV",
+                        "QZ1xUi39",
+                        "QZaBQ6cX",
+                        "QZaRUB8D",
+                        "QZbhFEPA",
+                        "QZd1oqop"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-10T05:45:32.548474"
+                        },
+                        {
+                            "last_modified": "2023-12-10T05:45:32.548474"
+                        },
+                        {
+                            "last_modified": "2023-12-10T05:45:32.548474"
+                        },
+                        {
+                            "last_modified": "2023-12-10T05:45:32.548474"
+                        },
+                        {
+                            "last_modified": "2023-12-10T05:45:32.548474"
+                        },
+                        {
+                            "last_modified": "2023-12-10T05:45:32.548474"
+                        },
+                        {
+                            "last_modified": "2023-12-10T05:45:32.548474"
+                        },
+                        {
+                            "last_modified": "2023-12-10T05:45:32.548474"
+                        },
+                        {
+                            "last_modified": "2023-12-10T05:45:32.548474"
+                        },
+                        {
+                            "last_modified": "2023-12-10T05:45:32.548474"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS"
+                }
+            ]
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZMxaLDs",
+    "error": 0
+}

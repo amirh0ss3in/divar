@@ -1,0 +1,2185 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "آپارتمان ۱۴۶ متری|فروش آپارتمان|تهران، زاهد گیلانی|دیوار",
+            "description": "آپارتمان ۱۴۶ متری|فروش آپارتمان|تهران، زاهد گیلانی|خرید و فروش واحد ۱۴۶ متر خیابان پرواز بن بست تهرانی\nدو کله غرق در نور\nکلید نخورده| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B4%DB%B6-%D9%85%D8%AA%D8%B1%DB%8C_فروش-آپارتمان_تهران_زاهد-گیلانی_دیوار/QZ1R2Idi",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/آپارتمان ۱۴۶ متری/QZ1R2Idi/",
+            "ios_app_url": "ios-app://863029557/http/v/آپارتمان ۱۴۶ متری/QZ1R2Idi/",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/lzHZkL2bkKKhJ14mXSLfwg/c7f61623-9ed2-4225-ac0f-8fa14c3cce2d.jpg"
+        },
+        "share": {
+            "title": "آپارتمان ۱۴۶ متری",
+            "description": "واحد ۱۴۶ متر خیابان پرواز بن بست تهرانی\nدو کله غرق در نور\nکلید نخورده",
+            "android_url": "https://divar.ir/v/QZ1R2Idi?ref=android",
+            "ios_url": "https://divar.ir/v/QZ1R2Idi?ref=ios",
+            "web_url": "https://divar.ir/v/QZ1R2Idi"
+        },
+        "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B4%DB%B6-%D9%85%D8%AA%D8%B1%DB%8C_فروش-آپارتمان_تهران_زاهد-گیلانی_دیوار/QZ1R2Idi",
+        "category": {
+            "slug": "apartment-sell",
+            "title": "فروش آپارتمان",
+            "second_slug": "فروش آپارتمان"
+        },
+        "description": "واحد ۱۴۶ متر خیابان پرواز بن بست تهرانی\nدو کله غرق در نور\nکلید نخورده",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-sell",
+            "token": "QZ1R2Idi",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 7,
+            "district": "زاهد گیلانی",
+            "cat_3": "apartment-sell",
+            "cat_2": "residential-sell",
+            "cat_1": "real-estate",
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": 10000000000,
+            "rent": null,
+            "credit": null
+        },
+        "district": "زاهد گیلانی",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "۶ ساعت پیش",
+            "subtitle": "۶ ساعت پیش در تهران، زاهد گیلانی | فروش آپارتمان",
+            "title": "آپارتمان ۱۴۶ متری",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/lzHZkL2bkKKhJ14mXSLfwg/c7f61623-9ed2-4225-ac0f-8fa14c3cce2d.jpg",
+            "place": "زاهد گیلانی",
+            "business_logo": null
+        },
+        "description": "واحد ۱۴۶ متر خیابان پرواز بن بست تهرانی\nدو کله غرق در نور\nکلید نخورده",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۱۴۶"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۴۰۲"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۳"
+                    }
+                ]
+            },
+            {
+                "title": "قیمت کل",
+                "format": "string",
+                "value": "۱۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "قیمت هر متر",
+                "format": "string",
+                "value": "۶۸٬۴۹۳٬۰۰۰ تومان"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۴ از ۶"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true,
+                "next_page_text": "نمایش همهٔ جزئیات",
+                "next_page": {
+                    "title": "ویژگی‌ها و امکانات",
+                    "widget_list": [
+                        {
+                            "widget_type": "TITLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.TitleRowData",
+                                "text": "ویژگی‌ها",
+                                "text_color": "TEXT_PRIMARY",
+                                "has_divider": false,
+                                "color": "",
+                                "description": "",
+                                "description_color": "UNKNOWN",
+                                "subtitle": "",
+                                "subtitle_color": "UNKNOWN"
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "تعداد واحد در طبقه",
+                                "value": "۱",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "سند",
+                                "value": "سایر",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "TITLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.TitleRowData",
+                                "text": "امکانات",
+                                "text_color": "TEXT_PRIMARY",
+                                "has_divider": false,
+                                "color": "",
+                                "description": "",
+                                "description_color": "UNKNOWN",
+                                "subtitle": "",
+                                "subtitle_color": "UNKNOWN"
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "آسانسور",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                                    "icon_name": "ELEVATOR",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "پارکینگ",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                                    "icon_name": "PARKING",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "انباری",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                                    "icon_name": "CABINET",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "بالکن",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/balcony.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/balcony.png",
+                                    "icon_name": "BALCONY",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "جنس کف سرامیک",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/texture.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/texture.png",
+                                    "icon_name": "TEXTURE",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "سرویس بهداشتی ایرانی و فرنگی",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/wc.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/wc.png",
+                                    "icon_name": "WC",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "سرمایش کولر آبی",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/snowflake.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/snowflake.png",
+                                    "icon_name": "SNOWFLAKE",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "گرمایش شوفاژ",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/sunny.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/sunny.png",
+                                    "icon_name": "SUNNY",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "تأمین‌کننده آب گرم پکیج",
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/thermometer.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/thermometer.png",
+                                    "icon_name": "THERMOMETER",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "has_divider": false,
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        }
+                    ],
+                    "is_searchable": false,
+                    "nav_bar": []
+                }
+            }
+        ],
+        "location": {
+            "latitude": "35.694553",
+            "longitude": "51.4612",
+            "map_url": "https://cdn.raah.ir/divar-images-2/QZ1R2Idi.png"
+        },
+        "images": [
+            "https://s100.divarcdn.com/static/photo/post/60NX1ZTObhK5EqVV9khfjQ/8c433e29-323c-47d0-9cde-d729224f62fc.webp",
+            "https://s100.divarcdn.com/static/photo/post/MfIZ9FQekBffCrUcERsNhA/aa0c28a9-7cb9-488f-b2d6-f3e1f780f3d0.webp",
+            "https://s100.divarcdn.com/static/photo/post/vjdsX7aEpQDEJMabXFld-w/9a3ce4c0-1b19-4f04-812b-0af272e7a491.webp",
+            "https://s100.divarcdn.com/static/photo/post/A31Qm-77jm1DbLTnYULk-A/9c099e74-ab1b-42db-aea8-bba93a76be08.webp",
+            "https://s100.divarcdn.com/static/photo/post/95HRdm8w5BdU74BHG25BZw/90920354-627a-4a5b-aaf8-053a8465f7ab.webp",
+            "https://s100.divarcdn.com/static/photo/post/p8AgWbEhpBAaUNr3TfvicQ/c7f61623-9ed2-4225-ac0f-8fa14c3cce2d.webp",
+            "https://s100.divarcdn.com/static/photo/post/QDsZNJ_woDpg23z64uWmHQ/3c01d046-fac1-4226-b59f-224250bfecc0.webp"
+        ],
+        "web_images": [
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/60NX1ZTObhK5EqVV9khfjQ/8c433e29-323c-47d0-9cde-d729224f62fc.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/60NX1ZTObhK5EqVV9khfjQ/8c433e29-323c-47d0-9cde-d729224f62fc.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/MfIZ9FQekBffCrUcERsNhA/aa0c28a9-7cb9-488f-b2d6-f3e1f780f3d0.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/MfIZ9FQekBffCrUcERsNhA/aa0c28a9-7cb9-488f-b2d6-f3e1f780f3d0.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/vjdsX7aEpQDEJMabXFld-w/9a3ce4c0-1b19-4f04-812b-0af272e7a491.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/vjdsX7aEpQDEJMabXFld-w/9a3ce4c0-1b19-4f04-812b-0af272e7a491.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/A31Qm-77jm1DbLTnYULk-A/9c099e74-ab1b-42db-aea8-bba93a76be08.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/A31Qm-77jm1DbLTnYULk-A/9c099e74-ab1b-42db-aea8-bba93a76be08.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/95HRdm8w5BdU74BHG25BZw/90920354-627a-4a5b-aaf8-053a8465f7ab.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/95HRdm8w5BdU74BHG25BZw/90920354-627a-4a5b-aaf8-053a8465f7ab.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/p8AgWbEhpBAaUNr3TfvicQ/c7f61623-9ed2-4225-ac0f-8fa14c3cce2d.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/p8AgWbEhpBAaUNr3TfvicQ/c7f61623-9ed2-4225-ac0f-8fa14c3cce2d.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/QDsZNJ_woDpg23z64uWmHQ/3c01d046-fac1-4226-b59f-224250bfecc0.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/QDsZNJ_woDpg23z64uWmHQ/3c01d046-fac1-4226-b59f-224250bfecc0.jpg",
+                    "type": "image/jpeg"
+                }
+            ]
+        ],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 210,
+                    "parent_slug": "residential-sell",
+                    "slug": "apartment-sell",
+                    "title": "فروش آپارتمان",
+                    "second_slug": "فروش آپارتمان",
+                    "relative_url": "tehran/buy-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 209,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-sell",
+                    "title": "فروش مسکونی",
+                    "second_slug": "فروش مسکونی",
+                    "relative_url": "tehran/buy-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "فروش-مسکونی/املاک/فروش-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0919103xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "فروش آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,فروش-آپارتمان",
+                "relative_url": "tehran/buy-apartment"
+            },
+            {
+                "title": "فروش آپارتمان در زاهد گیلانی",
+                "url": "https://divar.ir/tehran/تهران/زاهد-گیلانی/browse/فروش-مسکونی/املاک/فروش-آپارتمان/?place=8,964",
+                "relative_url": "tehran/buy-apartment/zahed-gilani"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": true,
+            "title": "آگهی‌های مشابه در این محله",
+            "posts": [
+                {
+                    "bottom_text": "۴,۰۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۳ متر، زاهد گیلانی",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/u0x362ujBsQrc2ZygsDGow/800e0ffa-20a1-4e51-9521-79a450e83651.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0BnoiO"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T12:42:02.259732"
+                    },
+                    "token": "QZ0BnoiO",
+                    "web_info": {
+                        "title": "آپارتمان ۶۳ متری، دو خوابه، تک واحدی",
+                        "district_persian": "زاهد گیلانی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۳,۰۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۰ متر، زاهد گیلانی",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/i4VoWhT1aj-AYGPFNO2Xqw/6bd7ca58-0e12-4b25-9cbc-d8d341be3157.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0xnTUc"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T12:42:02.259732"
+                    },
+                    "token": "QZ0xnTUc",
+                    "web_info": {
+                        "title": "آپارتمان ۶۰ متر در پیروزی",
+                        "district_persian": "زاهد گیلانی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۲,۴۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۳۷ متر، زاهد گیلانی",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0ZbzgP"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T12:42:02.259732"
+                    },
+                    "token": "QZ0ZbzgP",
+                    "web_info": {
+                        "title": "۳۷متر خوش نقشه یک خواب فول بازسازی",
+                        "district_persian": "زاهد گیلانی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۳,۴۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۵۳ متر، زاهد گیلانی",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/NiTJrh_ABhTS6OR6mckpTQ/3a871b02-48fb-4c4b-9978-5006e3cf2439.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZedBLiq"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T12:42:02.259732"
+                    },
+                    "token": "QZedBLiq",
+                    "web_info": {
+                        "title": "آپارتمان ۵۳ متری پیروزی ابتدای زاهدگیلانی",
+                        "district_persian": "زاهد گیلانی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۳,۸۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۵ متر، زاهد گیلانی",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/7vkNHlSL3GY3QNg81DkSbg/a23b7e7f-7fb5-4a71-8d39-369c35ebdab1.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZhdOXVJ"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T12:42:02.259732"
+                    },
+                    "token": "QZhdOXVJ",
+                    "web_info": {
+                        "title": "فروش اپارتمان",
+                        "district_persian": "زاهد گیلانی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۴,۲۳۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۴ متر، زاهد گیلانی",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/SSzhAvA_IDojfNE-0XANaA/d3fa56e5-39d8-467c-b2d7-453657a0e108.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZhlKjAM"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T12:42:02.259732"
+                    },
+                    "token": "QZhlKjAM",
+                    "web_info": {
+                        "title": "پیروزی زاهد گیلانی جنوبی دو خواب",
+                        "district_persian": "زاهد گیلانی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۴,۴۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۱ متر، زاهد گیلانی",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZnhQeww"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T12:42:02.259732"
+                    },
+                    "token": "QZnhQeww",
+                    "web_info": {
+                        "title": "۲واحد ۶۱متر۲خواب(تکواحدی)کلید نخورده",
+                        "district_persian": "زاهد گیلانی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۲,۵۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۴۲ متر، زاهد گیلانی",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/27kXoYZu8AIyj-gV_JFxSA/e5cd5aeb-8d07-4f9e-a9da-0256f2300250.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZpFpEq9"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T12:42:02.259732"
+                    },
+                    "token": "QZpFpEq9",
+                    "web_info": {
+                        "title": "40 متری تمیز، پیروزی کلینی، دسترسی",
+                        "district_persian": "زاهد گیلانی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۴,۲۵۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۹ متر، زاهد گیلانی",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/d_1AqkD9l-Ri-0bluTsxeA/1a4b47ac-9c09-4a97-8bbe-d5af6334e246.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZqJ-_bf"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T12:42:02.259732"
+                    },
+                    "token": "QZqJ-_bf",
+                    "web_info": {
+                        "title": "۷۹متر ۲خواب زاهد گیلانی پرواز",
+                        "district_persian": "زاهد گیلانی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۶,۳۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۹۱ متر، زاهد گیلانی",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZqR1dsZ"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T12:42:02.259732"
+                    },
+                    "token": "QZqR1dsZ",
+                    "web_info": {
+                        "title": "آپارتمان ۹۱متری /2خواب /فول امکانات",
+                        "district_persian": "زاهد گیلانی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                }
+            ],
+            "widget_list": [
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌های مشابه در این محله",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/u0x362ujBsQrc2ZygsDGow/800e0ffa-20a1-4e51-9521-79a450e83651.jpg",
+                                "title": "۶۳ متر، زاهد گیلانی",
+                                "second_description": "۴,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0BnoiO",
+                                        "current_token": "QZ1R2Idi",
+                                        "suggested_tokens": [
+                                            "QZ0BnoiO",
+                                            "QZ0xnTUc",
+                                            "QZ0ZbzgP",
+                                            "QZedBLiq",
+                                            "QZhdOXVJ",
+                                            "QZhlKjAM",
+                                            "QZnhQeww",
+                                            "QZpFpEq9",
+                                            "QZqJ-_bf",
+                                            "QZqR1dsZ"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:42:02.259732"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۶۳ متری، دو خوابه، تک واحدی",
+                                            "district_persian": "زاهد گیلانی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0BnoiO",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1R2Idi",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:42:02.259732"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/i4VoWhT1aj-AYGPFNO2Xqw/6bd7ca58-0e12-4b25-9cbc-d8d341be3157.jpg",
+                                "title": "۶۰ متر، زاهد گیلانی",
+                                "second_description": "۳,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0xnTUc",
+                                        "current_token": "QZ1R2Idi",
+                                        "suggested_tokens": [
+                                            "QZ0BnoiO",
+                                            "QZ0xnTUc",
+                                            "QZ0ZbzgP",
+                                            "QZedBLiq",
+                                            "QZhdOXVJ",
+                                            "QZhlKjAM",
+                                            "QZnhQeww",
+                                            "QZpFpEq9",
+                                            "QZqJ-_bf",
+                                            "QZqR1dsZ"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:42:02.259732"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۶۰ متر در پیروزی",
+                                            "district_persian": "زاهد گیلانی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0xnTUc",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1R2Idi",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:42:02.259732"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۳۷ متر، زاهد گیلانی",
+                                "second_description": "۲,۴۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0ZbzgP",
+                                        "current_token": "QZ1R2Idi",
+                                        "suggested_tokens": [
+                                            "QZ0BnoiO",
+                                            "QZ0xnTUc",
+                                            "QZ0ZbzgP",
+                                            "QZedBLiq",
+                                            "QZhdOXVJ",
+                                            "QZhlKjAM",
+                                            "QZnhQeww",
+                                            "QZpFpEq9",
+                                            "QZqJ-_bf",
+                                            "QZqR1dsZ"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:42:02.259732"
+                                        },
+                                        "web_info": {
+                                            "title": "۳۷متر خوش نقشه یک خواب فول بازسازی",
+                                            "district_persian": "زاهد گیلانی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0ZbzgP",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1R2Idi",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:42:02.259732"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/NiTJrh_ABhTS6OR6mckpTQ/3a871b02-48fb-4c4b-9978-5006e3cf2439.jpg",
+                                "title": "۵۳ متر، زاهد گیلانی",
+                                "second_description": "۳,۴۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZedBLiq",
+                                        "current_token": "QZ1R2Idi",
+                                        "suggested_tokens": [
+                                            "QZ0BnoiO",
+                                            "QZ0xnTUc",
+                                            "QZ0ZbzgP",
+                                            "QZedBLiq",
+                                            "QZhdOXVJ",
+                                            "QZhlKjAM",
+                                            "QZnhQeww",
+                                            "QZpFpEq9",
+                                            "QZqJ-_bf",
+                                            "QZqR1dsZ"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:42:02.259732"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۵۳ متری پیروزی ابتدای زاهدگیلانی",
+                                            "district_persian": "زاهد گیلانی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZedBLiq",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1R2Idi",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:42:02.259732"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/7vkNHlSL3GY3QNg81DkSbg/a23b7e7f-7fb5-4a71-8d39-369c35ebdab1.jpg",
+                                "title": "۶۵ متر، زاهد گیلانی",
+                                "second_description": "۳,۸۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZhdOXVJ",
+                                        "current_token": "QZ1R2Idi",
+                                        "suggested_tokens": [
+                                            "QZ0BnoiO",
+                                            "QZ0xnTUc",
+                                            "QZ0ZbzgP",
+                                            "QZedBLiq",
+                                            "QZhdOXVJ",
+                                            "QZhlKjAM",
+                                            "QZnhQeww",
+                                            "QZpFpEq9",
+                                            "QZqJ-_bf",
+                                            "QZqR1dsZ"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:42:02.259732"
+                                        },
+                                        "web_info": {
+                                            "title": "فروش اپارتمان",
+                                            "district_persian": "زاهد گیلانی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZhdOXVJ",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1R2Idi",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:42:02.259732"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/SSzhAvA_IDojfNE-0XANaA/d3fa56e5-39d8-467c-b2d7-453657a0e108.jpg",
+                                "title": "۷۴ متر، زاهد گیلانی",
+                                "second_description": "۴,۲۳۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZhlKjAM",
+                                        "current_token": "QZ1R2Idi",
+                                        "suggested_tokens": [
+                                            "QZ0BnoiO",
+                                            "QZ0xnTUc",
+                                            "QZ0ZbzgP",
+                                            "QZedBLiq",
+                                            "QZhdOXVJ",
+                                            "QZhlKjAM",
+                                            "QZnhQeww",
+                                            "QZpFpEq9",
+                                            "QZqJ-_bf",
+                                            "QZqR1dsZ"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:42:02.259732"
+                                        },
+                                        "web_info": {
+                                            "title": "پیروزی زاهد گیلانی جنوبی دو خواب",
+                                            "district_persian": "زاهد گیلانی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZhlKjAM",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1R2Idi",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:42:02.259732"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۶۱ متر، زاهد گیلانی",
+                                "second_description": "۴,۴۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZnhQeww",
+                                        "current_token": "QZ1R2Idi",
+                                        "suggested_tokens": [
+                                            "QZ0BnoiO",
+                                            "QZ0xnTUc",
+                                            "QZ0ZbzgP",
+                                            "QZedBLiq",
+                                            "QZhdOXVJ",
+                                            "QZhlKjAM",
+                                            "QZnhQeww",
+                                            "QZpFpEq9",
+                                            "QZqJ-_bf",
+                                            "QZqR1dsZ"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:42:02.259732"
+                                        },
+                                        "web_info": {
+                                            "title": "۲واحد ۶۱متر۲خواب(تکواحدی)کلید نخورده",
+                                            "district_persian": "زاهد گیلانی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZnhQeww",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1R2Idi",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:42:02.259732"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/27kXoYZu8AIyj-gV_JFxSA/e5cd5aeb-8d07-4f9e-a9da-0256f2300250.jpg",
+                                "title": "۴۲ متر، زاهد گیلانی",
+                                "second_description": "۲,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZpFpEq9",
+                                        "current_token": "QZ1R2Idi",
+                                        "suggested_tokens": [
+                                            "QZ0BnoiO",
+                                            "QZ0xnTUc",
+                                            "QZ0ZbzgP",
+                                            "QZedBLiq",
+                                            "QZhdOXVJ",
+                                            "QZhlKjAM",
+                                            "QZnhQeww",
+                                            "QZpFpEq9",
+                                            "QZqJ-_bf",
+                                            "QZqR1dsZ"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:42:02.259732"
+                                        },
+                                        "web_info": {
+                                            "title": "40 متری تمیز، پیروزی کلینی، دسترسی",
+                                            "district_persian": "زاهد گیلانی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZpFpEq9",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1R2Idi",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:42:02.259732"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/d_1AqkD9l-Ri-0bluTsxeA/1a4b47ac-9c09-4a97-8bbe-d5af6334e246.jpg",
+                                "title": "۷۹ متر، زاهد گیلانی",
+                                "second_description": "۴,۲۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZqJ-_bf",
+                                        "current_token": "QZ1R2Idi",
+                                        "suggested_tokens": [
+                                            "QZ0BnoiO",
+                                            "QZ0xnTUc",
+                                            "QZ0ZbzgP",
+                                            "QZedBLiq",
+                                            "QZhdOXVJ",
+                                            "QZhlKjAM",
+                                            "QZnhQeww",
+                                            "QZpFpEq9",
+                                            "QZqJ-_bf",
+                                            "QZqR1dsZ"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:42:02.259732"
+                                        },
+                                        "web_info": {
+                                            "title": "۷۹متر ۲خواب زاهد گیلانی پرواز",
+                                            "district_persian": "زاهد گیلانی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZqJ-_bf",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1R2Idi",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:42:02.259732"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۹۱ متر، زاهد گیلانی",
+                                "second_description": "۶,۳۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZqR1dsZ",
+                                        "current_token": "QZ1R2Idi",
+                                        "suggested_tokens": [
+                                            "QZ0BnoiO",
+                                            "QZ0xnTUc",
+                                            "QZ0ZbzgP",
+                                            "QZedBLiq",
+                                            "QZhdOXVJ",
+                                            "QZhlKjAM",
+                                            "QZnhQeww",
+                                            "QZpFpEq9",
+                                            "QZqJ-_bf",
+                                            "QZqR1dsZ"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:42:02.259732"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۹۱متری /2خواب /فول امکانات",
+                                            "district_persian": "زاهد گیلانی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZqR1dsZ",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1R2Idi",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:42:02.259732"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ0BnoiO",
+                                    "QZ0xnTUc",
+                                    "QZ0ZbzgP",
+                                    "QZedBLiq",
+                                    "QZhdOXVJ",
+                                    "QZhlKjAM",
+                                    "QZnhQeww",
+                                    "QZpFpEq9",
+                                    "QZqJ-_bf",
+                                    "QZqR1dsZ"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ1R2Idi",
+                                    "metadata": {
+                                        "last_modified": "2023-12-10T12:42:02.259732"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                },
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌‌های مشابه در دیگر محله‌ها",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/Pz0KYvLfPlnuEGcmOJm3Kw/83577b53-3b49-4fc2-9d11-914ad87433ce.jpg",
+                                "title": "۹۰ متر، چهارصد دستگاه",
+                                "second_description": "۷,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0lCici",
+                                        "current_token": "QZ1R2Idi",
+                                        "suggested_tokens": [
+                                            "QZ0lCici",
+                                            "QZ0V3xqB",
+                                            "QZ1RYpUJ",
+                                            "QZiV_Zne",
+                                            "QZIZ7vQz",
+                                            "QZONEDTf",
+                                            "QZsBvetl",
+                                            "QZSxfQBW",
+                                            "QZt9onRe",
+                                            "QZuNvqwO"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:46:02.849385"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان،۹۰متر،۳خواب",
+                                            "district_persian": "چهارصد دستگاه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0lCici",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1R2Idi",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:46:02.849385"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/_cOgF26H8Vbk-65fL9if1A/e4152f0d-d5b6-4f2b-b5d9-7da8ec61958f.jpg",
+                                "title": "۱۲۳ متر، چهارصد دستگاه",
+                                "second_description": "۹,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0V3xqB",
+                                        "current_token": "QZ1R2Idi",
+                                        "suggested_tokens": [
+                                            "QZ0lCici",
+                                            "QZ0V3xqB",
+                                            "QZ1RYpUJ",
+                                            "QZiV_Zne",
+                                            "QZIZ7vQz",
+                                            "QZONEDTf",
+                                            "QZsBvetl",
+                                            "QZSxfQBW",
+                                            "QZt9onRe",
+                                            "QZuNvqwO"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:46:02.849385"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "تک واحدی سه خواب ۱۲۳ متری خوش نقشه",
+                                            "district_persian": "چهارصد دستگاه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0V3xqB",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1R2Idi",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:46:02.849385"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/USECAjv1hcxqBk0yi-CKiA/a3af1136-cb0d-4aa3-86d2-0d6277d1d41a.jpg",
+                                "title": "۱۱۰ متر، صفا",
+                                "second_description": "۹,۱۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ1RYpUJ",
+                                        "current_token": "QZ1R2Idi",
+                                        "suggested_tokens": [
+                                            "QZ0lCici",
+                                            "QZ0V3xqB",
+                                            "QZ1RYpUJ",
+                                            "QZiV_Zne",
+                                            "QZIZ7vQz",
+                                            "QZONEDTf",
+                                            "QZsBvetl",
+                                            "QZSxfQBW",
+                                            "QZt9onRe",
+                                            "QZuNvqwO"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:46:02.849385"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۱۱۰متر ۲خواب نوساز فول ط۲",
+                                            "district_persian": "صفا",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ1RYpUJ",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1R2Idi",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:46:02.849385"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/zZ3RH6QVwgJbwq3x2kAQGA/b15dacba-6bc8-4a57-826d-73060297df53.jpg",
+                                "title": "۹۱ متر، چهارصد دستگاه",
+                                "second_description": "۶,۸۴۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZiV_Zne",
+                                        "current_token": "QZ1R2Idi",
+                                        "suggested_tokens": [
+                                            "QZ0lCici",
+                                            "QZ0V3xqB",
+                                            "QZ1RYpUJ",
+                                            "QZiV_Zne",
+                                            "QZIZ7vQz",
+                                            "QZONEDTf",
+                                            "QZsBvetl",
+                                            "QZSxfQBW",
+                                            "QZt9onRe",
+                                            "QZuNvqwO"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:46:02.849385"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "91 - فول تک واحدی پیروزی، شاه‌آبادی",
+                                            "district_persian": "چهارصد دستگاه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZiV_Zne",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1R2Idi",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:46:02.849385"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/LKwDlnTBr7dkItO_hkAgOw/9bd63db2-3f0b-4ad8-a44f-d913d8a9d419.jpg",
+                                "title": "۱۱۷ متر، نیرو هوایی",
+                                "second_description": "۱۰,۳۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZIZ7vQz",
+                                        "current_token": "QZ1R2Idi",
+                                        "suggested_tokens": [
+                                            "QZ0lCici",
+                                            "QZ0V3xqB",
+                                            "QZ1RYpUJ",
+                                            "QZiV_Zne",
+                                            "QZIZ7vQz",
+                                            "QZONEDTf",
+                                            "QZsBvetl",
+                                            "QZSxfQBW",
+                                            "QZt9onRe",
+                                            "QZuNvqwO"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:46:02.849385"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۱۱۷مترسه خوابه شخصی ساز",
+                                            "district_persian": "نیرو هوایی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZIZ7vQz",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1R2Idi",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:46:02.849385"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/xJNC04zTQsQbFmnQ7fiEqA/d8d60899-f0d4-4b48-9631-4a7431b8bcda.jpg",
+                                "title": "۱۴۵ متر، چهارصد دستگاه",
+                                "second_description": "۱۰,۹۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZONEDTf",
+                                        "current_token": "QZ1R2Idi",
+                                        "suggested_tokens": [
+                                            "QZ0lCici",
+                                            "QZ0V3xqB",
+                                            "QZ1RYpUJ",
+                                            "QZiV_Zne",
+                                            "QZIZ7vQz",
+                                            "QZONEDTf",
+                                            "QZsBvetl",
+                                            "QZSxfQBW",
+                                            "QZt9onRe",
+                                            "QZuNvqwO"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:46:02.849385"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان نوساز تک واحدی",
+                                            "district_persian": "چهارصد دستگاه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZONEDTf",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1R2Idi",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:46:02.849385"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/o6LZ1r6df6qWYNVXyfpdKQ/d830298b-4a06-4a55-8052-b9eb1214ed2e.jpg",
+                                "title": "۱۰۲ متر، چهارصد دستگاه",
+                                "second_description": "۶,۱۲۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZsBvetl",
+                                        "current_token": "QZ1R2Idi",
+                                        "suggested_tokens": [
+                                            "QZ0lCici",
+                                            "QZ0V3xqB",
+                                            "QZ1RYpUJ",
+                                            "QZiV_Zne",
+                                            "QZIZ7vQz",
+                                            "QZONEDTf",
+                                            "QZsBvetl",
+                                            "QZSxfQBW",
+                                            "QZt9onRe",
+                                            "QZuNvqwO"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:46:02.849385"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان 102متری نوساز فول امکانات",
+                                            "district_persian": "چهارصد دستگاه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZsBvetl",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1R2Idi",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:46:02.849385"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/X7nfGIVGyHC2FTwM6Dci4Q/0770de2e-5ff1-41b3-84a9-184928ab67e8.jpg",
+                                "title": "۸۶ متر، نیرو هوایی",
+                                "second_description": "۶,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZSxfQBW",
+                                        "current_token": "QZ1R2Idi",
+                                        "suggested_tokens": [
+                                            "QZ0lCici",
+                                            "QZ0V3xqB",
+                                            "QZ1RYpUJ",
+                                            "QZiV_Zne",
+                                            "QZIZ7vQz",
+                                            "QZONEDTf",
+                                            "QZsBvetl",
+                                            "QZSxfQBW",
+                                            "QZt9onRe",
+                                            "QZuNvqwO"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:46:02.849385"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "خیابان اول نیرو هوایی ۸۶ متری",
+                                            "district_persian": "نیرو هوایی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZSxfQBW",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1R2Idi",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:46:02.849385"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/CrHyRLHus0HXZ69V9-mdDQ/eadade50-eeb2-40ff-a953-9a1ce0217f0e.jpg",
+                                "title": "۱۲۱ متر، صد دستگاه",
+                                "second_description": "۱۱,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZt9onRe",
+                                        "current_token": "QZ1R2Idi",
+                                        "suggested_tokens": [
+                                            "QZ0lCici",
+                                            "QZ0V3xqB",
+                                            "QZ1RYpUJ",
+                                            "QZiV_Zne",
+                                            "QZIZ7vQz",
+                                            "QZONEDTf",
+                                            "QZsBvetl",
+                                            "QZSxfQBW",
+                                            "QZt9onRe",
+                                            "QZuNvqwO"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:46:02.849385"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "121متری سه خوابه فول امکانات",
+                                            "district_persian": "صد دستگاه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZt9onRe",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1R2Idi",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:46:02.849385"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/gQPbEtqxQf2PJi5hQHL30Q/464b3704-1c4e-4c11-8794-0223e8e4fc6f.jpg",
+                                "title": "۸۵ متر، نیرو هوایی",
+                                "second_description": "۶,۹۷۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZuNvqwO",
+                                        "current_token": "QZ1R2Idi",
+                                        "suggested_tokens": [
+                                            "QZ0lCici",
+                                            "QZ0V3xqB",
+                                            "QZ1RYpUJ",
+                                            "QZiV_Zne",
+                                            "QZIZ7vQz",
+                                            "QZONEDTf",
+                                            "QZsBvetl",
+                                            "QZSxfQBW",
+                                            "QZt9onRe",
+                                            "QZuNvqwO"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T12:46:02.849385"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان 85 متری نیروهوایی",
+                                            "district_persian": "نیرو هوایی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZuNvqwO",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ1R2Idi",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T12:46:02.849385"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ0lCici",
+                                    "QZ0V3xqB",
+                                    "QZ1RYpUJ",
+                                    "QZiV_Zne",
+                                    "QZIZ7vQz",
+                                    "QZONEDTf",
+                                    "QZsBvetl",
+                                    "QZSxfQBW",
+                                    "QZt9onRe",
+                                    "QZuNvqwO"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ1R2Idi",
+                                    "metadata": {
+                                        "last_modified": "2023-12-10T12:46:02.849385"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                }
+            ],
+            "post_suggestion_extra_logs": [
+                {
+                    "suggested_tokens": [
+                        "QZ0BnoiO",
+                        "QZ0xnTUc",
+                        "QZ0ZbzgP",
+                        "QZedBLiq",
+                        "QZhdOXVJ",
+                        "QZhlKjAM",
+                        "QZnhQeww",
+                        "QZpFpEq9",
+                        "QZqJ-_bf",
+                        "QZqR1dsZ"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-10T12:42:02.259732"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:42:02.259732"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:42:02.259732"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:42:02.259732"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:42:02.259732"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:42:02.259732"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:42:02.259732"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:42:02.259732"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:42:02.259732"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:42:02.259732"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION"
+                },
+                {
+                    "suggested_tokens": [
+                        "QZ0lCici",
+                        "QZ0V3xqB",
+                        "QZ1RYpUJ",
+                        "QZiV_Zne",
+                        "QZIZ7vQz",
+                        "QZONEDTf",
+                        "QZsBvetl",
+                        "QZSxfQBW",
+                        "QZt9onRe",
+                        "QZuNvqwO"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-10T12:46:02.849385"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:46:02.849385"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:46:02.849385"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:46:02.849385"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:46:02.849385"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:46:02.849385"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:46:02.849385"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:46:02.849385"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:46:02.849385"
+                        },
+                        {
+                            "last_modified": "2023-12-10T12:46:02.849385"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS"
+                }
+            ]
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZ1R2Idi",
+    "error": 0
+}

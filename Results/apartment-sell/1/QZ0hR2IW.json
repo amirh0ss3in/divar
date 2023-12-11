@@ -1,0 +1,2134 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "آپارتمان ۷۲متری دو خواب تمیز|فروش آپارتمان|تهران، افسریه|دیوار",
+            "description": "آپارتمان ۷۲متری دو خواب تمیز|فروش آپارتمان|تهران، افسریه|خرید و فروش قابل رهن تا 600میلیون \nوام مسکن دارد\nتازه کابینت عوض شده \nکوچه خلوت و آرام مناسب سکونت \nپارکینگ اصلی بدون مزاحم| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B2%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AA%D9%85%DB%8C%D8%B2_فروش-آپارتمان_تهران_افسریه_دیوار/QZ0hR2IW",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/آپارتمان ۷۲متری دو خواب تمیز/QZ0hR2IW/",
+            "ios_app_url": "ios-app://863029557/http/v/آپارتمان ۷۲متری دو خواب تمیز/QZ0hR2IW/",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/8qj2U8bvFWH5ifSsSkbgfg/eff8f039-60cc-4cb8-9af9-c59acc744afd.jpg"
+        },
+        "share": {
+            "title": "آپارتمان ۷۲متری دو خواب تمیز",
+            "description": "قابل رهن تا 600میلیون \nوام مسکن دارد\nتازه کابینت عوض شده \nکوچه خلوت و آرام مناسب سکونت \nپارکینگ اصلی بدون مزاحم",
+            "android_url": "https://divar.ir/v/QZ0hR2IW?ref=android",
+            "ios_url": "https://divar.ir/v/QZ0hR2IW?ref=ios",
+            "web_url": "https://divar.ir/v/QZ0hR2IW"
+        },
+        "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B2%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AA%D9%85%DB%8C%D8%B2_فروش-آپارتمان_تهران_افسریه_دیوار/QZ0hR2IW",
+        "category": {
+            "slug": "apartment-sell",
+            "title": "فروش آپارتمان",
+            "second_slug": "فروش آپارتمان"
+        },
+        "description": "قابل رهن تا 600میلیون \nوام مسکن دارد\nتازه کابینت عوض شده \nکوچه خلوت و آرام مناسب سکونت \nپارکینگ اصلی بدون مزاحم",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-sell",
+            "token": "QZ0hR2IW",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 9,
+            "district": "افسریه",
+            "cat_3": "apartment-sell",
+            "cat_2": "residential-sell",
+            "cat_1": "real-estate",
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": 4200000000,
+            "rent": null,
+            "credit": null
+        },
+        "district": "افسریه",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "دیروز",
+            "subtitle": "دیروز در تهران، افسریه | فروش آپارتمان",
+            "title": "آپارتمان ۷۲متری دو خواب تمیز",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/8qj2U8bvFWH5ifSsSkbgfg/eff8f039-60cc-4cb8-9af9-c59acc744afd.jpg",
+            "place": "افسریه",
+            "business_logo": null
+        },
+        "description": "قابل رهن تا 600میلیون \nوام مسکن دارد\nتازه کابینت عوض شده \nکوچه خلوت و آرام مناسب سکونت \nپارکینگ اصلی بدون مزاحم",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۷۸"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۸۸"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۲"
+                    }
+                ]
+            },
+            {
+                "title": "قیمت کل",
+                "format": "string",
+                "value": "۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "قیمت هر متر",
+                "format": "string",
+                "value": "۵۳٬۸۴۶٬۰۰۰ تومان"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۲ از ۴"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور ندارد",
+                        "available": false,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_hint/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_hint/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_HINT"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true,
+                "next_page_text": "نمایش همهٔ جزئیات",
+                "next_page": {
+                    "title": "ویژگی‌ها و امکانات",
+                    "widget_list": [
+                        {
+                            "widget_type": "TITLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.TitleRowData",
+                                "text": "ویژگی‌ها",
+                                "text_color": "TEXT_PRIMARY",
+                                "has_divider": false,
+                                "color": "",
+                                "description": "",
+                                "description_color": "UNKNOWN",
+                                "subtitle": "",
+                                "subtitle_color": "UNKNOWN"
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "تعداد واحد در طبقه",
+                                "value": "۲",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "سند",
+                                "value": "تک‌برگ",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "جهت ساختمان",
+                                "value": "جنوبی",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "وضعیت واحد",
+                                "value": "بازسازی شده",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "TITLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.TitleRowData",
+                                "text": "امکانات",
+                                "text_color": "TEXT_PRIMARY",
+                                "has_divider": false,
+                                "color": "",
+                                "description": "",
+                                "description_color": "UNKNOWN",
+                                "subtitle": "",
+                                "subtitle_color": "UNKNOWN"
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "آسانسور ندارد",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                                    "icon_name": "ELEVATOR",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "پارکینگ",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                                    "icon_name": "PARKING",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "انباری",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                                    "icon_name": "CABINET",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "بالکن",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/balcony.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/balcony.png",
+                                    "icon_name": "BALCONY",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "جنس کف سرامیک",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/texture.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/texture.png",
+                                    "icon_name": "TEXTURE",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "سرویس بهداشتی ایرانی",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/wc.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/wc.png",
+                                    "icon_name": "WC",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "سرمایش کولر آبی",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/snowflake.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/snowflake.png",
+                                    "icon_name": "SNOWFLAKE",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "گرمایش بخاری",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/sunny.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/sunny.png",
+                                    "icon_name": "SUNNY",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "تأمین‌کننده آب گرم آبگرم‌کن",
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/thermometer.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/thermometer.png",
+                                    "icon_name": "THERMOMETER",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "has_divider": false,
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        }
+                    ],
+                    "is_searchable": false,
+                    "nav_bar": []
+                }
+            }
+        ],
+        "location": {
+            "latitude": "35.648865",
+            "longitude": "51.48843",
+            "map_url": "https://cdn.raah.ir/divar-images-2/QZ0hR2IW.png"
+        },
+        "images": [
+            "https://s100.divarcdn.com/static/photo/post/HIU6xsYkR59VJHBK9i5P9Q/73cb73ce-9307-41c1-b919-c267639aa6af.webp",
+            "https://s100.divarcdn.com/static/photo/post/78zS8GPL7GBpW5GS3TmCNg/92809e93-6a21-444c-872e-e40f9cd7cb46.webp",
+            "https://s100.divarcdn.com/static/photo/post/ds454y9jeajmFd22xNuUBQ/eff8f039-60cc-4cb8-9af9-c59acc744afd.webp",
+            "https://s100.divarcdn.com/static/photo/post/8plR1Ex0Pa4J1hmkHoBhPA/e59cc63c-b491-4687-b432-d9729c46d34c.webp",
+            "https://s100.divarcdn.com/static/photo/post/BW0Vcf7_mlg3kDGxuylgfQ/1a185e66-400a-4d40-a026-bebb10d63149.webp",
+            "https://s100.divarcdn.com/static/photo/post/5PiInui7WVlAgUR8MgZVww/57c3eef5-820b-4b70-9be5-aa22685df817.webp",
+            "https://s100.divarcdn.com/static/photo/post/zq1WkJfUpQN4mCTFDFR-tg/90d5951b-4f2f-4a96-a06b-7047bda1a233.webp",
+            "https://s100.divarcdn.com/static/photo/post/yV--toWNWFYFfIxMkofcIQ/73c70b29-5090-4c3b-b13b-8ebcbece62cb.webp",
+            "https://s100.divarcdn.com/static/photo/post/LURtC11SHbVEzd64fCgRFA/e18005de-152b-4605-bc60-405b56d884eb.webp"
+        ],
+        "web_images": [
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/HIU6xsYkR59VJHBK9i5P9Q/73cb73ce-9307-41c1-b919-c267639aa6af.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/HIU6xsYkR59VJHBK9i5P9Q/73cb73ce-9307-41c1-b919-c267639aa6af.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/78zS8GPL7GBpW5GS3TmCNg/92809e93-6a21-444c-872e-e40f9cd7cb46.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/78zS8GPL7GBpW5GS3TmCNg/92809e93-6a21-444c-872e-e40f9cd7cb46.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/ds454y9jeajmFd22xNuUBQ/eff8f039-60cc-4cb8-9af9-c59acc744afd.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/ds454y9jeajmFd22xNuUBQ/eff8f039-60cc-4cb8-9af9-c59acc744afd.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/8plR1Ex0Pa4J1hmkHoBhPA/e59cc63c-b491-4687-b432-d9729c46d34c.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/8plR1Ex0Pa4J1hmkHoBhPA/e59cc63c-b491-4687-b432-d9729c46d34c.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/BW0Vcf7_mlg3kDGxuylgfQ/1a185e66-400a-4d40-a026-bebb10d63149.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/BW0Vcf7_mlg3kDGxuylgfQ/1a185e66-400a-4d40-a026-bebb10d63149.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/5PiInui7WVlAgUR8MgZVww/57c3eef5-820b-4b70-9be5-aa22685df817.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/5PiInui7WVlAgUR8MgZVww/57c3eef5-820b-4b70-9be5-aa22685df817.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/zq1WkJfUpQN4mCTFDFR-tg/90d5951b-4f2f-4a96-a06b-7047bda1a233.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/zq1WkJfUpQN4mCTFDFR-tg/90d5951b-4f2f-4a96-a06b-7047bda1a233.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/yV--toWNWFYFfIxMkofcIQ/73c70b29-5090-4c3b-b13b-8ebcbece62cb.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/yV--toWNWFYFfIxMkofcIQ/73c70b29-5090-4c3b-b13b-8ebcbece62cb.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/LURtC11SHbVEzd64fCgRFA/e18005de-152b-4605-bc60-405b56d884eb.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/LURtC11SHbVEzd64fCgRFA/e18005de-152b-4605-bc60-405b56d884eb.jpg",
+                    "type": "image/jpeg"
+                }
+            ]
+        ],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 210,
+                    "parent_slug": "residential-sell",
+                    "slug": "apartment-sell",
+                    "title": "فروش آپارتمان",
+                    "second_slug": "فروش آپارتمان",
+                    "relative_url": "tehran/buy-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 209,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-sell",
+                    "title": "فروش مسکونی",
+                    "second_slug": "فروش مسکونی",
+                    "relative_url": "tehran/buy-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "فروش-مسکونی/املاک/فروش-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0922257xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "فروش آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,فروش-آپارتمان",
+                "relative_url": "tehran/buy-apartment"
+            },
+            {
+                "title": "فروش آپارتمان در افسریه",
+                "url": "https://divar.ir/tehran/تهران/افسریه/browse/فروش-مسکونی/املاک/فروش-آپارتمان/?place=8,249",
+                "relative_url": "tehran/buy-apartment/afsariyeh"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": true,
+            "title": "آگهی‌های مشابه در این محله",
+            "posts": [
+                {
+                    "bottom_text": "۶,۵۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۱۰۵ متر، افسریه",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/teWXzvmdqv2jU1xIx6LHPA/2343090a-245d-4fe4-9667-890813279f96.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ01IW1E"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T21:40:04.002422"
+                    },
+                    "token": "QZ01IW1E",
+                    "web_info": {
+                        "title": "آپارتمان ۱۰۵ متری افسریه شمالی",
+                        "district_persian": "افسریه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۴,۵۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۴ متر، افسریه",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0ZEC_4"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T21:40:04.002422"
+                    },
+                    "token": "QZ0ZEC_4",
+                    "web_info": {
+                        "title": "۷۴متر دوخوابه پارکینگ وآسانسور",
+                        "district_persian": "افسریه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۴,۱۵۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۱ متر، افسریه",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0ZwC7Z"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T21:40:04.002422"
+                    },
+                    "token": "QZ0ZwC7Z",
+                    "web_info": {
+                        "title": "آپارتمان 71 متری / 2خوابه / افسریه شمالی",
+                        "district_persian": "افسریه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۴,۳۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۶ متر، افسریه",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ2ghEE6"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T21:40:04.002422"
+                    },
+                    "token": "QZ2ghEE6",
+                    "web_info": {
+                        "title": "آپارتمان ۶۶متر افسریه یکساله",
+                        "district_persian": "افسریه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۴,۱۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۰ متر، افسریه",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/zeQxbUMXSX03Mt7_3HpxUQ/99831ee7-cc06-470d-89a2-0d2106b3290d.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZdZ7sjR"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T21:40:04.002422"
+                    },
+                    "token": "QZdZ7sjR",
+                    "web_info": {
+                        "title": "اپارتمان ۷۰ متری دوخوابه",
+                        "district_persian": "افسریه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۴,۴۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۳ متر، افسریه",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/3o6LSn6QsfT4KX9ORAnwYA/11721f26-a028-497d-8ef4-84148e45a8a2.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZk53UW0"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T21:40:04.002422"
+                    },
+                    "token": "QZk53UW0",
+                    "web_info": {
+                        "title": "آپارتمان ۷۳ متر دو خواب",
+                        "district_persian": "افسریه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۴,۰۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۰ متر، افسریه",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/JTggPYYDkq5ENBKeFiOO3A/1b39b8b8-3991-4bcf-ae23-e7c3107bc275.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZkJbto0"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T21:40:04.002422"
+                    },
+                    "token": "QZkJbto0",
+                    "web_info": {
+                        "title": "آپارتمان ۷۰ متری دو خواب در اسلام آباد افسریه",
+                        "district_persian": "افسریه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۴,۲۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۵ متر، افسریه",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/AxpMbl43jqo-ck5pponLlw/40dbbe60-5614-4b3b-b624-36f231ea573e.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZoh-n--"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T21:40:04.002422"
+                    },
+                    "token": "QZoh-n--",
+                    "web_info": {
+                        "title": "آپارتمان ۷۵ متر دو خوابه",
+                        "district_persian": "افسریه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۴,۱۸۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۲ متر، افسریه",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/CZnaTluLdQCd4_oLsmsSbg/c21e3ac0-73b3-4fdb-8dc3-3a95d29c03c5.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZth2h4i"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T21:40:04.002422"
+                    },
+                    "token": "QZth2h4i",
+                    "web_info": {
+                        "title": "۷۲متری،افسریه شمالی",
+                        "district_persian": "افسریه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                }
+            ],
+            "widget_list": [
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌های مشابه در این محله",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/teWXzvmdqv2jU1xIx6LHPA/2343090a-245d-4fe4-9667-890813279f96.jpg",
+                                "title": "۱۰۵ متر، افسریه",
+                                "second_description": "۶,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ01IW1E",
+                                        "current_token": "QZ0hR2IW",
+                                        "suggested_tokens": [
+                                            "QZ01IW1E",
+                                            "QZ0ZEC_4",
+                                            "QZ0ZwC7Z",
+                                            "QZ2ghEE6",
+                                            "QZdZ7sjR",
+                                            "QZk53UW0",
+                                            "QZkJbto0",
+                                            "QZoh-n--",
+                                            "QZth2h4i"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T21:40:04.002422"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۱۰۵ متری افسریه شمالی",
+                                            "district_persian": "افسریه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ01IW1E",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hR2IW",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T21:40:04.002422"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۷۴ متر، افسریه",
+                                "second_description": "۴,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0ZEC_4",
+                                        "current_token": "QZ0hR2IW",
+                                        "suggested_tokens": [
+                                            "QZ01IW1E",
+                                            "QZ0ZEC_4",
+                                            "QZ0ZwC7Z",
+                                            "QZ2ghEE6",
+                                            "QZdZ7sjR",
+                                            "QZk53UW0",
+                                            "QZkJbto0",
+                                            "QZoh-n--",
+                                            "QZth2h4i"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T21:40:04.002422"
+                                        },
+                                        "web_info": {
+                                            "title": "۷۴متر دوخوابه پارکینگ وآسانسور",
+                                            "district_persian": "افسریه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0ZEC_4",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hR2IW",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T21:40:04.002422"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۷۱ متر، افسریه",
+                                "second_description": "۴,۱۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0ZwC7Z",
+                                        "current_token": "QZ0hR2IW",
+                                        "suggested_tokens": [
+                                            "QZ01IW1E",
+                                            "QZ0ZEC_4",
+                                            "QZ0ZwC7Z",
+                                            "QZ2ghEE6",
+                                            "QZdZ7sjR",
+                                            "QZk53UW0",
+                                            "QZkJbto0",
+                                            "QZoh-n--",
+                                            "QZth2h4i"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T21:40:04.002422"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان 71 متری / 2خوابه / افسریه شمالی",
+                                            "district_persian": "افسریه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0ZwC7Z",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hR2IW",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T21:40:04.002422"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۶۶ متر، افسریه",
+                                "second_description": "۴,۳۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ2ghEE6",
+                                        "current_token": "QZ0hR2IW",
+                                        "suggested_tokens": [
+                                            "QZ01IW1E",
+                                            "QZ0ZEC_4",
+                                            "QZ0ZwC7Z",
+                                            "QZ2ghEE6",
+                                            "QZdZ7sjR",
+                                            "QZk53UW0",
+                                            "QZkJbto0",
+                                            "QZoh-n--",
+                                            "QZth2h4i"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T21:40:04.002422"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۶۶متر افسریه یکساله",
+                                            "district_persian": "افسریه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ2ghEE6",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hR2IW",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T21:40:04.002422"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/zeQxbUMXSX03Mt7_3HpxUQ/99831ee7-cc06-470d-89a2-0d2106b3290d.jpg",
+                                "title": "۷۰ متر، افسریه",
+                                "second_description": "۴,۱۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZdZ7sjR",
+                                        "current_token": "QZ0hR2IW",
+                                        "suggested_tokens": [
+                                            "QZ01IW1E",
+                                            "QZ0ZEC_4",
+                                            "QZ0ZwC7Z",
+                                            "QZ2ghEE6",
+                                            "QZdZ7sjR",
+                                            "QZk53UW0",
+                                            "QZkJbto0",
+                                            "QZoh-n--",
+                                            "QZth2h4i"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T21:40:04.002422"
+                                        },
+                                        "web_info": {
+                                            "title": "اپارتمان ۷۰ متری دوخوابه",
+                                            "district_persian": "افسریه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZdZ7sjR",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hR2IW",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T21:40:04.002422"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/3o6LSn6QsfT4KX9ORAnwYA/11721f26-a028-497d-8ef4-84148e45a8a2.jpg",
+                                "title": "۷۳ متر، افسریه",
+                                "second_description": "۴,۴۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZk53UW0",
+                                        "current_token": "QZ0hR2IW",
+                                        "suggested_tokens": [
+                                            "QZ01IW1E",
+                                            "QZ0ZEC_4",
+                                            "QZ0ZwC7Z",
+                                            "QZ2ghEE6",
+                                            "QZdZ7sjR",
+                                            "QZk53UW0",
+                                            "QZkJbto0",
+                                            "QZoh-n--",
+                                            "QZth2h4i"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T21:40:04.002422"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۷۳ متر دو خواب",
+                                            "district_persian": "افسریه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZk53UW0",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hR2IW",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T21:40:04.002422"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/JTggPYYDkq5ENBKeFiOO3A/1b39b8b8-3991-4bcf-ae23-e7c3107bc275.jpg",
+                                "title": "۷۰ متر، افسریه",
+                                "second_description": "۴,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZkJbto0",
+                                        "current_token": "QZ0hR2IW",
+                                        "suggested_tokens": [
+                                            "QZ01IW1E",
+                                            "QZ0ZEC_4",
+                                            "QZ0ZwC7Z",
+                                            "QZ2ghEE6",
+                                            "QZdZ7sjR",
+                                            "QZk53UW0",
+                                            "QZkJbto0",
+                                            "QZoh-n--",
+                                            "QZth2h4i"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T21:40:04.002422"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۷۰ متری دو خواب در اسلام آباد افسریه",
+                                            "district_persian": "افسریه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZkJbto0",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hR2IW",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T21:40:04.002422"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/AxpMbl43jqo-ck5pponLlw/40dbbe60-5614-4b3b-b624-36f231ea573e.jpg",
+                                "title": "۷۵ متر، افسریه",
+                                "second_description": "۴,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZoh-n--",
+                                        "current_token": "QZ0hR2IW",
+                                        "suggested_tokens": [
+                                            "QZ01IW1E",
+                                            "QZ0ZEC_4",
+                                            "QZ0ZwC7Z",
+                                            "QZ2ghEE6",
+                                            "QZdZ7sjR",
+                                            "QZk53UW0",
+                                            "QZkJbto0",
+                                            "QZoh-n--",
+                                            "QZth2h4i"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T21:40:04.002422"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۷۵ متر دو خوابه",
+                                            "district_persian": "افسریه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZoh-n--",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hR2IW",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T21:40:04.002422"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/CZnaTluLdQCd4_oLsmsSbg/c21e3ac0-73b3-4fdb-8dc3-3a95d29c03c5.jpg",
+                                "title": "۷۲ متر، افسریه",
+                                "second_description": "۴,۱۸۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZth2h4i",
+                                        "current_token": "QZ0hR2IW",
+                                        "suggested_tokens": [
+                                            "QZ01IW1E",
+                                            "QZ0ZEC_4",
+                                            "QZ0ZwC7Z",
+                                            "QZ2ghEE6",
+                                            "QZdZ7sjR",
+                                            "QZk53UW0",
+                                            "QZkJbto0",
+                                            "QZoh-n--",
+                                            "QZth2h4i"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T21:40:04.002422"
+                                        },
+                                        "web_info": {
+                                            "title": "۷۲متری،افسریه شمالی",
+                                            "district_persian": "افسریه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZth2h4i",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hR2IW",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T21:40:04.002422"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ01IW1E",
+                                    "QZ0ZEC_4",
+                                    "QZ0ZwC7Z",
+                                    "QZ2ghEE6",
+                                    "QZdZ7sjR",
+                                    "QZk53UW0",
+                                    "QZkJbto0",
+                                    "QZoh-n--",
+                                    "QZth2h4i"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ0hR2IW",
+                                    "metadata": {
+                                        "last_modified": "2023-12-09T21:40:04.002422"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                },
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌‌های مشابه در دیگر محله‌ها",
+                        "items": [
+                            {
+                                "title": "۶۰ متر، آهنگ",
+                                "second_description": "۴,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ054lnJ",
+                                        "current_token": "QZ0hR2IW",
+                                        "suggested_tokens": [
+                                            "QZ054lnJ",
+                                            "QZ05rLCO",
+                                            "QZ0FTvpg",
+                                            "QZ0JLrr-",
+                                            "QZ0ZqjFu",
+                                            "QZkNcovC",
+                                            "QZnpWx5h",
+                                            "QZo1lUFC",
+                                            "QZq1XlUp",
+                                            "QZtpcDV2"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T21:43:33.464142"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۶۰ متری ۱ خوابه",
+                                            "district_persian": "آهنگ",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ054lnJ",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hR2IW",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T21:43:33.464142"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/5gKIFoOQeJI0cOvIZ6J7lg/e5cc6fce-dcf4-4f7e-889a-cae026a9063d.jpg",
+                                "title": "۶۳ متر، آهنگ",
+                                "second_description": "۴,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ05rLCO",
+                                        "current_token": "QZ0hR2IW",
+                                        "suggested_tokens": [
+                                            "QZ054lnJ",
+                                            "QZ05rLCO",
+                                            "QZ0FTvpg",
+                                            "QZ0JLrr-",
+                                            "QZ0ZqjFu",
+                                            "QZkNcovC",
+                                            "QZnpWx5h",
+                                            "QZo1lUFC",
+                                            "QZq1XlUp",
+                                            "QZtpcDV2"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T21:43:33.464142"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان 63 متر 2خوابه",
+                                            "district_persian": "آهنگ",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ05rLCO",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hR2IW",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T21:43:33.464142"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/g4RHg4x1kFNq3ZjHyhCtfA/0492e8d4-1be3-4b0e-9c5a-964989ff6732.jpg",
+                                "title": "۷۲ متر، آهنگ",
+                                "second_description": "۴,۱۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0FTvpg",
+                                        "current_token": "QZ0hR2IW",
+                                        "suggested_tokens": [
+                                            "QZ054lnJ",
+                                            "QZ05rLCO",
+                                            "QZ0FTvpg",
+                                            "QZ0JLrr-",
+                                            "QZ0ZqjFu",
+                                            "QZkNcovC",
+                                            "QZnpWx5h",
+                                            "QZo1lUFC",
+                                            "QZq1XlUp",
+                                            "QZtpcDV2"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T21:43:33.464142"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان 72 متری  خ انصار",
+                                            "district_persian": "آهنگ",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0FTvpg",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hR2IW",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T21:43:33.464142"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/g6ohEjqIqmnt8Ejn5W8z8g/88175354-0920-4e52-97fa-f39a2b44defd.jpg",
+                                "title": "۸۷ متر، ابوذر (منطقه ۱۵)",
+                                "second_description": "۴,۳۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0JLrr-",
+                                        "current_token": "QZ0hR2IW",
+                                        "suggested_tokens": [
+                                            "QZ054lnJ",
+                                            "QZ05rLCO",
+                                            "QZ0FTvpg",
+                                            "QZ0JLrr-",
+                                            "QZ0ZqjFu",
+                                            "QZkNcovC",
+                                            "QZnpWx5h",
+                                            "QZo1lUFC",
+                                            "QZq1XlUp",
+                                            "QZtpcDV2"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T21:43:33.464142"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۸۷مترونیم سنددار",
+                                            "district_persian": "ابوذر (منطقه ۱۵)",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0JLrr-",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hR2IW",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T21:43:33.464142"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/4hltco1LPlxdseFGot4E7g/270b3271-c148-43e5-a34e-f38404f24e5e.jpg",
+                                "title": "۵۲ متر، مشیریه",
+                                "second_description": "۲,۳۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0ZqjFu",
+                                        "current_token": "QZ0hR2IW",
+                                        "suggested_tokens": [
+                                            "QZ054lnJ",
+                                            "QZ05rLCO",
+                                            "QZ0FTvpg",
+                                            "QZ0JLrr-",
+                                            "QZ0ZqjFu",
+                                            "QZkNcovC",
+                                            "QZnpWx5h",
+                                            "QZo1lUFC",
+                                            "QZq1XlUp",
+                                            "QZtpcDV2"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T21:43:33.464142"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "52متر‌با‌پارکینگ مشیریه",
+                                            "district_persian": "مشیریه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0ZqjFu",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hR2IW",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T21:43:33.464142"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/JR7G8S4MrfW1g8grboHODQ/5738163C-E437-4404-B62B-6563A00BE463.jpg",
+                                "title": "۷۰ متر، ابوذر (منطقه ۱۵)",
+                                "second_description": "۳,۷۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZkNcovC",
+                                        "current_token": "QZ0hR2IW",
+                                        "suggested_tokens": [
+                                            "QZ054lnJ",
+                                            "QZ05rLCO",
+                                            "QZ0FTvpg",
+                                            "QZ0JLrr-",
+                                            "QZ0ZqjFu",
+                                            "QZkNcovC",
+                                            "QZnpWx5h",
+                                            "QZo1lUFC",
+                                            "QZq1XlUp",
+                                            "QZtpcDV2"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T21:43:33.464142"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۷۰ متری فروش یا معاوضه با خودرو",
+                                            "district_persian": "ابوذر (منطقه ۱۵)",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZkNcovC",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hR2IW",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T21:43:33.464142"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/0t3HIy-Q15T-r7h6riANFw/738191f6-9e3f-4b8c-a9a4-3a988a16d096.jpg",
+                                "title": "۶۴ متر، ابوذر (منطقه ۱۵)",
+                                "second_description": "۴,۲۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZnpWx5h",
+                                        "current_token": "QZ0hR2IW",
+                                        "suggested_tokens": [
+                                            "QZ054lnJ",
+                                            "QZ05rLCO",
+                                            "QZ0FTvpg",
+                                            "QZ0JLrr-",
+                                            "QZ0ZqjFu",
+                                            "QZkNcovC",
+                                            "QZnpWx5h",
+                                            "QZo1lUFC",
+                                            "QZq1XlUp",
+                                            "QZtpcDV2"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T21:43:33.464142"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۶۴ متری خوش نقشه",
+                                            "district_persian": "ابوذر (منطقه ۱۵)",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZnpWx5h",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hR2IW",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T21:43:33.464142"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/Td8RBAXNmwj6UMVqMoSYsw/8d3ca452-a293-4118-a800-62667e2cabf0.jpg",
+                                "title": "۷۰ متر، آهنگ",
+                                "second_description": "۴,۳۹۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZo1lUFC",
+                                        "current_token": "QZ0hR2IW",
+                                        "suggested_tokens": [
+                                            "QZ054lnJ",
+                                            "QZ05rLCO",
+                                            "QZ0FTvpg",
+                                            "QZ0JLrr-",
+                                            "QZ0ZqjFu",
+                                            "QZkNcovC",
+                                            "QZnpWx5h",
+                                            "QZo1lUFC",
+                                            "QZq1XlUp",
+                                            "QZtpcDV2"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T21:43:33.464142"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۷۰ متر / ۲خوابه / فول امکانات / بلوار الله اکبر",
+                                            "district_persian": "آهنگ",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZo1lUFC",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hR2IW",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T21:43:33.464142"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/Wk527NAvS3GFPskktb071w/7de5bbbb-841f-4fbc-9e33-bb1e17305586.jpg",
+                                "title": "۶۳ متر، ابوذر (منطقه ۱۵)",
+                                "second_description": "۴,۲۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZq1XlUp",
+                                        "current_token": "QZ0hR2IW",
+                                        "suggested_tokens": [
+                                            "QZ054lnJ",
+                                            "QZ05rLCO",
+                                            "QZ0FTvpg",
+                                            "QZ0JLrr-",
+                                            "QZ0ZqjFu",
+                                            "QZkNcovC",
+                                            "QZnpWx5h",
+                                            "QZo1lUFC",
+                                            "QZq1XlUp",
+                                            "QZtpcDV2"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T21:43:33.464142"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۶۳ متر مسلم جنوبی فول بازسازی مدرن",
+                                            "district_persian": "ابوذر (منطقه ۱۵)",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZq1XlUp",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hR2IW",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T21:43:33.464142"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/c2dq-oPbxbJiQoJM-eR8wA/38e3961d-b0b2-49cf-aa6f-e4fe1ea1c9c7.jpg",
+                                "title": "۷۵ متر، ابوذر (منطقه ۱۵)",
+                                "second_description": "۴,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZtpcDV2",
+                                        "current_token": "QZ0hR2IW",
+                                        "suggested_tokens": [
+                                            "QZ054lnJ",
+                                            "QZ05rLCO",
+                                            "QZ0FTvpg",
+                                            "QZ0JLrr-",
+                                            "QZ0ZqjFu",
+                                            "QZkNcovC",
+                                            "QZnpWx5h",
+                                            "QZo1lUFC",
+                                            "QZq1XlUp",
+                                            "QZtpcDV2"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T21:43:33.464142"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۷۵متری بازسازی کامل و شیک",
+                                            "district_persian": "ابوذر (منطقه ۱۵)",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZtpcDV2",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hR2IW",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T21:43:33.464142"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ054lnJ",
+                                    "QZ05rLCO",
+                                    "QZ0FTvpg",
+                                    "QZ0JLrr-",
+                                    "QZ0ZqjFu",
+                                    "QZkNcovC",
+                                    "QZnpWx5h",
+                                    "QZo1lUFC",
+                                    "QZq1XlUp",
+                                    "QZtpcDV2"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ0hR2IW",
+                                    "metadata": {
+                                        "last_modified": "2023-12-09T21:43:33.464142"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                }
+            ],
+            "post_suggestion_extra_logs": [
+                {
+                    "suggested_tokens": [
+                        "QZ01IW1E",
+                        "QZ0ZEC_4",
+                        "QZ0ZwC7Z",
+                        "QZ2ghEE6",
+                        "QZdZ7sjR",
+                        "QZk53UW0",
+                        "QZkJbto0",
+                        "QZoh-n--",
+                        "QZth2h4i"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-09T21:40:04.002422"
+                        },
+                        {
+                            "last_modified": "2023-12-09T21:40:04.002422"
+                        },
+                        {
+                            "last_modified": "2023-12-09T21:40:04.002422"
+                        },
+                        {
+                            "last_modified": "2023-12-09T21:40:04.002422"
+                        },
+                        {
+                            "last_modified": "2023-12-09T21:40:04.002422"
+                        },
+                        {
+                            "last_modified": "2023-12-09T21:40:04.002422"
+                        },
+                        {
+                            "last_modified": "2023-12-09T21:40:04.002422"
+                        },
+                        {
+                            "last_modified": "2023-12-09T21:40:04.002422"
+                        },
+                        {
+                            "last_modified": "2023-12-09T21:40:04.002422"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION"
+                },
+                {
+                    "suggested_tokens": [
+                        "QZ054lnJ",
+                        "QZ05rLCO",
+                        "QZ0FTvpg",
+                        "QZ0JLrr-",
+                        "QZ0ZqjFu",
+                        "QZkNcovC",
+                        "QZnpWx5h",
+                        "QZo1lUFC",
+                        "QZq1XlUp",
+                        "QZtpcDV2"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-09T21:43:33.464142"
+                        },
+                        {
+                            "last_modified": "2023-12-09T21:43:33.464142"
+                        },
+                        {
+                            "last_modified": "2023-12-09T21:43:33.464142"
+                        },
+                        {
+                            "last_modified": "2023-12-09T21:43:33.464142"
+                        },
+                        {
+                            "last_modified": "2023-12-09T21:43:33.464142"
+                        },
+                        {
+                            "last_modified": "2023-12-09T21:43:33.464142"
+                        },
+                        {
+                            "last_modified": "2023-12-09T21:43:33.464142"
+                        },
+                        {
+                            "last_modified": "2023-12-09T21:43:33.464142"
+                        },
+                        {
+                            "last_modified": "2023-12-09T21:43:33.464142"
+                        },
+                        {
+                            "last_modified": "2023-12-09T21:43:33.464142"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS"
+                }
+            ]
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZ0hR2IW",
+    "error": 0
+}

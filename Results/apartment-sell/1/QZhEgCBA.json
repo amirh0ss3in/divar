@@ -1,0 +1,2124 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "اپارتمان ۵۷متر|فروش آپارتمان|تهران، نارمک|دیوار",
+            "description": "اپارتمان ۵۷متر|فروش آپارتمان|تهران، نارمک|خرید و فروش ۵۷ متر میدان ۷۰ \nفول بازسازی شده \nفول امکانات طبقه سوم\nسالن پرده خور| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B7%D9%85%D8%AA%D8%B1_فروش-آپارتمان_تهران_نارمک_دیوار/QZhEgCBA",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/اپارتمان ۵۷متر/QZhEgCBA/",
+            "ios_app_url": "ios-app://863029557/http/v/اپارتمان ۵۷متر/QZhEgCBA/"
+        },
+        "share": {
+            "title": "اپارتمان ۵۷متر",
+            "description": "۵۷ متر میدان ۷۰ \nفول بازسازی شده \nفول امکانات طبقه سوم\nسالن پرده خور",
+            "android_url": "https://divar.ir/v/QZhEgCBA?ref=android",
+            "ios_url": "https://divar.ir/v/QZhEgCBA?ref=ios",
+            "web_url": "https://divar.ir/v/QZhEgCBA"
+        },
+        "url": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B7%D9%85%D8%AA%D8%B1_فروش-آپارتمان_تهران_نارمک_دیوار/QZhEgCBA",
+        "category": {
+            "slug": "apartment-sell",
+            "title": "فروش آپارتمان",
+            "second_slug": "فروش آپارتمان"
+        },
+        "description": "۵۷ متر میدان ۷۰ \nفول بازسازی شده \nفول امکانات طبقه سوم\nسالن پرده خور",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-sell",
+            "token": "QZhEgCBA",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 0,
+            "district": "نارمک",
+            "cat_3": "apartment-sell",
+            "cat_2": "residential-sell",
+            "cat_1": "real-estate",
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": 5750000000,
+            "rent": null,
+            "credit": null
+        },
+        "district": "نارمک",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "دیروز",
+            "subtitle": "دیروز در تهران، نارمک | فروش آپارتمان",
+            "title": "اپارتمان ۵۷متر",
+            "place": "نارمک",
+            "business_logo": null
+        },
+        "description": "۵۷ متر میدان ۷۰ \nفول بازسازی شده \nفول امکانات طبقه سوم\nسالن پرده خور",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۵۷"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۸۶"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۱"
+                    }
+                ]
+            },
+            {
+                "title": "قیمت کل",
+                "format": "string",
+                "value": "۵٬۷۵۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "قیمت هر متر",
+                "format": "string",
+                "value": "۱۰۰٬۸۷۷٬۰۰۰ تومان"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۵ از ۵"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true,
+                "next_page_text": "نمایش همهٔ جزئیات",
+                "next_page": {
+                    "title": "ویژگی‌ها و امکانات",
+                    "widget_list": [
+                        {
+                            "widget_type": "TITLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.TitleRowData",
+                                "text": "ویژگی‌ها",
+                                "text_color": "TEXT_PRIMARY",
+                                "has_divider": false,
+                                "color": "",
+                                "description": "",
+                                "description_color": "UNKNOWN",
+                                "subtitle": "",
+                                "subtitle_color": "UNKNOWN"
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "تعداد واحد در طبقه",
+                                "value": "۴",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "سند",
+                                "value": "تک‌برگ",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "جهت ساختمان",
+                                "value": "شمالی",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "وضعیت واحد",
+                                "value": "بازسازی شده",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "TITLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.TitleRowData",
+                                "text": "امکانات",
+                                "text_color": "TEXT_PRIMARY",
+                                "has_divider": false,
+                                "color": "",
+                                "description": "",
+                                "description_color": "UNKNOWN",
+                                "subtitle": "",
+                                "subtitle_color": "UNKNOWN"
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "آسانسور",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                                    "icon_name": "ELEVATOR",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "پارکینگ",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                                    "icon_name": "PARKING",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "انباری",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                                    "icon_name": "CABINET",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "بالکن ندارد",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/balcony.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/balcony.png",
+                                    "icon_name": "BALCONY",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "جنس کف پارکت لمینت",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/texture.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/texture.png",
+                                    "icon_name": "TEXTURE",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "سرویس بهداشتی ایرانی",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/wc.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/wc.png",
+                                    "icon_name": "WC",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "سرمایش کولر آبی",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/snowflake.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/snowflake.png",
+                                    "icon_name": "SNOWFLAKE",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "گرمایش شوفاژ",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/sunny.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/sunny.png",
+                                    "icon_name": "SUNNY",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "تأمین‌کننده آب گرم موتورخانه",
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/thermometer.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/thermometer.png",
+                                    "icon_name": "THERMOMETER",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "has_divider": false,
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        }
+                    ],
+                    "is_searchable": false,
+                    "nav_bar": []
+                }
+            }
+        ],
+        "location": {},
+        "images": [],
+        "web_images": [],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 210,
+                    "parent_slug": "residential-sell",
+                    "slug": "apartment-sell",
+                    "title": "فروش آپارتمان",
+                    "second_slug": "فروش آپارتمان",
+                    "relative_url": "tehran/buy-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 209,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-sell",
+                    "title": "فروش مسکونی",
+                    "second_slug": "فروش مسکونی",
+                    "relative_url": "tehran/buy-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "فروش-مسکونی/املاک/فروش-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0912494xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "فروش آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,فروش-آپارتمان",
+                "relative_url": "tehran/buy-apartment"
+            },
+            {
+                "title": "فروش آپارتمان در نارمک",
+                "url": "https://divar.ir/tehran/تهران/نارمک/browse/فروش-مسکونی/املاک/فروش-آپارتمان/?place=8,399",
+                "relative_url": "tehran/buy-apartment/narmak"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": true,
+            "title": "آگهی‌های مشابه در این محله",
+            "posts": [
+                {
+                    "bottom_text": "۷,۵۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۶ متر، نارمک",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ01b0sR"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T09:40:37.999554"
+                    },
+                    "token": "QZ01b0sR",
+                    "web_info": {
+                        "title": "76 متر جهت کار داروخانه با تابلو وقفسه بندی شده",
+                        "district_persian": "نارمک",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۶,۳۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۰ متر، نارمک",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ05xFOW"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T09:40:37.999554"
+                    },
+                    "token": "QZ05xFOW",
+                    "web_info": {
+                        "title": "۷۰ متر اپارتمان دوخوابه نارمک",
+                        "district_persian": "نارمک",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۵,۴۴۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۸ متر، نارمک",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/PBNdNdGND-Ufr6Ji_tjn3g/3624909e-a4a7-4399-9f56-bc7bf8b5df10.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0FVmsn"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T09:40:37.999554"
+                    },
+                    "token": "QZ0FVmsn",
+                    "web_info": {
+                        "title": "۶۸ متر دو خواب",
+                        "district_persian": "نارمک",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۴,۲۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۰ متر، نارمک",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/YMUarti6FDqbwaKyza5W3Q/5a03b875-97d9-4bbb-b8dd-55d7fd98eada.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0N1q4J"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T09:40:37.999554"
+                    },
+                    "token": "QZ0N1q4J",
+                    "web_info": {
+                        "title": "۶۰ متر دوخوابه ۴طبقه ۲واحدی طبقه چهارم",
+                        "district_persian": "نارمک",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۵,۱۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۰ متر، نارمک",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/uTzW6Bh9TG4MOhokULtPPg/9CBEFCE9-0ECC-43E0-BF52-092878BCE3C4.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0RhxJ1"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T09:40:37.999554"
+                    },
+                    "token": "QZ0RhxJ1",
+                    "web_info": {
+                        "title": "۶۰متر دوخواب خوش نقشه",
+                        "district_persian": "نارمک",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۷,۸۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۸ متر، نارمک",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/mDBu_IP1NWyEwYegiNO7Qw/817b83dd-fd68-436f-b705-4d80d251180a.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0tq95-"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T09:40:37.999554"
+                    },
+                    "token": "QZ0tq95-",
+                    "web_info": {
+                        "title": "78 متر بر میدان ویو ابدی",
+                        "district_persian": "نارمک",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۵,۸۴۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۸ متر، نارمک",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0tVaVr"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T09:40:37.999554"
+                    },
+                    "token": "QZ0tVaVr",
+                    "web_info": {
+                        "title": "۶۸ متر ۲ خواب بب نظیر",
+                        "district_persian": "نارمک",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۶,۲۵۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۳ متر، نارمک",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/4C9rRqklwd-6FVr_Zaypbw/cf9f8ad6-7020-4dde-bf96-f57a5d9732aa.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0VBJul"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T09:40:37.999554"
+                    },
+                    "token": "QZ0VBJul",
+                    "web_info": {
+                        "title": "آپارتمان فرجام غربی",
+                        "district_persian": "نارمک",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۵,۹۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۳ متر، نارمک",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/0IHpoGvIC32kQW6EB92H_Q/70745612-3c69-45ac-8e2a-23a4fa7a93f8.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ11mqBb"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T09:40:37.999554"
+                    },
+                    "token": "QZ11mqBb",
+                    "web_info": {
+                        "title": "۸۳متر.دمیرچی.*فوری*",
+                        "district_persian": "نارمک",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۶,۱۶۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۵۵ متر، نارمک",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/N8XRJsiWTS4Va8dZrDzodQ/117969f8-322e-4071-824b-05359707254c.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZhtLBXO"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T09:40:37.999554"
+                    },
+                    "token": "QZhtLBXO",
+                    "web_info": {
+                        "title": "آپارتمان 55 متر نوساز کلید نخورده",
+                        "district_persian": "نارمک",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                }
+            ],
+            "widget_list": [
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌های مشابه در این محله",
+                        "items": [
+                            {
+                                "title": "۷۶ متر، نارمک",
+                                "second_description": "۷,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ01b0sR",
+                                        "current_token": "QZhEgCBA",
+                                        "suggested_tokens": [
+                                            "QZ01b0sR",
+                                            "QZ05xFOW",
+                                            "QZ0FVmsn",
+                                            "QZ0N1q4J",
+                                            "QZ0RhxJ1",
+                                            "QZ0tq95-",
+                                            "QZ0tVaVr",
+                                            "QZ0VBJul",
+                                            "QZ11mqBb",
+                                            "QZhtLBXO"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:40:37.999554"
+                                        },
+                                        "web_info": {
+                                            "title": "76 متر جهت کار داروخانه با تابلو وقفسه بندی شده",
+                                            "district_persian": "نارمک",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ01b0sR",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZhEgCBA",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:40:37.999554"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۷۰ متر، نارمک",
+                                "second_description": "۶,۳۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ05xFOW",
+                                        "current_token": "QZhEgCBA",
+                                        "suggested_tokens": [
+                                            "QZ01b0sR",
+                                            "QZ05xFOW",
+                                            "QZ0FVmsn",
+                                            "QZ0N1q4J",
+                                            "QZ0RhxJ1",
+                                            "QZ0tq95-",
+                                            "QZ0tVaVr",
+                                            "QZ0VBJul",
+                                            "QZ11mqBb",
+                                            "QZhtLBXO"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:40:37.999554"
+                                        },
+                                        "web_info": {
+                                            "title": "۷۰ متر اپارتمان دوخوابه نارمک",
+                                            "district_persian": "نارمک",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ05xFOW",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZhEgCBA",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:40:37.999554"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/PBNdNdGND-Ufr6Ji_tjn3g/3624909e-a4a7-4399-9f56-bc7bf8b5df10.jpg",
+                                "title": "۶۸ متر، نارمک",
+                                "second_description": "۵,۴۴۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0FVmsn",
+                                        "current_token": "QZhEgCBA",
+                                        "suggested_tokens": [
+                                            "QZ01b0sR",
+                                            "QZ05xFOW",
+                                            "QZ0FVmsn",
+                                            "QZ0N1q4J",
+                                            "QZ0RhxJ1",
+                                            "QZ0tq95-",
+                                            "QZ0tVaVr",
+                                            "QZ0VBJul",
+                                            "QZ11mqBb",
+                                            "QZhtLBXO"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:40:37.999554"
+                                        },
+                                        "web_info": {
+                                            "title": "۶۸ متر دو خواب",
+                                            "district_persian": "نارمک",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0FVmsn",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZhEgCBA",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:40:37.999554"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/YMUarti6FDqbwaKyza5W3Q/5a03b875-97d9-4bbb-b8dd-55d7fd98eada.jpg",
+                                "title": "۶۰ متر، نارمک",
+                                "second_description": "۴,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0N1q4J",
+                                        "current_token": "QZhEgCBA",
+                                        "suggested_tokens": [
+                                            "QZ01b0sR",
+                                            "QZ05xFOW",
+                                            "QZ0FVmsn",
+                                            "QZ0N1q4J",
+                                            "QZ0RhxJ1",
+                                            "QZ0tq95-",
+                                            "QZ0tVaVr",
+                                            "QZ0VBJul",
+                                            "QZ11mqBb",
+                                            "QZhtLBXO"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:40:37.999554"
+                                        },
+                                        "web_info": {
+                                            "title": "۶۰ متر دوخوابه ۴طبقه ۲واحدی طبقه چهارم",
+                                            "district_persian": "نارمک",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0N1q4J",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZhEgCBA",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:40:37.999554"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/uTzW6Bh9TG4MOhokULtPPg/9CBEFCE9-0ECC-43E0-BF52-092878BCE3C4.jpg",
+                                "title": "۶۰ متر، نارمک",
+                                "second_description": "۵,۱۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0RhxJ1",
+                                        "current_token": "QZhEgCBA",
+                                        "suggested_tokens": [
+                                            "QZ01b0sR",
+                                            "QZ05xFOW",
+                                            "QZ0FVmsn",
+                                            "QZ0N1q4J",
+                                            "QZ0RhxJ1",
+                                            "QZ0tq95-",
+                                            "QZ0tVaVr",
+                                            "QZ0VBJul",
+                                            "QZ11mqBb",
+                                            "QZhtLBXO"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:40:37.999554"
+                                        },
+                                        "web_info": {
+                                            "title": "۶۰متر دوخواب خوش نقشه",
+                                            "district_persian": "نارمک",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0RhxJ1",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZhEgCBA",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:40:37.999554"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/mDBu_IP1NWyEwYegiNO7Qw/817b83dd-fd68-436f-b705-4d80d251180a.jpg",
+                                "title": "۷۸ متر، نارمک",
+                                "second_description": "۷,۸۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0tq95-",
+                                        "current_token": "QZhEgCBA",
+                                        "suggested_tokens": [
+                                            "QZ01b0sR",
+                                            "QZ05xFOW",
+                                            "QZ0FVmsn",
+                                            "QZ0N1q4J",
+                                            "QZ0RhxJ1",
+                                            "QZ0tq95-",
+                                            "QZ0tVaVr",
+                                            "QZ0VBJul",
+                                            "QZ11mqBb",
+                                            "QZhtLBXO"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:40:37.999554"
+                                        },
+                                        "web_info": {
+                                            "title": "78 متر بر میدان ویو ابدی",
+                                            "district_persian": "نارمک",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0tq95-",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZhEgCBA",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:40:37.999554"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۶۸ متر، نارمک",
+                                "second_description": "۵,۸۴۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0tVaVr",
+                                        "current_token": "QZhEgCBA",
+                                        "suggested_tokens": [
+                                            "QZ01b0sR",
+                                            "QZ05xFOW",
+                                            "QZ0FVmsn",
+                                            "QZ0N1q4J",
+                                            "QZ0RhxJ1",
+                                            "QZ0tq95-",
+                                            "QZ0tVaVr",
+                                            "QZ0VBJul",
+                                            "QZ11mqBb",
+                                            "QZhtLBXO"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:40:37.999554"
+                                        },
+                                        "web_info": {
+                                            "title": "۶۸ متر ۲ خواب بب نظیر",
+                                            "district_persian": "نارمک",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0tVaVr",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZhEgCBA",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:40:37.999554"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/4C9rRqklwd-6FVr_Zaypbw/cf9f8ad6-7020-4dde-bf96-f57a5d9732aa.jpg",
+                                "title": "۷۳ متر، نارمک",
+                                "second_description": "۶,۲۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0VBJul",
+                                        "current_token": "QZhEgCBA",
+                                        "suggested_tokens": [
+                                            "QZ01b0sR",
+                                            "QZ05xFOW",
+                                            "QZ0FVmsn",
+                                            "QZ0N1q4J",
+                                            "QZ0RhxJ1",
+                                            "QZ0tq95-",
+                                            "QZ0tVaVr",
+                                            "QZ0VBJul",
+                                            "QZ11mqBb",
+                                            "QZhtLBXO"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:40:37.999554"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان فرجام غربی",
+                                            "district_persian": "نارمک",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0VBJul",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZhEgCBA",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:40:37.999554"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/0IHpoGvIC32kQW6EB92H_Q/70745612-3c69-45ac-8e2a-23a4fa7a93f8.jpg",
+                                "title": "۸۳ متر، نارمک",
+                                "second_description": "۵,۹۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ11mqBb",
+                                        "current_token": "QZhEgCBA",
+                                        "suggested_tokens": [
+                                            "QZ01b0sR",
+                                            "QZ05xFOW",
+                                            "QZ0FVmsn",
+                                            "QZ0N1q4J",
+                                            "QZ0RhxJ1",
+                                            "QZ0tq95-",
+                                            "QZ0tVaVr",
+                                            "QZ0VBJul",
+                                            "QZ11mqBb",
+                                            "QZhtLBXO"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:40:37.999554"
+                                        },
+                                        "web_info": {
+                                            "title": "۸۳متر.دمیرچی.*فوری*",
+                                            "district_persian": "نارمک",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ11mqBb",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZhEgCBA",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:40:37.999554"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/N8XRJsiWTS4Va8dZrDzodQ/117969f8-322e-4071-824b-05359707254c.jpg",
+                                "title": "۵۵ متر، نارمک",
+                                "second_description": "۶,۱۶۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZhtLBXO",
+                                        "current_token": "QZhEgCBA",
+                                        "suggested_tokens": [
+                                            "QZ01b0sR",
+                                            "QZ05xFOW",
+                                            "QZ0FVmsn",
+                                            "QZ0N1q4J",
+                                            "QZ0RhxJ1",
+                                            "QZ0tq95-",
+                                            "QZ0tVaVr",
+                                            "QZ0VBJul",
+                                            "QZ11mqBb",
+                                            "QZhtLBXO"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:40:37.999554"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان 55 متر نوساز کلید نخورده",
+                                            "district_persian": "نارمک",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZhtLBXO",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZhEgCBA",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:40:37.999554"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ01b0sR",
+                                    "QZ05xFOW",
+                                    "QZ0FVmsn",
+                                    "QZ0N1q4J",
+                                    "QZ0RhxJ1",
+                                    "QZ0tq95-",
+                                    "QZ0tVaVr",
+                                    "QZ0VBJul",
+                                    "QZ11mqBb",
+                                    "QZhtLBXO"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZhEgCBA",
+                                    "metadata": {
+                                        "last_modified": "2023-12-10T09:40:37.999554"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                },
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌‌های مشابه در دیگر محله‌ها",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/Jx3TOVSqX8a1oZ3Op3FgxQ/a4be11af-2cb4-43de-be3a-63e03e220cea.jpg",
+                                "title": "۵۸ متر، دانشگاه علم و صنعت",
+                                "second_description": "۵,۷۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ054fXe",
+                                        "current_token": "QZhEgCBA",
+                                        "suggested_tokens": [
+                                            "QZ054fXe",
+                                            "QZ09HqgQ",
+                                            "QZ09QyBN",
+                                            "QZ0BRTM9",
+                                            "QZ0thSiO",
+                                            "QZ0xBUvD",
+                                            "QZaBB-uN",
+                                            "QZjVGOIq",
+                                            "QZjxkfuX",
+                                            "QZpJqHIm"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:43:20.894583"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۵۸ متر. تک خواب.میدان ۱۰۰.خ ۴۷",
+                                            "district_persian": "دانشگاه علم و صنعت",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ054fXe",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZhEgCBA",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:43:20.894583"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/PPNYiIfNQEnytERrryjCTg/b8f35f68-bfbb-4a8e-95c2-6fb4883d8f46.jpg",
+                                "title": "۵۹ متر، کرمان",
+                                "second_description": "۶,۱۹۵,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ09HqgQ",
+                                        "current_token": "QZhEgCBA",
+                                        "suggested_tokens": [
+                                            "QZ054fXe",
+                                            "QZ09HqgQ",
+                                            "QZ09QyBN",
+                                            "QZ0BRTM9",
+                                            "QZ0thSiO",
+                                            "QZ0xBUvD",
+                                            "QZaBB-uN",
+                                            "QZjVGOIq",
+                                            "QZjxkfuX",
+                                            "QZpJqHIm"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:43:20.894583"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۵۹ متر یک خواب کلید نخورده",
+                                            "district_persian": "کرمان",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ09HqgQ",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZhEgCBA",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:43:20.894583"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/-ODtixoWS7NbP8APkD5I0Q/ad9746f7-8f84-42bc-a1b3-9f564846b2a2.jpg",
+                                "title": "۴۰ متر، مجیدیه",
+                                "second_description": "۳,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ09QyBN",
+                                        "current_token": "QZhEgCBA",
+                                        "suggested_tokens": [
+                                            "QZ054fXe",
+                                            "QZ09HqgQ",
+                                            "QZ09QyBN",
+                                            "QZ0BRTM9",
+                                            "QZ0thSiO",
+                                            "QZ0xBUvD",
+                                            "QZaBB-uN",
+                                            "QZjVGOIq",
+                                            "QZjxkfuX",
+                                            "QZpJqHIm"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:43:20.894583"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان 40 متری تک واحدی - فول بازسازی",
+                                            "district_persian": "مجیدیه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ09QyBN",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZhEgCBA",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:43:20.894583"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۴۲ متر، کرمان",
+                                "second_description": "۳,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0BRTM9",
+                                        "current_token": "QZhEgCBA",
+                                        "suggested_tokens": [
+                                            "QZ054fXe",
+                                            "QZ09HqgQ",
+                                            "QZ09QyBN",
+                                            "QZ0BRTM9",
+                                            "QZ0thSiO",
+                                            "QZ0xBUvD",
+                                            "QZaBB-uN",
+                                            "QZjVGOIq",
+                                            "QZjxkfuX",
+                                            "QZpJqHIm"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:43:20.894583"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "اپارتمان ۴۲ متر یک خواب خوش نقشه",
+                                            "district_persian": "کرمان",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0BRTM9",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZhEgCBA",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:43:20.894583"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/5Je2Izb9jpV1Ohot8h59-Q/ec54e10e-7f34-45f7-a4b6-69cd9464b702.jpg",
+                                "title": "۷۲ متر، نارمک جنوبی",
+                                "second_description": "۵,۸۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0thSiO",
+                                        "current_token": "QZhEgCBA",
+                                        "suggested_tokens": [
+                                            "QZ054fXe",
+                                            "QZ09HqgQ",
+                                            "QZ09QyBN",
+                                            "QZ0BRTM9",
+                                            "QZ0thSiO",
+                                            "QZ0xBUvD",
+                                            "QZaBB-uN",
+                                            "QZjVGOIq",
+                                            "QZjxkfuX",
+                                            "QZpJqHIm"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:43:20.894583"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۷۲متر با بالکن و جای پارک",
+                                            "district_persian": "نارمک جنوبی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0thSiO",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZhEgCBA",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:43:20.894583"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۴۰ متر، دانشگاه علم و صنعت",
+                                "second_description": "۳,۴۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0xBUvD",
+                                        "current_token": "QZhEgCBA",
+                                        "suggested_tokens": [
+                                            "QZ054fXe",
+                                            "QZ09HqgQ",
+                                            "QZ09QyBN",
+                                            "QZ0BRTM9",
+                                            "QZ0thSiO",
+                                            "QZ0xBUvD",
+                                            "QZaBB-uN",
+                                            "QZjVGOIq",
+                                            "QZjxkfuX",
+                                            "QZpJqHIm"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:43:20.894583"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان 40 متری",
+                                            "district_persian": "دانشگاه علم و صنعت",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0xBUvD",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZhEgCBA",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:43:20.894583"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/Cx0Jql5MI6K8_xQ0ipxylA/a3d532f1-08b4-4948-8b32-b189c805ed32.jpg",
+                                "title": "۶۰ متر، کرمان",
+                                "second_description": "۵,۹۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZaBB-uN",
+                                        "current_token": "QZhEgCBA",
+                                        "suggested_tokens": [
+                                            "QZ054fXe",
+                                            "QZ09HqgQ",
+                                            "QZ09QyBN",
+                                            "QZ0BRTM9",
+                                            "QZ0thSiO",
+                                            "QZ0xBUvD",
+                                            "QZaBB-uN",
+                                            "QZjVGOIq",
+                                            "QZjxkfuX",
+                                            "QZpJqHIm"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:43:20.894583"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۶۰ متر فرعی کرمان فول",
+                                            "district_persian": "کرمان",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZaBB-uN",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZhEgCBA",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:43:20.894583"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/XUimfnS9kWl_NonkjMI32w/d9544dfe-7299-42a6-80b6-636d0b93722a.jpg",
+                                "title": "۵۵ متر، هفت حوض",
+                                "second_description": "۵,۷۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZjVGOIq",
+                                        "current_token": "QZhEgCBA",
+                                        "suggested_tokens": [
+                                            "QZ054fXe",
+                                            "QZ09HqgQ",
+                                            "QZ09QyBN",
+                                            "QZ0BRTM9",
+                                            "QZ0thSiO",
+                                            "QZ0xBUvD",
+                                            "QZaBB-uN",
+                                            "QZjVGOIq",
+                                            "QZjxkfuX",
+                                            "QZpJqHIm"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:43:20.894583"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۵۵ متر میدان نارمک تک واحدی",
+                                            "district_persian": "هفت حوض",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZjVGOIq",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZhEgCBA",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:43:20.894583"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/lgYfVNrUp-JrFk38CK04Ng/C33D19FD-CE44-45D3-AD4F-5EAABB1A381F.jpg",
+                                "title": "۶۱ متر، هفت حوض",
+                                "second_description": "۶,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZjxkfuX",
+                                        "current_token": "QZhEgCBA",
+                                        "suggested_tokens": [
+                                            "QZ054fXe",
+                                            "QZ09HqgQ",
+                                            "QZ09QyBN",
+                                            "QZ0BRTM9",
+                                            "QZ0thSiO",
+                                            "QZ0xBUvD",
+                                            "QZaBB-uN",
+                                            "QZjVGOIq",
+                                            "QZjxkfuX",
+                                            "QZpJqHIm"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:43:20.894583"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان،۶۱متر،نارمک میدان ۶۲،بسیارخوش نقشه",
+                                            "district_persian": "هفت حوض",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZjxkfuX",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZhEgCBA",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:43:20.894583"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/hDHPwB1brJtzyqH6LCngJA/69e89e5d-c56b-4454-8aa7-8f99d86a3577.jpg",
+                                "title": "۶۵ متر، کرمان",
+                                "second_description": "۵,۳۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZpJqHIm",
+                                        "current_token": "QZhEgCBA",
+                                        "suggested_tokens": [
+                                            "QZ054fXe",
+                                            "QZ09HqgQ",
+                                            "QZ09QyBN",
+                                            "QZ0BRTM9",
+                                            "QZ0thSiO",
+                                            "QZ0xBUvD",
+                                            "QZaBB-uN",
+                                            "QZjVGOIq",
+                                            "QZjxkfuX",
+                                            "QZpJqHIm"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:43:20.894583"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۶۵ متر، کرمان جنوبی، فول امکانات",
+                                            "district_persian": "کرمان",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZpJqHIm",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZhEgCBA",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:43:20.894583"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ054fXe",
+                                    "QZ09HqgQ",
+                                    "QZ09QyBN",
+                                    "QZ0BRTM9",
+                                    "QZ0thSiO",
+                                    "QZ0xBUvD",
+                                    "QZaBB-uN",
+                                    "QZjVGOIq",
+                                    "QZjxkfuX",
+                                    "QZpJqHIm"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZhEgCBA",
+                                    "metadata": {
+                                        "last_modified": "2023-12-10T09:43:20.894583"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                }
+            ],
+            "post_suggestion_extra_logs": [
+                {
+                    "suggested_tokens": [
+                        "QZ01b0sR",
+                        "QZ05xFOW",
+                        "QZ0FVmsn",
+                        "QZ0N1q4J",
+                        "QZ0RhxJ1",
+                        "QZ0tq95-",
+                        "QZ0tVaVr",
+                        "QZ0VBJul",
+                        "QZ11mqBb",
+                        "QZhtLBXO"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-10T09:40:37.999554"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:40:37.999554"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:40:37.999554"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:40:37.999554"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:40:37.999554"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:40:37.999554"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:40:37.999554"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:40:37.999554"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:40:37.999554"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:40:37.999554"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION"
+                },
+                {
+                    "suggested_tokens": [
+                        "QZ054fXe",
+                        "QZ09HqgQ",
+                        "QZ09QyBN",
+                        "QZ0BRTM9",
+                        "QZ0thSiO",
+                        "QZ0xBUvD",
+                        "QZaBB-uN",
+                        "QZjVGOIq",
+                        "QZjxkfuX",
+                        "QZpJqHIm"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-10T09:43:20.894583"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:43:20.894583"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:43:20.894583"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:43:20.894583"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:43:20.894583"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:43:20.894583"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:43:20.894583"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:43:20.894583"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:43:20.894583"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:43:20.894583"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS"
+                }
+            ]
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZhEgCBA",
+    "error": 0
+}

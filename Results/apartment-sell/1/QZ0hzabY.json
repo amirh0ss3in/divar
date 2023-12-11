@@ -1,0 +1,2040 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "آپارتمان ۶۷ متری دوخوابه|فروش آپارتمان|تهران، امامزاده حسن(ع)|دیوار",
+            "description": "آپارتمان ۶۷ متری دوخوابه|فروش آپارتمان|تهران، امامزاده حسن(ع)|خرید و فروش واحد آماده  \nتجهیز شده\nرهن رفته ۴۲۵ م ت| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B7-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87_فروش-آپارتمان_تهران_امامزاده-حسن-ع-_دیوار/QZ0hzabY",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/آپارتمان ۶۷ متری دوخوابه/QZ0hzabY/",
+            "ios_app_url": "ios-app://863029557/http/v/آپارتمان ۶۷ متری دوخوابه/QZ0hzabY/"
+        },
+        "share": {
+            "title": "آپارتمان ۶۷ متری دوخوابه",
+            "description": "واحد آماده  \nتجهیز شده\nرهن رفته ۴۲۵ م ت",
+            "android_url": "https://divar.ir/v/QZ0hzabY?ref=android",
+            "ios_url": "https://divar.ir/v/QZ0hzabY?ref=ios",
+            "web_url": "https://divar.ir/v/QZ0hzabY"
+        },
+        "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B7-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87_فروش-آپارتمان_تهران_امامزاده-حسن-ع-_دیوار/QZ0hzabY",
+        "category": {
+            "slug": "apartment-sell",
+            "title": "فروش آپارتمان",
+            "second_slug": "فروش آپارتمان"
+        },
+        "description": "واحد آماده  \nتجهیز شده\nرهن رفته ۴۲۵ م ت",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-sell",
+            "token": "QZ0hzabY",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 0,
+            "district": "امامزاده حسن(ع)",
+            "cat_3": "apartment-sell",
+            "cat_2": "residential-sell",
+            "cat_1": "real-estate",
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": 3685000000,
+            "rent": null,
+            "credit": null
+        },
+        "district": "امامزاده حسن(ع)",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "promotion": "فوری",
+            "date": "دیروز",
+            "subtitle": "دیروز در تهران، امامزاده حسن(ع) | فروش آپارتمان",
+            "title": "آپارتمان ۶۷ متری دوخوابه",
+            "place": "امامزاده حسن(ع)",
+            "business_logo": null
+        },
+        "description": "واحد آماده  \nتجهیز شده\nرهن رفته ۴۲۵ م ت",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۶۷"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۴۰۲"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۲"
+                    }
+                ]
+            },
+            {
+                "title": "قیمت کل",
+                "format": "string",
+                "value": "۳٬۶۸۵٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "قیمت هر متر",
+                "format": "string",
+                "value": "۵۵٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۱ از ۸"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری ندارد",
+                        "available": false,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_hint/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_hint/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_HINT"
+                        }
+                    }
+                ],
+                "has_divider": true,
+                "next_page_text": "نمایش همهٔ جزئیات",
+                "next_page": {
+                    "title": "ویژگی‌ها و امکانات",
+                    "widget_list": [
+                        {
+                            "widget_type": "TITLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.TitleRowData",
+                                "text": "ویژگی‌ها",
+                                "text_color": "TEXT_PRIMARY",
+                                "has_divider": false,
+                                "color": "",
+                                "description": "",
+                                "description_color": "UNKNOWN",
+                                "subtitle": "",
+                                "subtitle_color": "UNKNOWN"
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "تعداد واحد در طبقه",
+                                "value": "۲",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "سند",
+                                "value": "تک‌برگ",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "جهت ساختمان",
+                                "value": "شمالی",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "TITLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.TitleRowData",
+                                "text": "امکانات",
+                                "text_color": "TEXT_PRIMARY",
+                                "has_divider": false,
+                                "color": "",
+                                "description": "",
+                                "description_color": "UNKNOWN",
+                                "subtitle": "",
+                                "subtitle_color": "UNKNOWN"
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "آسانسور",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                                    "icon_name": "ELEVATOR",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "پارکینگ",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                                    "icon_name": "PARKING",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "انباری ندارد",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                                    "icon_name": "CABINET",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "بالکن",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/balcony.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/balcony.png",
+                                    "icon_name": "BALCONY",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "جنس کف سرامیک",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/texture.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/texture.png",
+                                    "icon_name": "TEXTURE",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "سرویس بهداشتی ایرانی",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/wc.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/wc.png",
+                                    "icon_name": "WC",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "سرمایش کولر آبی",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/snowflake.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/snowflake.png",
+                                    "icon_name": "SNOWFLAKE",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "گرمایش شوفاژ",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/sunny.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/sunny.png",
+                                    "icon_name": "SUNNY",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "تأمین‌کننده آب گرم پکیج",
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/thermometer.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/thermometer.png",
+                                    "icon_name": "THERMOMETER",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "has_divider": false,
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        }
+                    ],
+                    "is_searchable": false,
+                    "nav_bar": []
+                }
+            }
+        ],
+        "location": {
+            "latitude": "35.661705",
+            "longitude": "51.36118",
+            "map_url": "https://cdn.raah.ir/divar-images-2/QZ0hzabY.png"
+        },
+        "images": [],
+        "web_images": [],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 210,
+                    "parent_slug": "residential-sell",
+                    "slug": "apartment-sell",
+                    "title": "فروش آپارتمان",
+                    "second_slug": "فروش آپارتمان",
+                    "relative_url": "tehran/buy-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 209,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-sell",
+                    "title": "فروش مسکونی",
+                    "second_slug": "فروش مسکونی",
+                    "relative_url": "tehran/buy-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "فروش-مسکونی/املاک/فروش-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0912307xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "فروش آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,فروش-آپارتمان",
+                "relative_url": "tehran/buy-apartment"
+            },
+            {
+                "title": "فروش آپارتمان در امامزاده حسن(ع)",
+                "url": "https://divar.ir/tehran/تهران/امامزاده-حسن(ع)/browse/فروش-مسکونی/املاک/فروش-آپارتمان/?place=8,1021",
+                "relative_url": "tehran/buy-apartment/imamzadeh-hasan"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": true,
+            "title": "آگهی‌های مشابه در این محله",
+            "posts": [
+                {
+                    "bottom_text": "۴,۶۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۹۲ متر، امامزاده حسن(ع)",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/J1z_QSqcVTmZdhd0R_2y-g/1b173ed6-e171-4994-ab67-e8d247c16369.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0B7EHv"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T09:40:37.999554"
+                    },
+                    "token": "QZ0B7EHv",
+                    "web_info": {
+                        "title": "92متر/دو خواب/پلان تفکیکی",
+                        "district_persian": "امامزاده حسن(ع)",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۳,۸۵۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۹۵ متر، امامزاده حسن(ع)",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/gLAgcRSvDuo_AvPGMLFF6A/47c3306f-2d95-4870-aa9c-f3bdeb531aec.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0Fy-XK"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T09:40:37.999554"
+                    },
+                    "token": "QZ0Fy-XK",
+                    "web_info": {
+                        "title": "آپارتمان 95 متری فول / مهمان نوازان",
+                        "district_persian": "امامزاده حسن(ع)",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۲,۰۵۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۴۱ متر، امامزاده حسن(ع)",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/1cZRZ0yMSgk7tpP30exN9g/2f6ab1a7-fb8d-40e1-9faa-38d4c2ff779a.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0J7Oc9"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T09:40:37.999554"
+                    },
+                    "token": "QZ0J7Oc9",
+                    "web_info": {
+                        "title": "آپارتمان ۴۱ متری نقلی",
+                        "district_persian": "امامزاده حسن(ع)",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۱,۸۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۴۵ متر، امامزاده حسن(ع)",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/kw5XE_WUiF34OCwnL62D7A/f1ba635e-ec3d-4b96-ba7d-149981ec8e28.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0JC2Nv"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T09:40:37.999554"
+                    },
+                    "token": "QZ0JC2Nv",
+                    "web_info": {
+                        "title": "آپارتمان۴۵متری ۱خوابه",
+                        "district_persian": "امامزاده حسن(ع)",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۳,۳۲۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۴ متر، امامزاده حسن(ع)",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/65U-2UVoXyb_cKNxWVlZgg/4e972a7a-db63-4230-a86b-da54b140c719.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0V23wD"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T09:40:37.999554"
+                    },
+                    "token": "QZ0V23wD",
+                    "web_info": {
+                        "title": "64متر عروسک پارکینگ دار امام زاده حسن",
+                        "district_persian": "امامزاده حسن(ع)",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۵,۱۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۹۰ متر، امامزاده حسن(ع)",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/100PyLk1uyRISpaknvzwoA/92a89049-be55-4cc5-a754-786dda75165f.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZcx-n_c"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T09:40:37.999554"
+                    },
+                    "token": "QZcx-n_c",
+                    "web_info": {
+                        "title": "اپارتمان نوساز 90متری تک واحدی دو خواب",
+                        "district_persian": "امامزاده حسن(ع)",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۳,۵۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۷ متر، امامزاده حسن(ع)",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/mNL7rclEGcCW6wsI3BnZJA/0FE2D80A-8B32-4080-AB73-58B1453063FE.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZkRKtt8"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T09:40:37.999554"
+                    },
+                    "token": "QZkRKtt8",
+                    "web_info": {
+                        "title": "دوخوابه خوش نقشه",
+                        "district_persian": "امامزاده حسن(ع)",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۳,۷۵۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۵ متر، امامزاده حسن(ع)",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZLl27FR"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T09:40:37.999554"
+                    },
+                    "token": "QZLl27FR",
+                    "web_info": {
+                        "title": "۸۵ متری نوساز فول امکانات",
+                        "district_persian": "امامزاده حسن(ع)",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۲,۸۵۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۲ متر، امامزاده حسن(ع)",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/tKWUtJzjISGKZNlIKwlIOQ/8bc1fe49-da6b-405e-a3f3-e4a00992bc6b.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZpR8Xqm"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T09:40:37.999554"
+                    },
+                    "token": "QZpR8Xqm",
+                    "web_info": {
+                        "title": "۶۲ متر فول",
+                        "district_persian": "امامزاده حسن(ع)",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۳,۷۸۷,۵۰۰,۰۰۰ تومان",
+                    "title": "۷۵ متر، امامزاده حسن(ع)",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/0ml7dunHFi466QhJ46Dt6A/448f1107-5bfb-4d79-9216-eb1bca171a4c.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZPxdv7-"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T09:40:37.999554"
+                    },
+                    "token": "QZPxdv7-",
+                    "web_info": {
+                        "title": "۷۵ متری دو خوابه طبقه اول",
+                        "district_persian": "امامزاده حسن(ع)",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                }
+            ],
+            "widget_list": [
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌های مشابه در این محله",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/J1z_QSqcVTmZdhd0R_2y-g/1b173ed6-e171-4994-ab67-e8d247c16369.jpg",
+                                "title": "۹۲ متر، امامزاده حسن(ع)",
+                                "second_description": "۴,۶۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0B7EHv",
+                                        "current_token": "QZ0hzabY",
+                                        "suggested_tokens": [
+                                            "QZ0B7EHv",
+                                            "QZ0Fy-XK",
+                                            "QZ0J7Oc9",
+                                            "QZ0JC2Nv",
+                                            "QZ0V23wD",
+                                            "QZcx-n_c",
+                                            "QZkRKtt8",
+                                            "QZLl27FR",
+                                            "QZpR8Xqm",
+                                            "QZPxdv7-"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:40:37.999554"
+                                        },
+                                        "web_info": {
+                                            "title": "92متر/دو خواب/پلان تفکیکی",
+                                            "district_persian": "امامزاده حسن(ع)",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0B7EHv",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hzabY",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:40:37.999554"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/gLAgcRSvDuo_AvPGMLFF6A/47c3306f-2d95-4870-aa9c-f3bdeb531aec.jpg",
+                                "title": "۹۵ متر، امامزاده حسن(ع)",
+                                "second_description": "۳,۸۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0Fy-XK",
+                                        "current_token": "QZ0hzabY",
+                                        "suggested_tokens": [
+                                            "QZ0B7EHv",
+                                            "QZ0Fy-XK",
+                                            "QZ0J7Oc9",
+                                            "QZ0JC2Nv",
+                                            "QZ0V23wD",
+                                            "QZcx-n_c",
+                                            "QZkRKtt8",
+                                            "QZLl27FR",
+                                            "QZpR8Xqm",
+                                            "QZPxdv7-"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:40:37.999554"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان 95 متری فول / مهمان نوازان",
+                                            "district_persian": "امامزاده حسن(ع)",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0Fy-XK",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hzabY",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:40:37.999554"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/1cZRZ0yMSgk7tpP30exN9g/2f6ab1a7-fb8d-40e1-9faa-38d4c2ff779a.jpg",
+                                "title": "۴۱ متر، امامزاده حسن(ع)",
+                                "second_description": "۲,۰۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0J7Oc9",
+                                        "current_token": "QZ0hzabY",
+                                        "suggested_tokens": [
+                                            "QZ0B7EHv",
+                                            "QZ0Fy-XK",
+                                            "QZ0J7Oc9",
+                                            "QZ0JC2Nv",
+                                            "QZ0V23wD",
+                                            "QZcx-n_c",
+                                            "QZkRKtt8",
+                                            "QZLl27FR",
+                                            "QZpR8Xqm",
+                                            "QZPxdv7-"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:40:37.999554"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۴۱ متری نقلی",
+                                            "district_persian": "امامزاده حسن(ع)",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0J7Oc9",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hzabY",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:40:37.999554"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/kw5XE_WUiF34OCwnL62D7A/f1ba635e-ec3d-4b96-ba7d-149981ec8e28.jpg",
+                                "title": "۴۵ متر، امامزاده حسن(ع)",
+                                "second_description": "۱,۸۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0JC2Nv",
+                                        "current_token": "QZ0hzabY",
+                                        "suggested_tokens": [
+                                            "QZ0B7EHv",
+                                            "QZ0Fy-XK",
+                                            "QZ0J7Oc9",
+                                            "QZ0JC2Nv",
+                                            "QZ0V23wD",
+                                            "QZcx-n_c",
+                                            "QZkRKtt8",
+                                            "QZLl27FR",
+                                            "QZpR8Xqm",
+                                            "QZPxdv7-"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:40:37.999554"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان۴۵متری ۱خوابه",
+                                            "district_persian": "امامزاده حسن(ع)",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0JC2Nv",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hzabY",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:40:37.999554"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/65U-2UVoXyb_cKNxWVlZgg/4e972a7a-db63-4230-a86b-da54b140c719.jpg",
+                                "title": "۶۴ متر، امامزاده حسن(ع)",
+                                "second_description": "۳,۳۲۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0V23wD",
+                                        "current_token": "QZ0hzabY",
+                                        "suggested_tokens": [
+                                            "QZ0B7EHv",
+                                            "QZ0Fy-XK",
+                                            "QZ0J7Oc9",
+                                            "QZ0JC2Nv",
+                                            "QZ0V23wD",
+                                            "QZcx-n_c",
+                                            "QZkRKtt8",
+                                            "QZLl27FR",
+                                            "QZpR8Xqm",
+                                            "QZPxdv7-"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:40:37.999554"
+                                        },
+                                        "web_info": {
+                                            "title": "64متر عروسک پارکینگ دار امام زاده حسن",
+                                            "district_persian": "امامزاده حسن(ع)",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0V23wD",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hzabY",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:40:37.999554"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/100PyLk1uyRISpaknvzwoA/92a89049-be55-4cc5-a754-786dda75165f.jpg",
+                                "title": "۹۰ متر، امامزاده حسن(ع)",
+                                "second_description": "۵,۱۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZcx-n_c",
+                                        "current_token": "QZ0hzabY",
+                                        "suggested_tokens": [
+                                            "QZ0B7EHv",
+                                            "QZ0Fy-XK",
+                                            "QZ0J7Oc9",
+                                            "QZ0JC2Nv",
+                                            "QZ0V23wD",
+                                            "QZcx-n_c",
+                                            "QZkRKtt8",
+                                            "QZLl27FR",
+                                            "QZpR8Xqm",
+                                            "QZPxdv7-"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:40:37.999554"
+                                        },
+                                        "web_info": {
+                                            "title": "اپارتمان نوساز 90متری تک واحدی دو خواب",
+                                            "district_persian": "امامزاده حسن(ع)",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZcx-n_c",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hzabY",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:40:37.999554"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/mNL7rclEGcCW6wsI3BnZJA/0FE2D80A-8B32-4080-AB73-58B1453063FE.jpg",
+                                "title": "۸۷ متر، امامزاده حسن(ع)",
+                                "second_description": "۳,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZkRKtt8",
+                                        "current_token": "QZ0hzabY",
+                                        "suggested_tokens": [
+                                            "QZ0B7EHv",
+                                            "QZ0Fy-XK",
+                                            "QZ0J7Oc9",
+                                            "QZ0JC2Nv",
+                                            "QZ0V23wD",
+                                            "QZcx-n_c",
+                                            "QZkRKtt8",
+                                            "QZLl27FR",
+                                            "QZpR8Xqm",
+                                            "QZPxdv7-"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:40:37.999554"
+                                        },
+                                        "web_info": {
+                                            "title": "دوخوابه خوش نقشه",
+                                            "district_persian": "امامزاده حسن(ع)",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZkRKtt8",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hzabY",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:40:37.999554"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۸۵ متر، امامزاده حسن(ع)",
+                                "second_description": "۳,۷۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZLl27FR",
+                                        "current_token": "QZ0hzabY",
+                                        "suggested_tokens": [
+                                            "QZ0B7EHv",
+                                            "QZ0Fy-XK",
+                                            "QZ0J7Oc9",
+                                            "QZ0JC2Nv",
+                                            "QZ0V23wD",
+                                            "QZcx-n_c",
+                                            "QZkRKtt8",
+                                            "QZLl27FR",
+                                            "QZpR8Xqm",
+                                            "QZPxdv7-"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:40:37.999554"
+                                        },
+                                        "web_info": {
+                                            "title": "۸۵ متری نوساز فول امکانات",
+                                            "district_persian": "امامزاده حسن(ع)",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZLl27FR",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hzabY",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:40:37.999554"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/tKWUtJzjISGKZNlIKwlIOQ/8bc1fe49-da6b-405e-a3f3-e4a00992bc6b.jpg",
+                                "title": "۶۲ متر، امامزاده حسن(ع)",
+                                "second_description": "۲,۸۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZpR8Xqm",
+                                        "current_token": "QZ0hzabY",
+                                        "suggested_tokens": [
+                                            "QZ0B7EHv",
+                                            "QZ0Fy-XK",
+                                            "QZ0J7Oc9",
+                                            "QZ0JC2Nv",
+                                            "QZ0V23wD",
+                                            "QZcx-n_c",
+                                            "QZkRKtt8",
+                                            "QZLl27FR",
+                                            "QZpR8Xqm",
+                                            "QZPxdv7-"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:40:37.999554"
+                                        },
+                                        "web_info": {
+                                            "title": "۶۲ متر فول",
+                                            "district_persian": "امامزاده حسن(ع)",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZpR8Xqm",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hzabY",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:40:37.999554"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/0ml7dunHFi466QhJ46Dt6A/448f1107-5bfb-4d79-9216-eb1bca171a4c.jpg",
+                                "title": "۷۵ متر، امامزاده حسن(ع)",
+                                "second_description": "۳,۷۸۷,۵۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZPxdv7-",
+                                        "current_token": "QZ0hzabY",
+                                        "suggested_tokens": [
+                                            "QZ0B7EHv",
+                                            "QZ0Fy-XK",
+                                            "QZ0J7Oc9",
+                                            "QZ0JC2Nv",
+                                            "QZ0V23wD",
+                                            "QZcx-n_c",
+                                            "QZkRKtt8",
+                                            "QZLl27FR",
+                                            "QZpR8Xqm",
+                                            "QZPxdv7-"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:40:37.999554"
+                                        },
+                                        "web_info": {
+                                            "title": "۷۵ متری دو خوابه طبقه اول",
+                                            "district_persian": "امامزاده حسن(ع)",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZPxdv7-",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hzabY",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:40:37.999554"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ0B7EHv",
+                                    "QZ0Fy-XK",
+                                    "QZ0J7Oc9",
+                                    "QZ0JC2Nv",
+                                    "QZ0V23wD",
+                                    "QZcx-n_c",
+                                    "QZkRKtt8",
+                                    "QZLl27FR",
+                                    "QZpR8Xqm",
+                                    "QZPxdv7-"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ0hzabY",
+                                    "metadata": {
+                                        "last_modified": "2023-12-10T09:40:37.999554"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                },
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌‌های مشابه در دیگر محله‌ها",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/sSeCct5PGh0vGEF3dqOLyQ/4fb6a533-1d07-4854-9af2-9c1c02aad5db.jpg",
+                                "title": "۵۰ متر، فلاح",
+                                "second_description": "۲,۵۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ05ryDu",
+                                        "current_token": "QZ0hzabY",
+                                        "suggested_tokens": [
+                                            "QZ05ryDu",
+                                            "QZ0N4YQF",
+                                            "QZ0NzEqt",
+                                            "QZ0RBOB5",
+                                            "QZ1N4056",
+                                            "QZaFihfG",
+                                            "QZg1EVN7",
+                                            "QZlheNhs",
+                                            "QZq05vIY"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:43:20.894583"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان درسجادجنوبی",
+                                            "district_persian": "فلاح",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ05ryDu",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hzabY",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:43:20.894583"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/RQY5cdOdpQpDIsSMBu_VFQ/4a199bb1-2cce-4c96-81fe-5a5bc83588de.jpg",
+                                "title": "۷۰ متر، وصفنارد",
+                                "second_description": "۳,۶۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0N4YQF",
+                                        "current_token": "QZ0hzabY",
+                                        "suggested_tokens": [
+                                            "QZ05ryDu",
+                                            "QZ0N4YQF",
+                                            "QZ0NzEqt",
+                                            "QZ0RBOB5",
+                                            "QZ1N4056",
+                                            "QZaFihfG",
+                                            "QZg1EVN7",
+                                            "QZlheNhs",
+                                            "QZq05vIY"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:43:20.894583"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۷۰ متری دو خوابه",
+                                            "district_persian": "وصفنارد",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0N4YQF",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hzabY",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:43:20.894583"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/fQSCW8N-c8Q5MymHR8sICQ/e50f2fc8-e7ca-4c80-bcb4-3676d96e84c5.jpg",
+                                "title": "۶۰ متر، باغ خزانه",
+                                "second_description": "۳,۹۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0NzEqt",
+                                        "current_token": "QZ0hzabY",
+                                        "suggested_tokens": [
+                                            "QZ05ryDu",
+                                            "QZ0N4YQF",
+                                            "QZ0NzEqt",
+                                            "QZ0RBOB5",
+                                            "QZ1N4056",
+                                            "QZaFihfG",
+                                            "QZg1EVN7",
+                                            "QZlheNhs",
+                                            "QZq05vIY"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:43:20.894583"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان٦٠ متری تکواحدی نوساز باغ خزانه تهمتن",
+                                            "district_persian": "باغ خزانه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0NzEqt",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hzabY",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:43:20.894583"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/Wi0v9vh0VExN_1CKEsyzrQ/7038662b-f279-419b-8350-80263824b40e.jpg",
+                                "title": "۶۱ متر، باغ خزانه",
+                                "second_description": "۳,۵۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0RBOB5",
+                                        "current_token": "QZ0hzabY",
+                                        "suggested_tokens": [
+                                            "QZ05ryDu",
+                                            "QZ0N4YQF",
+                                            "QZ0NzEqt",
+                                            "QZ0RBOB5",
+                                            "QZ1N4056",
+                                            "QZaFihfG",
+                                            "QZg1EVN7",
+                                            "QZlheNhs",
+                                            "QZq05vIY"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:43:20.894583"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۶۱ متر باغ خزانه نوساز",
+                                            "district_persian": "باغ خزانه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0RBOB5",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hzabY",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:43:20.894583"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/LgBPxpDW83YwblaSd_6BPw/67131fc3-10ed-4d64-8bc3-2e127d3b5d2b.jpg",
+                                "title": "۴۸ متر، سلیمانی",
+                                "second_description": "۲,۳۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ1N4056",
+                                        "current_token": "QZ0hzabY",
+                                        "suggested_tokens": [
+                                            "QZ05ryDu",
+                                            "QZ0N4YQF",
+                                            "QZ0NzEqt",
+                                            "QZ0RBOB5",
+                                            "QZ1N4056",
+                                            "QZaFihfG",
+                                            "QZg1EVN7",
+                                            "QZlheNhs",
+                                            "QZq05vIY"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:43:20.894583"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان 48 متری محله 16 متری امیری",
+                                            "district_persian": "سلیمانی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ1N4056",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hzabY",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:43:20.894583"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/Nw1Na6nwxG5uhwm_Jx2AAw/f62df3fd-8949-4b97-90c8-829863adc05b.jpg",
+                                "title": "۷۲ متر، فلاح",
+                                "second_description": "۳,۶۸۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZaFihfG",
+                                        "current_token": "QZ0hzabY",
+                                        "suggested_tokens": [
+                                            "QZ05ryDu",
+                                            "QZ0N4YQF",
+                                            "QZ0NzEqt",
+                                            "QZ0RBOB5",
+                                            "QZ1N4056",
+                                            "QZaFihfG",
+                                            "QZg1EVN7",
+                                            "QZlheNhs",
+                                            "QZq05vIY"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:43:20.894583"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۷۲ متر دو خواب با پارکینگ",
+                                            "district_persian": "فلاح",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZaFihfG",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hzabY",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:43:20.894583"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/LL0p5kY5yK_FO__AhrX-iA/19aabf05-6f7e-4e71-846f-08cd984796d3.jpg",
+                                "title": "۶۵ متر، فلاح",
+                                "second_description": "۳,۷۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZg1EVN7",
+                                        "current_token": "QZ0hzabY",
+                                        "suggested_tokens": [
+                                            "QZ05ryDu",
+                                            "QZ0N4YQF",
+                                            "QZ0NzEqt",
+                                            "QZ0RBOB5",
+                                            "QZ1N4056",
+                                            "QZaFihfG",
+                                            "QZg1EVN7",
+                                            "QZlheNhs",
+                                            "QZq05vIY"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:43:20.894583"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۶۵ متر فلاح",
+                                            "district_persian": "فلاح",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZg1EVN7",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hzabY",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:43:20.894583"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/ZeADzcpMgBFOuZNRvfJLpw/fda78742-3bdb-44fc-8c0b-89e744b7f390.jpg",
+                                "title": "۷۲ متر، فلاح",
+                                "second_description": "۳,۸۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZlheNhs",
+                                        "current_token": "QZ0hzabY",
+                                        "suggested_tokens": [
+                                            "QZ05ryDu",
+                                            "QZ0N4YQF",
+                                            "QZ0NzEqt",
+                                            "QZ0RBOB5",
+                                            "QZ1N4056",
+                                            "QZaFihfG",
+                                            "QZg1EVN7",
+                                            "QZlheNhs",
+                                            "QZq05vIY"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:43:20.894583"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۷۲ متری فول (فلاح)",
+                                            "district_persian": "فلاح",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZlheNhs",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hzabY",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:43:20.894583"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/govVIVfOlI81qGDMhScAvg/0b78ece9-b84e-437d-a7f7-01d973a79a2b.jpg",
+                                "title": "۷۸ متر، آذری",
+                                "second_description": "۳,۷۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZq05vIY",
+                                        "current_token": "QZ0hzabY",
+                                        "suggested_tokens": [
+                                            "QZ05ryDu",
+                                            "QZ0N4YQF",
+                                            "QZ0NzEqt",
+                                            "QZ0RBOB5",
+                                            "QZ1N4056",
+                                            "QZaFihfG",
+                                            "QZg1EVN7",
+                                            "QZlheNhs",
+                                            "QZq05vIY"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T09:43:20.894583"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۷۸ متری/لقمان حکیم نیک پی",
+                                            "district_persian": "آذری",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZq05vIY",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0hzabY",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T09:43:20.894583"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ05ryDu",
+                                    "QZ0N4YQF",
+                                    "QZ0NzEqt",
+                                    "QZ0RBOB5",
+                                    "QZ1N4056",
+                                    "QZaFihfG",
+                                    "QZg1EVN7",
+                                    "QZlheNhs",
+                                    "QZq05vIY"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ0hzabY",
+                                    "metadata": {
+                                        "last_modified": "2023-12-10T09:43:20.894583"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                }
+            ],
+            "post_suggestion_extra_logs": [
+                {
+                    "suggested_tokens": [
+                        "QZ0B7EHv",
+                        "QZ0Fy-XK",
+                        "QZ0J7Oc9",
+                        "QZ0JC2Nv",
+                        "QZ0V23wD",
+                        "QZcx-n_c",
+                        "QZkRKtt8",
+                        "QZLl27FR",
+                        "QZpR8Xqm",
+                        "QZPxdv7-"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-10T09:40:37.999554"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:40:37.999554"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:40:37.999554"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:40:37.999554"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:40:37.999554"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:40:37.999554"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:40:37.999554"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:40:37.999554"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:40:37.999554"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:40:37.999554"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION"
+                },
+                {
+                    "suggested_tokens": [
+                        "QZ05ryDu",
+                        "QZ0N4YQF",
+                        "QZ0NzEqt",
+                        "QZ0RBOB5",
+                        "QZ1N4056",
+                        "QZaFihfG",
+                        "QZg1EVN7",
+                        "QZlheNhs",
+                        "QZq05vIY"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-10T09:43:20.894583"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:43:20.894583"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:43:20.894583"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:43:20.894583"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:43:20.894583"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:43:20.894583"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:43:20.894583"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:43:20.894583"
+                        },
+                        {
+                            "last_modified": "2023-12-10T09:43:20.894583"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS"
+                }
+            ]
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZ0hzabY",
+    "error": 0
+}

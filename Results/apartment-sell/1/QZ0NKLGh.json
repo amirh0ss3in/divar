@@ -1,0 +1,2129 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "آپارتمان در شهرک نصر|فروش آپارتمان|تهران، شهرک آزادی|دیوار",
+            "description": "آپارتمان در شهرک نصر|فروش آپارتمان|تهران، شهرک آزادی|خرید و فروش آپارتمان در شهرک نصر طبقه دوم وپارکینگ سندی مشخص شده کل مشاعات بازسازی شده. \nمعاوضه با واحد کوچکتر| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B4%D9%87%D8%B1%DA%A9-%D9%86%D8%B5%D8%B1_فروش-آپارتمان_تهران_شهرک-آزادی_دیوار/QZ0NKLGh",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/آپارتمان در شهرک نصر/QZ0NKLGh/",
+            "ios_app_url": "ios-app://863029557/http/v/آپارتمان در شهرک نصر/QZ0NKLGh/"
+        },
+        "share": {
+            "title": "آپارتمان در شهرک نصر",
+            "description": "آپارتمان در شهرک نصر طبقه دوم وپارکینگ سندی مشخص شده کل مشاعات بازسازی شده. \nمعاوضه با واحد کوچکتر",
+            "android_url": "https://divar.ir/v/QZ0NKLGh?ref=android",
+            "ios_url": "https://divar.ir/v/QZ0NKLGh?ref=ios",
+            "web_url": "https://divar.ir/v/QZ0NKLGh"
+        },
+        "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B4%D9%87%D8%B1%DA%A9-%D9%86%D8%B5%D8%B1_فروش-آپارتمان_تهران_شهرک-آزادی_دیوار/QZ0NKLGh",
+        "category": {
+            "slug": "apartment-sell",
+            "title": "فروش آپارتمان",
+            "second_slug": "فروش آپارتمان"
+        },
+        "description": "آپارتمان در شهرک نصر طبقه دوم وپارکینگ سندی مشخص شده کل مشاعات بازسازی شده. \nمعاوضه با واحد کوچکتر",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-sell",
+            "token": "QZ0NKLGh",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 0,
+            "district": "شهرک آزادی",
+            "cat_3": "apartment-sell",
+            "cat_2": "residential-sell",
+            "cat_1": "real-estate",
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": 8100000000,
+            "rent": null,
+            "credit": null
+        },
+        "district": "شهرک آزادی",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "۲۰ ساعت پیش",
+            "subtitle": "۲۰ ساعت پیش در تهران، شهرک آزادی | فروش آپارتمان",
+            "title": "آپارتمان در شهرک نصر",
+            "place": "شهرک آزادی",
+            "business_logo": null
+        },
+        "description": "آپارتمان در شهرک نصر طبقه دوم وپارکینگ سندی مشخص شده کل مشاعات بازسازی شده. \nمعاوضه با واحد کوچکتر",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۹۹"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۷۵"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۲"
+                    }
+                ]
+            },
+            {
+                "title": "قیمت کل",
+                "format": "string",
+                "value": "۸٬۱۰۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "قیمت هر متر",
+                "format": "string",
+                "value": "۸۱٬۸۱۸٬۰۰۰ تومان"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۲ از ۳"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور ندارد",
+                        "available": false,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_hint/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_hint/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_HINT"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true,
+                "next_page_text": "نمایش همهٔ جزئیات",
+                "next_page": {
+                    "title": "ویژگی‌ها و امکانات",
+                    "widget_list": [
+                        {
+                            "widget_type": "TITLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.TitleRowData",
+                                "text": "ویژگی‌ها",
+                                "text_color": "TEXT_PRIMARY",
+                                "has_divider": false,
+                                "color": "",
+                                "description": "",
+                                "description_color": "UNKNOWN",
+                                "subtitle": "",
+                                "subtitle_color": "UNKNOWN"
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "تعداد واحد در طبقه",
+                                "value": "۲",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "سند",
+                                "value": "تک‌برگ",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "جهت ساختمان",
+                                "value": "شمالی",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "وضعیت واحد",
+                                "value": "بازسازی شده",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "TITLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.TitleRowData",
+                                "text": "امکانات",
+                                "text_color": "TEXT_PRIMARY",
+                                "has_divider": false,
+                                "color": "",
+                                "description": "",
+                                "description_color": "UNKNOWN",
+                                "subtitle": "",
+                                "subtitle_color": "UNKNOWN"
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "آسانسور ندارد",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                                    "icon_name": "ELEVATOR",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "پارکینگ",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                                    "icon_name": "PARKING",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "انباری",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                                    "icon_name": "CABINET",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "بالکن",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/balcony.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/balcony.png",
+                                    "icon_name": "BALCONY",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "جنس کف سرامیک",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/texture.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/texture.png",
+                                    "icon_name": "TEXTURE",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "سرویس بهداشتی ایرانی و فرنگی",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/wc.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/wc.png",
+                                    "icon_name": "WC",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "سرمایش کولر آبی",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/snowflake.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/snowflake.png",
+                                    "icon_name": "SNOWFLAKE",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "گرمایش بخاری",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/sunny.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/sunny.png",
+                                    "icon_name": "SUNNY",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "تأمین‌کننده آب گرم آبگرم‌کن",
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/thermometer.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/thermometer.png",
+                                    "icon_name": "THERMOMETER",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "has_divider": false,
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        }
+                    ],
+                    "is_searchable": false,
+                    "nav_bar": []
+                }
+            }
+        ],
+        "location": {
+            "latitude": "35.709427",
+            "longitude": "51.273167",
+            "map_url": "https://cdn.raah.ir/divar-images-2/QZ0NKLGh.png"
+        },
+        "images": [],
+        "web_images": [],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 210,
+                    "parent_slug": "residential-sell",
+                    "slug": "apartment-sell",
+                    "title": "فروش آپارتمان",
+                    "second_slug": "فروش آپارتمان",
+                    "relative_url": "tehran/buy-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 209,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-sell",
+                    "title": "فروش مسکونی",
+                    "second_slug": "فروش مسکونی",
+                    "relative_url": "tehran/buy-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "فروش-مسکونی/املاک/فروش-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "(پنهان‌شده؛ چت کنید)",
+            "hide_phone": true,
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "فروش آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,فروش-آپارتمان",
+                "relative_url": "tehran/buy-apartment"
+            },
+            {
+                "title": "فروش آپارتمان در شهرک آزادی",
+                "url": "https://divar.ir/tehran/تهران/شهرک-آزادی/browse/فروش-مسکونی/املاک/فروش-آپارتمان/?place=8,164",
+                "relative_url": "tehran/buy-apartment/azadi"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": true,
+            "title": "آگهی‌های مشابه در این محله",
+            "posts": [
+                {
+                    "bottom_text": "۵,۴۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۶ متر، شهرک آزادی",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/fSQyIhalJbdsj97jSXN-1g/5a5efe58-dfd3-4595-9298-b5c8a3148228.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0VAPz2"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T20:43:18.444609"
+                    },
+                    "token": "QZ0VAPz2",
+                    "web_info": {
+                        "title": "66متری دو خوابه خوش نقشه",
+                        "district_persian": "شهرک آزادی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۶,۶۶۴,۰۰۰,۰۰۰ تومان",
+                    "title": "۹۸ متر، شهرک آزادی",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/LG1DrfwTV6iny6XPpf-Lwg/7BAB940A-95A7-49A7-9C67-F6C92C5D70F9.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZe5AQsj"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T20:43:18.444609"
+                    },
+                    "token": "QZe5AQsj",
+                    "web_info": {
+                        "title": "آپارتمان ۹۸ متری  تهرانسر محدوده بلوار یاس",
+                        "district_persian": "شهرک آزادی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۸,۴۵۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۹۰ متر، شهرک آزادی",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/XyhJz1SyMSNZLZQQnlyciA/2497feaf-301c-45fc-89fb-5511d30e81b5.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZFNOZft"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T20:43:18.444609"
+                    },
+                    "token": "QZFNOZft",
+                    "web_info": {
+                        "title": "90 متر دو خوابه",
+                        "district_persian": "شهرک آزادی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۶,۰۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۰ متر، شهرک آزادی",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/rRhCgNjkiSm6lCtDezsmYg/0256e9b4-87f3-43ae-b569-05d2a2bb4151.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZg1jX9m"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T20:43:18.444609"
+                    },
+                    "token": "QZg1jX9m",
+                    "web_info": {
+                        "title": "شهرک‌آزادی ۷۰ متر ۱ خواب",
+                        "district_persian": "شهرک آزادی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۷,۷۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۹۷ متر، شهرک آزادی",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZjxnmGe"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T20:43:18.444609"
+                    },
+                    "token": "QZjxnmGe",
+                    "web_info": {
+                        "title": "فروش ۹۷ متر +۶ متر انباری",
+                        "district_persian": "شهرک آزادی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۵,۳۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۵ متر، شهرک آزادی",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/6QY5E6eLH3CiYD2SDGvpFg/bb19c91a-298e-498a-b670-195667e088e2.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZkpKPiZ"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T20:43:18.444609"
+                    },
+                    "token": "QZkpKPiZ",
+                    "web_info": {
+                        "title": "آپارتمانی خوش نقشه وبدون پرتی در جایی دنج وساکت",
+                        "district_persian": "شهرک آزادی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۱۰,۰۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۱۰۳ متر، شهرک آزادی",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/CaHkVDsbHhkKl7RPxOERfA/1a3cc428-0912-4e02-b838-a394ad6f9d04.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZl97Me8"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T20:43:18.444609"
+                    },
+                    "token": "QZl97Me8",
+                    "web_info": {
+                        "title": "اپارتمان ۱۰۳ متری منطقه",
+                        "district_persian": "شهرک آزادی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۹,۵۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۱۱۷ متر، شهرک آزادی",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/6m08mfnOMxu2p9yG1X0ceg/01ce170a-81e6-4346-830a-b7c547cb6aa8.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZo9jfdg"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T20:43:18.444609"
+                    },
+                    "token": "QZo9jfdg",
+                    "web_info": {
+                        "title": "آپارتمان",
+                        "district_persian": "شهرک آزادی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۵,۸۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۱ متر، شهرک آزادی",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/jM8sBC4sk7ym25muA3SCbg/4C845360-13BF-44E2-A966-0A7744A93B67.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZoB9oUv"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T20:43:18.444609"
+                    },
+                    "token": "QZoB9oUv",
+                    "web_info": {
+                        "title": "فروش آپارتمان ۷۱ متری شهرک آزادی",
+                        "district_persian": "شهرک آزادی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۸,۱۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۱۰۸ متر، شهرک آزادی",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/GQjoLPgOa-N4Nhs6edYpIQ/68da1ead-f440-4541-afb5-ac2633c7ca45.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZoRDWIn"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T20:43:18.444609"
+                    },
+                    "token": "QZoRDWIn",
+                    "web_info": {
+                        "title": "108 متر تکواحدی ویو ابدی",
+                        "district_persian": "شهرک آزادی",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                }
+            ],
+            "widget_list": [
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌های مشابه در این محله",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/fSQyIhalJbdsj97jSXN-1g/5a5efe58-dfd3-4595-9298-b5c8a3148228.jpg",
+                                "title": "۶۶ متر، شهرک آزادی",
+                                "second_description": "۵,۴۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0VAPz2",
+                                        "current_token": "QZ0NKLGh",
+                                        "suggested_tokens": [
+                                            "QZ0VAPz2",
+                                            "QZe5AQsj",
+                                            "QZFNOZft",
+                                            "QZg1jX9m",
+                                            "QZjxnmGe",
+                                            "QZkpKPiZ",
+                                            "QZl97Me8",
+                                            "QZo9jfdg",
+                                            "QZoB9oUv",
+                                            "QZoRDWIn"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T20:43:18.444609"
+                                        },
+                                        "web_info": {
+                                            "title": "66متری دو خوابه خوش نقشه",
+                                            "district_persian": "شهرک آزادی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0VAPz2",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0NKLGh",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T20:43:18.444609"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/LG1DrfwTV6iny6XPpf-Lwg/7BAB940A-95A7-49A7-9C67-F6C92C5D70F9.jpg",
+                                "title": "۹۸ متر، شهرک آزادی",
+                                "second_description": "۶,۶۶۴,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZe5AQsj",
+                                        "current_token": "QZ0NKLGh",
+                                        "suggested_tokens": [
+                                            "QZ0VAPz2",
+                                            "QZe5AQsj",
+                                            "QZFNOZft",
+                                            "QZg1jX9m",
+                                            "QZjxnmGe",
+                                            "QZkpKPiZ",
+                                            "QZl97Me8",
+                                            "QZo9jfdg",
+                                            "QZoB9oUv",
+                                            "QZoRDWIn"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T20:43:18.444609"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۹۸ متری  تهرانسر محدوده بلوار یاس",
+                                            "district_persian": "شهرک آزادی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZe5AQsj",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0NKLGh",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T20:43:18.444609"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/XyhJz1SyMSNZLZQQnlyciA/2497feaf-301c-45fc-89fb-5511d30e81b5.jpg",
+                                "title": "۹۰ متر، شهرک آزادی",
+                                "second_description": "۸,۴۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZFNOZft",
+                                        "current_token": "QZ0NKLGh",
+                                        "suggested_tokens": [
+                                            "QZ0VAPz2",
+                                            "QZe5AQsj",
+                                            "QZFNOZft",
+                                            "QZg1jX9m",
+                                            "QZjxnmGe",
+                                            "QZkpKPiZ",
+                                            "QZl97Me8",
+                                            "QZo9jfdg",
+                                            "QZoB9oUv",
+                                            "QZoRDWIn"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T20:43:18.444609"
+                                        },
+                                        "web_info": {
+                                            "title": "90 متر دو خوابه",
+                                            "district_persian": "شهرک آزادی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZFNOZft",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0NKLGh",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T20:43:18.444609"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/rRhCgNjkiSm6lCtDezsmYg/0256e9b4-87f3-43ae-b569-05d2a2bb4151.jpg",
+                                "title": "۷۰ متر، شهرک آزادی",
+                                "second_description": "۶,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZg1jX9m",
+                                        "current_token": "QZ0NKLGh",
+                                        "suggested_tokens": [
+                                            "QZ0VAPz2",
+                                            "QZe5AQsj",
+                                            "QZFNOZft",
+                                            "QZg1jX9m",
+                                            "QZjxnmGe",
+                                            "QZkpKPiZ",
+                                            "QZl97Me8",
+                                            "QZo9jfdg",
+                                            "QZoB9oUv",
+                                            "QZoRDWIn"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T20:43:18.444609"
+                                        },
+                                        "web_info": {
+                                            "title": "شهرک‌آزادی ۷۰ متر ۱ خواب",
+                                            "district_persian": "شهرک آزادی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZg1jX9m",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0NKLGh",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T20:43:18.444609"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۹۷ متر، شهرک آزادی",
+                                "second_description": "۷,۷۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZjxnmGe",
+                                        "current_token": "QZ0NKLGh",
+                                        "suggested_tokens": [
+                                            "QZ0VAPz2",
+                                            "QZe5AQsj",
+                                            "QZFNOZft",
+                                            "QZg1jX9m",
+                                            "QZjxnmGe",
+                                            "QZkpKPiZ",
+                                            "QZl97Me8",
+                                            "QZo9jfdg",
+                                            "QZoB9oUv",
+                                            "QZoRDWIn"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T20:43:18.444609"
+                                        },
+                                        "web_info": {
+                                            "title": "فروش ۹۷ متر +۶ متر انباری",
+                                            "district_persian": "شهرک آزادی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZjxnmGe",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0NKLGh",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T20:43:18.444609"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/6QY5E6eLH3CiYD2SDGvpFg/bb19c91a-298e-498a-b670-195667e088e2.jpg",
+                                "title": "۷۵ متر، شهرک آزادی",
+                                "second_description": "۵,۳۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZkpKPiZ",
+                                        "current_token": "QZ0NKLGh",
+                                        "suggested_tokens": [
+                                            "QZ0VAPz2",
+                                            "QZe5AQsj",
+                                            "QZFNOZft",
+                                            "QZg1jX9m",
+                                            "QZjxnmGe",
+                                            "QZkpKPiZ",
+                                            "QZl97Me8",
+                                            "QZo9jfdg",
+                                            "QZoB9oUv",
+                                            "QZoRDWIn"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T20:43:18.444609"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمانی خوش نقشه وبدون پرتی در جایی دنج وساکت",
+                                            "district_persian": "شهرک آزادی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZkpKPiZ",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0NKLGh",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T20:43:18.444609"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/CaHkVDsbHhkKl7RPxOERfA/1a3cc428-0912-4e02-b838-a394ad6f9d04.jpg",
+                                "title": "۱۰۳ متر، شهرک آزادی",
+                                "second_description": "۱۰,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZl97Me8",
+                                        "current_token": "QZ0NKLGh",
+                                        "suggested_tokens": [
+                                            "QZ0VAPz2",
+                                            "QZe5AQsj",
+                                            "QZFNOZft",
+                                            "QZg1jX9m",
+                                            "QZjxnmGe",
+                                            "QZkpKPiZ",
+                                            "QZl97Me8",
+                                            "QZo9jfdg",
+                                            "QZoB9oUv",
+                                            "QZoRDWIn"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T20:43:18.444609"
+                                        },
+                                        "web_info": {
+                                            "title": "اپارتمان ۱۰۳ متری منطقه",
+                                            "district_persian": "شهرک آزادی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZl97Me8",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0NKLGh",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T20:43:18.444609"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/6m08mfnOMxu2p9yG1X0ceg/01ce170a-81e6-4346-830a-b7c547cb6aa8.jpg",
+                                "title": "۱۱۷ متر، شهرک آزادی",
+                                "second_description": "۹,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZo9jfdg",
+                                        "current_token": "QZ0NKLGh",
+                                        "suggested_tokens": [
+                                            "QZ0VAPz2",
+                                            "QZe5AQsj",
+                                            "QZFNOZft",
+                                            "QZg1jX9m",
+                                            "QZjxnmGe",
+                                            "QZkpKPiZ",
+                                            "QZl97Me8",
+                                            "QZo9jfdg",
+                                            "QZoB9oUv",
+                                            "QZoRDWIn"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T20:43:18.444609"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان",
+                                            "district_persian": "شهرک آزادی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZo9jfdg",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0NKLGh",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T20:43:18.444609"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/jM8sBC4sk7ym25muA3SCbg/4C845360-13BF-44E2-A966-0A7744A93B67.jpg",
+                                "title": "۷۱ متر، شهرک آزادی",
+                                "second_description": "۵,۸۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZoB9oUv",
+                                        "current_token": "QZ0NKLGh",
+                                        "suggested_tokens": [
+                                            "QZ0VAPz2",
+                                            "QZe5AQsj",
+                                            "QZFNOZft",
+                                            "QZg1jX9m",
+                                            "QZjxnmGe",
+                                            "QZkpKPiZ",
+                                            "QZl97Me8",
+                                            "QZo9jfdg",
+                                            "QZoB9oUv",
+                                            "QZoRDWIn"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T20:43:18.444609"
+                                        },
+                                        "web_info": {
+                                            "title": "فروش آپارتمان ۷۱ متری شهرک آزادی",
+                                            "district_persian": "شهرک آزادی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZoB9oUv",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0NKLGh",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T20:43:18.444609"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/GQjoLPgOa-N4Nhs6edYpIQ/68da1ead-f440-4541-afb5-ac2633c7ca45.jpg",
+                                "title": "۱۰۸ متر، شهرک آزادی",
+                                "second_description": "۸,۱۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZoRDWIn",
+                                        "current_token": "QZ0NKLGh",
+                                        "suggested_tokens": [
+                                            "QZ0VAPz2",
+                                            "QZe5AQsj",
+                                            "QZFNOZft",
+                                            "QZg1jX9m",
+                                            "QZjxnmGe",
+                                            "QZkpKPiZ",
+                                            "QZl97Me8",
+                                            "QZo9jfdg",
+                                            "QZoB9oUv",
+                                            "QZoRDWIn"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T20:43:18.444609"
+                                        },
+                                        "web_info": {
+                                            "title": "108 متر تکواحدی ویو ابدی",
+                                            "district_persian": "شهرک آزادی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZoRDWIn",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0NKLGh",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T20:43:18.444609"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ0VAPz2",
+                                    "QZe5AQsj",
+                                    "QZFNOZft",
+                                    "QZg1jX9m",
+                                    "QZjxnmGe",
+                                    "QZkpKPiZ",
+                                    "QZl97Me8",
+                                    "QZo9jfdg",
+                                    "QZoB9oUv",
+                                    "QZoRDWIn"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ0NKLGh",
+                                    "metadata": {
+                                        "last_modified": "2023-12-09T20:43:18.444609"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                },
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌‌های مشابه در دیگر محله‌ها",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/EFxsZkrOTWUnqeX8VfgyjA/eafecc86-ebc6-4937-9b29-655767fb93cc.jpg",
+                                "title": "۵۵ متر، تهران‌سر",
+                                "second_description": "۳,۷۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "AZSfWM14",
+                                        "current_token": "QZ0NKLGh",
+                                        "suggested_tokens": [
+                                            "AZSfWM14",
+                                            "QZ0BquAD",
+                                            "QZ0BWpK5",
+                                            "QZ0hir7R",
+                                            "QZ0JGYYS",
+                                            "QZ0NqBua",
+                                            "QZcBp9B9",
+                                            "QZchYhf9",
+                                            "QZpV22LC",
+                                            "QZQtHuqw"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T20:44:09.369500"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "فروش 55متری 2خواب با پارکینگ/اصلی تهرانسر بازسازی",
+                                            "district_persian": "تهران‌سر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "AZSfWM14",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0NKLGh",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T20:44:09.369500"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/Zf4v4BY3_FObJrvTWlyVWQ/f02277ba-5a9a-474c-8f4e-c64212b22ff1.jpg",
+                                "title": "۵۷ متر، تهران‌سر",
+                                "second_description": "۳,۳۶۵,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0BquAD",
+                                        "current_token": "QZ0NKLGh",
+                                        "suggested_tokens": [
+                                            "AZSfWM14",
+                                            "QZ0BquAD",
+                                            "QZ0BWpK5",
+                                            "QZ0hir7R",
+                                            "QZ0JGYYS",
+                                            "QZ0NqBua",
+                                            "QZcBp9B9",
+                                            "QZchYhf9",
+                                            "QZpV22LC",
+                                            "QZQtHuqw"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T20:44:09.369500"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۵۷ متری خوش نقشه رو به آفتاب",
+                                            "district_persian": "تهران‌سر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0BquAD",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0NKLGh",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T20:44:09.369500"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۵۱ متر، تهران‌سر",
+                                "second_description": "۲,۹۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0BWpK5",
+                                        "current_token": "QZ0NKLGh",
+                                        "suggested_tokens": [
+                                            "AZSfWM14",
+                                            "QZ0BquAD",
+                                            "QZ0BWpK5",
+                                            "QZ0hir7R",
+                                            "QZ0JGYYS",
+                                            "QZ0NqBua",
+                                            "QZcBp9B9",
+                                            "QZchYhf9",
+                                            "QZpV22LC",
+                                            "QZQtHuqw"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T20:44:09.369500"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۵۱متر ی خواب",
+                                            "district_persian": "تهران‌سر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0BWpK5",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0NKLGh",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T20:44:09.369500"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/PBxAZHb5PRxX-E5UcaX95Q/06db782c-0173-41b2-9888-6d84553cf3d8.jpg",
+                                "title": "۵۶ متر، تهران‌سر",
+                                "second_description": "۳,۴۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0hir7R",
+                                        "current_token": "QZ0NKLGh",
+                                        "suggested_tokens": [
+                                            "AZSfWM14",
+                                            "QZ0BquAD",
+                                            "QZ0BWpK5",
+                                            "QZ0hir7R",
+                                            "QZ0JGYYS",
+                                            "QZ0NqBua",
+                                            "QZcBp9B9",
+                                            "QZchYhf9",
+                                            "QZpV22LC",
+                                            "QZQtHuqw"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T20:44:09.369500"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "تهرانسر ۵۶ متر دو خواب فول",
+                                            "district_persian": "تهران‌سر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0hir7R",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0NKLGh",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T20:44:09.369500"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/UMk26HJdAjrzTGjRWA2GRw/F9EECB31-5D66-43E9-A33A-228132053923.jpg",
+                                "title": "۱۱۴ متر، شهرک فرهنگیان",
+                                "second_description": "۷,۷۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0JGYYS",
+                                        "current_token": "QZ0NKLGh",
+                                        "suggested_tokens": [
+                                            "AZSfWM14",
+                                            "QZ0BquAD",
+                                            "QZ0BWpK5",
+                                            "QZ0hir7R",
+                                            "QZ0JGYYS",
+                                            "QZ0NqBua",
+                                            "QZcBp9B9",
+                                            "QZchYhf9",
+                                            "QZpV22LC",
+                                            "QZQtHuqw"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T20:44:09.369500"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "دوخواب طبقه همکف",
+                                            "district_persian": "شهرک فرهنگیان",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0JGYYS",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0NKLGh",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T20:44:09.369500"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/TLHf3Z63ZWL78akmAZA5sQ/e603dd38-77f0-4f16-8013-2835f196efe1.jpg",
+                                "title": "۴۷ متر، تهران‌سر",
+                                "second_description": "۳,۳۱۳,۵۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0NqBua",
+                                        "current_token": "QZ0NKLGh",
+                                        "suggested_tokens": [
+                                            "AZSfWM14",
+                                            "QZ0BquAD",
+                                            "QZ0BWpK5",
+                                            "QZ0hir7R",
+                                            "QZ0JGYYS",
+                                            "QZ0NqBua",
+                                            "QZcBp9B9",
+                                            "QZchYhf9",
+                                            "QZpV22LC",
+                                            "QZQtHuqw"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T20:44:09.369500"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۴۷ متر ابتدای تهرانسر اصلی",
+                                            "district_persian": "تهران‌سر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0NqBua",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0NKLGh",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T20:44:09.369500"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/7kny7-2wgLWOvQ1MqZttxw/04f34a50-f197-44a4-b951-456f55c27db2.jpg",
+                                "title": "۹۷ متر، تهران‌سر",
+                                "second_description": "۸,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZcBp9B9",
+                                        "current_token": "QZ0NKLGh",
+                                        "suggested_tokens": [
+                                            "AZSfWM14",
+                                            "QZ0BquAD",
+                                            "QZ0BWpK5",
+                                            "QZ0hir7R",
+                                            "QZ0JGYYS",
+                                            "QZ0NqBua",
+                                            "QZcBp9B9",
+                                            "QZchYhf9",
+                                            "QZpV22LC",
+                                            "QZQtHuqw"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T20:44:09.369500"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان نوساز",
+                                            "district_persian": "تهران‌سر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZcBp9B9",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0NKLGh",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T20:44:09.369500"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/8Uggp64snvCMnEOppHroyQ/07b4b589-8c34-43a2-81f8-ba877c7fce2b.jpg",
+                                "title": "۱۰۹ متر، تهران‌سر",
+                                "second_description": "۸,۵۲۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZchYhf9",
+                                        "current_token": "QZ0NKLGh",
+                                        "suggested_tokens": [
+                                            "AZSfWM14",
+                                            "QZ0BquAD",
+                                            "QZ0BWpK5",
+                                            "QZ0hir7R",
+                                            "QZ0JGYYS",
+                                            "QZ0NqBua",
+                                            "QZcBp9B9",
+                                            "QZchYhf9",
+                                            "QZpV22LC",
+                                            "QZQtHuqw"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T20:44:09.369500"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۱۰۹متری تک ۴تا تک واحدی هرطبقه یک واحد",
+                                            "district_persian": "تهران‌سر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZchYhf9",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0NKLGh",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T20:44:09.369500"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/IotDV6AwSIRLKRmVOZRx_A/5c544526-0160-49b4-8f31-3dc04750c26f.jpg",
+                                "title": "۱۱۵ متر، تهران‌سر",
+                                "second_description": "۸,۱۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZpV22LC",
+                                        "current_token": "QZ0NKLGh",
+                                        "suggested_tokens": [
+                                            "AZSfWM14",
+                                            "QZ0BquAD",
+                                            "QZ0BWpK5",
+                                            "QZ0hir7R",
+                                            "QZ0JGYYS",
+                                            "QZ0NqBua",
+                                            "QZcBp9B9",
+                                            "QZchYhf9",
+                                            "QZpV22LC",
+                                            "QZQtHuqw"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T20:44:09.369500"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۱۱۵ متر دوخوابه",
+                                            "district_persian": "تهران‌سر",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZpV22LC",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0NKLGh",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T20:44:09.369500"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/39ceU4_40cmsZNN6VdIwAw/d6968177-d6e5-4504-bebf-aee5b3b01ba1.jpg",
+                                "title": "۹۰ متر، ارم",
+                                "second_description": "۸,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZQtHuqw",
+                                        "current_token": "QZ0NKLGh",
+                                        "suggested_tokens": [
+                                            "AZSfWM14",
+                                            "QZ0BquAD",
+                                            "QZ0BWpK5",
+                                            "QZ0hir7R",
+                                            "QZ0JGYYS",
+                                            "QZ0NqBua",
+                                            "QZcBp9B9",
+                                            "QZchYhf9",
+                                            "QZpV22LC",
+                                            "QZQtHuqw"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T20:44:09.369500"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۹۰ متر نوساز بهار شمالی",
+                                            "district_persian": "ارم",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZQtHuqw",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0NKLGh",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T20:44:09.369500"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "AZSfWM14",
+                                    "QZ0BquAD",
+                                    "QZ0BWpK5",
+                                    "QZ0hir7R",
+                                    "QZ0JGYYS",
+                                    "QZ0NqBua",
+                                    "QZcBp9B9",
+                                    "QZchYhf9",
+                                    "QZpV22LC",
+                                    "QZQtHuqw"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ0NKLGh",
+                                    "metadata": {
+                                        "last_modified": "2023-12-09T20:44:09.369500"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                }
+            ],
+            "post_suggestion_extra_logs": [
+                {
+                    "suggested_tokens": [
+                        "QZ0VAPz2",
+                        "QZe5AQsj",
+                        "QZFNOZft",
+                        "QZg1jX9m",
+                        "QZjxnmGe",
+                        "QZkpKPiZ",
+                        "QZl97Me8",
+                        "QZo9jfdg",
+                        "QZoB9oUv",
+                        "QZoRDWIn"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-09T20:43:18.444609"
+                        },
+                        {
+                            "last_modified": "2023-12-09T20:43:18.444609"
+                        },
+                        {
+                            "last_modified": "2023-12-09T20:43:18.444609"
+                        },
+                        {
+                            "last_modified": "2023-12-09T20:43:18.444609"
+                        },
+                        {
+                            "last_modified": "2023-12-09T20:43:18.444609"
+                        },
+                        {
+                            "last_modified": "2023-12-09T20:43:18.444609"
+                        },
+                        {
+                            "last_modified": "2023-12-09T20:43:18.444609"
+                        },
+                        {
+                            "last_modified": "2023-12-09T20:43:18.444609"
+                        },
+                        {
+                            "last_modified": "2023-12-09T20:43:18.444609"
+                        },
+                        {
+                            "last_modified": "2023-12-09T20:43:18.444609"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION"
+                },
+                {
+                    "suggested_tokens": [
+                        "AZSfWM14",
+                        "QZ0BquAD",
+                        "QZ0BWpK5",
+                        "QZ0hir7R",
+                        "QZ0JGYYS",
+                        "QZ0NqBua",
+                        "QZcBp9B9",
+                        "QZchYhf9",
+                        "QZpV22LC",
+                        "QZQtHuqw"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-09T20:44:09.369500"
+                        },
+                        {
+                            "last_modified": "2023-12-09T20:44:09.369500"
+                        },
+                        {
+                            "last_modified": "2023-12-09T20:44:09.369500"
+                        },
+                        {
+                            "last_modified": "2023-12-09T20:44:09.369500"
+                        },
+                        {
+                            "last_modified": "2023-12-09T20:44:09.369500"
+                        },
+                        {
+                            "last_modified": "2023-12-09T20:44:09.369500"
+                        },
+                        {
+                            "last_modified": "2023-12-09T20:44:09.369500"
+                        },
+                        {
+                            "last_modified": "2023-12-09T20:44:09.369500"
+                        },
+                        {
+                            "last_modified": "2023-12-09T20:44:09.369500"
+                        },
+                        {
+                            "last_modified": "2023-12-09T20:44:09.369500"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS"
+                }
+            ]
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZ0NKLGh",
+    "error": 0
+}

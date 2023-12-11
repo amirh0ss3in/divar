@@ -1,0 +1,1882 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "آپارتمان ۴۷ متری|فروش آپارتمان|تهران، پرستار|دیوار",
+            "description": "آپارتمان ۴۷ متری|فروش آپارتمان|تهران، پرستار|خرید و فروش آپارتمان تک واحدی \nطبقه ۳ از ۴ \nفول امکانات| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B4%DB%B7-%D9%85%D8%AA%D8%B1%DB%8C_فروش-آپارتمان_تهران_پرستار_دیوار/QZ0xLYAo",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/آپارتمان ۴۷ متری/QZ0xLYAo/",
+            "ios_app_url": "ios-app://863029557/http/v/آپارتمان ۴۷ متری/QZ0xLYAo/"
+        },
+        "share": {
+            "title": "آپارتمان ۴۷ متری",
+            "description": "آپارتمان تک واحدی \nطبقه ۳ از ۴ \nفول امکانات",
+            "android_url": "https://divar.ir/v/QZ0xLYAo?ref=android",
+            "ios_url": "https://divar.ir/v/QZ0xLYAo?ref=ios",
+            "web_url": "https://divar.ir/v/QZ0xLYAo"
+        },
+        "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B4%DB%B7-%D9%85%D8%AA%D8%B1%DB%8C_فروش-آپارتمان_تهران_پرستار_دیوار/QZ0xLYAo",
+        "category": {
+            "slug": "apartment-sell",
+            "title": "فروش آپارتمان",
+            "second_slug": "فروش آپارتمان"
+        },
+        "description": "آپارتمان تک واحدی \nطبقه ۳ از ۴ \nفول امکانات",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-sell",
+            "token": "QZ0xLYAo",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 0,
+            "district": "پرستار",
+            "cat_3": "apartment-sell",
+            "cat_2": "residential-sell",
+            "cat_1": "real-estate",
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": 4300000000,
+            "rent": null,
+            "credit": null
+        },
+        "district": "پرستار",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "۱۸ ساعت پیش",
+            "subtitle": "۱۸ ساعت پیش در تهران، پرستار | فروش آپارتمان",
+            "title": "آپارتمان ۴۷ متری",
+            "place": "پرستار",
+            "business_logo": null
+        },
+        "description": "آپارتمان تک واحدی \nطبقه ۳ از ۴ \nفول امکانات",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۴۷"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۹۷"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۱"
+                    }
+                ]
+            },
+            {
+                "title": "قیمت کل",
+                "format": "string",
+                "value": "۴٬۳۰۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "قیمت هر متر",
+                "format": "string",
+                "value": "۹۱٬۴۸۹٬۰۰۰ تومان"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۳"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true
+            }
+        ],
+        "location": {
+            "latitude": "35.67682372404",
+            "longitude": "51.483438982905",
+            "map_url": "https://cdn.raah.ir/divar-images-2/QZ0xLYAo_nearby.png",
+            "is_location_approximate": true,
+            "radius": 500
+        },
+        "images": [],
+        "web_images": [],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 210,
+                    "parent_slug": "residential-sell",
+                    "slug": "apartment-sell",
+                    "title": "فروش آپارتمان",
+                    "second_slug": "فروش آپارتمان",
+                    "relative_url": "tehran/buy-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 209,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-sell",
+                    "title": "فروش مسکونی",
+                    "second_slug": "فروش مسکونی",
+                    "relative_url": "tehran/buy-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "فروش-مسکونی/املاک/فروش-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0910147xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "فروش آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,فروش-آپارتمان",
+                "relative_url": "tehran/buy-apartment"
+            },
+            {
+                "title": "فروش آپارتمان در پرستار",
+                "url": "https://divar.ir/tehran/تهران/پرستار/browse/فروش-مسکونی/املاک/فروش-آپارتمان/?place=8,965",
+                "relative_url": "tehran/buy-apartment/parastar"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": true,
+            "title": "آگهی‌های مشابه در این محله",
+            "posts": [
+                {
+                    "bottom_text": "۴,۲۵۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۵ متر، پرستار",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/oFI1g1TPjqxYC1P8xVMoZA/1526a512-0bf1-4906-915d-95f1b3c5247c.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ05GqzU"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T10:41:57.534107"
+                    },
+                    "token": "QZ05GqzU",
+                    "web_info": {
+                        "title": "۶۵متر/دوخوابه/پارکینگ دار/تکواحد/نبرد شمالی",
+                        "district_persian": "پرستار",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۶,۸۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۴ متر، پرستار",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/QBW3KtuMmVk78NwZENlKQQ/683c6644-29a8-46a1-abdc-bdaf7ce26675.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0pbXqk"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T10:41:57.534107"
+                    },
+                    "token": "QZ0pbXqk",
+                    "web_info": {
+                        "title": "پیروزی،مقداد ۸۴ متر تک واحدی",
+                        "district_persian": "پرستار",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۲,۷۵۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۴۴ متر، پرستار",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ1h2jvc"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T10:41:57.534107"
+                    },
+                    "token": "QZ1h2jvc",
+                    "web_info": {
+                        "title": "آپارتمان فروشی ۴۴ متری پارکینگ پیروزی پرستار",
+                        "district_persian": "پرستار",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۵,۵۲۵,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۵ متر، پرستار",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/-goaPAn1FQaUrxPc4ODTJw/adfef2c7-7988-4503-a046-02e3288f8fe6.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ1h2pE2"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T10:41:57.534107"
+                    },
+                    "token": "QZ1h2pE2",
+                    "web_info": {
+                        "title": "آپارتمان ۶۵ متری",
+                        "district_persian": "پرستار",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۷,۱۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۷ متر، پرستار",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/_2zz6_BuPs8Ott-lLS5Jeg/02ee8985-c7fd-4dc4-b071-336e18e0be05.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZdlreIn"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T10:41:57.534107"
+                    },
+                    "token": "QZdlreIn",
+                    "web_info": {
+                        "title": "اپارتمان 87 متری دو خوابه",
+                        "district_persian": "پرستار",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۴,۳۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۰ متر، پرستار",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/zyMED6ZBrvRnOWp0ngkqYg/51b6f63e-acc1-4c81-9809-cb01a43e1da0.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZfpQRHB"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T10:41:57.534107"
+                    },
+                    "token": "QZfpQRHB",
+                    "web_info": {
+                        "title": "60 متر *فول امکانات* پرستار شمالی *خوش نقشه",
+                        "district_persian": "پرستار",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۴,۹۹۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۵۰ متر، پرستار",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/bpy0cDbupgZxnJWqIgdFPw/cb588237-8ba6-4ff4-b595-87cb50f00373.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZi1wPQY"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T10:41:57.534107"
+                    },
+                    "token": "QZi1wPQY",
+                    "web_info": {
+                        "title": "آپارتمان ۵۰ متری کلید نخورده تک واحدی پرستار",
+                        "district_persian": "پرستار",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۷,۱۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۵ متر، پرستار",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/tUTwriO9PbqapT-HFeifaA/1f870e6a-c997-46d7-a856-e9e12519b9ef.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZkJ2AVx"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T10:41:57.534107"
+                    },
+                    "token": "QZkJ2AVx",
+                    "web_info": {
+                        "title": "اپارتمان 85 متری دو خوابه",
+                        "district_persian": "پرستار",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۴,۲۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۱ متر، پرستار",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/IuUtS8n44KROK8nQpA6RXQ/aebb9afe-31c5-4362-bf56-cf767c04a480.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZkN0_ZZ"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T10:41:57.534107"
+                    },
+                    "token": "QZkN0_ZZ",
+                    "web_info": {
+                        "title": "۶۱متر یک خواب فول امکانات بالای ۱۳ آبان",
+                        "district_persian": "پرستار",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۵,۳۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۶۸ متر، پرستار",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/S9ZSn7ADv5gCOoSE7L7R_A/f1f78990-470e-4ebe-8fef-81e852cd84b8.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZq10Qj0"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T10:41:57.534107"
+                    },
+                    "token": "QZq10Qj0",
+                    "web_info": {
+                        "title": "آپارتمان خوش ساخت، ائمه اطهار، پرستار",
+                        "district_persian": "پرستار",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                }
+            ],
+            "widget_list": [
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌های مشابه در این محله",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/oFI1g1TPjqxYC1P8xVMoZA/1526a512-0bf1-4906-915d-95f1b3c5247c.jpg",
+                                "title": "۶۵ متر، پرستار",
+                                "second_description": "۴,۲۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ05GqzU",
+                                        "current_token": "QZ0xLYAo",
+                                        "suggested_tokens": [
+                                            "QZ05GqzU",
+                                            "QZ0pbXqk",
+                                            "QZ1h2jvc",
+                                            "QZ1h2pE2",
+                                            "QZdlreIn",
+                                            "QZfpQRHB",
+                                            "QZi1wPQY",
+                                            "QZkJ2AVx",
+                                            "QZkN0_ZZ",
+                                            "QZq10Qj0"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:41:57.534107"
+                                        },
+                                        "web_info": {
+                                            "title": "۶۵متر/دوخوابه/پارکینگ دار/تکواحد/نبرد شمالی",
+                                            "district_persian": "پرستار",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ05GqzU",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0xLYAo",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:41:57.534107"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/QBW3KtuMmVk78NwZENlKQQ/683c6644-29a8-46a1-abdc-bdaf7ce26675.jpg",
+                                "title": "۸۴ متر، پرستار",
+                                "second_description": "۶,۸۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0pbXqk",
+                                        "current_token": "QZ0xLYAo",
+                                        "suggested_tokens": [
+                                            "QZ05GqzU",
+                                            "QZ0pbXqk",
+                                            "QZ1h2jvc",
+                                            "QZ1h2pE2",
+                                            "QZdlreIn",
+                                            "QZfpQRHB",
+                                            "QZi1wPQY",
+                                            "QZkJ2AVx",
+                                            "QZkN0_ZZ",
+                                            "QZq10Qj0"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:41:57.534107"
+                                        },
+                                        "web_info": {
+                                            "title": "پیروزی،مقداد ۸۴ متر تک واحدی",
+                                            "district_persian": "پرستار",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0pbXqk",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0xLYAo",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:41:57.534107"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۴۴ متر، پرستار",
+                                "second_description": "۲,۷۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ1h2jvc",
+                                        "current_token": "QZ0xLYAo",
+                                        "suggested_tokens": [
+                                            "QZ05GqzU",
+                                            "QZ0pbXqk",
+                                            "QZ1h2jvc",
+                                            "QZ1h2pE2",
+                                            "QZdlreIn",
+                                            "QZfpQRHB",
+                                            "QZi1wPQY",
+                                            "QZkJ2AVx",
+                                            "QZkN0_ZZ",
+                                            "QZq10Qj0"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:41:57.534107"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان فروشی ۴۴ متری پارکینگ پیروزی پرستار",
+                                            "district_persian": "پرستار",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ1h2jvc",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0xLYAo",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:41:57.534107"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/-goaPAn1FQaUrxPc4ODTJw/adfef2c7-7988-4503-a046-02e3288f8fe6.jpg",
+                                "title": "۶۵ متر، پرستار",
+                                "second_description": "۵,۵۲۵,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ1h2pE2",
+                                        "current_token": "QZ0xLYAo",
+                                        "suggested_tokens": [
+                                            "QZ05GqzU",
+                                            "QZ0pbXqk",
+                                            "QZ1h2jvc",
+                                            "QZ1h2pE2",
+                                            "QZdlreIn",
+                                            "QZfpQRHB",
+                                            "QZi1wPQY",
+                                            "QZkJ2AVx",
+                                            "QZkN0_ZZ",
+                                            "QZq10Qj0"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:41:57.534107"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۶۵ متری",
+                                            "district_persian": "پرستار",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ1h2pE2",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0xLYAo",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:41:57.534107"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/_2zz6_BuPs8Ott-lLS5Jeg/02ee8985-c7fd-4dc4-b071-336e18e0be05.jpg",
+                                "title": "۸۷ متر، پرستار",
+                                "second_description": "۷,۱۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZdlreIn",
+                                        "current_token": "QZ0xLYAo",
+                                        "suggested_tokens": [
+                                            "QZ05GqzU",
+                                            "QZ0pbXqk",
+                                            "QZ1h2jvc",
+                                            "QZ1h2pE2",
+                                            "QZdlreIn",
+                                            "QZfpQRHB",
+                                            "QZi1wPQY",
+                                            "QZkJ2AVx",
+                                            "QZkN0_ZZ",
+                                            "QZq10Qj0"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:41:57.534107"
+                                        },
+                                        "web_info": {
+                                            "title": "اپارتمان 87 متری دو خوابه",
+                                            "district_persian": "پرستار",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZdlreIn",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0xLYAo",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:41:57.534107"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/zyMED6ZBrvRnOWp0ngkqYg/51b6f63e-acc1-4c81-9809-cb01a43e1da0.jpg",
+                                "title": "۶۰ متر، پرستار",
+                                "second_description": "۴,۳۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZfpQRHB",
+                                        "current_token": "QZ0xLYAo",
+                                        "suggested_tokens": [
+                                            "QZ05GqzU",
+                                            "QZ0pbXqk",
+                                            "QZ1h2jvc",
+                                            "QZ1h2pE2",
+                                            "QZdlreIn",
+                                            "QZfpQRHB",
+                                            "QZi1wPQY",
+                                            "QZkJ2AVx",
+                                            "QZkN0_ZZ",
+                                            "QZq10Qj0"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:41:57.534107"
+                                        },
+                                        "web_info": {
+                                            "title": "60 متر *فول امکانات* پرستار شمالی *خوش نقشه",
+                                            "district_persian": "پرستار",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZfpQRHB",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0xLYAo",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:41:57.534107"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/bpy0cDbupgZxnJWqIgdFPw/cb588237-8ba6-4ff4-b595-87cb50f00373.jpg",
+                                "title": "۵۰ متر، پرستار",
+                                "second_description": "۴,۹۹۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZi1wPQY",
+                                        "current_token": "QZ0xLYAo",
+                                        "suggested_tokens": [
+                                            "QZ05GqzU",
+                                            "QZ0pbXqk",
+                                            "QZ1h2jvc",
+                                            "QZ1h2pE2",
+                                            "QZdlreIn",
+                                            "QZfpQRHB",
+                                            "QZi1wPQY",
+                                            "QZkJ2AVx",
+                                            "QZkN0_ZZ",
+                                            "QZq10Qj0"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:41:57.534107"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان ۵۰ متری کلید نخورده تک واحدی پرستار",
+                                            "district_persian": "پرستار",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZi1wPQY",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0xLYAo",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:41:57.534107"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/tUTwriO9PbqapT-HFeifaA/1f870e6a-c997-46d7-a856-e9e12519b9ef.jpg",
+                                "title": "۸۵ متر، پرستار",
+                                "second_description": "۷,۱۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZkJ2AVx",
+                                        "current_token": "QZ0xLYAo",
+                                        "suggested_tokens": [
+                                            "QZ05GqzU",
+                                            "QZ0pbXqk",
+                                            "QZ1h2jvc",
+                                            "QZ1h2pE2",
+                                            "QZdlreIn",
+                                            "QZfpQRHB",
+                                            "QZi1wPQY",
+                                            "QZkJ2AVx",
+                                            "QZkN0_ZZ",
+                                            "QZq10Qj0"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:41:57.534107"
+                                        },
+                                        "web_info": {
+                                            "title": "اپارتمان 85 متری دو خوابه",
+                                            "district_persian": "پرستار",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZkJ2AVx",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0xLYAo",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:41:57.534107"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/IuUtS8n44KROK8nQpA6RXQ/aebb9afe-31c5-4362-bf56-cf767c04a480.jpg",
+                                "title": "۶۱ متر، پرستار",
+                                "second_description": "۴,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZkN0_ZZ",
+                                        "current_token": "QZ0xLYAo",
+                                        "suggested_tokens": [
+                                            "QZ05GqzU",
+                                            "QZ0pbXqk",
+                                            "QZ1h2jvc",
+                                            "QZ1h2pE2",
+                                            "QZdlreIn",
+                                            "QZfpQRHB",
+                                            "QZi1wPQY",
+                                            "QZkJ2AVx",
+                                            "QZkN0_ZZ",
+                                            "QZq10Qj0"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:41:57.534107"
+                                        },
+                                        "web_info": {
+                                            "title": "۶۱متر یک خواب فول امکانات بالای ۱۳ آبان",
+                                            "district_persian": "پرستار",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZkN0_ZZ",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0xLYAo",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:41:57.534107"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/S9ZSn7ADv5gCOoSE7L7R_A/f1f78990-470e-4ebe-8fef-81e852cd84b8.jpg",
+                                "title": "۶۸ متر، پرستار",
+                                "second_description": "۵,۳۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZq10Qj0",
+                                        "current_token": "QZ0xLYAo",
+                                        "suggested_tokens": [
+                                            "QZ05GqzU",
+                                            "QZ0pbXqk",
+                                            "QZ1h2jvc",
+                                            "QZ1h2pE2",
+                                            "QZdlreIn",
+                                            "QZfpQRHB",
+                                            "QZi1wPQY",
+                                            "QZkJ2AVx",
+                                            "QZkN0_ZZ",
+                                            "QZq10Qj0"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:41:57.534107"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان خوش ساخت، ائمه اطهار، پرستار",
+                                            "district_persian": "پرستار",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZq10Qj0",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0xLYAo",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:41:57.534107"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ05GqzU",
+                                    "QZ0pbXqk",
+                                    "QZ1h2jvc",
+                                    "QZ1h2pE2",
+                                    "QZdlreIn",
+                                    "QZfpQRHB",
+                                    "QZi1wPQY",
+                                    "QZkJ2AVx",
+                                    "QZkN0_ZZ",
+                                    "QZq10Qj0"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ0xLYAo",
+                                    "metadata": {
+                                        "last_modified": "2023-12-10T10:41:57.534107"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                },
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌‌های مشابه در دیگر محله‌ها",
+                        "items": [
+                            {
+                                "title": "۷۰ متر، پیروزی",
+                                "second_description": "۵,۷۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0pSvLe",
+                                        "current_token": "QZ0xLYAo",
+                                        "suggested_tokens": [
+                                            "QZ0pSvLe",
+                                            "QZ11HIfn",
+                                            "QZc1TsTR",
+                                            "QZfBY47C",
+                                            "QZgl1IkQ",
+                                            "QZm98avY",
+                                            "QZMd_OSr",
+                                            "QZPtI9ID",
+                                            "QZTVsO9B",
+                                            "QZuJNAED"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:46:26.263260"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "بلوار ابوذر بوستان ۷۰ متر فول",
+                                            "district_persian": "پیروزی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0pSvLe",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0xLYAo",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:46:26.263260"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۵۴ متر، پیروزی",
+                                "second_description": "۴,۷۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ11HIfn",
+                                        "current_token": "QZ0xLYAo",
+                                        "suggested_tokens": [
+                                            "QZ0pSvLe",
+                                            "QZ11HIfn",
+                                            "QZc1TsTR",
+                                            "QZfBY47C",
+                                            "QZgl1IkQ",
+                                            "QZm98avY",
+                                            "QZMd_OSr",
+                                            "QZPtI9ID",
+                                            "QZTVsO9B",
+                                            "QZuJNAED"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:46:26.263260"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "بسیارخوش نقشه درمحله پیروزی",
+                                            "district_persian": "پیروزی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ11HIfn",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0xLYAo",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:46:26.263260"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/DMSW5eYKyil5xhTCnfueoA/6480aa88-eff0-4bef-b71a-558915fc8e4f.jpg",
+                                "title": "۵۴ متر، صد دستگاه",
+                                "second_description": "۴,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZc1TsTR",
+                                        "current_token": "QZ0xLYAo",
+                                        "suggested_tokens": [
+                                            "QZ0pSvLe",
+                                            "QZ11HIfn",
+                                            "QZc1TsTR",
+                                            "QZfBY47C",
+                                            "QZgl1IkQ",
+                                            "QZm98avY",
+                                            "QZMd_OSr",
+                                            "QZPtI9ID",
+                                            "QZTVsO9B",
+                                            "QZuJNAED"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:46:26.263260"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان 54 متری یک خوابه در منطقه صد دستگاه",
+                                            "district_persian": "صد دستگاه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZc1TsTR",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0xLYAo",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:46:26.263260"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/zM1kOTWEkaKSGD2tLG9V6Q/d7e2230b-7f15-48be-ab17-a87b9bf3d947.jpg",
+                                "title": "۶۵ متر، چهارصد دستگاه",
+                                "second_description": "۴,۴۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZfBY47C",
+                                        "current_token": "QZ0xLYAo",
+                                        "suggested_tokens": [
+                                            "QZ0pSvLe",
+                                            "QZ11HIfn",
+                                            "QZc1TsTR",
+                                            "QZfBY47C",
+                                            "QZgl1IkQ",
+                                            "QZm98avY",
+                                            "QZMd_OSr",
+                                            "QZPtI9ID",
+                                            "QZTVsO9B",
+                                            "QZuJNAED"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:46:26.263260"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "65 متری پارک گلنما، معاوضه با بزرگتر",
+                                            "district_persian": "چهارصد دستگاه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZfBY47C",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0xLYAo",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:46:26.263260"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/ECVbncSolXe-GFL4hoX3ZA/f9e6f468-019e-4189-afb3-7204964a696b.jpg",
+                                "title": "۴۶ متر، پیروزی",
+                                "second_description": "۳,۷۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZgl1IkQ",
+                                        "current_token": "QZ0xLYAo",
+                                        "suggested_tokens": [
+                                            "QZ0pSvLe",
+                                            "QZ11HIfn",
+                                            "QZc1TsTR",
+                                            "QZfBY47C",
+                                            "QZgl1IkQ",
+                                            "QZm98avY",
+                                            "QZMd_OSr",
+                                            "QZPtI9ID",
+                                            "QZTVsO9B",
+                                            "QZuJNAED"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:46:26.263260"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "46متر،تک واحدی،تک خواب،با آسانسور ۸ساله",
+                                            "district_persian": "پیروزی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZgl1IkQ",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0xLYAo",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:46:26.263260"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/hKp-8gkltgg38ZQCTGBlUA/2ebb209c-5989-492d-a6ca-f54e07706768.jpg",
+                                "title": "۵۱ متر، پیروزی",
+                                "second_description": "۴,۵۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZm98avY",
+                                        "current_token": "QZ0xLYAo",
+                                        "suggested_tokens": [
+                                            "QZ0pSvLe",
+                                            "QZ11HIfn",
+                                            "QZc1TsTR",
+                                            "QZfBY47C",
+                                            "QZgl1IkQ",
+                                            "QZm98avY",
+                                            "QZMd_OSr",
+                                            "QZPtI9ID",
+                                            "QZTVsO9B",
+                                            "QZuJNAED"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:46:26.263260"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان تمیز و شیک و بازسازی شده از صفر تا صد",
+                                            "district_persian": "پیروزی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZm98avY",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0xLYAo",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:46:26.263260"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/KtJLXqPX0Nt5U9mw8FhSlg/08847351-24ec-4732-a584-64ce4086243d.jpg",
+                                "title": "۵۳ متر، پیروزی",
+                                "second_description": "۴,۱۸۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZMd_OSr",
+                                        "current_token": "QZ0xLYAo",
+                                        "suggested_tokens": [
+                                            "QZ0pSvLe",
+                                            "QZ11HIfn",
+                                            "QZc1TsTR",
+                                            "QZfBY47C",
+                                            "QZgl1IkQ",
+                                            "QZm98avY",
+                                            "QZMd_OSr",
+                                            "QZPtI9ID",
+                                            "QZTVsO9B",
+                                            "QZuJNAED"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:46:26.263260"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۵۳متر،شیک باپارکینگ سندی،فروش ومعاوضه باخودرو تیگو",
+                                            "district_persian": "پیروزی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZMd_OSr",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0xLYAo",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:46:26.263260"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/SoiBsOAKQxDdJjB0gXO-GA/6d2a18f0-2e56-49ed-8c72-e7ed7d9925ad.jpg",
+                                "title": "۶۳ متر، ائمه اطهار",
+                                "second_description": "۴,۱۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZPtI9ID",
+                                        "current_token": "QZ0xLYAo",
+                                        "suggested_tokens": [
+                                            "QZ0pSvLe",
+                                            "QZ11HIfn",
+                                            "QZc1TsTR",
+                                            "QZfBY47C",
+                                            "QZgl1IkQ",
+                                            "QZm98avY",
+                                            "QZMd_OSr",
+                                            "QZPtI9ID",
+                                            "QZTVsO9B",
+                                            "QZuJNAED"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:46:26.263260"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "63 متر / طبقه دوم / پارکینگ اصلی",
+                                            "district_persian": "ائمه اطهار",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZPtI9ID",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0xLYAo",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:46:26.263260"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/iEnDgDA0sroxi49phA9DpQ/bdefdb80-be2e-40a4-b5f8-dcb28239f825.jpg",
+                                "title": "۶۷ متر، پیروزی",
+                                "second_description": "۴,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZTVsO9B",
+                                        "current_token": "QZ0xLYAo",
+                                        "suggested_tokens": [
+                                            "QZ0pSvLe",
+                                            "QZ11HIfn",
+                                            "QZc1TsTR",
+                                            "QZfBY47C",
+                                            "QZgl1IkQ",
+                                            "QZm98avY",
+                                            "QZMd_OSr",
+                                            "QZPtI9ID",
+                                            "QZTVsO9B",
+                                            "QZuJNAED"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:46:26.263260"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "67متری.مبله و غیر مبله.دریاباری.لاکچری",
+                                            "district_persian": "پیروزی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZTVsO9B",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0xLYAo",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:46:26.263260"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/vwTNU6BSFGs540hVpNTFSw/444bac6e-df35-4389-b7b5-daf07d813a06.jpg",
+                                "title": "۶۲ متر، پیروزی",
+                                "second_description": "۴,۰۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZuJNAED",
+                                        "current_token": "QZ0xLYAo",
+                                        "suggested_tokens": [
+                                            "QZ0pSvLe",
+                                            "QZ11HIfn",
+                                            "QZc1TsTR",
+                                            "QZfBY47C",
+                                            "QZgl1IkQ",
+                                            "QZm98avY",
+                                            "QZMd_OSr",
+                                            "QZPtI9ID",
+                                            "QZTVsO9B",
+                                            "QZuJNAED"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T10:46:26.263260"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۶۲ متری/پیروزی/نبرد شمالی",
+                                            "district_persian": "پیروزی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZuJNAED",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ0xLYAo",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T10:46:26.263260"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ0pSvLe",
+                                    "QZ11HIfn",
+                                    "QZc1TsTR",
+                                    "QZfBY47C",
+                                    "QZgl1IkQ",
+                                    "QZm98avY",
+                                    "QZMd_OSr",
+                                    "QZPtI9ID",
+                                    "QZTVsO9B",
+                                    "QZuJNAED"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ0xLYAo",
+                                    "metadata": {
+                                        "last_modified": "2023-12-10T10:46:26.263260"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                }
+            ],
+            "post_suggestion_extra_logs": [
+                {
+                    "suggested_tokens": [
+                        "QZ05GqzU",
+                        "QZ0pbXqk",
+                        "QZ1h2jvc",
+                        "QZ1h2pE2",
+                        "QZdlreIn",
+                        "QZfpQRHB",
+                        "QZi1wPQY",
+                        "QZkJ2AVx",
+                        "QZkN0_ZZ",
+                        "QZq10Qj0"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-10T10:41:57.534107"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:41:57.534107"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:41:57.534107"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:41:57.534107"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:41:57.534107"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:41:57.534107"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:41:57.534107"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:41:57.534107"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:41:57.534107"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:41:57.534107"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION"
+                },
+                {
+                    "suggested_tokens": [
+                        "QZ0pSvLe",
+                        "QZ11HIfn",
+                        "QZc1TsTR",
+                        "QZfBY47C",
+                        "QZgl1IkQ",
+                        "QZm98avY",
+                        "QZMd_OSr",
+                        "QZPtI9ID",
+                        "QZTVsO9B",
+                        "QZuJNAED"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-10T10:46:26.263260"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:46:26.263260"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:46:26.263260"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:46:26.263260"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:46:26.263260"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:46:26.263260"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:46:26.263260"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:46:26.263260"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:46:26.263260"
+                        },
+                        {
+                            "last_modified": "2023-12-10T10:46:26.263260"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS"
+                }
+            ]
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZ0xLYAo",
+    "error": 0
+}

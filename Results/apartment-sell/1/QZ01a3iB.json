@@ -1,0 +1,2112 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "آپارتمان ۸۴ متری|فروش آپارتمان|تهران، سازمان برنامه|دیوار",
+            "description": "آپارتمان ۸۴ متری|فروش آپارتمان|تهران، سازمان برنامه|خرید و فروش خوش نقشه وقابل سکونت| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B4-%D9%85%D8%AA%D8%B1%DB%8C_فروش-آپارتمان_تهران_سازمان-برنامه_دیوار/QZ01a3iB",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/آپارتمان ۸۴ متری/QZ01a3iB/",
+            "ios_app_url": "ios-app://863029557/http/v/آپارتمان ۸۴ متری/QZ01a3iB/"
+        },
+        "share": {
+            "title": "آپارتمان ۸۴ متری",
+            "description": "خوش نقشه وقابل سکونت",
+            "android_url": "https://divar.ir/v/QZ01a3iB?ref=android",
+            "ios_url": "https://divar.ir/v/QZ01a3iB?ref=ios",
+            "web_url": "https://divar.ir/v/QZ01a3iB"
+        },
+        "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B4-%D9%85%D8%AA%D8%B1%DB%8C_فروش-آپارتمان_تهران_سازمان-برنامه_دیوار/QZ01a3iB",
+        "category": {
+            "slug": "apartment-sell",
+            "title": "فروش آپارتمان",
+            "second_slug": "فروش آپارتمان"
+        },
+        "description": "خوش نقشه وقابل سکونت",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-sell",
+            "token": "QZ01a3iB",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 0,
+            "district": "سازمان برنامه",
+            "cat_3": "apartment-sell",
+            "cat_2": "residential-sell",
+            "cat_1": "real-estate",
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": 8400000000,
+            "rent": null,
+            "credit": null
+        },
+        "district": "سازمان برنامه",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "۱۹ ساعت پیش",
+            "subtitle": "۱۹ ساعت پیش در تهران، سازمان برنامه | فروش آپارتمان",
+            "title": "آپارتمان ۸۴ متری",
+            "place": "سازمان برنامه",
+            "business_logo": null
+        },
+        "description": "خوش نقشه وقابل سکونت",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۸۴"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۹۲"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۲"
+                    }
+                ]
+            },
+            {
+                "title": "قیمت کل",
+                "format": "string",
+                "value": "۸٬۴۰۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "قیمت هر متر",
+                "format": "string",
+                "value": "۱۰۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۳ از ۵"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true,
+                "next_page_text": "نمایش همهٔ جزئیات",
+                "next_page": {
+                    "title": "ویژگی‌ها و امکانات",
+                    "widget_list": [
+                        {
+                            "widget_type": "TITLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.TitleRowData",
+                                "text": "ویژگی‌ها",
+                                "text_color": "TEXT_PRIMARY",
+                                "has_divider": false,
+                                "color": "",
+                                "description": "",
+                                "description_color": "UNKNOWN",
+                                "subtitle": "",
+                                "subtitle_color": "UNKNOWN"
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "تعداد واحد در طبقه",
+                                "value": "بیشتر از ۸",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "سند",
+                                "value": "تک‌برگ",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "UNEXPANDABLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.UnexpandableRowData",
+                                "title": "جهت ساختمان",
+                                "value": "جنوبی",
+                                "has_divider": true,
+                                "compact": false,
+                                "has_copy_to_clipboard": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "TITLE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.TitleRowData",
+                                "text": "امکانات",
+                                "text_color": "TEXT_PRIMARY",
+                                "has_divider": false,
+                                "color": "",
+                                "description": "",
+                                "description_color": "UNKNOWN",
+                                "subtitle": "",
+                                "subtitle_color": "UNKNOWN"
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "آسانسور",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                                    "icon_name": "ELEVATOR",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "پارکینگ",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                                    "icon_name": "PARKING",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "انباری",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                                    "icon_name": "CABINET",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "بالکن ندارد",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/balcony.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/balcony.png",
+                                    "icon_name": "BALCONY",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "جنس کف سرامیک",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/texture.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/texture.png",
+                                    "icon_name": "TEXTURE",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "سرویس بهداشتی ایرانی و فرنگی",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/wc.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/wc.png",
+                                    "icon_name": "WC",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "سرمایش کولر آبی",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/snowflake.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/snowflake.png",
+                                    "icon_name": "SNOWFLAKE",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "گرمایش شوفاژ",
+                                "has_divider": true,
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/sunny.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/sunny.png",
+                                    "icon_name": "SUNNY",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        },
+                        {
+                            "widget_type": "FEATURE_ROW",
+                            "data": {
+                                "@type": "type.googleapis.com/widgets.FeatureRowData",
+                                "title": "تأمین‌کننده آب گرم پکیج",
+                                "icon": {
+                                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/thermometer.png",
+                                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/thermometer.png",
+                                    "icon_name": "THERMOMETER",
+                                    "icon_color": "ICON_SECONDARY"
+                                },
+                                "image_url": "",
+                                "image_color": "UNKNOWN",
+                                "has_divider": false,
+                                "disabled": false
+                            },
+                            "visibility_condition": []
+                        }
+                    ],
+                    "is_searchable": false,
+                    "nav_bar": []
+                }
+            }
+        ],
+        "location": {},
+        "images": [],
+        "web_images": [],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 210,
+                    "parent_slug": "residential-sell",
+                    "slug": "apartment-sell",
+                    "title": "فروش آپارتمان",
+                    "second_slug": "فروش آپارتمان",
+                    "relative_url": "tehran/buy-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 209,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-sell",
+                    "title": "فروش مسکونی",
+                    "second_slug": "فروش مسکونی",
+                    "relative_url": "tehran/buy-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "فروش-مسکونی/املاک/فروش-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0912797xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "فروش آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,فروش-آپارتمان",
+                "relative_url": "tehran/buy-apartment"
+            },
+            {
+                "title": "فروش آپارتمان در سازمان برنامه",
+                "url": "https://divar.ir/tehran/تهران/سازمان-برنامه/browse/فروش-مسکونی/املاک/فروش-آپارتمان/?place=8,158",
+                "relative_url": "tehran/buy-apartment/sazman-barnameh"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": true,
+            "title": "آگهی‌های مشابه در این محله",
+            "posts": [
+                {
+                    "bottom_text": "۸,۵۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۹۰ متر، سازمان برنامه",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/x_9JsTGTVBmYJm7Qufrirg/bc0ccaa6-b820-4a5c-a190-2a73bf3862a1.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ01XvQM"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T18:19:58.316721"
+                    },
+                    "token": "QZ01XvQM",
+                    "web_info": {
+                        "title": "۹۰متر ۲خ فول تراورتن (سازمان برنامه شمالی)",
+                        "district_persian": "سازمان برنامه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۷,۰۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۷۵ متر، سازمان برنامه",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/xIJ1DS2tJRP8o1ZKA4UY-Q/6502348c-b09e-4d22-a76f-fd0e26cc1a19.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZ0NXcld"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T18:19:58.316721"
+                    },
+                    "token": "QZ0NXcld",
+                    "web_info": {
+                        "title": "۷۵متر۲خ بلوار فردوس غرب شقایق مرکزی",
+                        "district_persian": "سازمان برنامه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۹,۱۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۲ متر، سازمان برنامه",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/pQCMqXT608LkqBU2o-NikA/91e30415-bd1d-48c4-bc80-defd945dc423.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZd1rSBd"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T18:19:58.316721"
+                    },
+                    "token": "QZd1rSBd",
+                    "web_info": {
+                        "title": "۸۲متر نوساز(بلوارفردوس غرب،سازمان برنامه)",
+                        "district_persian": "سازمان برنامه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۸,۲۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۷ متر، سازمان برنامه",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/08V8rJlWmJJMXr9v-WzCRA/2c4d39dd-4a92-4c49-a399-01f093a13f56.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZetvXW9"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T18:19:58.316721"
+                    },
+                    "token": "QZetvXW9",
+                    "web_info": {
+                        "title": "87متر(سازمان برنامه شمالی)",
+                        "district_persian": "سازمان برنامه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۸,۵۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۹۳ متر، سازمان برنامه",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZHdDV5G"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T18:19:58.316721"
+                    },
+                    "token": "QZHdDV5G",
+                    "web_info": {
+                        "title": "سازمان برنامه ۹۳متر فوا امکانات",
+                        "district_persian": "سازمان برنامه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۸,۷۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۳ متر، سازمان برنامه",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/rn0Kz4dEi0eloM6IrqxsJA/7cd0fc0c-b6b8-4cab-ae76-711009944b02.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZipTqSC"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T18:19:58.316721"
+                    },
+                    "token": "QZipTqSC",
+                    "web_info": {
+                        "title": "83 متری برنامه شمالی،فول جنب پارک",
+                        "district_persian": "سازمان برنامه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۸,۵۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۵ متر، سازمان برنامه",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/tK4AtPWHhcV-qIjMaYvkIg/ba7db91f-68ba-4c68-8b14-ded739c2f839.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZlN9eYL"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T18:19:58.316721"
+                    },
+                    "token": "QZlN9eYL",
+                    "web_info": {
+                        "title": "۸۵ متر ، ویو دار، دو واحدی ، نوسازی شده",
+                        "district_persian": "سازمان برنامه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۸,۴۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۵ متر، سازمان برنامه",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/mXPwFs47RXLzv5rFF0OBKQ/f65085e0-dbb4-44ba-a9eb-dde993d6da38.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZmpts5d"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T18:19:58.316721"
+                    },
+                    "token": "QZmpts5d",
+                    "web_info": {
+                        "title": "سازمان برنامه شمالی ۸۵ متری رو به آفاب",
+                        "district_persian": "سازمان برنامه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۸,۵۵۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۱۰۵ متر، سازمان برنامه",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/1sD3nDieDLqK_9bOaZtw5w/8fd83d64-b39d-41c8-b6f7-893b5eebc90d.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZntGt8T"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T18:19:58.316721"
+                    },
+                    "token": "QZntGt8T",
+                    "web_info": {
+                        "title": "سازمان برنامه جنوبی ۱۰۵ متر دوخوابه فول بازسازی",
+                        "district_persian": "سازمان برنامه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۸,۳۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۸۱ متر، سازمان برنامه",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/2swZ9AAMFHg3s4PPLOjVZA/dc8a7947-80b0-4e2b-b42e-0c1e0b7be226.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZop48hJ"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-09T18:19:58.316721"
+                    },
+                    "token": "QZop48hJ",
+                    "web_info": {
+                        "title": "آپارتمان 81 متری دو خواب/فول دیزاین",
+                        "district_persian": "سازمان برنامه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                }
+            ],
+            "widget_list": [
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌های مشابه در این محله",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/x_9JsTGTVBmYJm7Qufrirg/bc0ccaa6-b820-4a5c-a190-2a73bf3862a1.jpg",
+                                "title": "۹۰ متر، سازمان برنامه",
+                                "second_description": "۸,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ01XvQM",
+                                        "current_token": "QZ01a3iB",
+                                        "suggested_tokens": [
+                                            "QZ01XvQM",
+                                            "QZ0NXcld",
+                                            "QZd1rSBd",
+                                            "QZetvXW9",
+                                            "QZHdDV5G",
+                                            "QZipTqSC",
+                                            "QZlN9eYL",
+                                            "QZmpts5d",
+                                            "QZntGt8T",
+                                            "QZop48hJ"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T18:19:58.316721"
+                                        },
+                                        "web_info": {
+                                            "title": "۹۰متر ۲خ فول تراورتن (سازمان برنامه شمالی)",
+                                            "district_persian": "سازمان برنامه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ01XvQM",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01a3iB",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T18:19:58.316721"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/xIJ1DS2tJRP8o1ZKA4UY-Q/6502348c-b09e-4d22-a76f-fd0e26cc1a19.jpg",
+                                "title": "۷۵ متر، سازمان برنامه",
+                                "second_description": "۷,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0NXcld",
+                                        "current_token": "QZ01a3iB",
+                                        "suggested_tokens": [
+                                            "QZ01XvQM",
+                                            "QZ0NXcld",
+                                            "QZd1rSBd",
+                                            "QZetvXW9",
+                                            "QZHdDV5G",
+                                            "QZipTqSC",
+                                            "QZlN9eYL",
+                                            "QZmpts5d",
+                                            "QZntGt8T",
+                                            "QZop48hJ"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T18:19:58.316721"
+                                        },
+                                        "web_info": {
+                                            "title": "۷۵متر۲خ بلوار فردوس غرب شقایق مرکزی",
+                                            "district_persian": "سازمان برنامه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0NXcld",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01a3iB",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T18:19:58.316721"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/pQCMqXT608LkqBU2o-NikA/91e30415-bd1d-48c4-bc80-defd945dc423.jpg",
+                                "title": "۸۲ متر، سازمان برنامه",
+                                "second_description": "۹,۱۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZd1rSBd",
+                                        "current_token": "QZ01a3iB",
+                                        "suggested_tokens": [
+                                            "QZ01XvQM",
+                                            "QZ0NXcld",
+                                            "QZd1rSBd",
+                                            "QZetvXW9",
+                                            "QZHdDV5G",
+                                            "QZipTqSC",
+                                            "QZlN9eYL",
+                                            "QZmpts5d",
+                                            "QZntGt8T",
+                                            "QZop48hJ"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T18:19:58.316721"
+                                        },
+                                        "web_info": {
+                                            "title": "۸۲متر نوساز(بلوارفردوس غرب،سازمان برنامه)",
+                                            "district_persian": "سازمان برنامه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZd1rSBd",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01a3iB",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T18:19:58.316721"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/08V8rJlWmJJMXr9v-WzCRA/2c4d39dd-4a92-4c49-a399-01f093a13f56.jpg",
+                                "title": "۸۷ متر، سازمان برنامه",
+                                "second_description": "۸,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZetvXW9",
+                                        "current_token": "QZ01a3iB",
+                                        "suggested_tokens": [
+                                            "QZ01XvQM",
+                                            "QZ0NXcld",
+                                            "QZd1rSBd",
+                                            "QZetvXW9",
+                                            "QZHdDV5G",
+                                            "QZipTqSC",
+                                            "QZlN9eYL",
+                                            "QZmpts5d",
+                                            "QZntGt8T",
+                                            "QZop48hJ"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T18:19:58.316721"
+                                        },
+                                        "web_info": {
+                                            "title": "87متر(سازمان برنامه شمالی)",
+                                            "district_persian": "سازمان برنامه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZetvXW9",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01a3iB",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T18:19:58.316721"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۹۳ متر، سازمان برنامه",
+                                "second_description": "۸,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZHdDV5G",
+                                        "current_token": "QZ01a3iB",
+                                        "suggested_tokens": [
+                                            "QZ01XvQM",
+                                            "QZ0NXcld",
+                                            "QZd1rSBd",
+                                            "QZetvXW9",
+                                            "QZHdDV5G",
+                                            "QZipTqSC",
+                                            "QZlN9eYL",
+                                            "QZmpts5d",
+                                            "QZntGt8T",
+                                            "QZop48hJ"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T18:19:58.316721"
+                                        },
+                                        "web_info": {
+                                            "title": "سازمان برنامه ۹۳متر فوا امکانات",
+                                            "district_persian": "سازمان برنامه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZHdDV5G",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01a3iB",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T18:19:58.316721"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/rn0Kz4dEi0eloM6IrqxsJA/7cd0fc0c-b6b8-4cab-ae76-711009944b02.jpg",
+                                "title": "۸۳ متر، سازمان برنامه",
+                                "second_description": "۸,۷۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZipTqSC",
+                                        "current_token": "QZ01a3iB",
+                                        "suggested_tokens": [
+                                            "QZ01XvQM",
+                                            "QZ0NXcld",
+                                            "QZd1rSBd",
+                                            "QZetvXW9",
+                                            "QZHdDV5G",
+                                            "QZipTqSC",
+                                            "QZlN9eYL",
+                                            "QZmpts5d",
+                                            "QZntGt8T",
+                                            "QZop48hJ"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T18:19:58.316721"
+                                        },
+                                        "web_info": {
+                                            "title": "83 متری برنامه شمالی،فول جنب پارک",
+                                            "district_persian": "سازمان برنامه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZipTqSC",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01a3iB",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T18:19:58.316721"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/tK4AtPWHhcV-qIjMaYvkIg/ba7db91f-68ba-4c68-8b14-ded739c2f839.jpg",
+                                "title": "۸۵ متر، سازمان برنامه",
+                                "second_description": "۸,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZlN9eYL",
+                                        "current_token": "QZ01a3iB",
+                                        "suggested_tokens": [
+                                            "QZ01XvQM",
+                                            "QZ0NXcld",
+                                            "QZd1rSBd",
+                                            "QZetvXW9",
+                                            "QZHdDV5G",
+                                            "QZipTqSC",
+                                            "QZlN9eYL",
+                                            "QZmpts5d",
+                                            "QZntGt8T",
+                                            "QZop48hJ"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T18:19:58.316721"
+                                        },
+                                        "web_info": {
+                                            "title": "۸۵ متر ، ویو دار، دو واحدی ، نوسازی شده",
+                                            "district_persian": "سازمان برنامه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZlN9eYL",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01a3iB",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T18:19:58.316721"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/mXPwFs47RXLzv5rFF0OBKQ/f65085e0-dbb4-44ba-a9eb-dde993d6da38.jpg",
+                                "title": "۸۵ متر، سازمان برنامه",
+                                "second_description": "۸,۴۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZmpts5d",
+                                        "current_token": "QZ01a3iB",
+                                        "suggested_tokens": [
+                                            "QZ01XvQM",
+                                            "QZ0NXcld",
+                                            "QZd1rSBd",
+                                            "QZetvXW9",
+                                            "QZHdDV5G",
+                                            "QZipTqSC",
+                                            "QZlN9eYL",
+                                            "QZmpts5d",
+                                            "QZntGt8T",
+                                            "QZop48hJ"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T18:19:58.316721"
+                                        },
+                                        "web_info": {
+                                            "title": "سازمان برنامه شمالی ۸۵ متری رو به آفاب",
+                                            "district_persian": "سازمان برنامه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZmpts5d",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01a3iB",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T18:19:58.316721"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/1sD3nDieDLqK_9bOaZtw5w/8fd83d64-b39d-41c8-b6f7-893b5eebc90d.jpg",
+                                "title": "۱۰۵ متر، سازمان برنامه",
+                                "second_description": "۸,۵۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZntGt8T",
+                                        "current_token": "QZ01a3iB",
+                                        "suggested_tokens": [
+                                            "QZ01XvQM",
+                                            "QZ0NXcld",
+                                            "QZd1rSBd",
+                                            "QZetvXW9",
+                                            "QZHdDV5G",
+                                            "QZipTqSC",
+                                            "QZlN9eYL",
+                                            "QZmpts5d",
+                                            "QZntGt8T",
+                                            "QZop48hJ"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T18:19:58.316721"
+                                        },
+                                        "web_info": {
+                                            "title": "سازمان برنامه جنوبی ۱۰۵ متر دوخوابه فول بازسازی",
+                                            "district_persian": "سازمان برنامه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZntGt8T",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01a3iB",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T18:19:58.316721"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/2swZ9AAMFHg3s4PPLOjVZA/dc8a7947-80b0-4e2b-b42e-0c1e0b7be226.jpg",
+                                "title": "۸۱ متر، سازمان برنامه",
+                                "second_description": "۸,۳۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZop48hJ",
+                                        "current_token": "QZ01a3iB",
+                                        "suggested_tokens": [
+                                            "QZ01XvQM",
+                                            "QZ0NXcld",
+                                            "QZd1rSBd",
+                                            "QZetvXW9",
+                                            "QZHdDV5G",
+                                            "QZipTqSC",
+                                            "QZlN9eYL",
+                                            "QZmpts5d",
+                                            "QZntGt8T",
+                                            "QZop48hJ"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T18:19:58.316721"
+                                        },
+                                        "web_info": {
+                                            "title": "آپارتمان 81 متری دو خواب/فول دیزاین",
+                                            "district_persian": "سازمان برنامه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZop48hJ",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01a3iB",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T18:19:58.316721"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ01XvQM",
+                                    "QZ0NXcld",
+                                    "QZd1rSBd",
+                                    "QZetvXW9",
+                                    "QZHdDV5G",
+                                    "QZipTqSC",
+                                    "QZlN9eYL",
+                                    "QZmpts5d",
+                                    "QZntGt8T",
+                                    "QZop48hJ"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ01a3iB",
+                                    "metadata": {
+                                        "last_modified": "2023-12-09T18:19:58.316721"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                },
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌‌های مشابه در دیگر محله‌ها",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/gOxQpIYDePvkaGauOCIKLA/21e84cfd-0931-4989-b32a-e88a94172a13.jpg",
+                                "title": "۸۸ متر، جنت‌آباد مرکزی",
+                                "second_description": "۹,۱۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ05hMPa",
+                                        "current_token": "QZ01a3iB",
+                                        "suggested_tokens": [
+                                            "QZ05hMPa",
+                                            "QZ05iOVm",
+                                            "QZ3UbYJq",
+                                            "QZbVzKx9",
+                                            "QZc1937U",
+                                            "QZCpQniS",
+                                            "QZo5l4u1",
+                                            "QZqJvqI1",
+                                            "QZqtGHYd",
+                                            "QZQtHuqw"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T18:19:45.879416"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "88متر.2خواب.تک واحدی.فول.جنت آباد مرکزی",
+                                            "district_persian": "جنت‌آباد مرکزی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ05hMPa",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01a3iB",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T18:19:45.879416"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۵۳ متر، ارم",
+                                "second_description": "۵,۶۳۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ05iOVm",
+                                        "current_token": "QZ01a3iB",
+                                        "suggested_tokens": [
+                                            "QZ05hMPa",
+                                            "QZ05iOVm",
+                                            "QZ3UbYJq",
+                                            "QZbVzKx9",
+                                            "QZc1937U",
+                                            "QZCpQniS",
+                                            "QZo5l4u1",
+                                            "QZqJvqI1",
+                                            "QZqtGHYd",
+                                            "QZQtHuqw"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T18:19:45.879416"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان 53متری ارم فردوس غرب بهار جنوبی",
+                                            "district_persian": "ارم",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ05iOVm",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01a3iB",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T18:19:45.879416"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/5V6C-cNd2Eb66HtdP9OnRQ/31DB58CD-7FC7-4119-AFBB-661ADF2E504B.jpg",
+                                "title": "۷۷ متر، جنت‌آباد جنوبی",
+                                "second_description": "۸,۴۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ3UbYJq",
+                                        "current_token": "QZ01a3iB",
+                                        "suggested_tokens": [
+                                            "QZ05hMPa",
+                                            "QZ05iOVm",
+                                            "QZ3UbYJq",
+                                            "QZbVzKx9",
+                                            "QZc1937U",
+                                            "QZCpQniS",
+                                            "QZo5l4u1",
+                                            "QZqJvqI1",
+                                            "QZqtGHYd",
+                                            "QZQtHuqw"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T18:19:45.879416"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۷۷ متر دوخواب فول بازسازی",
+                                            "district_persian": "جنت‌آباد جنوبی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ3UbYJq",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01a3iB",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T18:19:45.879416"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۸۷ متر، جنت‌آباد جنوبی",
+                                "second_description": "۸,۹۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZbVzKx9",
+                                        "current_token": "QZ01a3iB",
+                                        "suggested_tokens": [
+                                            "QZ05hMPa",
+                                            "QZ05iOVm",
+                                            "QZ3UbYJq",
+                                            "QZbVzKx9",
+                                            "QZc1937U",
+                                            "QZCpQniS",
+                                            "QZo5l4u1",
+                                            "QZqJvqI1",
+                                            "QZqtGHYd",
+                                            "QZQtHuqw"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T18:19:45.879416"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۸۸متر آپارتمان /۷ساله/چهارباغ/ط۳",
+                                            "district_persian": "جنت‌آباد جنوبی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZbVzKx9",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01a3iB",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T18:19:45.879416"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/Ai-ToaiFi8XwnTy-ttXVpw/1c4281d8-5166-4002-b721-e98b7e9f1e53.jpg",
+                                "title": "۷۵ متر، جنت‌آباد مرکزی",
+                                "second_description": "۸,۶۲۵,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZc1937U",
+                                        "current_token": "QZ01a3iB",
+                                        "suggested_tokens": [
+                                            "QZ05hMPa",
+                                            "QZ05iOVm",
+                                            "QZ3UbYJq",
+                                            "QZbVzKx9",
+                                            "QZc1937U",
+                                            "QZCpQniS",
+                                            "QZo5l4u1",
+                                            "QZqJvqI1",
+                                            "QZqtGHYd",
+                                            "QZQtHuqw"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T18:19:45.879416"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۷۵ متر کلید نخورده",
+                                            "district_persian": "جنت‌آباد مرکزی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZc1937U",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01a3iB",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T18:19:45.879416"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۹۰ متر، جنت‌آباد مرکزی",
+                                "second_description": "۸,۶۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZCpQniS",
+                                        "current_token": "QZ01a3iB",
+                                        "suggested_tokens": [
+                                            "QZ05hMPa",
+                                            "QZ05iOVm",
+                                            "QZ3UbYJq",
+                                            "QZbVzKx9",
+                                            "QZc1937U",
+                                            "QZCpQniS",
+                                            "QZo5l4u1",
+                                            "QZqJvqI1",
+                                            "QZqtGHYd",
+                                            "QZQtHuqw"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T18:19:45.879416"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان فروشی",
+                                            "district_persian": "جنت‌آباد مرکزی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZCpQniS",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01a3iB",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T18:19:45.879416"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/aWeEH3yeJM1vBkODBZ_YzQ/99a53b8b-ed82-442f-9294-aa85b3df542b.jpg",
+                                "title": "۸۲ متر، جنت‌آباد جنوبی",
+                                "second_description": "۸,۱۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZo5l4u1",
+                                        "current_token": "QZ01a3iB",
+                                        "suggested_tokens": [
+                                            "QZ05hMPa",
+                                            "QZ05iOVm",
+                                            "QZ3UbYJq",
+                                            "QZbVzKx9",
+                                            "QZc1937U",
+                                            "QZCpQniS",
+                                            "QZo5l4u1",
+                                            "QZqJvqI1",
+                                            "QZqtGHYd",
+                                            "QZQtHuqw"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T18:19:45.879416"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "فول امکانات فروشنده واقعی",
+                                            "district_persian": "جنت‌آباد جنوبی",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZo5l4u1",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01a3iB",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T18:19:45.879416"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/wJ1FlkDeG9_fply-LXwzDQ/841872d5-fcc5-41b3-81c6-3d66c45d074f.jpg",
+                                "title": "۹۳ متر، کوی مهران",
+                                "second_description": "۸,۳۵۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZqJvqI1",
+                                        "current_token": "QZ01a3iB",
+                                        "suggested_tokens": [
+                                            "QZ05hMPa",
+                                            "QZ05iOVm",
+                                            "QZ3UbYJq",
+                                            "QZbVzKx9",
+                                            "QZc1937U",
+                                            "QZCpQniS",
+                                            "QZo5l4u1",
+                                            "QZqJvqI1",
+                                            "QZqtGHYd",
+                                            "QZQtHuqw"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T18:19:45.879416"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "اپارتمان ۹۳متری/فول امکانات/مهران",
+                                            "district_persian": "کوی مهران",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZqJvqI1",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01a3iB",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T18:19:45.879416"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/PFte-93IhfxJRk_d8-NOqw/4f4431cd-16ed-4731-bd1d-e37285e9aef5.jpg",
+                                "title": "۷۵ متر، باغ فیض",
+                                "second_description": "۷,۶۹۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZqtGHYd",
+                                        "current_token": "QZ01a3iB",
+                                        "suggested_tokens": [
+                                            "QZ05hMPa",
+                                            "QZ05iOVm",
+                                            "QZ3UbYJq",
+                                            "QZbVzKx9",
+                                            "QZc1937U",
+                                            "QZCpQniS",
+                                            "QZo5l4u1",
+                                            "QZqJvqI1",
+                                            "QZqtGHYd",
+                                            "QZQtHuqw"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T18:19:45.879416"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "75متر،2خواب،فول امکانات،باغ فیض",
+                                            "district_persian": "باغ فیض",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZqtGHYd",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01a3iB",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T18:19:45.879416"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/39ceU4_40cmsZNN6VdIwAw/d6968177-d6e5-4504-bebf-aee5b3b01ba1.jpg",
+                                "title": "۹۰ متر، ارم",
+                                "second_description": "۸,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZQtHuqw",
+                                        "current_token": "QZ01a3iB",
+                                        "suggested_tokens": [
+                                            "QZ05hMPa",
+                                            "QZ05iOVm",
+                                            "QZ3UbYJq",
+                                            "QZbVzKx9",
+                                            "QZc1937U",
+                                            "QZCpQniS",
+                                            "QZo5l4u1",
+                                            "QZqJvqI1",
+                                            "QZqtGHYd",
+                                            "QZQtHuqw"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-09T18:19:45.879416"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۹۰ متر نوساز بهار شمالی",
+                                            "district_persian": "ارم",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZQtHuqw",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZ01a3iB",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-09T18:19:45.879416"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ05hMPa",
+                                    "QZ05iOVm",
+                                    "QZ3UbYJq",
+                                    "QZbVzKx9",
+                                    "QZc1937U",
+                                    "QZCpQniS",
+                                    "QZo5l4u1",
+                                    "QZqJvqI1",
+                                    "QZqtGHYd",
+                                    "QZQtHuqw"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZ01a3iB",
+                                    "metadata": {
+                                        "last_modified": "2023-12-09T18:19:45.879416"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                }
+            ],
+            "post_suggestion_extra_logs": [
+                {
+                    "suggested_tokens": [
+                        "QZ01XvQM",
+                        "QZ0NXcld",
+                        "QZd1rSBd",
+                        "QZetvXW9",
+                        "QZHdDV5G",
+                        "QZipTqSC",
+                        "QZlN9eYL",
+                        "QZmpts5d",
+                        "QZntGt8T",
+                        "QZop48hJ"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-09T18:19:58.316721"
+                        },
+                        {
+                            "last_modified": "2023-12-09T18:19:58.316721"
+                        },
+                        {
+                            "last_modified": "2023-12-09T18:19:58.316721"
+                        },
+                        {
+                            "last_modified": "2023-12-09T18:19:58.316721"
+                        },
+                        {
+                            "last_modified": "2023-12-09T18:19:58.316721"
+                        },
+                        {
+                            "last_modified": "2023-12-09T18:19:58.316721"
+                        },
+                        {
+                            "last_modified": "2023-12-09T18:19:58.316721"
+                        },
+                        {
+                            "last_modified": "2023-12-09T18:19:58.316721"
+                        },
+                        {
+                            "last_modified": "2023-12-09T18:19:58.316721"
+                        },
+                        {
+                            "last_modified": "2023-12-09T18:19:58.316721"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION"
+                },
+                {
+                    "suggested_tokens": [
+                        "QZ05hMPa",
+                        "QZ05iOVm",
+                        "QZ3UbYJq",
+                        "QZbVzKx9",
+                        "QZc1937U",
+                        "QZCpQniS",
+                        "QZo5l4u1",
+                        "QZqJvqI1",
+                        "QZqtGHYd",
+                        "QZQtHuqw"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-09T18:19:45.879416"
+                        },
+                        {
+                            "last_modified": "2023-12-09T18:19:45.879416"
+                        },
+                        {
+                            "last_modified": "2023-12-09T18:19:45.879416"
+                        },
+                        {
+                            "last_modified": "2023-12-09T18:19:45.879416"
+                        },
+                        {
+                            "last_modified": "2023-12-09T18:19:45.879416"
+                        },
+                        {
+                            "last_modified": "2023-12-09T18:19:45.879416"
+                        },
+                        {
+                            "last_modified": "2023-12-09T18:19:45.879416"
+                        },
+                        {
+                            "last_modified": "2023-12-09T18:19:45.879416"
+                        },
+                        {
+                            "last_modified": "2023-12-09T18:19:45.879416"
+                        },
+                        {
+                            "last_modified": "2023-12-09T18:19:45.879416"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS"
+                }
+            ]
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZ01a3iB",
+    "error": 0
+}

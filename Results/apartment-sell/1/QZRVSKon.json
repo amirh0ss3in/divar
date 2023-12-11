@@ -1,0 +1,1906 @@
+{
+    "data": {
+        "nabz_product_id": null,
+        "business_card_slug": null,
+        "seo": {
+            "title": "اپارتمان خیابان سپند|فروش آپارتمان|تهران، فرمانیه|دیوار",
+            "description": "اپارتمان خیابان سپند|فروش آپارتمان|تهران، فرمانیه|خرید و فروش پلان ساختمان بی نظیر| سایت ثبت آگهی، نیازمندی و خرید و فروش دیوار",
+            "url": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%B3%D9%BE%D9%86%D8%AF_فروش-آپارتمان_تهران_فرمانیه_دیوار/QZRVSKon",
+            "home_url": "https://divar.ir/tehran/تهران/browse",
+            "android_package_name": "ir.divar",
+            "ios_app_id": "863029557",
+            "android_app_url": "android-app://ir.divar/http/v/اپارتمان خیابان سپند/QZRVSKon/",
+            "ios_app_url": "ios-app://863029557/http/v/اپارتمان خیابان سپند/QZRVSKon/",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/1QMVgvLJ1_E4QpRwXf88ew/6c730476-778a-4c99-b925-ed705efdaa86.jpg"
+        },
+        "share": {
+            "title": "اپارتمان خیابان سپند",
+            "description": "پلان ساختمان بی نظیر",
+            "android_url": "https://divar.ir/v/QZRVSKon?ref=android",
+            "ios_url": "https://divar.ir/v/QZRVSKon?ref=ios",
+            "web_url": "https://divar.ir/v/QZRVSKon"
+        },
+        "url": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%B3%D9%BE%D9%86%D8%AF_فروش-آپارتمان_تهران_فرمانیه_دیوار/QZRVSKon",
+        "category": {
+            "slug": "apartment-sell",
+            "title": "فروش آپارتمان",
+            "second_slug": "فروش آپارتمان"
+        },
+        "description": "پلان ساختمان بی نظیر",
+        "business_data": {
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null
+        },
+        "city": "تهران",
+        "webengage": {
+            "category": "apartment-sell",
+            "token": "QZRVSKon",
+            "city": "tehran",
+            "brand_model": null,
+            "image_count": 2,
+            "district": "فرمانیه",
+            "cat_3": "apartment-sell",
+            "cat_2": "residential-sell",
+            "cat_1": "real-estate",
+            "status": "",
+            "originality": "",
+            "business_type": "personal",
+            "business_ref": null,
+            "data": null,
+            "price": 80000000000,
+            "rent": null,
+            "credit": null
+        },
+        "district": "فرمانیه",
+        "brand_model": null
+    },
+    "widgets": {
+        "header": {
+            "date": "۱۲ ساعت پیش",
+            "subtitle": "۱۲ ساعت پیش در تهران، فرمانیه | فروش آپارتمان",
+            "title": "اپارتمان خیابان سپند",
+            "thumbnail": "https://s100.divarcdn.com/static/photo/thumbnail/1QMVgvLJ1_E4QpRwXf88ew/6c730476-778a-4c99-b925-ed705efdaa86.jpg",
+            "place": "فرمانیه",
+            "business_logo": null
+        },
+        "description": "پلان ساختمان بی نظیر",
+        "description_show_lines": 0,
+        "list_data": [
+            {
+                "format": "group_info_row",
+                "title": "اطلاعات",
+                "has_divider": true,
+                "items": [
+                    {
+                        "title": "متراژ",
+                        "value": "۲۵۴"
+                    },
+                    {
+                        "title": "ساخت",
+                        "value": "۱۳۸۴"
+                    },
+                    {
+                        "title": "اتاق",
+                        "value": "۴"
+                    }
+                ]
+            },
+            {
+                "title": "قیمت کل",
+                "format": "string",
+                "value": "۸۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان"
+            },
+            {
+                "title": "قیمت هر متر",
+                "format": "string",
+                "value": "۳۱۴٬۹۶۱٬۰۰۰ تومان"
+            },
+            {
+                "title": "طبقه",
+                "format": "string",
+                "value": "۱"
+            },
+            {
+                "format": "group_feature_row",
+                "title": "ویژگی‌ها و امکانات",
+                "items": [
+                    {
+                        "title": "آسانسور",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/elevator.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/elevator.png",
+                            "icon_name": "ELEVATOR",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "پارکینگ",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/parking.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/parking.png",
+                            "icon_name": "PARKING",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    },
+                    {
+                        "title": "انباری",
+                        "available": true,
+                        "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/cabinet.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/cabinet.png",
+                            "icon_name": "CABINET",
+                            "icon_color": "ICON_SECONDARY"
+                        }
+                    }
+                ],
+                "has_divider": true
+            }
+        ],
+        "location": {
+            "latitude": "35.795468879887",
+            "longitude": "51.475839614868",
+            "map_url": "https://cdn.raah.ir/divar-images-2/QZRVSKon.png"
+        },
+        "images": [
+            "https://s100.divarcdn.com/static/photo/post/6n57T7vIVUP9m4935S1Qjw/6c730476-778a-4c99-b925-ed705efdaa86.webp",
+            "https://s100.divarcdn.com/static/photo/post/M5p-bh4FoxZbWkmsgmRm5Q/4a01900e-e6d5-4213-8683-bca8aba54f40.webp"
+        ],
+        "web_images": [
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/6n57T7vIVUP9m4935S1Qjw/6c730476-778a-4c99-b925-ed705efdaa86.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/6n57T7vIVUP9m4935S1Qjw/6c730476-778a-4c99-b925-ed705efdaa86.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/M5p-bh4FoxZbWkmsgmRm5Q/4a01900e-e6d5-4213-8683-bca8aba54f40.webp",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "https://s100.divarcdn.com/static/photo/post/M5p-bh4FoxZbWkmsgmRm5Q/4a01900e-e6d5-4213-8683-bca8aba54f40.jpg",
+                    "type": "image/jpeg"
+                }
+            ]
+        ],
+        "breadcrumb": {
+            "categories": [
+                {
+                    "icon_url": "",
+                    "old_meta_id": 210,
+                    "parent_slug": "residential-sell",
+                    "slug": "apartment-sell",
+                    "title": "فروش آپارتمان",
+                    "second_slug": "فروش آپارتمان",
+                    "relative_url": "tehran/buy-apartment"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 209,
+                    "parent_slug": "real-estate",
+                    "slug": "residential-sell",
+                    "title": "فروش مسکونی",
+                    "second_slug": "فروش مسکونی",
+                    "relative_url": "tehran/buy-residential"
+                },
+                {
+                    "icon_url": "https://s100.divarcdn.com/static/explorers/categories/house_%s.png",
+                    "old_meta_id": 143,
+                    "parent_slug": "root",
+                    "slug": "real-estate",
+                    "title": "املاک",
+                    "second_slug": "املاک",
+                    "relative_url": "tehran/real-estate"
+                },
+                {
+                    "icon_url": "",
+                    "old_meta_id": 0,
+                    "parent_slug": null,
+                    "slug": "root",
+                    "title": "همه آگهی ها",
+                    "second_slug": "همه آگهی ها",
+                    "relative_url": "tehran"
+                }
+            ],
+            "main_url": "فروش-مسکونی/املاک/فروش-آپارتمان/",
+            "base_url": "https://divar.ir/tehran/تهران/browse"
+        },
+        "contact": {
+            "phone": "0930606xxxx",
+            "ab_mode": 2,
+            "chat": true
+        },
+        "links": [
+            {
+                "title": "فروش آپارتمان",
+                "url": "https://divar.ir/tehran/تهران/browse/?query=0,فروش-آپارتمان",
+                "relative_url": "tehran/buy-apartment"
+            },
+            {
+                "title": "فروش آپارتمان در فرمانیه",
+                "url": "https://divar.ir/tehran/تهران/فرمانیه/browse/فروش-مسکونی/املاک/فروش-آپارتمان/?place=8,64",
+                "relative_url": "tehran/buy-apartment/farmanieh"
+            }
+        ],
+        "messages": [],
+        "warnings": [
+            {
+                "title": "راهنمای خرید امن",
+                "link": "https://divar.ir/__safety_notice/"
+            }
+        ],
+        "car_inspection": null,
+        "tags": [],
+        "customer_car_inspection_request": null,
+        "suggestions": {
+            "suggestion_available": true,
+            "title": "آگهی‌های مشابه در این محله",
+            "posts": [
+                {
+                    "bottom_text": "۷۷,۰۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۲۹۰ متر، فرمانیه",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/agfMcB0udd70EmTyAhdwDA/e96f5344-6688-471a-a269-52bd0abc14e0.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZi5_K-t"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T01:49:09.128868"
+                    },
+                    "token": "QZi5_K-t",
+                    "web_info": {
+                        "title": "۲۹۰متر ۴ خواب سه مستر",
+                        "district_persian": "فرمانیه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۴۵,۰۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۲۰۰ متر، فرمانیه",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/u3HsDnAsJlBHwaSJJed6CA/ACB99277-31E2-420F-BECC-0A9953319634.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZjJV42s"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T01:49:09.128868"
+                    },
+                    "token": "QZjJV42s",
+                    "web_info": {
+                        "title": "فرمانیه ۲۰۰ متر تک واحدی نوساز",
+                        "district_persian": "فرمانیه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۸۰,۰۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۳۱۵ متر، فرمانیه",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/ELNopbGaMlBXwAXMUjSksA/e3ea64dc-e5c0-4e75-b246-36abcddc8ce7.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZKFTU9N"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T01:49:09.128868"
+                    },
+                    "token": "QZKFTU9N",
+                    "web_info": {
+                        "title": "315متر4خواب3پارکینگ               فرمانیه تکواحدی",
+                        "district_persian": "فرمانیه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۴۰,۰۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۲۵۰ متر، فرمانیه",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZkZrf6n"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T01:49:09.128868"
+                    },
+                    "token": "QZkZrf6n",
+                    "web_info": {
+                        "title": "خریدار واحد در منطقه یک تهران",
+                        "district_persian": "فرمانیه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۴۴,۰۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۲۷۲ متر، فرمانیه",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/Tj69GMLSOrZla1bSY14mmQ/2cf9ba4e-1c55-476b-92de-05338cb49aee.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZlFPU2f"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T01:49:09.128868"
+                    },
+                    "token": "QZlFPU2f",
+                    "web_info": {
+                        "title": "۲۷۲ متر تک واحدی",
+                        "district_persian": "فرمانیه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۵۶,۰۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۳۳۵ متر، فرمانیه",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZNBTfao"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T01:49:09.128868"
+                    },
+                    "token": "QZNBTfao",
+                    "web_info": {
+                        "title": "335 متر 4 خواب فرمانیه شرقی متقیان",
+                        "district_persian": "فرمانیه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۸۳,۰۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۲۵۰ متر، فرمانیه",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/FCiDldB8HtM4HQhJEP12jg/4ed3c7e5-602f-45c8-9427-4146b6c4aab8.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZolSvFO"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T01:49:09.128868"
+                    },
+                    "token": "QZolSvFO",
+                    "web_info": {
+                        "title": "فروش آپارتمان فرمانیه ۲۵۰متر برج باغ",
+                        "district_persian": "فرمانیه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۲۰,۹۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۱۳۰ متر، فرمانیه",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZrhvBU8"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T01:49:09.128868"
+                    },
+                    "token": "QZrhvBU8",
+                    "web_info": {
+                        "title": "فروش آپارتمان ۱۳۰ متری",
+                        "district_persian": "فرمانیه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": "",
+                    "image": ""
+                },
+                {
+                    "bottom_text": "۷۷,۵۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۲۵۰ متر، فرمانیه",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/vaALcKoAuocpPS1CUJbkaA/1628f6b5-2525-4c96-9d9c-dece1d5f642a.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZsJZE6d"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T01:49:09.128868"
+                    },
+                    "token": "QZsJZE6d",
+                    "web_info": {
+                        "title": "250 متر فرمانیه سنبل",
+                        "district_persian": "فرمانیه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                },
+                {
+                    "bottom_text": "۸۲,۵۰۰,۰۰۰,۰۰۰ تومان",
+                    "title": "۲۵۰ متر، فرمانیه",
+                    "image": "https://s100.divarcdn.com/static/photo/thumbnail/bVofa-NB-kupGuDD6LROMg/68b52bbd-d6e8-4b09-a03b-736c3f2de634.jpg",
+                    "action": "post_view",
+                    "post_view_payload": {
+                        "token": "QZsNl6Vn"
+                    },
+                    "action_log_payload": {
+                        "last_modified": "2023-12-10T01:49:09.128868"
+                    },
+                    "token": "QZsNl6Vn",
+                    "web_info": {
+                        "title": "فروش واحد ۲۵۰ متری",
+                        "district_persian": "فرمانیه",
+                        "city_persian": "تهران",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "middle_text": ""
+                }
+            ],
+            "widget_list": [
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌های مشابه در این محله",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/agfMcB0udd70EmTyAhdwDA/e96f5344-6688-471a-a269-52bd0abc14e0.jpg",
+                                "title": "۲۹۰ متر، فرمانیه",
+                                "second_description": "۷۷,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZi5_K-t",
+                                        "current_token": "QZRVSKon",
+                                        "suggested_tokens": [
+                                            "QZi5_K-t",
+                                            "QZjJV42s",
+                                            "QZKFTU9N",
+                                            "QZkZrf6n",
+                                            "QZlFPU2f",
+                                            "QZNBTfao",
+                                            "QZolSvFO",
+                                            "QZrhvBU8",
+                                            "QZsJZE6d",
+                                            "QZsNl6Vn"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T01:49:09.128868"
+                                        },
+                                        "web_info": {
+                                            "title": "۲۹۰متر ۴ خواب سه مستر",
+                                            "district_persian": "فرمانیه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZi5_K-t",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZRVSKon",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T01:49:09.128868"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/u3HsDnAsJlBHwaSJJed6CA/ACB99277-31E2-420F-BECC-0A9953319634.jpg",
+                                "title": "۲۰۰ متر، فرمانیه",
+                                "second_description": "۴۵,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZjJV42s",
+                                        "current_token": "QZRVSKon",
+                                        "suggested_tokens": [
+                                            "QZi5_K-t",
+                                            "QZjJV42s",
+                                            "QZKFTU9N",
+                                            "QZkZrf6n",
+                                            "QZlFPU2f",
+                                            "QZNBTfao",
+                                            "QZolSvFO",
+                                            "QZrhvBU8",
+                                            "QZsJZE6d",
+                                            "QZsNl6Vn"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T01:49:09.128868"
+                                        },
+                                        "web_info": {
+                                            "title": "فرمانیه ۲۰۰ متر تک واحدی نوساز",
+                                            "district_persian": "فرمانیه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZjJV42s",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZRVSKon",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T01:49:09.128868"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/ELNopbGaMlBXwAXMUjSksA/e3ea64dc-e5c0-4e75-b246-36abcddc8ce7.jpg",
+                                "title": "۳۱۵ متر، فرمانیه",
+                                "second_description": "۸۰,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZKFTU9N",
+                                        "current_token": "QZRVSKon",
+                                        "suggested_tokens": [
+                                            "QZi5_K-t",
+                                            "QZjJV42s",
+                                            "QZKFTU9N",
+                                            "QZkZrf6n",
+                                            "QZlFPU2f",
+                                            "QZNBTfao",
+                                            "QZolSvFO",
+                                            "QZrhvBU8",
+                                            "QZsJZE6d",
+                                            "QZsNl6Vn"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T01:49:09.128868"
+                                        },
+                                        "web_info": {
+                                            "title": "315متر4خواب3پارکینگ               فرمانیه تکواحدی",
+                                            "district_persian": "فرمانیه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZKFTU9N",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZRVSKon",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T01:49:09.128868"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۲۵۰ متر، فرمانیه",
+                                "second_description": "۴۰,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZkZrf6n",
+                                        "current_token": "QZRVSKon",
+                                        "suggested_tokens": [
+                                            "QZi5_K-t",
+                                            "QZjJV42s",
+                                            "QZKFTU9N",
+                                            "QZkZrf6n",
+                                            "QZlFPU2f",
+                                            "QZNBTfao",
+                                            "QZolSvFO",
+                                            "QZrhvBU8",
+                                            "QZsJZE6d",
+                                            "QZsNl6Vn"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T01:49:09.128868"
+                                        },
+                                        "web_info": {
+                                            "title": "خریدار واحد در منطقه یک تهران",
+                                            "district_persian": "فرمانیه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZkZrf6n",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZRVSKon",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T01:49:09.128868"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/Tj69GMLSOrZla1bSY14mmQ/2cf9ba4e-1c55-476b-92de-05338cb49aee.jpg",
+                                "title": "۲۷۲ متر، فرمانیه",
+                                "second_description": "۴۴,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZlFPU2f",
+                                        "current_token": "QZRVSKon",
+                                        "suggested_tokens": [
+                                            "QZi5_K-t",
+                                            "QZjJV42s",
+                                            "QZKFTU9N",
+                                            "QZkZrf6n",
+                                            "QZlFPU2f",
+                                            "QZNBTfao",
+                                            "QZolSvFO",
+                                            "QZrhvBU8",
+                                            "QZsJZE6d",
+                                            "QZsNl6Vn"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T01:49:09.128868"
+                                        },
+                                        "web_info": {
+                                            "title": "۲۷۲ متر تک واحدی",
+                                            "district_persian": "فرمانیه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZlFPU2f",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZRVSKon",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T01:49:09.128868"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۳۳۵ متر، فرمانیه",
+                                "second_description": "۵۶,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZNBTfao",
+                                        "current_token": "QZRVSKon",
+                                        "suggested_tokens": [
+                                            "QZi5_K-t",
+                                            "QZjJV42s",
+                                            "QZKFTU9N",
+                                            "QZkZrf6n",
+                                            "QZlFPU2f",
+                                            "QZNBTfao",
+                                            "QZolSvFO",
+                                            "QZrhvBU8",
+                                            "QZsJZE6d",
+                                            "QZsNl6Vn"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T01:49:09.128868"
+                                        },
+                                        "web_info": {
+                                            "title": "335 متر 4 خواب فرمانیه شرقی متقیان",
+                                            "district_persian": "فرمانیه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZNBTfao",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZRVSKon",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T01:49:09.128868"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/FCiDldB8HtM4HQhJEP12jg/4ed3c7e5-602f-45c8-9427-4146b6c4aab8.jpg",
+                                "title": "۲۵۰ متر، فرمانیه",
+                                "second_description": "۸۳,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZolSvFO",
+                                        "current_token": "QZRVSKon",
+                                        "suggested_tokens": [
+                                            "QZi5_K-t",
+                                            "QZjJV42s",
+                                            "QZKFTU9N",
+                                            "QZkZrf6n",
+                                            "QZlFPU2f",
+                                            "QZNBTfao",
+                                            "QZolSvFO",
+                                            "QZrhvBU8",
+                                            "QZsJZE6d",
+                                            "QZsNl6Vn"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T01:49:09.128868"
+                                        },
+                                        "web_info": {
+                                            "title": "فروش آپارتمان فرمانیه ۲۵۰متر برج باغ",
+                                            "district_persian": "فرمانیه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZolSvFO",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZRVSKon",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T01:49:09.128868"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۱۳۰ متر، فرمانیه",
+                                "second_description": "۲۰,۹۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZrhvBU8",
+                                        "current_token": "QZRVSKon",
+                                        "suggested_tokens": [
+                                            "QZi5_K-t",
+                                            "QZjJV42s",
+                                            "QZKFTU9N",
+                                            "QZkZrf6n",
+                                            "QZlFPU2f",
+                                            "QZNBTfao",
+                                            "QZolSvFO",
+                                            "QZrhvBU8",
+                                            "QZsJZE6d",
+                                            "QZsNl6Vn"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T01:49:09.128868"
+                                        },
+                                        "web_info": {
+                                            "title": "فروش آپارتمان ۱۳۰ متری",
+                                            "district_persian": "فرمانیه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZrhvBU8",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZRVSKon",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T01:49:09.128868"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/vaALcKoAuocpPS1CUJbkaA/1628f6b5-2525-4c96-9d9c-dece1d5f642a.jpg",
+                                "title": "۲۵۰ متر، فرمانیه",
+                                "second_description": "۷۷,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZsJZE6d",
+                                        "current_token": "QZRVSKon",
+                                        "suggested_tokens": [
+                                            "QZi5_K-t",
+                                            "QZjJV42s",
+                                            "QZKFTU9N",
+                                            "QZkZrf6n",
+                                            "QZlFPU2f",
+                                            "QZNBTfao",
+                                            "QZolSvFO",
+                                            "QZrhvBU8",
+                                            "QZsJZE6d",
+                                            "QZsNl6Vn"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T01:49:09.128868"
+                                        },
+                                        "web_info": {
+                                            "title": "250 متر فرمانیه سنبل",
+                                            "district_persian": "فرمانیه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZsJZE6d",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZRVSKon",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T01:49:09.128868"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/bVofa-NB-kupGuDD6LROMg/68b52bbd-d6e8-4b09-a03b-736c3f2de634.jpg",
+                                "title": "۲۵۰ متر، فرمانیه",
+                                "second_description": "۸۲,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZsNl6Vn",
+                                        "current_token": "QZRVSKon",
+                                        "suggested_tokens": [
+                                            "QZi5_K-t",
+                                            "QZjJV42s",
+                                            "QZKFTU9N",
+                                            "QZkZrf6n",
+                                            "QZlFPU2f",
+                                            "QZNBTfao",
+                                            "QZolSvFO",
+                                            "QZrhvBU8",
+                                            "QZsJZE6d",
+                                            "QZsNl6Vn"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T01:49:09.128868"
+                                        },
+                                        "web_info": {
+                                            "title": "فروش واحد ۲۵۰ متری",
+                                            "district_persian": "فرمانیه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION",
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZsNl6Vn",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZRVSKon",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T01:49:09.128868"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZi5_K-t",
+                                    "QZjJV42s",
+                                    "QZKFTU9N",
+                                    "QZkZrf6n",
+                                    "QZlFPU2f",
+                                    "QZNBTfao",
+                                    "QZolSvFO",
+                                    "QZrhvBU8",
+                                    "QZsJZE6d",
+                                    "QZsNl6Vn"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_SAME_NEIGHBOR",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZRVSKon",
+                                    "metadata": {
+                                        "last_modified": "2023-12-10T01:49:09.128868"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                },
+                {
+                    "widget_type": "SUGGESTION_ROW",
+                    "data": {
+                        "@type": "type.googleapis.com/widgets.SuggestionRowData",
+                        "title": "آگهی‌‌های مشابه در دیگر محله‌ها",
+                        "items": [
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/Cu5qNpgfvFB3Omhhc0orBw/e0ba4cf2-1f96-4e72-96ac-12c46a70ac7d.jpg",
+                                "title": "۲۲۵ متر، نیاوران",
+                                "second_description": "۴۱,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0hCA5d",
+                                        "current_token": "QZRVSKon",
+                                        "suggested_tokens": [
+                                            "QZ0hCA5d",
+                                            "QZ0J3_nX",
+                                            "QZ0pLCWG",
+                                            "QZ0V9DtS",
+                                            "QZeZwLkS",
+                                            "QZIVJZx5",
+                                            "QZkRkWrt",
+                                            "QZm1P_2O",
+                                            "QZm9bx9z",
+                                            "QZoBmfNd"
+                                        ],
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T01:48:26.631382"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "فروش آپارتمان 225 متری نیاوران",
+                                            "district_persian": "نیاوران",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "selected_index": 0,
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0hCA5d",
+                                            "index": 0,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZRVSKon",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T01:48:26.631382"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/WBrL9Ujk2QcDWaSJV-jCXw/23632786-bf9c-47e8-a674-cf6bdaa584da.jpg",
+                                "title": "۱۷۸ متر، نیاوران",
+                                "second_description": "۳۳,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0J3_nX",
+                                        "current_token": "QZRVSKon",
+                                        "suggested_tokens": [
+                                            "QZ0hCA5d",
+                                            "QZ0J3_nX",
+                                            "QZ0pLCWG",
+                                            "QZ0V9DtS",
+                                            "QZeZwLkS",
+                                            "QZIVJZx5",
+                                            "QZkRkWrt",
+                                            "QZm1P_2O",
+                                            "QZm9bx9z",
+                                            "QZoBmfNd"
+                                        ],
+                                        "selected_index": 1,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T01:48:26.631382"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "نیاوران بوکان 178 متری 5 واحد تکواحدی در 9 طبقه",
+                                            "district_persian": "نیاوران",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0J3_nX",
+                                            "index": 1,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZRVSKon",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T01:48:26.631382"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/A2wfwpmbJ9-gdZq1Jnos3A/65f7b585-0c40-4a42-96af-810a679f0930.jpg",
+                                "title": "۲۰۰ متر، آجودانیه",
+                                "second_description": "۶۰,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0pLCWG",
+                                        "current_token": "QZRVSKon",
+                                        "suggested_tokens": [
+                                            "QZ0hCA5d",
+                                            "QZ0J3_nX",
+                                            "QZ0pLCWG",
+                                            "QZ0V9DtS",
+                                            "QZeZwLkS",
+                                            "QZIVJZx5",
+                                            "QZkRkWrt",
+                                            "QZm1P_2O",
+                                            "QZm9bx9z",
+                                            "QZoBmfNd"
+                                        ],
+                                        "selected_index": 2,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T01:48:26.631382"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۲۰۰ متر اپارتمان نیمه کاره در  طبقه  ۹ اجودانیه",
+                                            "district_persian": "آجودانیه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0pLCWG",
+                                            "index": 2,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZRVSKon",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T01:48:26.631382"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/_PlncdCOx3PpV-WZXu2cqA/4dff54b5-b6b2-489b-aa57-e902facb1986.jpg",
+                                "title": "۱۸۶ متر، نیاوران",
+                                "second_description": "۵۶,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZ0V9DtS",
+                                        "current_token": "QZRVSKon",
+                                        "suggested_tokens": [
+                                            "QZ0hCA5d",
+                                            "QZ0J3_nX",
+                                            "QZ0pLCWG",
+                                            "QZ0V9DtS",
+                                            "QZeZwLkS",
+                                            "QZIVJZx5",
+                                            "QZkRkWrt",
+                                            "QZm1P_2O",
+                                            "QZm9bx9z",
+                                            "QZoBmfNd"
+                                        ],
+                                        "selected_index": 3,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T01:48:26.631382"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۱۸۶متری ۳خوابه ۲طبقه هر طبقه ۲واحد",
+                                            "district_persian": "نیاوران",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZ0V9DtS",
+                                            "index": 3,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZRVSKon",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T01:48:26.631382"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/dYlV4N1idDN4VukydmFWiA/d9f01798-985f-4f4c-bd1a-4aa3b785e85b.jpg",
+                                "title": "۳۶۰ متر، کامرانیه",
+                                "second_description": "۸۲,۸۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZeZwLkS",
+                                        "current_token": "QZRVSKon",
+                                        "suggested_tokens": [
+                                            "QZ0hCA5d",
+                                            "QZ0J3_nX",
+                                            "QZ0pLCWG",
+                                            "QZ0V9DtS",
+                                            "QZeZwLkS",
+                                            "QZIVJZx5",
+                                            "QZkRkWrt",
+                                            "QZm1P_2O",
+                                            "QZm9bx9z",
+                                            "QZoBmfNd"
+                                        ],
+                                        "selected_index": 4,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T01:48:26.631382"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "برج باغ برندمنطقه۱/ ۳۶۰متر/فول مشاعات/طبقات بالا",
+                                            "district_persian": "کامرانیه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZeZwLkS",
+                                            "index": 4,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZRVSKon",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T01:48:26.631382"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/CfsG_PjVshmxVYPmZ2d3GQ/ab4ad306-b9aa-432e-9567-bc4039a835fc.jpg",
+                                "title": "۲۰۰ متر، آجودانیه",
+                                "second_description": "۳۵,۸۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZIVJZx5",
+                                        "current_token": "QZRVSKon",
+                                        "suggested_tokens": [
+                                            "QZ0hCA5d",
+                                            "QZ0J3_nX",
+                                            "QZ0pLCWG",
+                                            "QZ0V9DtS",
+                                            "QZeZwLkS",
+                                            "QZIVJZx5",
+                                            "QZkRkWrt",
+                                            "QZm1P_2O",
+                                            "QZm9bx9z",
+                                            "QZoBmfNd"
+                                        ],
+                                        "selected_index": 5,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T01:48:26.631382"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "اجودانیه ۲۰۰ متر سه خواب فول مشاعات دو پارکینگ",
+                                            "district_persian": "آجودانیه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZIVJZx5",
+                                            "index": 5,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZRVSKon",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T01:48:26.631382"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/SlzZKLcm8hPW-rnckVPWfA/687fd9ab-43f7-423a-a820-3299b259efa7.jpg",
+                                "title": "۱۴۰ متر، اختیاریه",
+                                "second_description": "۲۷,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZkRkWrt",
+                                        "current_token": "QZRVSKon",
+                                        "suggested_tokens": [
+                                            "QZ0hCA5d",
+                                            "QZ0J3_nX",
+                                            "QZ0pLCWG",
+                                            "QZ0V9DtS",
+                                            "QZeZwLkS",
+                                            "QZIVJZx5",
+                                            "QZkRkWrt",
+                                            "QZm1P_2O",
+                                            "QZm9bx9z",
+                                            "QZoBmfNd"
+                                        ],
+                                        "selected_index": 6,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T01:48:26.631382"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۱۴۰متر ۳خواب منظریه دیباجی جنوبی جهانتاب",
+                                            "district_persian": "اختیاریه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZkRkWrt",
+                                            "index": 6,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZRVSKon",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T01:48:26.631382"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "title": "۱۶۱ متر، نیاوران",
+                                "second_description": "۳۵,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZm1P_2O",
+                                        "current_token": "QZRVSKon",
+                                        "suggested_tokens": [
+                                            "QZ0hCA5d",
+                                            "QZ0J3_nX",
+                                            "QZ0pLCWG",
+                                            "QZ0V9DtS",
+                                            "QZeZwLkS",
+                                            "QZIVJZx5",
+                                            "QZkRkWrt",
+                                            "QZm1P_2O",
+                                            "QZm9bx9z",
+                                            "QZoBmfNd"
+                                        ],
+                                        "selected_index": 7,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T01:48:26.631382"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان 161 متر - نیاوران (محدوده احمد زمانی)",
+                                            "district_persian": "نیاوران",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZm1P_2O",
+                                            "index": 7,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZRVSKon",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T01:48:26.631382"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "image_url": "",
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/VRN-zJqnIqZsjk6MzBSvgQ/a0eee443-4016-4bec-8180-8993766e26b9.jpg",
+                                "title": "۱۴۰ متر، آجودانیه",
+                                "second_description": "۲۵,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZm9bx9z",
+                                        "current_token": "QZRVSKon",
+                                        "suggested_tokens": [
+                                            "QZ0hCA5d",
+                                            "QZ0J3_nX",
+                                            "QZ0pLCWG",
+                                            "QZ0V9DtS",
+                                            "QZeZwLkS",
+                                            "QZIVJZx5",
+                                            "QZkRkWrt",
+                                            "QZm1P_2O",
+                                            "QZm9bx9z",
+                                            "QZoBmfNd"
+                                        ],
+                                        "selected_index": 8,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T01:48:26.631382"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "آپارتمان ۱۴۰ متر در آجودانیه",
+                                            "district_persian": "آجودانیه",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZm9bx9z",
+                                            "index": 8,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZRVSKon",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T01:48:26.631382"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            },
+                            {
+                                "image_url": "https://s100.divarcdn.com/static/photo/thumbnail/FeRA-ltzjYXT9nHEetX8dg/d85beae4-1151-4b35-a706-21e039680856.jpg",
+                                "title": "۲۱۶ متر، نیاوران",
+                                "second_description": "۳۴,۵۶۰,۰۰۰,۰۰۰ تومان",
+                                "action": {
+                                    "type": "OPEN_POST_SUGGESTION_POST",
+                                    "payload": {
+                                        "@type": "type.googleapis.com/widgets.PostSuggestionPayload",
+                                        "token": "QZoBmfNd",
+                                        "current_token": "QZRVSKon",
+                                        "suggested_tokens": [
+                                            "QZ0hCA5d",
+                                            "QZ0J3_nX",
+                                            "QZ0pLCWG",
+                                            "QZ0V9DtS",
+                                            "QZeZwLkS",
+                                            "QZIVJZx5",
+                                            "QZkRkWrt",
+                                            "QZm1P_2O",
+                                            "QZm9bx9z",
+                                            "QZoBmfNd"
+                                        ],
+                                        "selected_index": 9,
+                                        "metadata": {
+                                            "last_modified": "2023-12-10T01:48:26.631382"
+                                        },
+                                        "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS",
+                                        "web_info": {
+                                            "title": "۲۱۶ متر تاپ لوکیشن(نیاوران،نخجوان)",
+                                            "district_persian": "نیاوران",
+                                            "city_persian": "تهران",
+                                            "category_slug_persian": "آپارتمان"
+                                        },
+                                        "ad_instance_id": ""
+                                    },
+                                    "fallback_link": "",
+                                    "page_pop_link": false
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com/action_log.PostItemInfo",
+                                            "post_token": "QZoBmfNd",
+                                            "index": 9,
+                                            "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                            "list_type": "ROW",
+                                            "source_page": "POST_DETAILS_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                                "suggestion_source_post_token": "QZRVSKon",
+                                                "metadata": {
+                                                    "last_modified": "2023-12-10T01:48:26.631382"
+                                                }
+                                            }
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "first_description": ""
+                            }
+                        ],
+                        "has_divider": true,
+                        "action_text": "",
+                        "has_background_color": false,
+                        "subtitle": ""
+                    },
+                    "action_log": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com/action_log.PostListInfo",
+                                "tokens": [
+                                    "QZ0hCA5d",
+                                    "QZ0J3_nX",
+                                    "QZ0pLCWG",
+                                    "QZ0V9DtS",
+                                    "QZeZwLkS",
+                                    "QZIVJZx5",
+                                    "QZkRkWrt",
+                                    "QZm1P_2O",
+                                    "QZm9bx9z",
+                                    "QZoBmfNd"
+                                ],
+                                "post_type": "POST_SUGGESTION_REAL_ESTATE_OTHER_NEIGHBORS",
+                                "list_type": "ROW",
+                                "source_page": "POST_DETAILS_PAGE",
+                                "extra_data": {
+                                    "@type": "type.googleapis.com/action_log.PostItemInfo.PostSuggestionExtraData",
+                                    "suggestion_source_post_token": "QZRVSKon",
+                                    "metadata": {
+                                        "last_modified": "2023-12-10T01:48:26.631382"
+                                    }
+                                }
+                            },
+                            "item_type": {
+                                "type": "POST_LIST"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "visibility_condition": []
+                }
+            ],
+            "post_suggestion_extra_logs": [
+                {
+                    "suggested_tokens": [
+                        "QZi5_K-t",
+                        "QZjJV42s",
+                        "QZKFTU9N",
+                        "QZkZrf6n",
+                        "QZlFPU2f",
+                        "QZNBTfao",
+                        "QZolSvFO",
+                        "QZrhvBU8",
+                        "QZsJZE6d",
+                        "QZsNl6Vn"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-10T01:49:09.128868"
+                        },
+                        {
+                            "last_modified": "2023-12-10T01:49:09.128868"
+                        },
+                        {
+                            "last_modified": "2023-12-10T01:49:09.128868"
+                        },
+                        {
+                            "last_modified": "2023-12-10T01:49:09.128868"
+                        },
+                        {
+                            "last_modified": "2023-12-10T01:49:09.128868"
+                        },
+                        {
+                            "last_modified": "2023-12-10T01:49:09.128868"
+                        },
+                        {
+                            "last_modified": "2023-12-10T01:49:09.128868"
+                        },
+                        {
+                            "last_modified": "2023-12-10T01:49:09.128868"
+                        },
+                        {
+                            "last_modified": "2023-12-10T01:49:09.128868"
+                        },
+                        {
+                            "last_modified": "2023-12-10T01:49:09.128868"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION"
+                },
+                {
+                    "suggested_tokens": [
+                        "QZ0hCA5d",
+                        "QZ0J3_nX",
+                        "QZ0pLCWG",
+                        "QZ0V9DtS",
+                        "QZeZwLkS",
+                        "QZIVJZx5",
+                        "QZkRkWrt",
+                        "QZm1P_2O",
+                        "QZm9bx9z",
+                        "QZoBmfNd"
+                    ],
+                    "metadata": [
+                        {
+                            "last_modified": "2023-12-10T01:48:26.631382"
+                        },
+                        {
+                            "last_modified": "2023-12-10T01:48:26.631382"
+                        },
+                        {
+                            "last_modified": "2023-12-10T01:48:26.631382"
+                        },
+                        {
+                            "last_modified": "2023-12-10T01:48:26.631382"
+                        },
+                        {
+                            "last_modified": "2023-12-10T01:48:26.631382"
+                        },
+                        {
+                            "last_modified": "2023-12-10T01:48:26.631382"
+                        },
+                        {
+                            "last_modified": "2023-12-10T01:48:26.631382"
+                        },
+                        {
+                            "last_modified": "2023-12-10T01:48:26.631382"
+                        },
+                        {
+                            "last_modified": "2023-12-10T01:48:26.631382"
+                        },
+                        {
+                            "last_modified": "2023-12-10T01:48:26.631382"
+                        }
+                    ],
+                    "source_view": "POST_VIEW_SUGGESTION_NEIGHBOURS"
+                }
+            ]
+        },
+        "note": {
+            "enable": true
+        }
+    },
+    "token": "QZRVSKon",
+    "error": 0
+}
