@@ -30,8 +30,7 @@ def extract_data(file_path):
     
     data = {
         "Date": info.get("widgets").get('header').get('date'),
-        "RENT": info.get("data").get("webengage").get("rent"),
-        "CREDIT": info.get("data").get("webengage").get("credit"),
+        "PRICE": info.get("data").get("webengage").get("price"),
         "CITY": info.get("data").get("webengage").get("city"),
         "Meterage": info.get("widgets").get('list_data')[0].get("items")[0].get('value'),
         "Construction": info.get("widgets").get('list_data')[0].get("items")[1].get('value'),
@@ -52,8 +51,7 @@ def create_new_dict(data):
     new_dict = {
         "CITY": data["CITY"],
         "Date": data["Date"],
-        "RENT": data["RENT"],
-        "CREDIT": data["CREDIT"],
+        "PRICE": data["PRICE"],
         "Meterage": int(data["Meterage"]),
         "Construction": int(data["Construction"]),
         "Parking": data["Parking"],
