@@ -30,19 +30,32 @@ def extract_data(file_path):
     
     # Extract the desired data from the JSON structure
     try:
-        elevator_available = is_available(info.get("widgets").get('list_data'),"elevator")
+        elevator_data = info.get("widgets").get('list_data')
+        if elevator_data is None:
+            elevator_available = False
+        else:
+            elevator_available = is_available(elevator_data, "elevator")
     except (AttributeError, IndexError, KeyError):
-        elevator_available = None
-    
+        elevator_available = False
+
     try:
-        parking_available = is_available(info.get("widgets").get('list_data'),"parking")
+        parking_data = info.get("widgets").get('list_data')
+        if parking_data is None:
+            parking_available = False
+        else:
+            parking_available = is_available(parking_data, "parking")
     except (AttributeError, IndexError, KeyError):
-        parking_available = None
-    
+        parking_available = False
+
     try:
-        warehouse_available = is_available(info.get("widgets").get('list_data'),"warehouse")
+        warehouse_data = info.get("widgets").get('list_data')
+        if warehouse_data is None:
+            warehouse_available = False
+        else:
+            warehouse_available = is_available(warehouse_data, "warehouse")
     except (AttributeError, IndexError, KeyError):
-        warehouse_available = None
+        warehouse_available = False
+
 
     data = {
         "Date": info.get("widgets").get('header').get('date'),
@@ -53,9 +66,9 @@ def extract_data(file_path):
         "ROOMS": info.get("widgets").get('list_data')[0].get("items")[2].get('value'),
         #"floor": info.get("widgets").get('list_data')[6].get("value"),
         "floor": info.get("widgets").get('list_data')[0].get("items")[2].get("value"),
-        "Elevator": elevator_available,
-        "Parking": parking_available,
-        "Warehouse": warehouse_available,
+        "Elevator": elevator_available if elevator_available == True else False,
+        "Parking": parking_available if parking_available == True else False,
+        "Warehouse": warehouse_available if warehouse_available == True else False,
         "district" : info.get("data").get("district"),
         "latitude": info.get("widgets").get("location").get("latitude"),
         "longitude": info.get("widgets").get("location").get("longitude")
